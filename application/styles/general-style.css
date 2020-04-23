@@ -1,0 +1,234 @@
+/*font reference*/
+
+/* Bernina Sans Regular
+	font-family: jaf-bernina-sans, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+Bernina Sans Italic
+	font-family: jaf-bernina-sans, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+Bernina Sans Bold
+	font-family: jaf-bernina-sans, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+Bernina Sans Light
+	font-family: jaf-bernina-sans, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+Bernina Sans Semibold
+	font-family: jaf-bernina-sans, sans-serif;
+	font-weight: 600;
+	font-style: normal;*/
+
+
+h1 {
+	font-family: jaf-bernina-sans, sans-serif;
+	font-weight: 600;
+	font-style: normal;
+}
+
+h3 {
+	font-family: jaf-bernina-sans, sans-serif;
+	font-weight: 600;
+	font-style: normal;
+	font-size: 24px;
+}
+
+p {
+	font-family: jaf-bernina-sans, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+select {
+	width: 100%;
+}
+
+#appContainer {
+	height: 100%;
+}
+
+#topRow {
+	height: 15%;
+}
+
+#bottomRow {
+	height: 85%;
+}
+
+#mapWrapper {
+	height: 100%;
+}
+
+#chartWrapper {
+	height: 100%;
+}
+
+.center-title {
+	text-align: center;
+}
+
+.center-subtitle {
+	text-align: center;
+	font-style: italic;
+}
+
+.clicked {
+	color:green;
+}
+
+span {
+	font-family: jaf-bernina-sans, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 0.75rem;
+}
+
+.map-key {
+	display: block;
+}
+
+.key-bubbles {
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-pack: center;
+	justify-content: center;
+	-ms-flex-align: center;
+	align-items: center;
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+}
+
+.key-bubble-label {
+	display: inline;
+}
+
+.key-value {
+	font-family: jaf-bernina-sans, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 14px;
+
+}
+
+.min-key-value {
+	padding-right: 10px;
+}
+
+.max-key-value {
+	padding-left: 10px;
+}
+
+.key-bubbles-wrap {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.key-bubble {
+	border: 1px solid #252525;
+	background-color: rgba(37, 37, 37, 0.25);
+	border-radius: 500px;
+	margin: 0 3px;
+}
+
+.key-bars {
+	display: block;
+	max-width: 450px;
+	width: 100%;
+	margin: auto;
+}
+
+.key-subhead {
+	font-size: 14px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-weight: 300;
+	text-align: center;
+}
+
+.g-bars {
+	display: flex;
+}
+
+.g-bar {
+	flex: 1;
+	height: 15px;
+}
+
+.g-bar-tick {
+	border-right: 1px solid #252525;
+}
+
+.g-bar-none {
+	border-right: 10px solid white;
+}
+
+.g-level {
+	width: 100%;
+	height: 60%;
+}
+
+.g-level-0 {
+	background-color: #f2f0f7;
+}
+
+.g-level-1 {
+	background-color: #cbc9e2;
+}
+
+.g-level-2 {
+	background-color: #9e9ac8;
+}
+
+.g-level-3 {
+	background-color: #756bb1;
+}
+
+.g-level-4 {
+	background-color: #54278f;
+}
+
+.g-level-labels {
+	display: flex;
+}
+
+.g-level-label {
+	padding-top: 3px;
+	-ms-flex: 1;
+	flex: 1;
+	text-align: left;
+	font-family: jaf-bernina-sans, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 14px;
+	position: relative;
+	left: -4px;
+}
+
+.g-level-label-first {
+	text-align: center;
+}
+
+#map {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	width: 100%;
+	height: 100%;
+}
+
+#componentScoresRow {
+	text-align: center;
+	height: 20%;
+}
+
+#chartsRow {
+	height: 80%;
+}
+
+.chart-title {
+	text-align: center;
+}
