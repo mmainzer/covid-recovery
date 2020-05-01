@@ -21,6 +21,13 @@ Bernina Sans Semibold
 	font-weight: 600;
 	font-style: normal;*/
 
+#browserAlert {
+  z-index: 9999;
+  width: 100vw;
+  background-color: #fff!important;
+  position: relative!important;
+  display: none;
+}
 
 h1 {
 	font-family: jaf-bernina-sans, sans-serif;
@@ -50,11 +57,11 @@ select {
 }
 
 #topRow {
-	height: 15%;
+	height: 20%;
 }
 
 #bottomRow {
-	height: 85%;
+	height: 80%;
 }
 
 #mapWrapper {
@@ -74,8 +81,16 @@ select {
 	font-style: italic;
 }
 
-.clicked {
-	color:green;
+.select-title {
+	text-align: center;
+}
+
+#geoContainer {
+	margin: auto;
+}
+
+#geo {
+	font-size: 3rem;
 }
 
 span {
@@ -237,4 +252,29 @@ span {
 	font-family: jaf-bernina-sans, sans-serif;
 	font-weight: 300;
 	font-size: 14px;
+}
+
+.kpi {
+	font-size: 32px;
+}
+.kpi-sub {
+	font-family: jaf-bernina-sans, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	font-size: 14px;
+}
+
+
+@media only screen and (max-height:830px) {
+	h5 {
+		font-size: 1rem;
+	}
+
+	#geo {
+		font-size: 2.5rem;
+	}
+
+	#componentScoresRow {
+		padding-top: 1rem;
+	}
 }
