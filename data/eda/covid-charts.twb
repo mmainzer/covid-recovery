@@ -1,0 +1,439 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20201.20.0326.1623                               -->
+<workbook original-version='18.1' source-build='2020.1.2 (20201.20.0326.1623)' source-platform='mac' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <_.fcp.MarkAnimation.true...MarkAnimation />
+    <SheetIdentifierTracking />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <datasources>
+    <datasource caption='covid' inline='true' name='federated.1qpl8v008lql9j1d4126i0geqhzs' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='covid' name='textscan.09fyyhd1wodi4q17yljvl0xdeohb'>
+            <connection class='textscan' directory='/Users/mmainza/Desktop/projects/covid-recovery/application/app-data' filename='covid.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <relation connection='textscan.09fyyhd1wodi4q17yljvl0xdeohb' name='covid.csv' table='[covid#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='date' name='date' ordinal='0' />
+            <column datatype='string' name='dateTwo' ordinal='1' />
+            <column datatype='string' name='area_name' ordinal='2' />
+            <column datatype='integer' name='area_code' ordinal='3' />
+            <column datatype='real' name='daily_cases' ordinal='4' />
+            <column datatype='real' name='avg_cases_7' ordinal='5' />
+            <column datatype='real' name='daily_deaths' ordinal='6' />
+            <column datatype='real' name='avg_deaths_7' ordinal='7' />
+          </columns>
+        </relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[covid.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>date</remote-name>
+            <remote-type>133</remote-type>
+            <local-name>[date]</local-name>
+            <parent-name>[covid.csv]</parent-name>
+            <remote-alias>date</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>date</local-type>
+            <aggregation>Year</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>dateTwo</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[dateTwo]</local-name>
+            <parent-name>[covid.csv]</parent-name>
+            <remote-alias>dateTwo</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>area_name</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[area_name]</local-name>
+            <parent-name>[covid.csv]</parent-name>
+            <remote-alias>area_name</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>area_code</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[area_code]</local-name>
+            <parent-name>[covid.csv]</parent-name>
+            <remote-alias>area_code</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>daily_cases</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[daily_cases]</local-name>
+            <parent-name>[covid.csv]</parent-name>
+            <remote-alias>daily_cases</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>avg_cases_7</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[avg_cases_7]</local-name>
+            <parent-name>[covid.csv]</parent-name>
+            <remote-alias>avg_cases_7</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>daily_deaths</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[daily_deaths]</local-name>
+            <parent-name>[covid.csv]</parent-name>
+            <remote-alias>daily_deaths</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>avg_deaths_7</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[avg_deaths_7]</local-name>
+            <parent-name>[covid.csv]</parent-name>
+            <remote-alias>avg_deaths_7</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column datatype='integer' name='[Number of Records]' role='measure' type='quantitative' user:auto-column='numrec'>
+        <calculation class='tableau' formula='1' />
+      </column>
+      <column caption='Area Code' datatype='integer' name='[area_code]' role='dimension' type='ordinal' />
+      <column caption='Area Name' datatype='string' name='[area_name]' role='dimension' type='nominal' />
+      <column caption='Avg Cases 7' datatype='real' name='[avg_cases_7]' role='measure' type='quantitative' />
+      <column caption='Avg Deaths 7' datatype='real' name='[avg_deaths_7]' role='measure' type='quantitative' />
+      <column caption='Daily Cases' datatype='real' name='[daily_cases]' role='measure' type='quantitative' />
+      <column caption='Daily Deaths' datatype='real' name='[daily_deaths]' role='measure' type='quantitative' />
+      <column caption='Date Two' datatype='string' name='[dateTwo]' role='dimension' type='nominal' />
+      <column caption='Date' datatype='date' name='[date]' role='dimension' type='ordinal' />
+      <column-instance column='[avg_cases_7]' derivation='Sum' name='[sum:avg_cases_7:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[daily_cases]' derivation='Sum' name='[sum:daily_cases:qk]' pivot='key' type='quantitative' />
+      <layout dim-ordering='alphabetic' dim-percentage='0.473881' measure-ordering='alphabetic' measure-percentage='0.447761' parameter-percentage='0.0783582' show-structure='true' />
+      <style>
+        <style-rule element='mark'>
+          <encoding attr='color' field='[:Measure Names]' type='palette'>
+            <map to='#4e79a7'>
+              <bucket>&quot;[federated.1qpl8v008lql9j1d4126i0geqhzs].[sum:avg_cases_7:qk]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;[federated.1qpl8v008lql9j1d4126i0geqhzs].[sum:daily_cases:qk]&quot;</bucket>
+            </map>
+          </encoding>
+        </style-rule>
+      </style>
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
+      </semantic-values>
+    </datasource>
+    <datasource hasconnection='false' inline='true' name='Parameters' version='18.1'>
+      <aliases enabled='yes' />
+      <column caption='Natl Emergency' datatype='datetime' name='[GA StayAtHome (copy)]' param-domain-type='any' role='measure' type='quantitative' value='#2020-03-13 00:00:00#'>
+        <calculation class='tableau' formula='#2020-03-13 00:00:00#' />
+      </column>
+      <column caption='Kemp Lifts StayAtHome' datatype='datetime' name='[Natl Emergency (copy)]' param-domain-type='any' role='measure' type='quantitative' value='#2020-05-01 00:00:00#'>
+        <calculation class='tableau' formula='#2020-05-01 00:00:00#' />
+      </column>
+      <column caption='GA StayAtHome' datatype='datetime' name='[Parameter 1]' param-domain-type='any' role='measure' type='quantitative' value='#2020-04-03 00:00:00#'>
+        <calculation class='tableau' formula='#2020-04-03 00:00:00#' />
+      </column>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='ga-cases-avg'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='covid' name='federated.1qpl8v008lql9j1d4126i0geqhzs' />
+            <datasource name='Parameters' />
+          </datasources>
+          <datasource-dependencies datasource='Parameters'>
+            <column caption='Natl Emergency' datatype='datetime' name='[GA StayAtHome (copy)]' param-domain-type='any' role='measure' type='quantitative' value='#2020-03-13 00:00:00#'>
+              <calculation class='tableau' formula='#2020-03-13 00:00:00#' />
+            </column>
+            <column caption='Kemp Lifts StayAtHome' datatype='datetime' name='[Natl Emergency (copy)]' param-domain-type='any' role='measure' type='quantitative' value='#2020-05-01 00:00:00#'>
+              <calculation class='tableau' formula='#2020-05-01 00:00:00#' />
+            </column>
+            <column caption='GA StayAtHome' datatype='datetime' name='[Parameter 1]' param-domain-type='any' role='measure' type='quantitative' value='#2020-04-03 00:00:00#'>
+              <calculation class='tableau' formula='#2020-04-03 00:00:00#' />
+            </column>
+          </datasource-dependencies>
+          <datasource-dependencies datasource='federated.1qpl8v008lql9j1d4126i0geqhzs'>
+            <column caption='Area Name' datatype='string' name='[area_name]' role='dimension' type='nominal' />
+            <column caption='Avg Cases 7' datatype='real' name='[avg_cases_7]' role='measure' type='quantitative' />
+            <column caption='Daily Cases' datatype='real' name='[daily_cases]' role='measure' type='quantitative' />
+            <column caption='Date' datatype='date' name='[date]' role='dimension' type='ordinal' />
+            <column-instance column='[area_name]' derivation='None' name='[none:area_name:nk]' pivot='key' type='nominal' />
+            <column-instance column='[date]' derivation='None' name='[none:date:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[avg_cases_7]' derivation='Sum' name='[sum:avg_cases_7:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[daily_cases]' derivation='Sum' name='[sum:daily_cases:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.1qpl8v008lql9j1d4126i0geqhzs].[none:area_name:nk]'>
+            <groupfilter function='member' level='[none:area_name:nk]' member='&quot;Georgia&quot;' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <slices>
+            <column>[federated.1qpl8v008lql9j1d4126i0geqhzs].[none:area_name:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='title' class='0' field='[federated.1qpl8v008lql9j1d4126i0geqhzs].[none:date:qk]' scope='cols' value='' />
+            <encoding attr='space' class='0' field='[federated.1qpl8v008lql9j1d4126i0geqhzs].[sum:avg_cases_7:qk]' field-type='quantitative' fold='true' scope='rows' synchronized='true' type='space' />
+            <format attr='title' class='0' field='[federated.1qpl8v008lql9j1d4126i0geqhzs].[sum:daily_cases:qk]' scope='rows' value='' />
+            <encoding attr='space' class='0' field='[federated.1qpl8v008lql9j1d4126i0geqhzs].[sum:daily_cases:qk]' field-type='quantitative' major-origin='0.0' major-spacing='250.0' max='1700.0' min='0.0' range-type='fixed' scope='rows' type='space' />
+            <format attr='display' class='0' field='[federated.1qpl8v008lql9j1d4126i0geqhzs].[sum:avg_cases_7:qk]' scope='rows' value='false' />
+            <format attr='tick-color' value='#00000000' />
+            <format attr='display' class='0' field='[federated.1qpl8v008lql9j1d4126i0geqhzs].[none:date:qk]' scope='cols' value='true' />
+            <format attr='display' class='0' field='[federated.1qpl8v008lql9j1d4126i0geqhzs].[sum:daily_cases:qk]' scope='rows' value='true' />
+          </style-rule>
+          <style-rule element='header'>
+            <format attr='border-width' data-class='total' value='0' />
+            <format attr='border-style' data-class='total' value='none' />
+          </style-rule>
+          <style-rule element='label'>
+            <format attr='font-family' field='[federated.1qpl8v008lql9j1d4126i0geqhzs].[sum:daily_cases:qk]' value='Bernina Sans' />
+            <format attr='font-size' field='[federated.1qpl8v008lql9j1d4126i0geqhzs].[sum:daily_cases:qk]' value='10' />
+            <format attr='text-format' field='[federated.1qpl8v008lql9j1d4126i0geqhzs].[sum:daily_cases:qk]' value='N' />
+            <format attr='font-family' field='[federated.1qpl8v008lql9j1d4126i0geqhzs].[none:date:qk]' value='Bernina Sans' />
+          </style-rule>
+          <style-rule element='pane'>
+            <format attr='border-width' data-class='total' value='0' />
+            <format attr='border-style' data-class='total' value='none' />
+          </style-rule>
+          <style-rule element='table'>
+            <format attr='show-null-value-warning' value='false' />
+          </style-rule>
+          <style-rule element='dropline'>
+            <format attr='stroke-size' value='0' />
+            <format attr='line-visibility' value='off' />
+          </style-rule>
+          <style-rule element='refline'>
+            <format attr='fill-above' id='refline0' value='#00000000' />
+            <format attr='fill-below' id='refline0' value='#00000000' />
+            <format attr='fill-above' id='refline1' value='#00000000' />
+            <format attr='fill-below' id='refline1' value='#00000000' />
+            <format attr='fill-above' id='refline2' value='#00000000' />
+            <format attr='fill-below' id='refline2' value='#00000000' />
+          </style-rule>
+          <style-rule element='zeroline'>
+            <format attr='stroke-size' value='0' />
+            <format attr='line-visibility' value='off' />
+          </style-rule>
+          <style-rule element='table-div'>
+            <format attr='line-pattern-only' scope='rows' value='solid' />
+            <format attr='stroke-size' scope='cols' value='0' />
+            <format attr='line-visibility' scope='cols' value='off' />
+            <format attr='stroke-size' scope='rows' value='0' />
+            <format attr='line-visibility' scope='rows' value='off' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Bar' />
+            <reference-line axis-column='[federated.1qpl8v008lql9j1d4126i0geqhzs].[none:date:qk]' enable-instant-analytics='true' formula='min' id='refline0' label-type='automatic' scope='per-pane' value-column='[Parameters].[Parameter 1]' z-order='1' />
+            <reference-line axis-column='[federated.1qpl8v008lql9j1d4126i0geqhzs].[none:date:qk]' enable-instant-analytics='true' formula='min' id='refline1' label-type='automatic' scope='per-pane' value-column='[Parameters].[GA StayAtHome (copy)]' z-order='2' />
+            <reference-line axis-column='[federated.1qpl8v008lql9j1d4126i0geqhzs].[none:date:qk]' enable-instant-analytics='true' formula='min' id='refline2' label-type='automatic' scope='per-pane' value-column='[Parameters].[Natl Emergency (copy)]' z-order='3' />
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-color' value='#cbc9e2' />
+                <format attr='has-stroke' value='true' />
+                <format attr='stroke-color' value='#9e9ac8' />
+              </style-rule>
+            </style>
+          </pane>
+          <pane id='1' selection-relaxation-option='selection-relaxation-allow' y-axis-name='[federated.1qpl8v008lql9j1d4126i0geqhzs].[sum:daily_cases:qk]'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Bar' />
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-color' value='#cbc9e2' />
+                <format attr='has-stroke' value='true' />
+                <format attr='stroke-color' value='#9e9ac8' />
+              </style-rule>
+            </style>
+          </pane>
+          <pane id='2' selection-relaxation-option='selection-relaxation-allow' y-axis-name='[federated.1qpl8v008lql9j1d4126i0geqhzs].[sum:avg_cases_7:qk]'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Line' />
+            <mark-sizing mark-sizing-setting='marks-scaling-off' />
+            <style>
+              <style-rule element='mark'>
+                <format attr='size' value='1.5712155103683472' />
+                <format attr='mark-color' value='#54278f' />
+                <format attr='has-stroke' value='true' />
+                <format attr='stroke-color' value='#9e9ac8' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>([federated.1qpl8v008lql9j1d4126i0geqhzs].[sum:daily_cases:qk] + [federated.1qpl8v008lql9j1d4126i0geqhzs].[sum:avg_cases_7:qk])</rows>
+        <cols>[federated.1qpl8v008lql9j1d4126i0geqhzs].[none:date:qk]</cols>
+      </table>
+      <simple-id uuid='{4AF68DCF-9877-4E1F-A709-135005DFF45A}' />
+    </worksheet>
+  </worksheets>
+  <windows source-height='30'>
+    <window class='worksheet' maximized='true' name='ga-cases-avg'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card mode='datetime' param='[Parameters].[Parameter 1]' type='parameter' />
+            <card mode='datetime' param='[Parameters].[GA StayAtHome (copy)]' type='parameter' />
+            <card mode='datetime' param='[Parameters].[Natl Emergency (copy)]' type='parameter' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.1qpl8v008lql9j1d4126i0geqhzs].[none:area_name:nk]</field>
+            <field>[federated.1qpl8v008lql9j1d4126i0geqhzs].[yr:date:ok]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{3D79FF53-835B-48B7-9C2E-64270A3E3C19}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='192' name='ga-cases-avg' width='192'>
+      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
+    </thumbnail>
+  </thumbnails>
+</workbook>

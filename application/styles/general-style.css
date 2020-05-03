@@ -52,6 +52,15 @@ select {
 	width: 100%;
 }
 
+.start {
+	padding-top: 8rem;
+}
+
+
+
+
+/*styles for bottom application*/
+
 #appContainer {
 	height: 100%;
 }
