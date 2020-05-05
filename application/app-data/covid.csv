@@ -61,6 +61,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Georgia,13,1131.0,600.1428571428571,35.0,35.57142857142857
 05-01-2020,May 01,Georgia,13,1005.0,646.5714285714286,32.0,35.714285714285715
 05-02-2020,May 02,Georgia,13,832.0,694.4285714285714,8.0,37.714285714285715
+05-03-2020,May 03,Georgia,13,350.0,720.4285714285714,7.0,37.714285714285715
+05-04-2020,May 04,Georgia,13,732.0,737.0,60.0,37.285714285714285
 03-02-2020,Mar 02,Appling County,13001,0.0,,0.0,
 03-03-2020,Mar 03,Appling County,13001,0.0,,0.0,
 03-04-2020,Mar 04,Appling County,13001,0.0,,0.0,
@@ -123,6 +125,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Appling County,13001,0.0,2.5714285714285716,0.0,0.5714285714285714
 05-01-2020,May 01,Appling County,13001,0.0,2.2857142857142856,0.0,0.42857142857142855
 05-02-2020,May 02,Appling County,13001,0.0,1.7142857142857142,0.0,0.2857142857142857
+05-03-2020,May 03,Appling County,13001,0.0,1.5714285714285714,0.0,0.2857142857142857
+05-04-2020,May 04,Appling County,13001,0.0,1.2857142857142858,0.0,0.2857142857142857
 03-02-2020,Mar 02,Atkinson County,13003,0.0,,0.0,
 03-03-2020,Mar 03,Atkinson County,13003,0.0,,0.0,
 03-04-2020,Mar 04,Atkinson County,13003,0.0,,0.0,
@@ -185,6 +189,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Atkinson County,13003,0.0,0.2857142857142857,0.0,0.14285714285714285
 05-01-2020,May 01,Atkinson County,13003,0.0,0.0,0.0,0.14285714285714285
 05-02-2020,May 02,Atkinson County,13003,0.0,0.0,0.0,0.14285714285714285
+05-03-2020,May 03,Atkinson County,13003,0.0,0.0,0.0,0.14285714285714285
+05-04-2020,May 04,Atkinson County,13003,0.0,0.0,0.0,0.14285714285714285
 03-02-2020,Mar 02,Bacon County,13005,0.0,,0.0,
 03-03-2020,Mar 03,Bacon County,13005,0.0,,0.0,
 03-04-2020,Mar 04,Bacon County,13005,0.0,,0.0,
@@ -247,6 +253,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Bacon County,13005,0.0,0.2857142857142857,0.0,0.0
 05-01-2020,May 01,Bacon County,13005,0.0,0.2857142857142857,0.0,0.0
 05-02-2020,May 02,Bacon County,13005,0.0,0.2857142857142857,0.0,0.0
+05-03-2020,May 03,Bacon County,13005,0.0,0.14285714285714285,0.0,0.0
+05-04-2020,May 04,Bacon County,13005,0.0,0.14285714285714285,0.0,0.0
 03-02-2020,Mar 02,Baker County,13007,0.0,,0.0,
 03-03-2020,Mar 03,Baker County,13007,0.0,,0.0,
 03-04-2020,Mar 04,Baker County,13007,0.0,,0.0,
@@ -309,6 +317,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Baker County,13007,0.0,0.5714285714285714,0.0,0.0
 05-01-2020,May 01,Baker County,13007,0.0,0.42857142857142855,0.0,0.0
 05-02-2020,May 02,Baker County,13007,0.0,0.42857142857142855,0.0,0.0
+05-03-2020,May 03,Baker County,13007,0.0,0.42857142857142855,0.0,0.0
+05-04-2020,May 04,Baker County,13007,0.0,0.42857142857142855,0.0,0.0
 03-02-2020,Mar 02,Baldwin County,13009,0.0,,0.0,
 03-03-2020,Mar 03,Baldwin County,13009,0.0,,0.0,
 03-04-2020,Mar 04,Baldwin County,13009,0.0,,0.0,
@@ -371,6 +381,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Baldwin County,13009,0.0,7.857142857142857,0.0,0.5714285714285714
 05-01-2020,May 01,Baldwin County,13009,0.0,7.0,0.0,0.5714285714285714
 05-02-2020,May 02,Baldwin County,13009,0.0,5.857142857142857,0.0,0.42857142857142855
+05-03-2020,May 03,Baldwin County,13009,0.0,4.285714285714286,0.0,0.2857142857142857
+05-04-2020,May 04,Baldwin County,13009,0.0,4.142857142857143,0.0,0.2857142857142857
 03-02-2020,Mar 02,Banks County,13011,0.0,,0.0,
 03-03-2020,Mar 03,Banks County,13011,0.0,,0.0,
 03-04-2020,Mar 04,Banks County,13011,0.0,,0.0,
@@ -433,6 +445,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Banks County,13011,0.0,0.5714285714285714,0.0,0.0
 05-01-2020,May 01,Banks County,13011,0.0,0.42857142857142855,0.0,0.0
 05-02-2020,May 02,Banks County,13011,0.0,0.42857142857142855,0.0,0.0
+05-03-2020,May 03,Banks County,13011,0.0,0.42857142857142855,0.0,0.0
+05-04-2020,May 04,Banks County,13011,0.0,0.42857142857142855,0.0,0.0
 03-02-2020,Mar 02,Barrow County,13013,0.0,,0.0,
 03-03-2020,Mar 03,Barrow County,13013,0.0,,0.0,
 03-04-2020,Mar 04,Barrow County,13013,0.0,,0.0,
@@ -495,6 +509,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Barrow County,13013,0.0,4.0,0.0,0.14285714285714285
 05-01-2020,May 01,Barrow County,13013,0.0,3.5714285714285716,0.0,0.14285714285714285
 05-02-2020,May 02,Barrow County,13013,0.0,3.2857142857142856,0.0,0.14285714285714285
+05-03-2020,May 03,Barrow County,13013,0.0,3.2857142857142856,0.0,0.14285714285714285
+05-04-2020,May 04,Barrow County,13013,0.0,3.2857142857142856,0.0,0.14285714285714285
 03-02-2020,Mar 02,Bartow County,13015,0.0,,0.0,
 03-03-2020,Mar 03,Bartow County,13015,0.0,,0.0,
 03-04-2020,Mar 04,Bartow County,13015,0.0,,0.0,
@@ -557,6 +573,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Bartow County,13015,0.0,7.142857142857143,0.0,0.42857142857142855
 05-01-2020,May 01,Bartow County,13015,0.0,6.428571428571429,0.0,0.42857142857142855
 05-02-2020,May 02,Bartow County,13015,0.0,5.142857142857143,0.0,0.2857142857142857
+05-03-2020,May 03,Bartow County,13015,0.0,3.7142857142857144,0.0,0.2857142857142857
+05-04-2020,May 04,Bartow County,13015,0.0,3.2857142857142856,0.0,0.2857142857142857
 03-02-2020,Mar 02,Ben Hill County,13017,0.0,,0.0,
 03-03-2020,Mar 03,Ben Hill County,13017,0.0,,0.0,
 03-04-2020,Mar 04,Ben Hill County,13017,0.0,,0.0,
@@ -619,6 +637,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Ben Hill County,13017,0.0,0.7142857142857143,0.0,0.0
 05-01-2020,May 01,Ben Hill County,13017,0.0,0.5714285714285714,0.0,0.0
 05-02-2020,May 02,Ben Hill County,13017,0.0,0.5714285714285714,0.0,0.0
+05-03-2020,May 03,Ben Hill County,13017,0.0,0.2857142857142857,0.0,0.0
+05-04-2020,May 04,Ben Hill County,13017,0.0,0.2857142857142857,0.0,0.0
 03-02-2020,Mar 02,Berrien County,13019,0.0,,0.0,
 03-03-2020,Mar 03,Berrien County,13019,0.0,,0.0,
 03-04-2020,Mar 04,Berrien County,13019,0.0,,0.0,
@@ -681,6 +701,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Berrien County,13019,0.0,1.1428571428571428,0.0,0.0
 05-01-2020,May 01,Berrien County,13019,0.0,0.8571428571428571,0.0,0.0
 05-02-2020,May 02,Berrien County,13019,0.0,0.5714285714285714,0.0,0.0
+05-03-2020,May 03,Berrien County,13019,0.0,0.42857142857142855,0.0,0.0
+05-04-2020,May 04,Berrien County,13019,0.0,0.42857142857142855,0.0,0.0
 03-02-2020,Mar 02,Bibb County,13021,0.0,,0.0,
 03-03-2020,Mar 03,Bibb County,13021,0.0,,0.0,
 03-04-2020,Mar 04,Bibb County,13021,0.0,,0.0,
@@ -743,6 +765,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Bibb County,13021,0.0,11.142857142857142,0.0,0.8571428571428571
 05-01-2020,May 01,Bibb County,13021,0.0,9.714285714285714,0.0,0.7142857142857143
 05-02-2020,May 02,Bibb County,13021,0.0,8.285714285714286,0.0,0.7142857142857143
+05-03-2020,May 03,Bibb County,13021,0.0,7.857142857142857,0.0,0.5714285714285714
+05-04-2020,May 04,Bibb County,13021,0.0,7.714285714285714,0.0,0.5714285714285714
 03-02-2020,Mar 02,Bleckley County,13023,0.0,,0.0,
 03-03-2020,Mar 03,Bleckley County,13023,0.0,,0.0,
 03-04-2020,Mar 04,Bleckley County,13023,0.0,,0.0,
@@ -805,6 +829,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Bleckley County,13023,0.0,1.0,0.0,0.0
 05-01-2020,May 01,Bleckley County,13023,0.0,0.7142857142857143,0.0,0.0
 05-02-2020,May 02,Bleckley County,13023,0.0,0.42857142857142855,0.0,0.0
+05-03-2020,May 03,Bleckley County,13023,0.0,0.42857142857142855,0.0,0.0
+05-04-2020,May 04,Bleckley County,13023,0.0,0.42857142857142855,0.0,0.0
 03-02-2020,Mar 02,Brantley County,13025,0.0,,0.0,
 03-03-2020,Mar 03,Brantley County,13025,0.0,,0.0,
 03-04-2020,Mar 04,Brantley County,13025,0.0,,0.0,
@@ -867,6 +893,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Brantley County,13025,0.0,0.2857142857142857,0.0,0.0
 05-01-2020,May 01,Brantley County,13025,0.0,0.2857142857142857,0.0,0.0
 05-02-2020,May 02,Brantley County,13025,0.0,0.2857142857142857,0.0,0.0
+05-03-2020,May 03,Brantley County,13025,0.0,0.14285714285714285,0.0,0.0
+05-04-2020,May 04,Brantley County,13025,0.0,0.14285714285714285,0.0,0.0
 03-02-2020,Mar 02,Brooks County,13027,0.0,,0.0,
 03-03-2020,Mar 03,Brooks County,13027,0.0,,0.0,
 03-04-2020,Mar 04,Brooks County,13027,0.0,,0.0,
@@ -929,6 +957,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Brooks County,13027,0.0,2.7142857142857144,0.0,0.0
 05-01-2020,May 01,Brooks County,13027,0.0,2.5714285714285716,0.0,0.0
 05-02-2020,May 02,Brooks County,13027,0.0,2.2857142857142856,0.0,0.0
+05-03-2020,May 03,Brooks County,13027,0.0,2.2857142857142856,0.0,0.0
+05-04-2020,May 04,Brooks County,13027,0.0,2.2857142857142856,0.0,0.0
 03-02-2020,Mar 02,Bryan County,13029,0.0,,0.0,
 03-03-2020,Mar 03,Bryan County,13029,0.0,,0.0,
 03-04-2020,Mar 04,Bryan County,13029,0.0,,0.0,
@@ -991,6 +1021,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Bryan County,13029,0.0,2.0,0.0,0.0
 05-01-2020,May 01,Bryan County,13029,0.0,1.1428571428571428,0.0,0.0
 05-02-2020,May 02,Bryan County,13029,0.0,0.5714285714285714,0.0,0.0
+05-03-2020,May 03,Bryan County,13029,0.0,0.5714285714285714,0.0,0.0
+05-04-2020,May 04,Bryan County,13029,0.0,0.5714285714285714,0.0,0.0
 03-02-2020,Mar 02,Bulloch County,13031,0.0,,0.0,
 03-03-2020,Mar 03,Bulloch County,13031,0.0,,0.0,
 03-04-2020,Mar 04,Bulloch County,13031,0.0,,0.0,
@@ -1053,6 +1085,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Bulloch County,13031,0.0,0.42857142857142855,0.0,0.0
 05-01-2020,May 01,Bulloch County,13031,0.0,0.42857142857142855,0.0,0.0
 05-02-2020,May 02,Bulloch County,13031,0.0,0.2857142857142857,0.0,0.0
+05-03-2020,May 03,Bulloch County,13031,0.0,0.2857142857142857,0.0,0.0
+05-04-2020,May 04,Bulloch County,13031,0.0,0.2857142857142857,0.0,0.0
 03-02-2020,Mar 02,Burke County,13033,0.0,,0.0,
 03-03-2020,Mar 03,Burke County,13033,0.0,,0.0,
 03-04-2020,Mar 04,Burke County,13033,0.0,,0.0,
@@ -1115,6 +1149,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Burke County,13033,0.0,4.428571428571429,0.0,0.0
 05-01-2020,May 01,Burke County,13033,0.0,3.4285714285714284,0.0,0.0
 05-02-2020,May 02,Burke County,13033,0.0,1.8571428571428572,0.0,0.0
+05-03-2020,May 03,Burke County,13033,0.0,1.8571428571428572,0.0,0.0
+05-04-2020,May 04,Burke County,13033,0.0,1.4285714285714286,0.0,0.0
 03-02-2020,Mar 02,Butts County,13035,0.0,,0.0,
 03-03-2020,Mar 03,Butts County,13035,0.0,,0.0,
 03-04-2020,Mar 04,Butts County,13035,0.0,,0.0,
@@ -1177,6 +1213,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Butts County,13035,0.0,1.2857142857142858,0.0,0.42857142857142855
 05-01-2020,May 01,Butts County,13035,0.0,1.2857142857142858,0.0,0.2857142857142857
 05-02-2020,May 02,Butts County,13035,0.0,1.2857142857142858,0.0,0.2857142857142857
+05-03-2020,May 03,Butts County,13035,0.0,1.2857142857142858,0.0,0.2857142857142857
+05-04-2020,May 04,Butts County,13035,0.0,1.1428571428571428,0.0,0.14285714285714285
 03-02-2020,Mar 02,Calhoun County,13037,0.0,,0.0,
 03-03-2020,Mar 03,Calhoun County,13037,0.0,,0.0,
 03-04-2020,Mar 04,Calhoun County,13037,0.0,,0.0,
@@ -1239,6 +1277,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Calhoun County,13037,0.0,2.142857142857143,0.0,0.14285714285714285
 05-01-2020,May 01,Calhoun County,13037,0.0,1.2857142857142858,0.0,0.14285714285714285
 05-02-2020,May 02,Calhoun County,13037,0.0,1.0,0.0,0.14285714285714285
+05-03-2020,May 03,Calhoun County,13037,0.0,0.8571428571428571,0.0,0.14285714285714285
+05-04-2020,May 04,Calhoun County,13037,0.0,0.8571428571428571,0.0,0.14285714285714285
 03-02-2020,Mar 02,Camden County,13039,0.0,,0.0,
 03-03-2020,Mar 03,Camden County,13039,0.0,,0.0,
 03-04-2020,Mar 04,Camden County,13039,0.0,,0.0,
@@ -1301,6 +1341,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Camden County,13039,0.0,0.7142857142857143,0.0,0.14285714285714285
 05-01-2020,May 01,Camden County,13039,0.0,0.5714285714285714,0.0,0.0
 05-02-2020,May 02,Camden County,13039,0.0,0.5714285714285714,0.0,0.0
+05-03-2020,May 03,Camden County,13039,0.0,0.5714285714285714,0.0,0.0
+05-04-2020,May 04,Camden County,13039,0.0,0.5714285714285714,0.0,0.0
 03-02-2020,Mar 02,Candler County,13043,0.0,,0.0,
 03-03-2020,Mar 03,Candler County,13043,0.0,,0.0,
 03-04-2020,Mar 04,Candler County,13043,0.0,,0.0,
@@ -1363,6 +1405,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Candler County,13043,0.0,0.0,0.0,0.0
 05-01-2020,May 01,Candler County,13043,0.0,0.0,0.0,0.0
 05-02-2020,May 02,Candler County,13043,0.0,0.0,0.0,0.0
+05-03-2020,May 03,Candler County,13043,0.0,0.0,0.0,0.0
+05-04-2020,May 04,Candler County,13043,0.0,0.0,0.0,0.0
 03-02-2020,Mar 02,Carroll County,13045,0.0,,0.0,
 03-03-2020,Mar 03,Carroll County,13045,0.0,,0.0,
 03-04-2020,Mar 04,Carroll County,13045,0.0,,0.0,
@@ -1425,6 +1469,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Carroll County,13045,0.0,6.285714285714286,0.0,0.42857142857142855
 05-01-2020,May 01,Carroll County,13045,0.0,4.857142857142857,0.0,0.42857142857142855
 05-02-2020,May 02,Carroll County,13045,0.0,4.0,0.0,0.42857142857142855
+05-03-2020,May 03,Carroll County,13045,0.0,3.2857142857142856,0.0,0.42857142857142855
+05-04-2020,May 04,Carroll County,13045,0.0,3.142857142857143,0.0,0.42857142857142855
 03-02-2020,Mar 02,Catoosa County,13047,0.0,,0.0,
 03-03-2020,Mar 03,Catoosa County,13047,0.0,,0.0,
 03-04-2020,Mar 04,Catoosa County,13047,0.0,,0.0,
@@ -1487,6 +1533,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Catoosa County,13047,0.0,0.14285714285714285,0.0,0.0
 05-01-2020,May 01,Catoosa County,13047,0.0,0.14285714285714285,0.0,0.0
 05-02-2020,May 02,Catoosa County,13047,0.0,0.0,0.0,0.0
+05-03-2020,May 03,Catoosa County,13047,0.0,0.0,0.0,0.0
+05-04-2020,May 04,Catoosa County,13047,0.0,0.0,0.0,0.0
 03-02-2020,Mar 02,Charlton County,13049,0.0,,0.0,
 03-03-2020,Mar 03,Charlton County,13049,0.0,,0.0,
 03-04-2020,Mar 04,Charlton County,13049,0.0,,0.0,
@@ -1549,6 +1597,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Charlton County,13049,0.0,0.14285714285714285,0.0,0.0
 05-01-2020,May 01,Charlton County,13049,0.0,0.14285714285714285,0.0,0.0
 05-02-2020,May 02,Charlton County,13049,0.0,0.14285714285714285,0.0,0.0
+05-03-2020,May 03,Charlton County,13049,0.0,0.14285714285714285,0.0,0.0
+05-04-2020,May 04,Charlton County,13049,0.0,0.14285714285714285,0.0,0.0
 03-02-2020,Mar 02,Chatham County,13051,0.0,,0.0,
 03-03-2020,Mar 03,Chatham County,13051,0.0,,0.0,
 03-04-2020,Mar 04,Chatham County,13051,0.0,,0.0,
@@ -1611,6 +1661,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Chatham County,13051,0.0,4.0,0.0,0.42857142857142855
 05-01-2020,May 01,Chatham County,13051,0.0,3.142857142857143,0.0,0.42857142857142855
 05-02-2020,May 02,Chatham County,13051,0.0,2.2857142857142856,0.0,0.42857142857142855
+05-03-2020,May 03,Chatham County,13051,0.0,2.142857142857143,0.0,0.42857142857142855
+05-04-2020,May 04,Chatham County,13051,0.0,2.142857142857143,0.0,0.42857142857142855
 03-02-2020,Mar 02,Chattahoochee County,13053,0.0,,0.0,
 03-03-2020,Mar 03,Chattahoochee County,13053,0.0,,0.0,
 03-04-2020,Mar 04,Chattahoochee County,13053,0.0,,0.0,
@@ -1673,6 +1725,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Chattahoochee County,13053,0.0,0.42857142857142855,0.0,0.0
 05-01-2020,May 01,Chattahoochee County,13053,0.0,0.42857142857142855,0.0,0.0
 05-02-2020,May 02,Chattahoochee County,13053,0.0,0.42857142857142855,0.0,0.0
+05-03-2020,May 03,Chattahoochee County,13053,0.0,0.42857142857142855,0.0,0.0
+05-04-2020,May 04,Chattahoochee County,13053,0.0,0.42857142857142855,0.0,0.0
 03-02-2020,Mar 02,Chattooga County,13055,0.0,,0.0,
 03-03-2020,Mar 03,Chattooga County,13055,0.0,,0.0,
 03-04-2020,Mar 04,Chattooga County,13055,0.0,,0.0,
@@ -1735,6 +1789,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Chattooga County,13055,0.0,0.7142857142857143,0.0,0.14285714285714285
 05-01-2020,May 01,Chattooga County,13055,0.0,0.7142857142857143,0.0,0.14285714285714285
 05-02-2020,May 02,Chattooga County,13055,0.0,0.42857142857142855,0.0,0.14285714285714285
+05-03-2020,May 03,Chattooga County,13055,0.0,0.42857142857142855,0.0,0.14285714285714285
+05-04-2020,May 04,Chattooga County,13055,0.0,0.42857142857142855,0.0,0.14285714285714285
 03-02-2020,Mar 02,Cherokee County,13057,0.0,,0.0,
 03-03-2020,Mar 03,Cherokee County,13057,0.0,,0.0,
 03-04-2020,Mar 04,Cherokee County,13057,0.0,,0.0,
@@ -1797,6 +1853,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Cherokee County,13057,0.0,16.714285714285715,0.0,0.14285714285714285
 05-01-2020,May 01,Cherokee County,13057,0.0,13.142857142857142,0.0,0.14285714285714285
 05-02-2020,May 02,Cherokee County,13057,0.0,12.857142857142858,0.0,0.14285714285714285
+05-03-2020,May 03,Cherokee County,13057,0.0,12.714285714285714,0.0,0.14285714285714285
+05-04-2020,May 04,Cherokee County,13057,0.0,11.857142857142858,0.0,0.14285714285714285
 03-02-2020,Mar 02,Clarke County,13059,0.0,,0.0,
 03-03-2020,Mar 03,Clarke County,13059,0.0,,0.0,
 03-04-2020,Mar 04,Clarke County,13059,0.0,,0.0,
@@ -1859,6 +1917,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Clarke County,13059,0.0,3.7142857142857144,0.0,0.0
 05-01-2020,May 01,Clarke County,13059,0.0,3.142857142857143,0.0,0.0
 05-02-2020,May 02,Clarke County,13059,0.0,3.0,0.0,0.0
+05-03-2020,May 03,Clarke County,13059,0.0,3.0,0.0,0.0
+05-04-2020,May 04,Clarke County,13059,0.0,3.0,0.0,0.0
 03-02-2020,Mar 02,Clay County,13061,0.0,,0.0,
 03-03-2020,Mar 03,Clay County,13061,0.0,,0.0,
 03-04-2020,Mar 04,Clay County,13061,0.0,,0.0,
@@ -1921,6 +1981,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Clay County,13061,0.0,0.14285714285714285,0.0,0.0
 05-01-2020,May 01,Clay County,13061,0.0,0.14285714285714285,0.0,0.0
 05-02-2020,May 02,Clay County,13061,0.0,0.14285714285714285,0.0,0.0
+05-03-2020,May 03,Clay County,13061,0.0,0.14285714285714285,0.0,0.0
+05-04-2020,May 04,Clay County,13061,0.0,0.14285714285714285,0.0,0.0
 03-02-2020,Mar 02,Clayton County,13063,0.0,,0.0,
 03-03-2020,Mar 03,Clayton County,13063,0.0,,0.0,
 03-04-2020,Mar 04,Clayton County,13063,0.0,,0.0,
@@ -1983,6 +2045,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Clayton County,13063,0.0,20.571428571428573,0.0,0.8571428571428571
 05-01-2020,May 01,Clayton County,13063,0.0,11.0,0.0,0.8571428571428571
 05-02-2020,May 02,Clayton County,13063,0.0,9.142857142857142,0.0,0.8571428571428571
+05-03-2020,May 03,Clayton County,13063,0.0,7.428571428571429,0.0,0.8571428571428571
+05-04-2020,May 04,Clayton County,13063,0.0,7.428571428571429,0.0,0.8571428571428571
 03-02-2020,Mar 02,Clinch County,13065,0.0,,0.0,
 03-03-2020,Mar 03,Clinch County,13065,0.0,,0.0,
 03-04-2020,Mar 04,Clinch County,13065,0.0,,0.0,
@@ -2045,6 +2109,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Clinch County,13065,0.0,0.14285714285714285,0.0,0.0
 05-01-2020,May 01,Clinch County,13065,0.0,0.14285714285714285,0.0,0.0
 05-02-2020,May 02,Clinch County,13065,0.0,0.14285714285714285,0.0,0.0
+05-03-2020,May 03,Clinch County,13065,0.0,0.14285714285714285,0.0,0.0
+05-04-2020,May 04,Clinch County,13065,0.0,0.14285714285714285,0.0,0.0
 03-02-2020,Mar 02,Cobb County,13067,0.0,,0.0,
 03-03-2020,Mar 03,Cobb County,13067,0.0,,0.0,
 03-04-2020,Mar 04,Cobb County,13067,0.0,,0.0,
@@ -2107,6 +2173,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Cobb County,13067,0.0,44.142857142857146,0.0,3.5714285714285716
 05-01-2020,May 01,Cobb County,13067,0.0,36.42857142857143,0.0,3.142857142857143
 05-02-2020,May 02,Cobb County,13067,0.0,30.428571428571427,0.0,2.2857142857142856
+05-03-2020,May 03,Cobb County,13067,0.0,26.571428571428573,0.0,2.0
+05-04-2020,May 04,Cobb County,13067,0.0,21.857142857142858,0.0,1.8571428571428572
 03-02-2020,Mar 02,Coffee County,13069,0.0,,0.0,
 03-03-2020,Mar 03,Coffee County,13069,0.0,,0.0,
 03-04-2020,Mar 04,Coffee County,13069,0.0,,0.0,
@@ -2169,6 +2237,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Coffee County,13069,0.0,6.142857142857143,0.0,0.2857142857142857
 05-01-2020,May 01,Coffee County,13069,0.0,5.142857142857143,0.0,0.2857142857142857
 05-02-2020,May 02,Coffee County,13069,0.0,3.857142857142857,0.0,0.2857142857142857
+05-03-2020,May 03,Coffee County,13069,0.0,3.4285714285714284,0.0,0.2857142857142857
+05-04-2020,May 04,Coffee County,13069,0.0,2.857142857142857,0.0,0.2857142857142857
 03-02-2020,Mar 02,Colquitt County,13071,0.0,,0.0,
 03-03-2020,Mar 03,Colquitt County,13071,0.0,,0.0,
 03-04-2020,Mar 04,Colquitt County,13071,0.0,,0.0,
@@ -2231,6 +2301,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Colquitt County,13071,0.0,3.2857142857142856,0.0,0.0
 05-01-2020,May 01,Colquitt County,13071,0.0,2.5714285714285716,0.0,0.0
 05-02-2020,May 02,Colquitt County,13071,0.0,2.2857142857142856,0.0,0.0
+05-03-2020,May 03,Colquitt County,13071,0.0,2.2857142857142856,0.0,0.0
+05-04-2020,May 04,Colquitt County,13071,0.0,2.2857142857142856,0.0,0.0
 03-02-2020,Mar 02,Columbia County,13073,0.0,,0.0,
 03-03-2020,Mar 03,Columbia County,13073,0.0,,0.0,
 03-04-2020,Mar 04,Columbia County,13073,0.0,,0.0,
@@ -2293,6 +2365,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Columbia County,13073,0.0,4.571428571428571,0.0,0.2857142857142857
 05-01-2020,May 01,Columbia County,13073,0.0,3.857142857142857,0.0,0.2857142857142857
 05-02-2020,May 02,Columbia County,13073,0.0,2.7142857142857144,0.0,0.2857142857142857
+05-03-2020,May 03,Columbia County,13073,0.0,2.5714285714285716,0.0,0.2857142857142857
+05-04-2020,May 04,Columbia County,13073,0.0,1.8571428571428572,0.0,0.2857142857142857
 03-02-2020,Mar 02,Cook County,13075,0.0,,0.0,
 03-03-2020,Mar 03,Cook County,13075,0.0,,0.0,
 03-04-2020,Mar 04,Cook County,13075,0.0,,0.0,
@@ -2355,6 +2429,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Cook County,13075,0.0,1.0,0.0,0.0
 05-01-2020,May 01,Cook County,13075,0.0,1.0,0.0,0.0
 05-02-2020,May 02,Cook County,13075,0.0,1.0,0.0,0.0
+05-03-2020,May 03,Cook County,13075,0.0,0.8571428571428571,0.0,0.0
+05-04-2020,May 04,Cook County,13075,0.0,0.7142857142857143,0.0,0.0
 03-02-2020,Mar 02,Coweta County,13077,0.0,,0.0,
 03-03-2020,Mar 03,Coweta County,13077,0.0,,0.0,
 03-04-2020,Mar 04,Coweta County,13077,0.0,,0.0,
@@ -2417,6 +2493,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Coweta County,13077,0.0,3.857142857142857,0.0,0.0
 05-01-2020,May 01,Coweta County,13077,0.0,2.5714285714285716,0.0,0.0
 05-02-2020,May 02,Coweta County,13077,0.0,1.1428571428571428,0.0,0.0
+05-03-2020,May 03,Coweta County,13077,0.0,1.1428571428571428,0.0,0.0
+05-04-2020,May 04,Coweta County,13077,0.0,1.0,0.0,0.0
 03-02-2020,Mar 02,Crawford County,13079,0.0,,0.0,
 03-03-2020,Mar 03,Crawford County,13079,0.0,,0.0,
 03-04-2020,Mar 04,Crawford County,13079,0.0,,0.0,
@@ -2479,6 +2557,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Crawford County,13079,0.0,0.14285714285714285,0.0,0.0
 05-01-2020,May 01,Crawford County,13079,0.0,0.14285714285714285,0.0,0.0
 05-02-2020,May 02,Crawford County,13079,0.0,0.14285714285714285,0.0,0.0
+05-03-2020,May 03,Crawford County,13079,0.0,0.14285714285714285,0.0,0.0
+05-04-2020,May 04,Crawford County,13079,0.0,0.14285714285714285,0.0,0.0
 03-02-2020,Mar 02,Crisp County,13081,0.0,,0.0,
 03-03-2020,Mar 03,Crisp County,13081,0.0,,0.0,
 03-04-2020,Mar 04,Crisp County,13081,0.0,,0.0,
@@ -2541,6 +2621,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Crisp County,13081,0.0,4.714285714285714,0.0,0.14285714285714285
 05-01-2020,May 01,Crisp County,13081,0.0,3.142857142857143,0.0,0.14285714285714285
 05-02-2020,May 02,Crisp County,13081,0.0,2.0,0.0,0.14285714285714285
+05-03-2020,May 03,Crisp County,13081,0.0,1.7142857142857142,0.0,0.14285714285714285
+05-04-2020,May 04,Crisp County,13081,0.0,1.4285714285714286,0.0,0.14285714285714285
 03-02-2020,Mar 02,Dade County,13083,0.0,,0.0,
 03-03-2020,Mar 03,Dade County,13083,0.0,,0.0,
 03-04-2020,Mar 04,Dade County,13083,0.0,,0.0,
@@ -2603,6 +2685,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Dade County,13083,0.0,0.0,0.0,0.0
 05-01-2020,May 01,Dade County,13083,0.0,0.0,0.0,0.0
 05-02-2020,May 02,Dade County,13083,0.0,0.0,0.0,0.0
+05-03-2020,May 03,Dade County,13083,0.0,0.0,0.0,0.0
+05-04-2020,May 04,Dade County,13083,0.0,0.0,0.0,0.0
 03-02-2020,Mar 02,Dawson County,13085,0.0,,0.0,
 03-03-2020,Mar 03,Dawson County,13085,0.0,,0.0,
 03-04-2020,Mar 04,Dawson County,13085,0.0,,0.0,
@@ -2665,6 +2749,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Dawson County,13085,0.0,1.5714285714285714,0.0,0.0
 05-01-2020,May 01,Dawson County,13085,0.0,1.4285714285714286,0.0,0.0
 05-02-2020,May 02,Dawson County,13085,0.0,1.2857142857142858,0.0,0.0
+05-03-2020,May 03,Dawson County,13085,0.0,1.2857142857142858,0.0,0.0
+05-04-2020,May 04,Dawson County,13085,0.0,1.2857142857142858,0.0,0.0
 03-02-2020,Mar 02,Decatur County,13087,0.0,,0.0,
 03-03-2020,Mar 03,Decatur County,13087,0.0,,0.0,
 03-04-2020,Mar 04,Decatur County,13087,0.0,,0.0,
@@ -2727,6 +2813,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Decatur County,13087,0.0,4.428571428571429,0.0,0.0
 05-01-2020,May 01,Decatur County,13087,0.0,3.142857142857143,0.0,0.0
 05-02-2020,May 02,Decatur County,13087,0.0,3.142857142857143,0.0,0.0
+05-03-2020,May 03,Decatur County,13087,0.0,3.0,0.0,0.0
+05-04-2020,May 04,Decatur County,13087,0.0,3.0,0.0,0.0
 03-02-2020,Mar 02,DeKalb County,13089,0.0,,0.0,
 03-03-2020,Mar 03,DeKalb County,13089,0.0,,0.0,
 03-04-2020,Mar 04,DeKalb County,13089,0.0,,0.0,
@@ -2789,6 +2877,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,DeKalb County,13089,0.0,53.0,0.0,2.142857142857143
 05-01-2020,May 01,DeKalb County,13089,0.0,41.57142857142857,0.0,1.7142857142857142
 05-02-2020,May 02,DeKalb County,13089,0.0,37.0,0.0,1.4285714285714286
+05-03-2020,May 03,DeKalb County,13089,0.0,27.428571428571427,0.0,1.4285714285714286
+05-04-2020,May 04,DeKalb County,13089,0.0,25.714285714285715,0.0,1.4285714285714286
 03-02-2020,Mar 02,Dodge County,13091,0.0,,0.0,
 03-03-2020,Mar 03,Dodge County,13091,0.0,,0.0,
 03-04-2020,Mar 04,Dodge County,13091,0.0,,0.0,
@@ -2851,6 +2941,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Dodge County,13091,0.0,0.5714285714285714,0.0,0.14285714285714285
 05-01-2020,May 01,Dodge County,13091,0.0,0.42857142857142855,0.0,0.14285714285714285
 05-02-2020,May 02,Dodge County,13091,0.0,0.42857142857142855,0.0,0.14285714285714285
+05-03-2020,May 03,Dodge County,13091,0.0,0.2857142857142857,0.0,0.14285714285714285
+05-04-2020,May 04,Dodge County,13091,0.0,0.2857142857142857,0.0,0.14285714285714285
 03-02-2020,Mar 02,Dooly County,13093,0.0,,0.0,
 03-03-2020,Mar 03,Dooly County,13093,0.0,,0.0,
 03-04-2020,Mar 04,Dooly County,13093,0.0,,0.0,
@@ -2913,6 +3005,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Dooly County,13093,0.0,7.0,0.0,0.42857142857142855
 05-01-2020,May 01,Dooly County,13093,0.0,6.0,0.0,0.2857142857142857
 05-02-2020,May 02,Dooly County,13093,0.0,2.4285714285714284,0.0,0.2857142857142857
+05-03-2020,May 03,Dooly County,13093,0.0,2.142857142857143,0.0,0.2857142857142857
+05-04-2020,May 04,Dooly County,13093,0.0,1.5714285714285714,0.0,0.2857142857142857
 03-02-2020,Mar 02,Dougherty County,13095,0.0,,0.0,
 03-03-2020,Mar 03,Dougherty County,13095,0.0,,0.0,
 03-04-2020,Mar 04,Dougherty County,13095,0.0,,0.0,
@@ -2975,6 +3069,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Dougherty County,13095,0.0,5.0,0.0,1.8571428571428572
 05-01-2020,May 01,Dougherty County,13095,0.0,5.0,0.0,1.5714285714285714
 05-02-2020,May 02,Dougherty County,13095,0.0,5.0,0.0,1.5714285714285714
+05-03-2020,May 03,Dougherty County,13095,0.0,4.285714285714286,0.0,1.5714285714285714
+05-04-2020,May 04,Dougherty County,13095,0.0,4.285714285714286,0.0,1.5714285714285714
 03-02-2020,Mar 02,Douglas County,13097,0.0,,0.0,
 03-03-2020,Mar 03,Douglas County,13097,0.0,,0.0,
 03-04-2020,Mar 04,Douglas County,13097,0.0,,0.0,
@@ -3037,6 +3133,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Douglas County,13097,0.0,7.428571428571429,0.0,0.42857142857142855
 05-01-2020,May 01,Douglas County,13097,0.0,5.428571428571429,0.0,0.42857142857142855
 05-02-2020,May 02,Douglas County,13097,0.0,5.0,0.0,0.42857142857142855
+05-03-2020,May 03,Douglas County,13097,0.0,5.0,0.0,0.42857142857142855
+05-04-2020,May 04,Douglas County,13097,0.0,4.714285714285714,0.0,0.42857142857142855
 03-02-2020,Mar 02,Early County,13099,0.0,,0.0,
 03-03-2020,Mar 03,Early County,13099,0.0,,0.0,
 03-04-2020,Mar 04,Early County,13099,0.0,,0.0,
@@ -3099,6 +3197,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Early County,13099,0.0,4.285714285714286,0.0,1.2857142857142858
 05-01-2020,May 01,Early County,13099,0.0,4.142857142857143,0.0,0.8571428571428571
 05-02-2020,May 02,Early County,13099,0.0,3.7142857142857144,0.0,0.8571428571428571
+05-03-2020,May 03,Early County,13099,0.0,2.857142857142857,0.0,0.8571428571428571
+05-04-2020,May 04,Early County,13099,0.0,2.2857142857142856,0.0,0.8571428571428571
 03-02-2020,Mar 02,Echols County,13101,0.0,,0.0,
 03-03-2020,Mar 03,Echols County,13101,0.0,,0.0,
 03-04-2020,Mar 04,Echols County,13101,0.0,,0.0,
@@ -3161,6 +3261,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Echols County,13101,0.0,0.0,0.0,0.0
 05-01-2020,May 01,Echols County,13101,0.0,0.0,0.0,0.0
 05-02-2020,May 02,Echols County,13101,0.0,0.0,0.0,0.0
+05-03-2020,May 03,Echols County,13101,0.0,0.0,0.0,0.0
+05-04-2020,May 04,Echols County,13101,0.0,0.0,0.0,0.0
 03-02-2020,Mar 02,Effingham County,13103,0.0,,0.0,
 03-03-2020,Mar 03,Effingham County,13103,0.0,,0.0,
 03-04-2020,Mar 04,Effingham County,13103,0.0,,0.0,
@@ -3223,6 +3325,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Effingham County,13103,0.0,0.5714285714285714,0.0,0.0
 05-01-2020,May 01,Effingham County,13103,0.0,0.14285714285714285,0.0,0.0
 05-02-2020,May 02,Effingham County,13103,0.0,0.0,0.0,0.0
+05-03-2020,May 03,Effingham County,13103,0.0,0.0,0.0,0.0
+05-04-2020,May 04,Effingham County,13103,0.0,0.0,0.0,0.0
 03-02-2020,Mar 02,Elbert County,13105,0.0,,0.0,
 03-03-2020,Mar 03,Elbert County,13105,0.0,,0.0,
 03-04-2020,Mar 04,Elbert County,13105,0.0,,0.0,
@@ -3285,6 +3389,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Elbert County,13105,0.0,1.7142857142857142,0.0,0.0
 05-01-2020,May 01,Elbert County,13105,0.0,1.1428571428571428,0.0,0.0
 05-02-2020,May 02,Elbert County,13105,0.0,1.0,0.0,0.0
+05-03-2020,May 03,Elbert County,13105,0.0,0.8571428571428571,0.0,0.0
+05-04-2020,May 04,Elbert County,13105,0.0,0.42857142857142855,0.0,0.0
 03-02-2020,Mar 02,Emanuel County,13107,0.0,,0.0,
 03-03-2020,Mar 03,Emanuel County,13107,0.0,,0.0,
 03-04-2020,Mar 04,Emanuel County,13107,0.0,,0.0,
@@ -3347,6 +3453,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Emanuel County,13107,0.0,0.8571428571428571,0.0,0.0
 05-01-2020,May 01,Emanuel County,13107,0.0,0.5714285714285714,0.0,0.0
 05-02-2020,May 02,Emanuel County,13107,0.0,0.2857142857142857,0.0,0.0
+05-03-2020,May 03,Emanuel County,13107,0.0,0.2857142857142857,0.0,0.0
+05-04-2020,May 04,Emanuel County,13107,0.0,0.2857142857142857,0.0,0.0
 03-02-2020,Mar 02,Evans County,13109,0.0,,0.0,
 03-03-2020,Mar 03,Evans County,13109,0.0,,0.0,
 03-04-2020,Mar 04,Evans County,13109,0.0,,0.0,
@@ -3409,6 +3517,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Evans County,13109,0.0,0.0,0.0,0.0
 05-01-2020,May 01,Evans County,13109,0.0,0.0,0.0,0.0
 05-02-2020,May 02,Evans County,13109,0.0,0.0,0.0,0.0
+05-03-2020,May 03,Evans County,13109,0.0,0.0,0.0,0.0
+05-04-2020,May 04,Evans County,13109,0.0,0.0,0.0,0.0
 03-02-2020,Mar 02,Fannin County,13111,0.0,,0.0,
 03-03-2020,Mar 03,Fannin County,13111,0.0,,0.0,
 03-04-2020,Mar 04,Fannin County,13111,0.0,,0.0,
@@ -3471,6 +3581,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Fannin County,13111,0.0,1.1428571428571428,0.0,0.14285714285714285
 05-01-2020,May 01,Fannin County,13111,0.0,1.1428571428571428,0.0,0.14285714285714285
 05-02-2020,May 02,Fannin County,13111,0.0,1.0,0.0,0.14285714285714285
+05-03-2020,May 03,Fannin County,13111,0.0,1.0,0.0,0.14285714285714285
+05-04-2020,May 04,Fannin County,13111,0.0,0.7142857142857143,0.0,0.14285714285714285
 03-02-2020,Mar 02,Fayette County,13113,0.0,,0.0,
 03-03-2020,Mar 03,Fayette County,13113,0.0,,0.0,
 03-04-2020,Mar 04,Fayette County,13113,0.0,,0.0,
@@ -3533,6 +3645,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Fayette County,13113,0.0,4.285714285714286,0.0,0.2857142857142857
 05-01-2020,May 01,Fayette County,13113,0.0,2.857142857142857,0.0,0.2857142857142857
 05-02-2020,May 02,Fayette County,13113,0.0,2.5714285714285716,0.0,0.2857142857142857
+05-03-2020,May 03,Fayette County,13113,0.0,2.142857142857143,0.0,0.2857142857142857
+05-04-2020,May 04,Fayette County,13113,0.0,2.142857142857143,0.0,0.2857142857142857
 03-02-2020,Mar 02,Floyd County,13115,0.0,,0.0,
 03-03-2020,Mar 03,Floyd County,13115,0.0,,0.0,
 03-04-2020,Mar 04,Floyd County,13115,0.0,,0.0,
@@ -3595,6 +3709,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Floyd County,13115,0.0,1.5714285714285714,0.0,0.42857142857142855
 05-01-2020,May 01,Floyd County,13115,0.0,1.5714285714285714,0.0,0.42857142857142855
 05-02-2020,May 02,Floyd County,13115,0.0,1.1428571428571428,0.0,0.14285714285714285
+05-03-2020,May 03,Floyd County,13115,0.0,0.8571428571428571,0.0,0.14285714285714285
+05-04-2020,May 04,Floyd County,13115,0.0,0.8571428571428571,0.0,0.14285714285714285
 03-02-2020,Mar 02,Forsyth County,13117,0.0,,0.0,
 03-03-2020,Mar 03,Forsyth County,13117,0.0,,0.0,
 03-04-2020,Mar 04,Forsyth County,13117,0.0,,0.0,
@@ -3657,6 +3773,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Forsyth County,13117,0.0,9.285714285714286,0.0,0.14285714285714285
 05-01-2020,May 01,Forsyth County,13117,0.0,8.142857142857142,0.0,0.14285714285714285
 05-02-2020,May 02,Forsyth County,13117,0.0,7.285714285714286,0.0,0.14285714285714285
+05-03-2020,May 03,Forsyth County,13117,0.0,6.142857142857143,0.0,0.14285714285714285
+05-04-2020,May 04,Forsyth County,13117,0.0,5.714285714285714,0.0,0.14285714285714285
 03-02-2020,Mar 02,Franklin County,13119,0.0,,0.0,
 03-03-2020,Mar 03,Franklin County,13119,0.0,,0.0,
 03-04-2020,Mar 04,Franklin County,13119,0.0,,0.0,
@@ -3719,6 +3837,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Franklin County,13119,0.0,0.5714285714285714,0.0,0.0
 05-01-2020,May 01,Franklin County,13119,0.0,0.14285714285714285,0.0,0.0
 05-02-2020,May 02,Franklin County,13119,0.0,0.14285714285714285,0.0,0.0
+05-03-2020,May 03,Franklin County,13119,0.0,0.0,0.0,0.0
+05-04-2020,May 04,Franklin County,13119,0.0,0.0,0.0,0.0
 03-02-2020,Mar 02,Fulton County,13121,2.0,,0.0,
 03-03-2020,Mar 03,Fulton County,13121,0.0,,0.0,
 03-04-2020,Mar 04,Fulton County,13121,0.0,,0.0,
@@ -3781,6 +3901,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Fulton County,13121,0.0,75.71428571428571,0.0,4.428571428571429
 05-01-2020,May 01,Fulton County,13121,0.0,49.857142857142854,0.0,4.0
 05-02-2020,May 02,Fulton County,13121,0.0,40.714285714285715,0.0,3.5714285714285716
+05-03-2020,May 03,Fulton County,13121,0.0,34.57142857142857,0.0,3.5714285714285716
+05-04-2020,May 04,Fulton County,13121,0.0,34.285714285714285,0.0,3.142857142857143
 03-02-2020,Mar 02,Gilmer County,13123,0.0,,0.0,
 03-03-2020,Mar 03,Gilmer County,13123,0.0,,0.0,
 03-04-2020,Mar 04,Gilmer County,13123,0.0,,0.0,
@@ -3843,6 +3965,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Gilmer County,13123,0.0,6.428571428571429,0.0,0.0
 05-01-2020,May 01,Gilmer County,13123,0.0,5.285714285714286,0.0,0.0
 05-02-2020,May 02,Gilmer County,13123,0.0,4.857142857142857,0.0,0.0
+05-03-2020,May 03,Gilmer County,13123,0.0,4.142857142857143,0.0,0.0
+05-04-2020,May 04,Gilmer County,13123,0.0,2.7142857142857144,0.0,0.0
 03-02-2020,Mar 02,Glynn County,13127,0.0,,0.0,
 03-03-2020,Mar 03,Glynn County,13127,0.0,,0.0,
 03-04-2020,Mar 04,Glynn County,13127,0.0,,0.0,
@@ -3905,6 +4029,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Glynn County,13127,0.0,0.5714285714285714,0.0,0.14285714285714285
 05-01-2020,May 01,Glynn County,13127,0.0,0.5714285714285714,0.0,0.0
 05-02-2020,May 02,Glynn County,13127,0.0,0.5714285714285714,0.0,0.0
+05-03-2020,May 03,Glynn County,13127,0.0,0.5714285714285714,0.0,0.0
+05-04-2020,May 04,Glynn County,13127,0.0,0.5714285714285714,0.0,0.0
 03-02-2020,Mar 02,Gordon County,13129,0.0,,0.0,
 03-03-2020,Mar 03,Gordon County,13129,0.0,,0.0,
 03-04-2020,Mar 04,Gordon County,13129,0.0,,0.0,
@@ -3967,6 +4093,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Gordon County,13129,0.0,3.0,0.0,0.5714285714285714
 05-01-2020,May 01,Gordon County,13129,0.0,2.5714285714285716,0.0,0.2857142857142857
 05-02-2020,May 02,Gordon County,13129,0.0,2.2857142857142856,0.0,0.2857142857142857
+05-03-2020,May 03,Gordon County,13129,0.0,1.4285714285714286,0.0,0.2857142857142857
+05-04-2020,May 04,Gordon County,13129,0.0,1.4285714285714286,0.0,0.2857142857142857
 03-02-2020,Mar 02,Grady County,13131,0.0,,0.0,
 03-03-2020,Mar 03,Grady County,13131,0.0,,0.0,
 03-04-2020,Mar 04,Grady County,13131,0.0,,0.0,
@@ -4029,6 +4157,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Grady County,13131,0.0,3.2857142857142856,0.0,0.14285714285714285
 05-01-2020,May 01,Grady County,13131,0.0,2.2857142857142856,0.0,0.0
 05-02-2020,May 02,Grady County,13131,0.0,2.142857142857143,0.0,0.0
+05-03-2020,May 03,Grady County,13131,0.0,2.142857142857143,0.0,0.0
+05-04-2020,May 04,Grady County,13131,0.0,2.142857142857143,0.0,0.0
 03-02-2020,Mar 02,Greene County,13133,0.0,,0.0,
 03-03-2020,Mar 03,Greene County,13133,0.0,,0.0,
 03-04-2020,Mar 04,Greene County,13133,0.0,,0.0,
@@ -4091,6 +4221,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Greene County,13133,0.0,0.7142857142857143,0.0,0.14285714285714285
 05-01-2020,May 01,Greene County,13133,0.0,0.7142857142857143,0.0,0.14285714285714285
 05-02-2020,May 02,Greene County,13133,0.0,0.42857142857142855,0.0,0.14285714285714285
+05-03-2020,May 03,Greene County,13133,0.0,0.2857142857142857,0.0,0.14285714285714285
+05-04-2020,May 04,Greene County,13133,0.0,0.2857142857142857,0.0,0.14285714285714285
 03-02-2020,Mar 02,Gwinnett County,13135,0.0,,0.0,
 03-03-2020,Mar 03,Gwinnett County,13135,0.0,,0.0,
 03-04-2020,Mar 04,Gwinnett County,13135,0.0,,0.0,
@@ -4153,6 +4285,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Gwinnett County,13135,0.0,67.28571428571429,0.0,1.2857142857142858
 05-01-2020,May 01,Gwinnett County,13135,0.0,56.142857142857146,0.0,1.2857142857142858
 05-02-2020,May 02,Gwinnett County,13135,0.0,51.714285714285715,0.0,1.2857142857142858
+05-03-2020,May 03,Gwinnett County,13135,0.0,40.57142857142857,0.0,1.2857142857142858
+05-04-2020,May 04,Gwinnett County,13135,0.0,34.285714285714285,0.0,1.1428571428571428
 03-02-2020,Mar 02,Habersham County,13137,0.0,,0.0,
 03-03-2020,Mar 03,Habersham County,13137,0.0,,0.0,
 03-04-2020,Mar 04,Habersham County,13137,0.0,,0.0,
@@ -4215,6 +4349,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Habersham County,13137,0.0,16.428571428571427,0.0,0.5714285714285714
 05-01-2020,May 01,Habersham County,13137,0.0,13.714285714285714,0.0,0.5714285714285714
 05-02-2020,May 02,Habersham County,13137,0.0,11.428571428571429,0.0,0.5714285714285714
+05-03-2020,May 03,Habersham County,13137,0.0,10.714285714285714,0.0,0.5714285714285714
+05-04-2020,May 04,Habersham County,13137,0.0,10.571428571428571,0.0,0.5714285714285714
 03-02-2020,Mar 02,Hall County,13139,0.0,,0.0,
 03-03-2020,Mar 03,Hall County,13139,0.0,,0.0,
 03-04-2020,Mar 04,Hall County,13139,0.0,,0.0,
@@ -4277,6 +4413,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Hall County,13139,0.0,50.57142857142857,0.0,1.5714285714285714
 05-01-2020,May 01,Hall County,13139,0.0,42.57142857142857,0.0,1.5714285714285714
 05-02-2020,May 02,Hall County,13139,0.0,34.142857142857146,0.0,1.5714285714285714
+05-03-2020,May 03,Hall County,13139,0.0,32.714285714285715,0.0,1.5714285714285714
+05-04-2020,May 04,Hall County,13139,0.0,32.57142857142857,0.0,1.2857142857142858
 03-02-2020,Mar 02,Hancock County,13141,0.0,,0.0,
 03-03-2020,Mar 03,Hancock County,13141,0.0,,0.0,
 03-04-2020,Mar 04,Hancock County,13141,0.0,,0.0,
@@ -4339,6 +4477,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Hancock County,13141,0.0,4.142857142857143,0.0,0.14285714285714285
 05-01-2020,May 01,Hancock County,13141,0.0,3.7142857142857144,0.0,0.14285714285714285
 05-02-2020,May 02,Hancock County,13141,0.0,3.4285714285714284,0.0,0.14285714285714285
+05-03-2020,May 03,Hancock County,13141,0.0,3.2857142857142856,0.0,0.14285714285714285
+05-04-2020,May 04,Hancock County,13141,0.0,3.142857142857143,0.0,0.14285714285714285
 03-02-2020,Mar 02,Haralson County,13143,0.0,,0.0,
 03-03-2020,Mar 03,Haralson County,13143,0.0,,0.0,
 03-04-2020,Mar 04,Haralson County,13143,0.0,,0.0,
@@ -4401,6 +4541,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Haralson County,13143,0.0,0.42857142857142855,0.0,0.0
 05-01-2020,May 01,Haralson County,13143,0.0,0.2857142857142857,0.0,0.0
 05-02-2020,May 02,Haralson County,13143,0.0,0.2857142857142857,0.0,0.0
+05-03-2020,May 03,Haralson County,13143,0.0,0.2857142857142857,0.0,0.0
+05-04-2020,May 04,Haralson County,13143,0.0,0.2857142857142857,0.0,0.0
 03-02-2020,Mar 02,Harris County,13145,0.0,,0.0,
 03-03-2020,Mar 03,Harris County,13145,0.0,,0.0,
 03-04-2020,Mar 04,Harris County,13145,0.0,,0.0,
@@ -4463,6 +4605,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Harris County,13145,0.0,1.4285714285714286,0.0,0.0
 05-01-2020,May 01,Harris County,13145,0.0,0.5714285714285714,0.0,0.0
 05-02-2020,May 02,Harris County,13145,0.0,0.5714285714285714,0.0,0.0
+05-03-2020,May 03,Harris County,13145,0.0,0.5714285714285714,0.0,0.0
+05-04-2020,May 04,Harris County,13145,0.0,0.42857142857142855,0.0,0.0
 03-02-2020,Mar 02,Hart County,13147,0.0,,0.0,
 03-03-2020,Mar 03,Hart County,13147,0.0,,0.0,
 03-04-2020,Mar 04,Hart County,13147,0.0,,0.0,
@@ -4525,6 +4669,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Hart County,13147,0.0,0.5714285714285714,0.0,0.0
 05-01-2020,May 01,Hart County,13147,0.0,0.5714285714285714,0.0,0.0
 05-02-2020,May 02,Hart County,13147,0.0,0.5714285714285714,0.0,0.0
+05-03-2020,May 03,Hart County,13147,0.0,0.5714285714285714,0.0,0.0
+05-04-2020,May 04,Hart County,13147,0.0,0.5714285714285714,0.0,0.0
 03-02-2020,Mar 02,Heard County,13149,0.0,,0.0,
 03-03-2020,Mar 03,Heard County,13149,0.0,,0.0,
 03-04-2020,Mar 04,Heard County,13149,0.0,,0.0,
@@ -4587,6 +4733,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Heard County,13149,0.0,0.14285714285714285,0.0,0.0
 05-01-2020,May 01,Heard County,13149,0.0,0.0,0.0,0.0
 05-02-2020,May 02,Heard County,13149,0.0,0.0,0.0,0.0
+05-03-2020,May 03,Heard County,13149,0.0,0.0,0.0,0.0
+05-04-2020,May 04,Heard County,13149,0.0,0.0,0.0,0.0
 03-02-2020,Mar 02,Henry County,13151,0.0,,0.0,
 03-03-2020,Mar 03,Henry County,13151,0.0,,0.0,
 03-04-2020,Mar 04,Henry County,13151,0.0,,0.0,
@@ -4649,6 +4797,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Henry County,13151,0.0,15.571428571428571,0.0,0.2857142857142857
 05-01-2020,May 01,Henry County,13151,0.0,11.714285714285714,0.0,0.2857142857142857
 05-02-2020,May 02,Henry County,13151,0.0,10.857142857142858,0.0,0.2857142857142857
+05-03-2020,May 03,Henry County,13151,0.0,8.428571428571429,0.0,0.2857142857142857
+05-04-2020,May 04,Henry County,13151,0.0,6.285714285714286,0.0,0.2857142857142857
 03-02-2020,Mar 02,Houston County,13153,0.0,,0.0,
 03-03-2020,Mar 03,Houston County,13153,0.0,,0.0,
 03-04-2020,Mar 04,Houston County,13153,0.0,,0.0,
@@ -4711,6 +4861,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Houston County,13153,0.0,4.285714285714286,0.0,0.0
 05-01-2020,May 01,Houston County,13153,0.0,3.7142857142857144,0.0,0.0
 05-02-2020,May 02,Houston County,13153,0.0,2.2857142857142856,0.0,0.0
+05-03-2020,May 03,Houston County,13153,0.0,2.0,0.0,0.0
+05-04-2020,May 04,Houston County,13153,0.0,1.5714285714285714,0.0,0.0
 03-02-2020,Mar 02,Irwin County,13155,0.0,,0.0,
 03-03-2020,Mar 03,Irwin County,13155,0.0,,0.0,
 03-04-2020,Mar 04,Irwin County,13155,0.0,,0.0,
@@ -4773,6 +4925,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Irwin County,13155,0.0,0.0,0.0,0.0
 05-01-2020,May 01,Irwin County,13155,0.0,0.0,0.0,0.0
 05-02-2020,May 02,Irwin County,13155,0.0,0.0,0.0,0.0
+05-03-2020,May 03,Irwin County,13155,0.0,0.0,0.0,0.0
+05-04-2020,May 04,Irwin County,13155,0.0,0.0,0.0,0.0
 03-02-2020,Mar 02,Jackson County,13157,0.0,,0.0,
 03-03-2020,Mar 03,Jackson County,13157,0.0,,0.0,
 03-04-2020,Mar 04,Jackson County,13157,0.0,,0.0,
@@ -4835,6 +4989,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Jackson County,13157,0.0,3.142857142857143,0.0,0.0
 05-01-2020,May 01,Jackson County,13157,0.0,2.2857142857142856,0.0,0.0
 05-02-2020,May 02,Jackson County,13157,0.0,1.7142857142857142,0.0,0.0
+05-03-2020,May 03,Jackson County,13157,0.0,1.7142857142857142,0.0,0.0
+05-04-2020,May 04,Jackson County,13157,0.0,1.7142857142857142,0.0,0.0
 03-02-2020,Mar 02,Jasper County,13159,0.0,,0.0,
 03-03-2020,Mar 03,Jasper County,13159,0.0,,0.0,
 03-04-2020,Mar 04,Jasper County,13159,0.0,,0.0,
@@ -4897,6 +5053,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Jasper County,13159,0.0,0.5714285714285714,0.0,0.0
 05-01-2020,May 01,Jasper County,13159,0.0,0.42857142857142855,0.0,0.0
 05-02-2020,May 02,Jasper County,13159,0.0,0.2857142857142857,0.0,0.0
+05-03-2020,May 03,Jasper County,13159,0.0,0.2857142857142857,0.0,0.0
+05-04-2020,May 04,Jasper County,13159,0.0,0.2857142857142857,0.0,0.0
 03-02-2020,Mar 02,Jeff Davis County,13161,0.0,,0.0,
 03-03-2020,Mar 03,Jeff Davis County,13161,0.0,,0.0,
 03-04-2020,Mar 04,Jeff Davis County,13161,0.0,,0.0,
@@ -4959,6 +5117,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Jeff Davis County,13161,0.0,1.1428571428571428,0.0,0.0
 05-01-2020,May 01,Jeff Davis County,13161,0.0,0.8571428571428571,0.0,0.0
 05-02-2020,May 02,Jeff Davis County,13161,0.0,0.7142857142857143,0.0,0.0
+05-03-2020,May 03,Jeff Davis County,13161,0.0,0.5714285714285714,0.0,0.0
+05-04-2020,May 04,Jeff Davis County,13161,0.0,0.5714285714285714,0.0,0.0
 03-02-2020,Mar 02,Jefferson County,13163,0.0,,0.0,
 03-03-2020,Mar 03,Jefferson County,13163,0.0,,0.0,
 03-04-2020,Mar 04,Jefferson County,13163,0.0,,0.0,
@@ -5021,6 +5181,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Jefferson County,13163,0.0,0.42857142857142855,0.0,0.0
 05-01-2020,May 01,Jefferson County,13163,0.0,0.2857142857142857,0.0,0.0
 05-02-2020,May 02,Jefferson County,13163,0.0,0.14285714285714285,0.0,0.0
+05-03-2020,May 03,Jefferson County,13163,0.0,0.14285714285714285,0.0,0.0
+05-04-2020,May 04,Jefferson County,13163,0.0,0.0,0.0,0.0
 03-02-2020,Mar 02,Jenkins County,13165,0.0,,0.0,
 03-03-2020,Mar 03,Jenkins County,13165,0.0,,0.0,
 03-04-2020,Mar 04,Jenkins County,13165,0.0,,0.0,
@@ -5083,6 +5245,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Jenkins County,13165,0.0,0.2857142857142857,0.0,0.0
 05-01-2020,May 01,Jenkins County,13165,0.0,0.14285714285714285,0.0,0.0
 05-02-2020,May 02,Jenkins County,13165,0.0,0.14285714285714285,0.0,0.0
+05-03-2020,May 03,Jenkins County,13165,0.0,0.0,0.0,0.0
+05-04-2020,May 04,Jenkins County,13165,0.0,0.0,0.0,0.0
 03-02-2020,Mar 02,Johnson County,13167,0.0,,0.0,
 03-03-2020,Mar 03,Johnson County,13167,0.0,,0.0,
 03-04-2020,Mar 04,Johnson County,13167,0.0,,0.0,
@@ -5145,6 +5309,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Johnson County,13167,0.0,0.42857142857142855,0.0,0.14285714285714285
 05-01-2020,May 01,Johnson County,13167,0.0,0.42857142857142855,0.0,0.14285714285714285
 05-02-2020,May 02,Johnson County,13167,0.0,0.42857142857142855,0.0,0.14285714285714285
+05-03-2020,May 03,Johnson County,13167,0.0,0.42857142857142855,0.0,0.0
+05-04-2020,May 04,Johnson County,13167,0.0,0.42857142857142855,0.0,0.0
 03-02-2020,Mar 02,Jones County,13169,0.0,,0.0,
 03-03-2020,Mar 03,Jones County,13169,0.0,,0.0,
 03-04-2020,Mar 04,Jones County,13169,0.0,,0.0,
@@ -5207,6 +5373,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Jones County,13169,0.0,0.8571428571428571,0.0,0.0
 05-01-2020,May 01,Jones County,13169,0.0,0.5714285714285714,0.0,0.0
 05-02-2020,May 02,Jones County,13169,0.0,0.5714285714285714,0.0,0.0
+05-03-2020,May 03,Jones County,13169,0.0,0.2857142857142857,0.0,0.0
+05-04-2020,May 04,Jones County,13169,0.0,0.2857142857142857,0.0,0.0
 03-02-2020,Mar 02,Lamar County,13171,0.0,,0.0,
 03-03-2020,Mar 03,Lamar County,13171,0.0,,0.0,
 03-04-2020,Mar 04,Lamar County,13171,0.0,,0.0,
@@ -5269,6 +5437,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Lamar County,13171,0.0,1.2857142857142858,0.0,0.2857142857142857
 05-01-2020,May 01,Lamar County,13171,0.0,0.8571428571428571,0.0,0.2857142857142857
 05-02-2020,May 02,Lamar County,13171,0.0,0.8571428571428571,0.0,0.2857142857142857
+05-03-2020,May 03,Lamar County,13171,0.0,0.5714285714285714,0.0,0.2857142857142857
+05-04-2020,May 04,Lamar County,13171,0.0,0.5714285714285714,0.0,0.2857142857142857
 03-02-2020,Mar 02,Lanier County,13173,0.0,,0.0,
 03-03-2020,Mar 03,Lanier County,13173,0.0,,0.0,
 03-04-2020,Mar 04,Lanier County,13173,0.0,,0.0,
@@ -5331,6 +5501,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Lanier County,13173,0.0,0.14285714285714285,0.0,0.0
 05-01-2020,May 01,Lanier County,13173,0.0,0.14285714285714285,0.0,0.0
 05-02-2020,May 02,Lanier County,13173,0.0,0.0,0.0,0.0
+05-03-2020,May 03,Lanier County,13173,0.0,0.0,0.0,0.0
+05-04-2020,May 04,Lanier County,13173,0.0,0.0,0.0,0.0
 03-02-2020,Mar 02,Laurens County,13175,0.0,,0.0,
 03-03-2020,Mar 03,Laurens County,13175,0.0,,0.0,
 03-04-2020,Mar 04,Laurens County,13175,0.0,,0.0,
@@ -5393,6 +5565,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Laurens County,13175,0.0,1.4285714285714286,0.0,0.0
 05-01-2020,May 01,Laurens County,13175,0.0,1.1428571428571428,0.0,0.0
 05-02-2020,May 02,Laurens County,13175,0.0,0.5714285714285714,0.0,0.0
+05-03-2020,May 03,Laurens County,13175,0.0,0.2857142857142857,0.0,0.0
+05-04-2020,May 04,Laurens County,13175,0.0,0.2857142857142857,0.0,0.0
 03-02-2020,Mar 02,Lee County,13177,0.0,,0.0,
 03-03-2020,Mar 03,Lee County,13177,0.0,,0.0,
 03-04-2020,Mar 04,Lee County,13177,0.0,,0.0,
@@ -5455,6 +5629,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Lee County,13177,0.0,2.857142857142857,0.0,0.42857142857142855
 05-01-2020,May 01,Lee County,13177,0.0,2.4285714285714284,0.0,0.2857142857142857
 05-02-2020,May 02,Lee County,13177,0.0,2.4285714285714284,0.0,0.2857142857142857
+05-03-2020,May 03,Lee County,13177,0.0,2.142857142857143,0.0,0.2857142857142857
+05-04-2020,May 04,Lee County,13177,0.0,1.7142857142857142,0.0,0.2857142857142857
 03-02-2020,Mar 02,Liberty County,13179,0.0,,0.0,
 03-03-2020,Mar 03,Liberty County,13179,0.0,,0.0,
 03-04-2020,Mar 04,Liberty County,13179,0.0,,0.0,
@@ -5517,6 +5693,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Liberty County,13179,0.0,0.2857142857142857,0.0,0.0
 05-01-2020,May 01,Liberty County,13179,0.0,0.14285714285714285,0.0,0.0
 05-02-2020,May 02,Liberty County,13179,0.0,0.14285714285714285,0.0,0.0
+05-03-2020,May 03,Liberty County,13179,0.0,0.14285714285714285,0.0,0.0
+05-04-2020,May 04,Liberty County,13179,0.0,0.14285714285714285,0.0,0.0
 03-02-2020,Mar 02,Lincoln County,13181,0.0,,0.0,
 03-03-2020,Mar 03,Lincoln County,13181,0.0,,0.0,
 03-04-2020,Mar 04,Lincoln County,13181,0.0,,0.0,
@@ -5579,6 +5757,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Lincoln County,13181,0.0,0.2857142857142857,0.0,0.0
 05-01-2020,May 01,Lincoln County,13181,0.0,0.2857142857142857,0.0,0.0
 05-02-2020,May 02,Lincoln County,13181,0.0,0.2857142857142857,0.0,0.0
+05-03-2020,May 03,Lincoln County,13181,0.0,0.2857142857142857,0.0,0.0
+05-04-2020,May 04,Lincoln County,13181,0.0,0.2857142857142857,0.0,0.0
 03-02-2020,Mar 02,Long County,13183,0.0,,0.0,
 03-03-2020,Mar 03,Long County,13183,0.0,,0.0,
 03-04-2020,Mar 04,Long County,13183,0.0,,0.0,
@@ -5641,6 +5821,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Long County,13183,0.0,0.2857142857142857,0.0,0.0
 05-01-2020,May 01,Long County,13183,0.0,0.2857142857142857,0.0,0.0
 05-02-2020,May 02,Long County,13183,0.0,0.2857142857142857,0.0,0.0
+05-03-2020,May 03,Long County,13183,0.0,0.14285714285714285,0.0,0.0
+05-04-2020,May 04,Long County,13183,0.0,0.14285714285714285,0.0,0.0
 03-02-2020,Mar 02,Lowndes County,13185,0.0,,0.0,
 03-03-2020,Mar 03,Lowndes County,13185,0.0,,0.0,
 03-04-2020,Mar 04,Lowndes County,13185,0.0,,0.0,
@@ -5703,6 +5885,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Lowndes County,13185,0.0,4.428571428571429,0.0,0.0
 05-01-2020,May 01,Lowndes County,13185,0.0,4.0,0.0,0.0
 05-02-2020,May 02,Lowndes County,13185,0.0,3.4285714285714284,0.0,0.0
+05-03-2020,May 03,Lowndes County,13185,0.0,3.142857142857143,0.0,0.0
+05-04-2020,May 04,Lowndes County,13185,0.0,3.142857142857143,0.0,0.0
 03-02-2020,Mar 02,Lumpkin County,13187,0.0,,0.0,
 03-03-2020,Mar 03,Lumpkin County,13187,0.0,,0.0,
 03-04-2020,Mar 04,Lumpkin County,13187,0.0,,0.0,
@@ -5765,6 +5949,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Lumpkin County,13187,0.0,2.0,0.0,0.2857142857142857
 05-01-2020,May 01,Lumpkin County,13187,0.0,1.7142857142857142,0.0,0.2857142857142857
 05-02-2020,May 02,Lumpkin County,13187,0.0,1.5714285714285714,0.0,0.2857142857142857
+05-03-2020,May 03,Lumpkin County,13187,0.0,1.5714285714285714,0.0,0.2857142857142857
+05-04-2020,May 04,Lumpkin County,13187,0.0,1.5714285714285714,0.0,0.2857142857142857
 03-02-2020,Mar 02,McDuffie County,13189,0.0,,0.0,
 03-03-2020,Mar 03,McDuffie County,13189,0.0,,0.0,
 03-04-2020,Mar 04,McDuffie County,13189,0.0,,0.0,
@@ -5827,6 +6013,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,McDuffie County,13189,0.0,1.1428571428571428,0.0,0.0
 05-01-2020,May 01,McDuffie County,13189,0.0,0.8571428571428571,0.0,0.0
 05-02-2020,May 02,McDuffie County,13189,0.0,0.8571428571428571,0.0,0.0
+05-03-2020,May 03,McDuffie County,13189,0.0,0.2857142857142857,0.0,0.0
+05-04-2020,May 04,McDuffie County,13189,0.0,0.2857142857142857,0.0,0.0
 03-02-2020,Mar 02,McIntosh County,13191,0.0,,0.0,
 03-03-2020,Mar 03,McIntosh County,13191,0.0,,0.0,
 03-04-2020,Mar 04,McIntosh County,13191,0.0,,0.0,
@@ -5889,6 +6077,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,McIntosh County,13191,0.0,0.0,0.0,0.0
 05-01-2020,May 01,McIntosh County,13191,0.0,0.0,0.0,0.0
 05-02-2020,May 02,McIntosh County,13191,0.0,0.0,0.0,0.0
+05-03-2020,May 03,McIntosh County,13191,0.0,0.0,0.0,0.0
+05-04-2020,May 04,McIntosh County,13191,0.0,0.0,0.0,0.0
 03-02-2020,Mar 02,Macon County,13193,0.0,,0.0,
 03-03-2020,Mar 03,Macon County,13193,0.0,,0.0,
 03-04-2020,Mar 04,Macon County,13193,0.0,,0.0,
@@ -5951,6 +6141,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Macon County,13193,0.0,2.142857142857143,0.0,0.14285714285714285
 05-01-2020,May 01,Macon County,13193,0.0,1.1428571428571428,0.0,0.14285714285714285
 05-02-2020,May 02,Macon County,13193,0.0,1.0,0.0,0.0
+05-03-2020,May 03,Macon County,13193,0.0,0.8571428571428571,0.0,0.0
+05-04-2020,May 04,Macon County,13193,0.0,0.5714285714285714,0.0,0.0
 03-02-2020,Mar 02,Madison County,13195,0.0,,0.0,
 03-03-2020,Mar 03,Madison County,13195,0.0,,0.0,
 03-04-2020,Mar 04,Madison County,13195,0.0,,0.0,
@@ -6013,6 +6205,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Madison County,13195,0.0,0.8571428571428571,0.0,0.0
 05-01-2020,May 01,Madison County,13195,0.0,0.7142857142857143,0.0,0.0
 05-02-2020,May 02,Madison County,13195,0.0,0.42857142857142855,0.0,0.0
+05-03-2020,May 03,Madison County,13195,0.0,0.2857142857142857,0.0,0.0
+05-04-2020,May 04,Madison County,13195,0.0,0.2857142857142857,0.0,0.0
 03-02-2020,Mar 02,Marion County,13197,0.0,,0.0,
 03-03-2020,Mar 03,Marion County,13197,0.0,,0.0,
 03-04-2020,Mar 04,Marion County,13197,0.0,,0.0,
@@ -6075,6 +6269,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Marion County,13197,0.0,1.1428571428571428,0.0,0.0
 05-01-2020,May 01,Marion County,13197,0.0,1.0,0.0,0.0
 05-02-2020,May 02,Marion County,13197,0.0,0.8571428571428571,0.0,0.0
+05-03-2020,May 03,Marion County,13197,0.0,0.42857142857142855,0.0,0.0
+05-04-2020,May 04,Marion County,13197,0.0,0.42857142857142855,0.0,0.0
 03-02-2020,Mar 02,Meriwether County,13199,0.0,,0.0,
 03-03-2020,Mar 03,Meriwether County,13199,0.0,,0.0,
 03-04-2020,Mar 04,Meriwether County,13199,0.0,,0.0,
@@ -6137,6 +6333,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Meriwether County,13199,0.0,0.8571428571428571,0.0,0.14285714285714285
 05-01-2020,May 01,Meriwether County,13199,0.0,0.7142857142857143,0.0,0.14285714285714285
 05-02-2020,May 02,Meriwether County,13199,0.0,0.7142857142857143,0.0,0.14285714285714285
+05-03-2020,May 03,Meriwether County,13199,0.0,0.7142857142857143,0.0,0.14285714285714285
+05-04-2020,May 04,Meriwether County,13199,0.0,0.7142857142857143,0.0,0.14285714285714285
 03-02-2020,Mar 02,Miller County,13201,0.0,,0.0,
 03-03-2020,Mar 03,Miller County,13201,0.0,,0.0,
 03-04-2020,Mar 04,Miller County,13201,0.0,,0.0,
@@ -6199,6 +6397,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Miller County,13201,0.0,1.0,0.0,0.0
 05-01-2020,May 01,Miller County,13201,0.0,1.0,0.0,0.0
 05-02-2020,May 02,Miller County,13201,0.0,1.0,0.0,0.0
+05-03-2020,May 03,Miller County,13201,0.0,0.42857142857142855,0.0,0.0
+05-04-2020,May 04,Miller County,13201,0.0,0.2857142857142857,0.0,0.0
 03-02-2020,Mar 02,Mitchell County,13205,0.0,,0.0,
 03-03-2020,Mar 03,Mitchell County,13205,0.0,,0.0,
 03-04-2020,Mar 04,Mitchell County,13205,0.0,,0.0,
@@ -6261,6 +6461,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Mitchell County,13205,0.0,3.4285714285714284,0.0,1.0
 05-01-2020,May 01,Mitchell County,13205,0.0,2.4285714285714284,0.0,0.8571428571428571
 05-02-2020,May 02,Mitchell County,13205,0.0,2.4285714285714284,0.0,0.8571428571428571
+05-03-2020,May 03,Mitchell County,13205,0.0,2.4285714285714284,0.0,0.7142857142857143
+05-04-2020,May 04,Mitchell County,13205,0.0,2.0,0.0,0.5714285714285714
 03-02-2020,Mar 02,Monroe County,13207,0.0,,0.0,
 03-03-2020,Mar 03,Monroe County,13207,0.0,,0.0,
 03-04-2020,Mar 04,Monroe County,13207,0.0,,0.0,
@@ -6323,6 +6525,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Monroe County,13207,0.0,1.1428571428571428,0.0,0.2857142857142857
 05-01-2020,May 01,Monroe County,13207,0.0,0.7142857142857143,0.0,0.2857142857142857
 05-02-2020,May 02,Monroe County,13207,0.0,0.5714285714285714,0.0,0.2857142857142857
+05-03-2020,May 03,Monroe County,13207,0.0,0.5714285714285714,0.0,0.2857142857142857
+05-04-2020,May 04,Monroe County,13207,0.0,0.42857142857142855,0.0,0.2857142857142857
 03-02-2020,Mar 02,Montgomery County,13209,0.0,,0.0,
 03-03-2020,Mar 03,Montgomery County,13209,0.0,,0.0,
 03-04-2020,Mar 04,Montgomery County,13209,0.0,,0.0,
@@ -6385,6 +6589,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Montgomery County,13209,0.0,0.0,0.0,0.0
 05-01-2020,May 01,Montgomery County,13209,0.0,0.0,0.0,0.0
 05-02-2020,May 02,Montgomery County,13209,0.0,0.0,0.0,0.0
+05-03-2020,May 03,Montgomery County,13209,0.0,0.0,0.0,0.0
+05-04-2020,May 04,Montgomery County,13209,0.0,0.0,0.0,0.0
 03-02-2020,Mar 02,Morgan County,13211,0.0,,0.0,
 03-03-2020,Mar 03,Morgan County,13211,0.0,,0.0,
 03-04-2020,Mar 04,Morgan County,13211,0.0,,0.0,
@@ -6447,6 +6653,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Morgan County,13211,0.0,0.8571428571428571,0.0,0.0
 05-01-2020,May 01,Morgan County,13211,0.0,0.8571428571428571,0.0,0.0
 05-02-2020,May 02,Morgan County,13211,0.0,0.8571428571428571,0.0,0.0
+05-03-2020,May 03,Morgan County,13211,0.0,0.8571428571428571,0.0,0.0
+05-04-2020,May 04,Morgan County,13211,0.0,0.8571428571428571,0.0,0.0
 03-02-2020,Mar 02,Murray County,13213,0.0,,0.0,
 03-03-2020,Mar 03,Murray County,13213,0.0,,0.0,
 03-04-2020,Mar 04,Murray County,13213,0.0,,0.0,
@@ -6509,6 +6717,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Murray County,13213,0.0,1.5714285714285714,0.0,0.0
 05-01-2020,May 01,Murray County,13213,0.0,1.5714285714285714,0.0,0.0
 05-02-2020,May 02,Murray County,13213,0.0,1.1428571428571428,0.0,0.0
+05-03-2020,May 03,Murray County,13213,0.0,0.8571428571428571,0.0,0.0
+05-04-2020,May 04,Murray County,13213,0.0,0.8571428571428571,0.0,0.0
 03-02-2020,Mar 02,Muscogee County,13215,0.0,,0.0,
 03-03-2020,Mar 03,Muscogee County,13215,0.0,,0.0,
 03-04-2020,Mar 04,Muscogee County,13215,0.0,,0.0,
@@ -6571,6 +6781,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Muscogee County,13215,0.0,7.857142857142857,0.0,0.42857142857142855
 05-01-2020,May 01,Muscogee County,13215,0.0,6.142857142857143,0.0,0.42857142857142855
 05-02-2020,May 02,Muscogee County,13215,0.0,5.714285714285714,0.0,0.42857142857142855
+05-03-2020,May 03,Muscogee County,13215,0.0,4.142857142857143,0.0,0.42857142857142855
+05-04-2020,May 04,Muscogee County,13215,0.0,3.4285714285714284,0.0,0.42857142857142855
 03-02-2020,Mar 02,Newton County,13217,0.0,,0.0,
 03-03-2020,Mar 03,Newton County,13217,0.0,,0.0,
 03-04-2020,Mar 04,Newton County,13217,0.0,,0.0,
@@ -6633,6 +6845,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Newton County,13217,0.0,6.714285714285714,0.0,0.2857142857142857
 05-01-2020,May 01,Newton County,13217,0.0,5.714285714285714,0.0,0.2857142857142857
 05-02-2020,May 02,Newton County,13217,0.0,5.0,0.0,0.14285714285714285
+05-03-2020,May 03,Newton County,13217,0.0,3.857142857142857,0.0,0.14285714285714285
+05-04-2020,May 04,Newton County,13217,0.0,3.857142857142857,0.0,0.14285714285714285
 03-02-2020,Mar 02,Oconee County,13219,0.0,,0.0,
 03-03-2020,Mar 03,Oconee County,13219,0.0,,0.0,
 03-04-2020,Mar 04,Oconee County,13219,0.0,,0.0,
@@ -6695,6 +6909,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Oconee County,13219,0.0,0.8571428571428571,0.0,0.0
 05-01-2020,May 01,Oconee County,13219,0.0,0.8571428571428571,0.0,0.0
 05-02-2020,May 02,Oconee County,13219,0.0,0.8571428571428571,0.0,0.0
+05-03-2020,May 03,Oconee County,13219,0.0,0.8571428571428571,0.0,0.0
+05-04-2020,May 04,Oconee County,13219,0.0,0.8571428571428571,0.0,0.0
 03-02-2020,Mar 02,Oglethorpe County,13221,0.0,,0.0,
 03-03-2020,Mar 03,Oglethorpe County,13221,0.0,,0.0,
 03-04-2020,Mar 04,Oglethorpe County,13221,0.0,,0.0,
@@ -6757,6 +6973,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Oglethorpe County,13221,0.0,2.142857142857143,0.0,0.0
 05-01-2020,May 01,Oglethorpe County,13221,0.0,1.8571428571428572,0.0,0.0
 05-02-2020,May 02,Oglethorpe County,13221,0.0,0.2857142857142857,0.0,0.0
+05-03-2020,May 03,Oglethorpe County,13221,0.0,0.2857142857142857,0.0,0.0
+05-04-2020,May 04,Oglethorpe County,13221,0.0,0.2857142857142857,0.0,0.0
 03-02-2020,Mar 02,Paulding County,13223,0.0,,0.0,
 03-03-2020,Mar 03,Paulding County,13223,0.0,,0.0,
 03-04-2020,Mar 04,Paulding County,13223,0.0,,0.0,
@@ -6819,6 +7037,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Paulding County,13223,0.0,4.428571428571429,0.0,0.14285714285714285
 05-01-2020,May 01,Paulding County,13223,0.0,4.0,0.0,0.14285714285714285
 05-02-2020,May 02,Paulding County,13223,0.0,2.857142857142857,0.0,0.14285714285714285
+05-03-2020,May 03,Paulding County,13223,0.0,2.4285714285714284,0.0,0.14285714285714285
+05-04-2020,May 04,Paulding County,13223,0.0,2.2857142857142856,0.0,0.14285714285714285
 03-02-2020,Mar 02,Peach County,13225,0.0,,0.0,
 03-03-2020,Mar 03,Peach County,13225,0.0,,0.0,
 03-04-2020,Mar 04,Peach County,13225,0.0,,0.0,
@@ -6881,6 +7101,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Peach County,13225,0.0,1.4285714285714286,0.0,0.0
 05-01-2020,May 01,Peach County,13225,0.0,1.2857142857142858,0.0,0.0
 05-02-2020,May 02,Peach County,13225,0.0,1.1428571428571428,0.0,0.0
+05-03-2020,May 03,Peach County,13225,0.0,1.1428571428571428,0.0,0.0
+05-04-2020,May 04,Peach County,13225,0.0,1.1428571428571428,0.0,0.0
 03-02-2020,Mar 02,Pickens County,13227,0.0,,0.0,
 03-03-2020,Mar 03,Pickens County,13227,0.0,,0.0,
 03-04-2020,Mar 04,Pickens County,13227,0.0,,0.0,
@@ -6943,6 +7165,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Pickens County,13227,0.0,1.1428571428571428,0.0,0.0
 05-01-2020,May 01,Pickens County,13227,0.0,1.0,0.0,0.0
 05-02-2020,May 02,Pickens County,13227,0.0,0.8571428571428571,0.0,0.0
+05-03-2020,May 03,Pickens County,13227,0.0,0.8571428571428571,0.0,0.0
+05-04-2020,May 04,Pickens County,13227,0.0,0.7142857142857143,0.0,0.0
 03-02-2020,Mar 02,Pierce County,13229,0.0,,0.0,
 03-03-2020,Mar 03,Pierce County,13229,0.0,,0.0,
 03-04-2020,Mar 04,Pierce County,13229,0.0,,0.0,
@@ -7005,6 +7229,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Pierce County,13229,0.0,0.42857142857142855,0.0,0.14285714285714285
 05-01-2020,May 01,Pierce County,13229,0.0,0.42857142857142855,0.0,0.14285714285714285
 05-02-2020,May 02,Pierce County,13229,0.0,0.2857142857142857,0.0,0.14285714285714285
+05-03-2020,May 03,Pierce County,13229,0.0,0.2857142857142857,0.0,0.14285714285714285
+05-04-2020,May 04,Pierce County,13229,0.0,0.2857142857142857,0.0,0.14285714285714285
 03-02-2020,Mar 02,Pike County,13231,0.0,,0.0,
 03-03-2020,Mar 03,Pike County,13231,0.0,,0.0,
 03-04-2020,Mar 04,Pike County,13231,0.0,,0.0,
@@ -7067,6 +7293,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Pike County,13231,0.0,0.5714285714285714,0.0,0.0
 05-01-2020,May 01,Pike County,13231,0.0,0.14285714285714285,0.0,0.0
 05-02-2020,May 02,Pike County,13231,0.0,0.14285714285714285,0.0,0.0
+05-03-2020,May 03,Pike County,13231,0.0,0.14285714285714285,0.0,0.0
+05-04-2020,May 04,Pike County,13231,0.0,0.14285714285714285,0.0,0.0
 03-02-2020,Mar 02,Polk County,13233,0.0,,0.0,
 03-03-2020,Mar 03,Polk County,13233,0.0,,0.0,
 03-04-2020,Mar 04,Polk County,13233,0.0,,0.0,
@@ -7129,6 +7357,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Polk County,13233,0.0,3.0,0.0,0.0
 05-01-2020,May 01,Polk County,13233,0.0,3.0,0.0,0.0
 05-02-2020,May 02,Polk County,13233,0.0,2.142857142857143,0.0,0.0
+05-03-2020,May 03,Polk County,13233,0.0,1.7142857142857142,0.0,0.0
+05-04-2020,May 04,Polk County,13233,0.0,1.5714285714285714,0.0,0.0
 03-02-2020,Mar 02,Pulaski County,13235,0.0,,0.0,
 03-03-2020,Mar 03,Pulaski County,13235,0.0,,0.0,
 03-04-2020,Mar 04,Pulaski County,13235,0.0,,0.0,
@@ -7191,6 +7421,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Pulaski County,13235,0.0,1.4285714285714286,0.0,0.0
 05-01-2020,May 01,Pulaski County,13235,0.0,1.0,0.0,0.0
 05-02-2020,May 02,Pulaski County,13235,0.0,1.0,0.0,0.0
+05-03-2020,May 03,Pulaski County,13235,0.0,1.0,0.0,0.0
+05-04-2020,May 04,Pulaski County,13235,0.0,1.0,0.0,0.0
 03-02-2020,Mar 02,Putnam County,13237,0.0,,0.0,
 03-03-2020,Mar 03,Putnam County,13237,0.0,,0.0,
 03-04-2020,Mar 04,Putnam County,13237,0.0,,0.0,
@@ -7253,6 +7485,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Putnam County,13237,0.0,1.4285714285714286,0.0,0.42857142857142855
 05-01-2020,May 01,Putnam County,13237,0.0,1.1428571428571428,0.0,0.42857142857142855
 05-02-2020,May 02,Putnam County,13237,0.0,0.8571428571428571,0.0,0.2857142857142857
+05-03-2020,May 03,Putnam County,13237,0.0,0.8571428571428571,0.0,0.2857142857142857
+05-04-2020,May 04,Putnam County,13237,0.0,0.8571428571428571,0.0,0.2857142857142857
 03-02-2020,Mar 02,Quitman County,13239,0.0,,0.0,
 03-03-2020,Mar 03,Quitman County,13239,0.0,,0.0,
 03-04-2020,Mar 04,Quitman County,13239,0.0,,0.0,
@@ -7315,6 +7549,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Quitman County,13239,0.0,0.14285714285714285,0.0,0.0
 05-01-2020,May 01,Quitman County,13239,0.0,0.14285714285714285,0.0,0.0
 05-02-2020,May 02,Quitman County,13239,0.0,0.14285714285714285,0.0,0.0
+05-03-2020,May 03,Quitman County,13239,0.0,0.14285714285714285,0.0,0.0
+05-04-2020,May 04,Quitman County,13239,0.0,0.14285714285714285,0.0,0.0
 03-02-2020,Mar 02,Rabun County,13241,0.0,,0.0,
 03-03-2020,Mar 03,Rabun County,13241,0.0,,0.0,
 03-04-2020,Mar 04,Rabun County,13241,0.0,,0.0,
@@ -7377,6 +7613,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Rabun County,13241,0.0,0.42857142857142855,0.0,0.0
 05-01-2020,May 01,Rabun County,13241,0.0,0.42857142857142855,0.0,0.0
 05-02-2020,May 02,Rabun County,13241,0.0,0.42857142857142855,0.0,0.0
+05-03-2020,May 03,Rabun County,13241,0.0,0.42857142857142855,0.0,0.0
+05-04-2020,May 04,Rabun County,13241,0.0,0.42857142857142855,0.0,0.0
 03-02-2020,Mar 02,Randolph County,13243,0.0,,0.0,
 03-03-2020,Mar 03,Randolph County,13243,0.0,,0.0,
 03-04-2020,Mar 04,Randolph County,13243,0.0,,0.0,
@@ -7439,6 +7677,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Randolph County,13243,0.0,1.5714285714285714,0.0,0.2857142857142857
 05-01-2020,May 01,Randolph County,13243,0.0,1.4285714285714286,0.0,0.14285714285714285
 05-02-2020,May 02,Randolph County,13243,0.0,1.0,0.0,0.14285714285714285
+05-03-2020,May 03,Randolph County,13243,0.0,0.8571428571428571,0.0,0.0
+05-04-2020,May 04,Randolph County,13243,0.0,0.8571428571428571,0.0,0.0
 03-02-2020,Mar 02,Richmond County,13245,0.0,,0.0,
 03-03-2020,Mar 03,Richmond County,13245,0.0,,0.0,
 03-04-2020,Mar 04,Richmond County,13245,0.0,,0.0,
@@ -7501,6 +7741,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Richmond County,13245,0.0,11.0,0.0,0.14285714285714285
 05-01-2020,May 01,Richmond County,13245,0.0,7.857142857142857,0.0,0.0
 05-02-2020,May 02,Richmond County,13245,0.0,5.285714285714286,0.0,0.0
+05-03-2020,May 03,Richmond County,13245,0.0,5.0,0.0,0.0
+05-04-2020,May 04,Richmond County,13245,0.0,4.285714285714286,0.0,0.0
 03-02-2020,Mar 02,Rockdale County,13247,0.0,,0.0,
 03-03-2020,Mar 03,Rockdale County,13247,0.0,,0.0,
 03-04-2020,Mar 04,Rockdale County,13247,0.0,,0.0,
@@ -7563,6 +7805,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Rockdale County,13247,0.0,4.857142857142857,0.0,0.0
 05-01-2020,May 01,Rockdale County,13247,0.0,3.857142857142857,0.0,0.0
 05-02-2020,May 02,Rockdale County,13247,0.0,2.857142857142857,0.0,0.0
+05-03-2020,May 03,Rockdale County,13247,0.0,2.4285714285714284,0.0,0.0
+05-04-2020,May 04,Rockdale County,13247,0.0,2.4285714285714284,0.0,0.0
 03-02-2020,Mar 02,Schley County,13249,0.0,,0.0,
 03-03-2020,Mar 03,Schley County,13249,0.0,,0.0,
 03-04-2020,Mar 04,Schley County,13249,0.0,,0.0,
@@ -7625,6 +7869,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Schley County,13249,0.0,0.0,0.0,0.0
 05-01-2020,May 01,Schley County,13249,0.0,0.0,0.0,0.0
 05-02-2020,May 02,Schley County,13249,0.0,0.0,0.0,0.0
+05-03-2020,May 03,Schley County,13249,0.0,0.0,0.0,0.0
+05-04-2020,May 04,Schley County,13249,0.0,0.0,0.0,0.0
 03-02-2020,Mar 02,Screven County,13251,0.0,,0.0,
 03-03-2020,Mar 03,Screven County,13251,0.0,,0.0,
 03-04-2020,Mar 04,Screven County,13251,0.0,,0.0,
@@ -7687,6 +7933,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Screven County,13251,0.0,0.14285714285714285,0.0,0.0
 05-01-2020,May 01,Screven County,13251,0.0,0.14285714285714285,0.0,0.0
 05-02-2020,May 02,Screven County,13251,0.0,0.14285714285714285,0.0,0.0
+05-03-2020,May 03,Screven County,13251,0.0,0.14285714285714285,0.0,0.0
+05-04-2020,May 04,Screven County,13251,0.0,0.14285714285714285,0.0,0.0
 03-02-2020,Mar 02,Seminole County,13253,0.0,,0.0,
 03-03-2020,Mar 03,Seminole County,13253,0.0,,0.0,
 03-04-2020,Mar 04,Seminole County,13253,0.0,,0.0,
@@ -7749,6 +7997,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Seminole County,13253,0.0,0.42857142857142855,0.0,0.0
 05-01-2020,May 01,Seminole County,13253,0.0,0.42857142857142855,0.0,0.0
 05-02-2020,May 02,Seminole County,13253,0.0,0.42857142857142855,0.0,0.0
+05-03-2020,May 03,Seminole County,13253,0.0,0.42857142857142855,0.0,0.0
+05-04-2020,May 04,Seminole County,13253,0.0,0.42857142857142855,0.0,0.0
 03-02-2020,Mar 02,Spalding County,13255,0.0,,0.0,
 03-03-2020,Mar 03,Spalding County,13255,0.0,,0.0,
 03-04-2020,Mar 04,Spalding County,13255,0.0,,0.0,
@@ -7811,6 +8061,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Spalding County,13255,0.0,9.857142857142858,0.0,0.14285714285714285
 05-01-2020,May 01,Spalding County,13255,0.0,9.285714285714286,0.0,0.14285714285714285
 05-02-2020,May 02,Spalding County,13255,0.0,8.714285714285714,0.0,0.14285714285714285
+05-03-2020,May 03,Spalding County,13255,0.0,2.2857142857142856,0.0,0.14285714285714285
+05-04-2020,May 04,Spalding County,13255,0.0,2.142857142857143,0.0,0.14285714285714285
 03-02-2020,Mar 02,Stephens County,13257,0.0,,0.0,
 03-03-2020,Mar 03,Stephens County,13257,0.0,,0.0,
 03-04-2020,Mar 04,Stephens County,13257,0.0,,0.0,
@@ -7873,6 +8125,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Stephens County,13257,0.0,4.428571428571429,0.0,0.0
 05-01-2020,May 01,Stephens County,13257,0.0,3.5714285714285716,0.0,0.0
 05-02-2020,May 02,Stephens County,13257,0.0,2.5714285714285716,0.0,0.0
+05-03-2020,May 03,Stephens County,13257,0.0,2.4285714285714284,0.0,0.0
+05-04-2020,May 04,Stephens County,13257,0.0,0.42857142857142855,0.0,0.0
 03-02-2020,Mar 02,Stewart County,13259,0.0,,0.0,
 03-03-2020,Mar 03,Stewart County,13259,0.0,,0.0,
 03-04-2020,Mar 04,Stewart County,13259,0.0,,0.0,
@@ -7935,6 +8189,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Stewart County,13259,0.0,0.8571428571428571,0.0,0.0
 05-01-2020,May 01,Stewart County,13259,0.0,0.8571428571428571,0.0,0.0
 05-02-2020,May 02,Stewart County,13259,0.0,0.8571428571428571,0.0,0.0
+05-03-2020,May 03,Stewart County,13259,0.0,0.8571428571428571,0.0,0.0
+05-04-2020,May 04,Stewart County,13259,0.0,0.8571428571428571,0.0,0.0
 03-02-2020,Mar 02,Sumter County,13261,0.0,,0.0,
 03-03-2020,Mar 03,Sumter County,13261,0.0,,0.0,
 03-04-2020,Mar 04,Sumter County,13261,0.0,,0.0,
@@ -7997,6 +8253,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Sumter County,13261,0.0,5.285714285714286,0.0,1.1428571428571428
 05-01-2020,May 01,Sumter County,13261,0.0,4.857142857142857,0.0,1.0
 05-02-2020,May 02,Sumter County,13261,0.0,4.285714285714286,0.0,1.0
+05-03-2020,May 03,Sumter County,13261,0.0,4.0,0.0,1.0
+05-04-2020,May 04,Sumter County,13261,0.0,3.142857142857143,0.0,1.0
 03-02-2020,Mar 02,Talbot County,13263,0.0,,0.0,
 03-03-2020,Mar 03,Talbot County,13263,0.0,,0.0,
 03-04-2020,Mar 04,Talbot County,13263,0.0,,0.0,
@@ -8059,6 +8317,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Talbot County,13263,0.0,0.42857142857142855,0.0,0.0
 05-01-2020,May 01,Talbot County,13263,0.0,0.42857142857142855,0.0,0.0
 05-02-2020,May 02,Talbot County,13263,0.0,0.42857142857142855,0.0,0.0
+05-03-2020,May 03,Talbot County,13263,0.0,0.42857142857142855,0.0,0.0
+05-04-2020,May 04,Talbot County,13263,0.0,0.42857142857142855,0.0,0.0
 03-02-2020,Mar 02,Tattnall County,13267,0.0,,0.0,
 03-03-2020,Mar 03,Tattnall County,13267,0.0,,0.0,
 03-04-2020,Mar 04,Tattnall County,13267,0.0,,0.0,
@@ -8121,6 +8381,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Tattnall County,13267,0.0,0.5714285714285714,0.0,0.0
 05-01-2020,May 01,Tattnall County,13267,0.0,0.5714285714285714,0.0,0.0
 05-02-2020,May 02,Tattnall County,13267,0.0,0.5714285714285714,0.0,0.0
+05-03-2020,May 03,Tattnall County,13267,0.0,0.5714285714285714,0.0,0.0
+05-04-2020,May 04,Tattnall County,13267,0.0,0.42857142857142855,0.0,0.0
 03-02-2020,Mar 02,Taylor County,13269,0.0,,0.0,
 03-03-2020,Mar 03,Taylor County,13269,0.0,,0.0,
 03-04-2020,Mar 04,Taylor County,13269,0.0,,0.0,
@@ -8183,6 +8445,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Taylor County,13269,0.0,0.5714285714285714,0.0,0.0
 05-01-2020,May 01,Taylor County,13269,0.0,0.42857142857142855,0.0,0.0
 05-02-2020,May 02,Taylor County,13269,0.0,0.42857142857142855,0.0,0.0
+05-03-2020,May 03,Taylor County,13269,0.0,0.14285714285714285,0.0,0.0
+05-04-2020,May 04,Taylor County,13269,0.0,0.14285714285714285,0.0,0.0
 03-02-2020,Mar 02,Telfair County,13271,0.0,,0.0,
 03-03-2020,Mar 03,Telfair County,13271,0.0,,0.0,
 03-04-2020,Mar 04,Telfair County,13271,0.0,,0.0,
@@ -8245,6 +8509,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Telfair County,13271,0.0,1.2857142857142858,0.0,0.0
 05-01-2020,May 01,Telfair County,13271,0.0,1.2857142857142858,0.0,0.0
 05-02-2020,May 02,Telfair County,13271,0.0,0.7142857142857143,0.0,0.0
+05-03-2020,May 03,Telfair County,13271,0.0,0.0,0.0,0.0
+05-04-2020,May 04,Telfair County,13271,0.0,0.0,0.0,0.0
 03-02-2020,Mar 02,Terrell County,13273,0.0,,0.0,
 03-03-2020,Mar 03,Terrell County,13273,0.0,,0.0,
 03-04-2020,Mar 04,Terrell County,13273,0.0,,0.0,
@@ -8307,6 +8573,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Terrell County,13273,0.0,2.5714285714285716,0.0,0.14285714285714285
 05-01-2020,May 01,Terrell County,13273,0.0,2.142857142857143,0.0,0.14285714285714285
 05-02-2020,May 02,Terrell County,13273,0.0,1.7142857142857142,0.0,0.14285714285714285
+05-03-2020,May 03,Terrell County,13273,0.0,1.7142857142857142,0.0,0.14285714285714285
+05-04-2020,May 04,Terrell County,13273,0.0,1.7142857142857142,0.0,0.14285714285714285
 03-02-2020,Mar 02,Thomas County,13275,0.0,,0.0,
 03-03-2020,Mar 03,Thomas County,13275,0.0,,0.0,
 03-04-2020,Mar 04,Thomas County,13275,0.0,,0.0,
@@ -8369,6 +8637,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Thomas County,13275,0.0,4.285714285714286,0.0,0.7142857142857143
 05-01-2020,May 01,Thomas County,13275,0.0,3.0,0.0,0.42857142857142855
 05-02-2020,May 02,Thomas County,13275,0.0,3.0,0.0,0.42857142857142855
+05-03-2020,May 03,Thomas County,13275,0.0,3.0,0.0,0.42857142857142855
+05-04-2020,May 04,Thomas County,13275,0.0,2.857142857142857,0.0,0.42857142857142855
 03-02-2020,Mar 02,Tift County,13277,0.0,,0.0,
 03-03-2020,Mar 03,Tift County,13277,0.0,,0.0,
 03-04-2020,Mar 04,Tift County,13277,0.0,,0.0,
@@ -8431,6 +8701,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Tift County,13277,0.0,2.4285714285714284,0.0,0.2857142857142857
 05-01-2020,May 01,Tift County,13277,0.0,1.8571428571428572,0.0,0.2857142857142857
 05-02-2020,May 02,Tift County,13277,0.0,1.8571428571428572,0.0,0.2857142857142857
+05-03-2020,May 03,Tift County,13277,0.0,1.8571428571428572,0.0,0.2857142857142857
+05-04-2020,May 04,Tift County,13277,0.0,1.8571428571428572,0.0,0.14285714285714285
 03-02-2020,Mar 02,Toombs County,13279,0.0,,0.0,
 03-03-2020,Mar 03,Toombs County,13279,0.0,,0.0,
 03-04-2020,Mar 04,Toombs County,13279,0.0,,0.0,
@@ -8493,6 +8765,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Toombs County,13279,0.0,1.2857142857142858,0.0,0.0
 05-01-2020,May 01,Toombs County,13279,0.0,1.0,0.0,0.0
 05-02-2020,May 02,Toombs County,13279,0.0,0.5714285714285714,0.0,0.0
+05-03-2020,May 03,Toombs County,13279,0.0,0.42857142857142855,0.0,0.0
+05-04-2020,May 04,Toombs County,13279,0.0,0.42857142857142855,0.0,0.0
 03-02-2020,Mar 02,Towns County,13281,0.0,,0.0,
 03-03-2020,Mar 03,Towns County,13281,0.0,,0.0,
 03-04-2020,Mar 04,Towns County,13281,0.0,,0.0,
@@ -8555,6 +8829,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Towns County,13281,0.0,0.2857142857142857,0.0,0.14285714285714285
 05-01-2020,May 01,Towns County,13281,0.0,0.2857142857142857,0.0,0.14285714285714285
 05-02-2020,May 02,Towns County,13281,0.0,0.14285714285714285,0.0,0.14285714285714285
+05-03-2020,May 03,Towns County,13281,0.0,0.14285714285714285,0.0,0.14285714285714285
+05-04-2020,May 04,Towns County,13281,0.0,0.14285714285714285,0.0,0.14285714285714285
 03-02-2020,Mar 02,Treutlen County,13283,0.0,,0.0,
 03-03-2020,Mar 03,Treutlen County,13283,0.0,,0.0,
 03-04-2020,Mar 04,Treutlen County,13283,0.0,,0.0,
@@ -8617,6 +8893,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Treutlen County,13283,0.0,0.14285714285714285,0.0,0.0
 05-01-2020,May 01,Treutlen County,13283,0.0,0.14285714285714285,0.0,0.0
 05-02-2020,May 02,Treutlen County,13283,0.0,0.14285714285714285,0.0,0.0
+05-03-2020,May 03,Treutlen County,13283,0.0,0.14285714285714285,0.0,0.0
+05-04-2020,May 04,Treutlen County,13283,0.0,0.14285714285714285,0.0,0.0
 03-02-2020,Mar 02,Troup County,13285,0.0,,0.0,
 03-03-2020,Mar 03,Troup County,13285,0.0,,0.0,
 03-04-2020,Mar 04,Troup County,13285,0.0,,0.0,
@@ -8679,6 +8957,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Troup County,13285,0.0,5.142857142857143,0.0,0.0
 05-01-2020,May 01,Troup County,13285,0.0,3.857142857142857,0.0,0.0
 05-02-2020,May 02,Troup County,13285,0.0,3.2857142857142856,0.0,0.0
+05-03-2020,May 03,Troup County,13285,0.0,3.2857142857142856,0.0,0.0
+05-04-2020,May 04,Troup County,13285,0.0,2.7142857142857144,0.0,0.0
 03-02-2020,Mar 02,Turner County,13287,0.0,,0.0,
 03-03-2020,Mar 03,Turner County,13287,0.0,,0.0,
 03-04-2020,Mar 04,Turner County,13287,0.0,,0.0,
@@ -8741,6 +9021,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Turner County,13287,0.0,1.1428571428571428,0.0,0.42857142857142855
 05-01-2020,May 01,Turner County,13287,0.0,0.8571428571428571,0.0,0.2857142857142857
 05-02-2020,May 02,Turner County,13287,0.0,0.7142857142857143,0.0,0.2857142857142857
+05-03-2020,May 03,Turner County,13287,0.0,0.7142857142857143,0.0,0.2857142857142857
+05-04-2020,May 04,Turner County,13287,0.0,0.5714285714285714,0.0,0.2857142857142857
 03-02-2020,Mar 02,Twiggs County,13289,0.0,,0.0,
 03-03-2020,Mar 03,Twiggs County,13289,0.0,,0.0,
 03-04-2020,Mar 04,Twiggs County,13289,0.0,,0.0,
@@ -8803,6 +9085,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Twiggs County,13289,0.0,0.2857142857142857,0.0,0.0
 05-01-2020,May 01,Twiggs County,13289,0.0,0.2857142857142857,0.0,0.0
 05-02-2020,May 02,Twiggs County,13289,0.0,0.14285714285714285,0.0,0.0
+05-03-2020,May 03,Twiggs County,13289,0.0,0.14285714285714285,0.0,0.0
+05-04-2020,May 04,Twiggs County,13289,0.0,0.14285714285714285,0.0,0.0
 03-02-2020,Mar 02,Union County,13291,0.0,,0.0,
 03-03-2020,Mar 03,Union County,13291,0.0,,0.0,
 03-04-2020,Mar 04,Union County,13291,0.0,,0.0,
@@ -8865,6 +9149,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Union County,13291,0.0,2.142857142857143,0.0,0.0
 05-01-2020,May 01,Union County,13291,0.0,1.1428571428571428,0.0,0.0
 05-02-2020,May 02,Union County,13291,0.0,0.8571428571428571,0.0,0.0
+05-03-2020,May 03,Union County,13291,0.0,0.7142857142857143,0.0,0.0
+05-04-2020,May 04,Union County,13291,0.0,0.14285714285714285,0.0,0.0
 03-02-2020,Mar 02,Upson County,13293,0.0,,0.0,
 03-03-2020,Mar 03,Upson County,13293,0.0,,0.0,
 03-04-2020,Mar 04,Upson County,13293,0.0,,0.0,
@@ -8927,6 +9213,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Upson County,13293,0.0,3.857142857142857,0.0,0.7142857142857143
 05-01-2020,May 01,Upson County,13293,0.0,3.0,0.0,0.42857142857142855
 05-02-2020,May 02,Upson County,13293,0.0,2.7142857142857144,0.0,0.42857142857142855
+05-03-2020,May 03,Upson County,13293,0.0,2.2857142857142856,0.0,0.42857142857142855
+05-04-2020,May 04,Upson County,13293,0.0,2.142857142857143,0.0,0.42857142857142855
 03-02-2020,Mar 02,Walker County,13295,0.0,,0.0,
 03-03-2020,Mar 03,Walker County,13295,0.0,,0.0,
 03-04-2020,Mar 04,Walker County,13295,0.0,,0.0,
@@ -8989,6 +9277,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Walker County,13295,0.0,0.2857142857142857,0.0,0.0
 05-01-2020,May 01,Walker County,13295,0.0,0.2857142857142857,0.0,0.0
 05-02-2020,May 02,Walker County,13295,0.0,0.2857142857142857,0.0,0.0
+05-03-2020,May 03,Walker County,13295,0.0,0.2857142857142857,0.0,0.0
+05-04-2020,May 04,Walker County,13295,0.0,0.2857142857142857,0.0,0.0
 03-02-2020,Mar 02,Walton County,13297,0.0,,0.0,
 03-03-2020,Mar 03,Walton County,13297,0.0,,0.0,
 03-04-2020,Mar 04,Walton County,13297,0.0,,0.0,
@@ -9051,6 +9341,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Walton County,13297,0.0,6.857142857142857,0.0,0.14285714285714285
 05-01-2020,May 01,Walton County,13297,0.0,5.714285714285714,0.0,0.14285714285714285
 05-02-2020,May 02,Walton County,13297,0.0,4.142857142857143,0.0,0.14285714285714285
+05-03-2020,May 03,Walton County,13297,0.0,3.7142857142857144,0.0,0.14285714285714285
+05-04-2020,May 04,Walton County,13297,0.0,3.7142857142857144,0.0,0.14285714285714285
 03-02-2020,Mar 02,Ware County,13299,0.0,,0.0,
 03-03-2020,Mar 03,Ware County,13299,0.0,,0.0,
 03-04-2020,Mar 04,Ware County,13299,0.0,,0.0,
@@ -9113,6 +9405,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Ware County,13299,0.0,2.857142857142857,0.0,0.42857142857142855
 05-01-2020,May 01,Ware County,13299,0.0,2.142857142857143,0.0,0.42857142857142855
 05-02-2020,May 02,Ware County,13299,0.0,1.7142857142857142,0.0,0.2857142857142857
+05-03-2020,May 03,Ware County,13299,0.0,1.4285714285714286,0.0,0.2857142857142857
+05-04-2020,May 04,Ware County,13299,0.0,1.1428571428571428,0.0,0.2857142857142857
 03-02-2020,Mar 02,Warren County,13301,0.0,,0.0,
 03-03-2020,Mar 03,Warren County,13301,0.0,,0.0,
 03-04-2020,Mar 04,Warren County,13301,0.0,,0.0,
@@ -9175,6 +9469,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Warren County,13301,0.0,0.2857142857142857,0.0,0.0
 05-01-2020,May 01,Warren County,13301,0.0,0.0,0.0,0.0
 05-02-2020,May 02,Warren County,13301,0.0,0.0,0.0,0.0
+05-03-2020,May 03,Warren County,13301,0.0,0.0,0.0,0.0
+05-04-2020,May 04,Warren County,13301,0.0,0.0,0.0,0.0
 03-02-2020,Mar 02,Washington County,13303,0.0,,0.0,
 03-03-2020,Mar 03,Washington County,13303,0.0,,0.0,
 03-04-2020,Mar 04,Washington County,13303,0.0,,0.0,
@@ -9237,6 +9533,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Washington County,13303,0.0,1.4285714285714286,0.0,0.0
 05-01-2020,May 01,Washington County,13303,0.0,1.4285714285714286,0.0,0.0
 05-02-2020,May 02,Washington County,13303,0.0,0.7142857142857143,0.0,0.0
+05-03-2020,May 03,Washington County,13303,0.0,0.5714285714285714,0.0,0.0
+05-04-2020,May 04,Washington County,13303,0.0,0.5714285714285714,0.0,0.0
 03-02-2020,Mar 02,Wayne County,13305,0.0,,0.0,
 03-03-2020,Mar 03,Wayne County,13305,0.0,,0.0,
 03-04-2020,Mar 04,Wayne County,13305,0.0,,0.0,
@@ -9299,6 +9597,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Wayne County,13305,0.0,0.2857142857142857,0.0,0.0
 05-01-2020,May 01,Wayne County,13305,0.0,0.2857142857142857,0.0,0.0
 05-02-2020,May 02,Wayne County,13305,0.0,0.14285714285714285,0.0,0.0
+05-03-2020,May 03,Wayne County,13305,0.0,0.14285714285714285,0.0,0.0
+05-04-2020,May 04,Wayne County,13305,0.0,0.14285714285714285,0.0,0.0
 03-02-2020,Mar 02,Webster County,13307,0.0,,0.0,
 03-03-2020,Mar 03,Webster County,13307,0.0,,0.0,
 03-04-2020,Mar 04,Webster County,13307,0.0,,0.0,
@@ -9361,6 +9661,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Webster County,13307,0.0,0.42857142857142855,0.0,0.2857142857142857
 05-01-2020,May 01,Webster County,13307,0.0,0.42857142857142855,0.0,0.2857142857142857
 05-02-2020,May 02,Webster County,13307,0.0,0.42857142857142855,0.0,0.2857142857142857
+05-03-2020,May 03,Webster County,13307,0.0,0.42857142857142855,0.0,0.2857142857142857
+05-04-2020,May 04,Webster County,13307,0.0,0.2857142857142857,0.0,0.14285714285714285
 03-02-2020,Mar 02,Wheeler County,13309,0.0,,0.0,
 03-03-2020,Mar 03,Wheeler County,13309,0.0,,0.0,
 03-04-2020,Mar 04,Wheeler County,13309,0.0,,0.0,
@@ -9423,6 +9725,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Wheeler County,13309,0.0,0.14285714285714285,0.0,0.0
 05-01-2020,May 01,Wheeler County,13309,0.0,0.14285714285714285,0.0,0.0
 05-02-2020,May 02,Wheeler County,13309,0.0,0.14285714285714285,0.0,0.0
+05-03-2020,May 03,Wheeler County,13309,0.0,0.14285714285714285,0.0,0.0
+05-04-2020,May 04,Wheeler County,13309,0.0,0.14285714285714285,0.0,0.0
 03-02-2020,Mar 02,White County,13311,0.0,,0.0,
 03-03-2020,Mar 03,White County,13311,0.0,,0.0,
 03-04-2020,Mar 04,White County,13311,0.0,,0.0,
@@ -9485,6 +9789,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,White County,13311,0.0,3.7142857142857144,0.0,0.0
 05-01-2020,May 01,White County,13311,0.0,3.2857142857142856,0.0,0.0
 05-02-2020,May 02,White County,13311,0.0,3.0,0.0,0.0
+05-03-2020,May 03,White County,13311,0.0,3.0,0.0,0.0
+05-04-2020,May 04,White County,13311,0.0,3.0,0.0,0.0
 03-02-2020,Mar 02,Whitfield County,13313,0.0,,0.0,
 03-03-2020,Mar 03,Whitfield County,13313,0.0,,0.0,
 03-04-2020,Mar 04,Whitfield County,13313,0.0,,0.0,
@@ -9547,6 +9853,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Whitfield County,13313,0.0,3.7142857142857144,0.0,0.0
 05-01-2020,May 01,Whitfield County,13313,0.0,2.857142857142857,0.0,0.0
 05-02-2020,May 02,Whitfield County,13313,0.0,2.4285714285714284,0.0,0.0
+05-03-2020,May 03,Whitfield County,13313,0.0,2.2857142857142856,0.0,0.0
+05-04-2020,May 04,Whitfield County,13313,0.0,2.2857142857142856,0.0,0.0
 03-02-2020,Mar 02,Wilcox County,13315,0.0,,0.0,
 03-03-2020,Mar 03,Wilcox County,13315,0.0,,0.0,
 03-04-2020,Mar 04,Wilcox County,13315,0.0,,0.0,
@@ -9609,6 +9917,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Wilcox County,13315,0.0,5.285714285714286,0.0,0.42857142857142855
 05-01-2020,May 01,Wilcox County,13315,0.0,3.4285714285714284,0.0,0.42857142857142855
 05-02-2020,May 02,Wilcox County,13315,0.0,2.857142857142857,0.0,0.42857142857142855
+05-03-2020,May 03,Wilcox County,13315,0.0,2.857142857142857,0.0,0.42857142857142855
+05-04-2020,May 04,Wilcox County,13315,0.0,2.857142857142857,0.0,0.42857142857142855
 03-02-2020,Mar 02,Wilkes County,13317,0.0,,0.0,
 03-03-2020,Mar 03,Wilkes County,13317,0.0,,0.0,
 03-04-2020,Mar 04,Wilkes County,13317,0.0,,0.0,
@@ -9671,6 +9981,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Wilkes County,13317,0.0,0.42857142857142855,0.0,0.0
 05-01-2020,May 01,Wilkes County,13317,0.0,0.2857142857142857,0.0,0.0
 05-02-2020,May 02,Wilkes County,13317,0.0,0.2857142857142857,0.0,0.0
+05-03-2020,May 03,Wilkes County,13317,0.0,0.2857142857142857,0.0,0.0
+05-04-2020,May 04,Wilkes County,13317,0.0,0.14285714285714285,0.0,0.0
 03-02-2020,Mar 02,Wilkinson County,13319,0.0,,0.0,
 03-03-2020,Mar 03,Wilkinson County,13319,0.0,,0.0,
 03-04-2020,Mar 04,Wilkinson County,13319,0.0,,0.0,
@@ -9733,6 +10045,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Wilkinson County,13319,0.0,1.8571428571428572,0.0,0.0
 05-01-2020,May 01,Wilkinson County,13319,0.0,1.1428571428571428,0.0,0.0
 05-02-2020,May 02,Wilkinson County,13319,0.0,0.8571428571428571,0.0,0.0
+05-03-2020,May 03,Wilkinson County,13319,0.0,0.7142857142857143,0.0,0.0
+05-04-2020,May 04,Wilkinson County,13319,0.0,0.5714285714285714,0.0,0.0
 03-02-2020,Mar 02,Worth County,13321,0.0,,0.0,
 03-03-2020,Mar 03,Worth County,13321,0.0,,0.0,
 03-04-2020,Mar 04,Worth County,13321,0.0,,0.0,
@@ -9795,6 +10109,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Worth County,13321,0.0,1.5714285714285714,0.0,0.2857142857142857
 05-01-2020,May 01,Worth County,13321,0.0,1.5714285714285714,0.0,0.2857142857142857
 05-02-2020,May 02,Worth County,13321,0.0,1.5714285714285714,0.0,0.2857142857142857
+05-03-2020,May 03,Worth County,13321,0.0,1.2857142857142858,0.0,0.2857142857142857
+05-04-2020,May 04,Worth County,13321,0.0,1.1428571428571428,0.0,0.2857142857142857
 03-02-2020,Mar 02,Appling,,0.0,,0.0,
 03-02-2020,Mar 02,Atkinson,,0.0,,0.0,
 03-02-2020,Mar 02,Bacon,,0.0,,0.0,
@@ -9924,6 +10240,7 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 03-02-2020,Mar 02,Stewart,,0.0,,0.0,
 03-02-2020,Mar 02,Sumter,,0.0,,0.0,
 03-02-2020,Mar 02,Talbot,,0.0,,0.0,
+03-02-2020,Mar 02,Taliaferro,,0.0,,0.0,
 03-02-2020,Mar 02,Tattnall,,0.0,,0.0,
 03-02-2020,Mar 02,Taylor,,0.0,,0.0,
 03-02-2020,Mar 02,Telfair,,0.0,,0.0,
@@ -10081,6 +10398,7 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 03-03-2020,Mar 03,Stewart,,0.0,,0.0,
 03-03-2020,Mar 03,Sumter,,0.0,,0.0,
 03-03-2020,Mar 03,Talbot,,0.0,,0.0,
+03-03-2020,Mar 03,Taliaferro,,0.0,,0.0,
 03-03-2020,Mar 03,Tattnall,,0.0,,0.0,
 03-03-2020,Mar 03,Taylor,,0.0,,0.0,
 03-03-2020,Mar 03,Telfair,,0.0,,0.0,
@@ -10238,6 +10556,7 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 03-04-2020,Mar 04,Stewart,,0.0,,0.0,
 03-04-2020,Mar 04,Sumter,,0.0,,0.0,
 03-04-2020,Mar 04,Talbot,,0.0,,0.0,
+03-04-2020,Mar 04,Taliaferro,,0.0,,0.0,
 03-04-2020,Mar 04,Tattnall,,0.0,,0.0,
 03-04-2020,Mar 04,Taylor,,0.0,,0.0,
 03-04-2020,Mar 04,Telfair,,0.0,,0.0,
@@ -10395,6 +10714,7 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 03-05-2020,Mar 05,Stewart,,0.0,,0.0,
 03-05-2020,Mar 05,Sumter,,0.0,,0.0,
 03-05-2020,Mar 05,Talbot,,0.0,,0.0,
+03-05-2020,Mar 05,Taliaferro,,0.0,,0.0,
 03-05-2020,Mar 05,Tattnall,,0.0,,0.0,
 03-05-2020,Mar 05,Taylor,,0.0,,0.0,
 03-05-2020,Mar 05,Telfair,,0.0,,0.0,
@@ -10552,6 +10872,7 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 03-06-2020,Mar 06,Stewart,,0.0,,0.0,
 03-06-2020,Mar 06,Sumter,,0.0,,0.0,
 03-06-2020,Mar 06,Talbot,,0.0,,0.0,
+03-06-2020,Mar 06,Taliaferro,,0.0,,0.0,
 03-06-2020,Mar 06,Tattnall,,0.0,,0.0,
 03-06-2020,Mar 06,Taylor,,0.0,,0.0,
 03-06-2020,Mar 06,Telfair,,0.0,,0.0,
@@ -10709,6 +11030,7 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 03-07-2020,Mar 07,Stewart,,0.0,,0.0,
 03-07-2020,Mar 07,Sumter,,0.0,,0.0,
 03-07-2020,Mar 07,Talbot,,0.0,,0.0,
+03-07-2020,Mar 07,Taliaferro,,0.0,,0.0,
 03-07-2020,Mar 07,Tattnall,,0.0,,0.0,
 03-07-2020,Mar 07,Taylor,,0.0,,0.0,
 03-07-2020,Mar 07,Telfair,,0.0,,0.0,
@@ -10866,6 +11188,7 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 03-08-2020,Mar 08,Stewart,,0.0,0.0,0.0,0.0
 03-08-2020,Mar 08,Sumter,,0.0,0.0,0.0,0.0
 03-08-2020,Mar 08,Talbot,,0.0,0.0,0.0,0.0
+03-08-2020,Mar 08,Taliaferro,,0.0,0.0,0.0,0.0
 03-08-2020,Mar 08,Tattnall,,0.0,0.0,0.0,0.0
 03-08-2020,Mar 08,Taylor,,0.0,0.0,0.0,0.0
 03-08-2020,Mar 08,Telfair,,0.0,0.0,0.0,0.0
@@ -11023,6 +11346,7 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 03-09-2020,Mar 09,Stewart,,0.0,0.0,0.0,0.0
 03-09-2020,Mar 09,Sumter,,0.0,0.0,0.0,0.0
 03-09-2020,Mar 09,Talbot,,0.0,0.0,0.0,0.0
+03-09-2020,Mar 09,Taliaferro,,0.0,0.0,0.0,0.0
 03-09-2020,Mar 09,Tattnall,,0.0,0.0,0.0,0.0
 03-09-2020,Mar 09,Taylor,,0.0,0.0,0.0,0.0
 03-09-2020,Mar 09,Telfair,,0.0,0.0,0.0,0.0
@@ -11180,6 +11504,7 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 03-10-2020,Mar 10,Stewart,,0.0,0.0,0.0,0.0
 03-10-2020,Mar 10,Sumter,,0.0,0.0,0.0,0.0
 03-10-2020,Mar 10,Talbot,,0.0,0.0,0.0,0.0
+03-10-2020,Mar 10,Taliaferro,,0.0,0.0,0.0,0.0
 03-10-2020,Mar 10,Tattnall,,0.0,0.0,0.0,0.0
 03-10-2020,Mar 10,Taylor,,0.0,0.0,0.0,0.0
 03-10-2020,Mar 10,Telfair,,0.0,0.0,0.0,0.0
@@ -11337,6 +11662,7 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 03-11-2020,Mar 11,Stewart,,0.0,0.0,0.0,0.0
 03-11-2020,Mar 11,Sumter,,0.0,0.0,0.0,0.0
 03-11-2020,Mar 11,Talbot,,0.0,0.0,0.0,0.0
+03-11-2020,Mar 11,Taliaferro,,0.0,0.0,0.0,0.0
 03-11-2020,Mar 11,Tattnall,,0.0,0.0,0.0,0.0
 03-11-2020,Mar 11,Taylor,,0.0,0.0,0.0,0.0
 03-11-2020,Mar 11,Telfair,,0.0,0.0,0.0,0.0
@@ -11494,6 +11820,7 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 03-12-2020,Mar 12,Stewart,,0.0,0.0,0.0,0.0
 03-12-2020,Mar 12,Sumter,,0.0,0.0,0.0,0.0
 03-12-2020,Mar 12,Talbot,,0.0,0.0,0.0,0.0
+03-12-2020,Mar 12,Taliaferro,,0.0,0.0,0.0,0.0
 03-12-2020,Mar 12,Tattnall,,0.0,0.0,0.0,0.0
 03-12-2020,Mar 12,Taylor,,0.0,0.0,0.0,0.0
 03-12-2020,Mar 12,Telfair,,0.0,0.0,0.0,0.0
@@ -11651,6 +11978,7 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 03-13-2020,Mar 13,Stewart,,0.0,0.0,0.0,0.0
 03-13-2020,Mar 13,Sumter,,0.0,0.0,0.0,0.0
 03-13-2020,Mar 13,Talbot,,0.0,0.0,0.0,0.0
+03-13-2020,Mar 13,Taliaferro,,0.0,0.0,0.0,0.0
 03-13-2020,Mar 13,Tattnall,,0.0,0.0,0.0,0.0
 03-13-2020,Mar 13,Taylor,,0.0,0.0,0.0,0.0
 03-13-2020,Mar 13,Telfair,,0.0,0.0,0.0,0.0
@@ -11808,6 +12136,7 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 03-14-2020,Mar 14,Stewart,,0.0,0.0,0.0,0.0
 03-14-2020,Mar 14,Sumter,,0.0,0.0,0.0,0.0
 03-14-2020,Mar 14,Talbot,,0.0,0.0,0.0,0.0
+03-14-2020,Mar 14,Taliaferro,,0.0,0.0,0.0,0.0
 03-14-2020,Mar 14,Tattnall,,0.0,0.0,0.0,0.0
 03-14-2020,Mar 14,Taylor,,0.0,0.0,0.0,0.0
 03-14-2020,Mar 14,Telfair,,0.0,0.0,0.0,0.0
@@ -11965,6 +12294,7 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 03-15-2020,Mar 15,Stewart,,0.0,0.0,0.0,0.0
 03-15-2020,Mar 15,Sumter,,0.0,0.0,0.0,0.0
 03-15-2020,Mar 15,Talbot,,0.0,0.0,0.0,0.0
+03-15-2020,Mar 15,Taliaferro,,0.0,0.0,0.0,0.0
 03-15-2020,Mar 15,Tattnall,,0.0,0.0,0.0,0.0
 03-15-2020,Mar 15,Taylor,,0.0,0.0,0.0,0.0
 03-15-2020,Mar 15,Telfair,,0.0,0.0,0.0,0.0
@@ -12122,6 +12452,7 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 03-16-2020,Mar 16,Stewart,,0.0,0.0,0.0,0.0
 03-16-2020,Mar 16,Sumter,,0.0,0.0,0.0,0.0
 03-16-2020,Mar 16,Talbot,,0.0,0.0,0.0,0.0
+03-16-2020,Mar 16,Taliaferro,,0.0,0.0,0.0,0.0
 03-16-2020,Mar 16,Tattnall,,0.0,0.0,0.0,0.0
 03-16-2020,Mar 16,Taylor,,0.0,0.0,0.0,0.0
 03-16-2020,Mar 16,Telfair,,0.0,0.0,0.0,0.0
@@ -12279,6 +12610,7 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 03-17-2020,Mar 17,Stewart,,0.0,0.0,0.0,0.0
 03-17-2020,Mar 17,Sumter,,0.0,0.0,0.0,0.0
 03-17-2020,Mar 17,Talbot,,0.0,0.0,0.0,0.0
+03-17-2020,Mar 17,Taliaferro,,0.0,0.0,0.0,0.0
 03-17-2020,Mar 17,Tattnall,,0.0,0.0,0.0,0.0
 03-17-2020,Mar 17,Taylor,,0.0,0.0,0.0,0.0
 03-17-2020,Mar 17,Telfair,,0.0,0.0,0.0,0.0
@@ -12436,6 +12768,7 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 03-18-2020,Mar 18,Stewart,,0.0,0.0,0.0,0.0
 03-18-2020,Mar 18,Sumter,,0.0,0.0,0.0,0.0
 03-18-2020,Mar 18,Talbot,,0.0,0.0,0.0,0.0
+03-18-2020,Mar 18,Taliaferro,,0.0,0.0,0.0,0.0
 03-18-2020,Mar 18,Tattnall,,0.0,0.0,0.0,0.0
 03-18-2020,Mar 18,Taylor,,0.0,0.0,0.0,0.0
 03-18-2020,Mar 18,Telfair,,0.0,0.0,0.0,0.0
@@ -12593,6 +12926,7 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 03-19-2020,Mar 19,Stewart,,0.0,0.0,0.0,0.0
 03-19-2020,Mar 19,Sumter,,0.0,0.0,0.0,0.0
 03-19-2020,Mar 19,Talbot,,0.0,0.0,0.0,0.0
+03-19-2020,Mar 19,Taliaferro,,0.0,0.0,0.0,0.0
 03-19-2020,Mar 19,Tattnall,,0.0,0.0,0.0,0.0
 03-19-2020,Mar 19,Taylor,,0.0,0.0,0.0,0.0
 03-19-2020,Mar 19,Telfair,,0.0,0.0,0.0,0.0
@@ -12750,6 +13084,7 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 03-20-2020,Mar 20,Stewart,,0.0,0.0,0.0,0.0
 03-20-2020,Mar 20,Sumter,,0.0,0.0,0.0,0.0
 03-20-2020,Mar 20,Talbot,,0.0,0.0,0.0,0.0
+03-20-2020,Mar 20,Taliaferro,,0.0,0.0,0.0,0.0
 03-20-2020,Mar 20,Tattnall,,0.0,0.0,0.0,0.0
 03-20-2020,Mar 20,Taylor,,0.0,0.0,0.0,0.0
 03-20-2020,Mar 20,Telfair,,0.0,0.0,0.0,0.0
@@ -12907,6 +13242,7 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 03-21-2020,Mar 21,Stewart,,0.0,0.0,0.0,0.0
 03-21-2020,Mar 21,Sumter,,0.0,0.0,0.0,0.0
 03-21-2020,Mar 21,Talbot,,0.0,0.0,0.0,0.0
+03-21-2020,Mar 21,Taliaferro,,0.0,0.0,0.0,0.0
 03-21-2020,Mar 21,Tattnall,,0.0,0.0,0.0,0.0
 03-21-2020,Mar 21,Taylor,,0.0,0.0,0.0,0.0
 03-21-2020,Mar 21,Telfair,,0.0,0.0,0.0,0.0
@@ -13064,6 +13400,7 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 03-22-2020,Mar 22,Stewart,,0.0,0.0,0.0,0.0
 03-22-2020,Mar 22,Sumter,,0.0,0.0,0.0,0.0
 03-22-2020,Mar 22,Talbot,,0.0,0.0,0.0,0.0
+03-22-2020,Mar 22,Taliaferro,,0.0,0.0,0.0,0.0
 03-22-2020,Mar 22,Tattnall,,0.0,0.0,0.0,0.0
 03-22-2020,Mar 22,Taylor,,0.0,0.0,0.0,0.0
 03-22-2020,Mar 22,Telfair,,0.0,0.0,0.0,0.0
@@ -13221,6 +13558,7 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 03-23-2020,Mar 23,Stewart,,0.0,0.0,0.0,0.0
 03-23-2020,Mar 23,Sumter,,0.0,0.0,0.0,0.0
 03-23-2020,Mar 23,Talbot,,0.0,0.0,0.0,0.0
+03-23-2020,Mar 23,Taliaferro,,0.0,0.0,0.0,0.0
 03-23-2020,Mar 23,Tattnall,,0.0,0.0,0.0,0.0
 03-23-2020,Mar 23,Taylor,,0.0,0.0,0.0,0.0
 03-23-2020,Mar 23,Telfair,,0.0,0.0,0.0,0.0
@@ -13378,6 +13716,7 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 03-24-2020,Mar 24,Stewart,,0.0,0.0,0.0,0.0
 03-24-2020,Mar 24,Sumter,,0.0,0.0,0.0,0.0
 03-24-2020,Mar 24,Talbot,,0.0,0.0,0.0,0.0
+03-24-2020,Mar 24,Taliaferro,,0.0,0.0,0.0,0.0
 03-24-2020,Mar 24,Tattnall,,0.0,0.0,0.0,0.0
 03-24-2020,Mar 24,Taylor,,0.0,0.0,0.0,0.0
 03-24-2020,Mar 24,Telfair,,0.0,0.0,0.0,0.0
@@ -13535,6 +13874,7 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 03-25-2020,Mar 25,Stewart,,0.0,0.0,0.0,0.0
 03-25-2020,Mar 25,Sumter,,0.0,0.0,0.0,0.0
 03-25-2020,Mar 25,Talbot,,0.0,0.0,0.0,0.0
+03-25-2020,Mar 25,Taliaferro,,0.0,0.0,0.0,0.0
 03-25-2020,Mar 25,Tattnall,,0.0,0.0,0.0,0.0
 03-25-2020,Mar 25,Taylor,,0.0,0.0,0.0,0.0
 03-25-2020,Mar 25,Telfair,,0.0,0.0,0.0,0.0
@@ -13692,6 +14032,7 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 03-26-2020,Mar 26,Stewart,,0.0,0.0,0.0,0.0
 03-26-2020,Mar 26,Sumter,,0.0,0.0,0.0,0.0
 03-26-2020,Mar 26,Talbot,,0.0,0.0,0.0,0.0
+03-26-2020,Mar 26,Taliaferro,,0.0,0.0,0.0,0.0
 03-26-2020,Mar 26,Tattnall,,0.0,0.0,0.0,0.0
 03-26-2020,Mar 26,Taylor,,0.0,0.0,0.0,0.0
 03-26-2020,Mar 26,Telfair,,0.0,0.0,0.0,0.0
@@ -13849,6 +14190,7 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 03-27-2020,Mar 27,Stewart,,0.0,0.0,0.0,0.0
 03-27-2020,Mar 27,Sumter,,0.0,0.0,0.0,0.0
 03-27-2020,Mar 27,Talbot,,0.0,0.0,0.0,0.0
+03-27-2020,Mar 27,Taliaferro,,0.0,0.0,0.0,0.0
 03-27-2020,Mar 27,Tattnall,,0.0,0.0,0.0,0.0
 03-27-2020,Mar 27,Taylor,,0.0,0.0,0.0,0.0
 03-27-2020,Mar 27,Telfair,,0.0,0.0,0.0,0.0
@@ -14006,6 +14348,7 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 03-28-2020,Mar 28,Stewart,,0.0,0.0,0.0,0.0
 03-28-2020,Mar 28,Sumter,,0.0,0.0,0.0,0.0
 03-28-2020,Mar 28,Talbot,,0.0,0.0,0.0,0.0
+03-28-2020,Mar 28,Taliaferro,,0.0,0.0,0.0,0.0
 03-28-2020,Mar 28,Tattnall,,0.0,0.0,0.0,0.0
 03-28-2020,Mar 28,Taylor,,0.0,0.0,0.0,0.0
 03-28-2020,Mar 28,Telfair,,0.0,0.0,0.0,0.0
@@ -14163,6 +14506,7 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 03-29-2020,Mar 29,Stewart,,0.0,0.0,0.0,0.0
 03-29-2020,Mar 29,Sumter,,0.0,0.0,0.0,0.0
 03-29-2020,Mar 29,Talbot,,0.0,0.0,0.0,0.0
+03-29-2020,Mar 29,Taliaferro,,0.0,0.0,0.0,0.0
 03-29-2020,Mar 29,Tattnall,,0.0,0.0,0.0,0.0
 03-29-2020,Mar 29,Taylor,,0.0,0.0,0.0,0.0
 03-29-2020,Mar 29,Telfair,,0.0,0.0,0.0,0.0
@@ -14320,6 +14664,7 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 03-30-2020,Mar 30,Stewart,,0.0,0.0,0.0,0.0
 03-30-2020,Mar 30,Sumter,,0.0,0.0,0.0,0.0
 03-30-2020,Mar 30,Talbot,,0.0,0.0,0.0,0.0
+03-30-2020,Mar 30,Taliaferro,,0.0,0.0,0.0,0.0
 03-30-2020,Mar 30,Tattnall,,0.0,0.0,0.0,0.0
 03-30-2020,Mar 30,Taylor,,0.0,0.0,0.0,0.0
 03-30-2020,Mar 30,Telfair,,0.0,0.0,0.0,0.0
@@ -14477,6 +14822,7 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 03-31-2020,Mar 31,Stewart,,0.0,0.0,0.0,0.0
 03-31-2020,Mar 31,Sumter,,0.0,0.0,0.0,0.0
 03-31-2020,Mar 31,Talbot,,0.0,0.0,0.0,0.0
+03-31-2020,Mar 31,Taliaferro,,0.0,0.0,0.0,0.0
 03-31-2020,Mar 31,Tattnall,,0.0,0.0,0.0,0.0
 03-31-2020,Mar 31,Taylor,,0.0,0.0,0.0,0.0
 03-31-2020,Mar 31,Telfair,,0.0,0.0,0.0,0.0
@@ -14634,6 +14980,7 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-01-2020,Apr 01,Stewart,,0.0,0.0,0.0,0.0
 04-01-2020,Apr 01,Sumter,,0.0,0.0,0.0,0.0
 04-01-2020,Apr 01,Talbot,,0.0,0.0,0.0,0.0
+04-01-2020,Apr 01,Taliaferro,,0.0,0.0,0.0,0.0
 04-01-2020,Apr 01,Tattnall,,0.0,0.0,0.0,0.0
 04-01-2020,Apr 01,Taylor,,0.0,0.0,0.0,0.0
 04-01-2020,Apr 01,Telfair,,0.0,0.0,0.0,0.0
@@ -14791,6 +15138,7 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-02-2020,Apr 02,Stewart,,0.0,0.0,0.0,0.0
 04-02-2020,Apr 02,Sumter,,0.0,0.0,0.0,0.0
 04-02-2020,Apr 02,Talbot,,0.0,0.0,0.0,0.0
+04-02-2020,Apr 02,Taliaferro,,0.0,0.0,0.0,0.0
 04-02-2020,Apr 02,Tattnall,,0.0,0.0,0.0,0.0
 04-02-2020,Apr 02,Taylor,,0.0,0.0,0.0,0.0
 04-02-2020,Apr 02,Telfair,,0.0,0.0,0.0,0.0
@@ -14948,6 +15296,7 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-03-2020,Apr 03,Stewart,,0.0,0.0,0.0,0.0
 04-03-2020,Apr 03,Sumter,,0.0,0.0,0.0,0.0
 04-03-2020,Apr 03,Talbot,,0.0,0.0,0.0,0.0
+04-03-2020,Apr 03,Taliaferro,,0.0,0.0,0.0,0.0
 04-03-2020,Apr 03,Tattnall,,0.0,0.0,0.0,0.0
 04-03-2020,Apr 03,Taylor,,0.0,0.0,0.0,0.0
 04-03-2020,Apr 03,Telfair,,0.0,0.0,0.0,0.0
@@ -15105,6 +15454,7 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-04-2020,Apr 04,Stewart,,0.0,0.0,0.0,0.0
 04-04-2020,Apr 04,Sumter,,0.0,0.0,0.0,0.0
 04-04-2020,Apr 04,Talbot,,0.0,0.0,0.0,0.0
+04-04-2020,Apr 04,Taliaferro,,0.0,0.0,0.0,0.0
 04-04-2020,Apr 04,Tattnall,,0.0,0.0,0.0,0.0
 04-04-2020,Apr 04,Taylor,,0.0,0.0,0.0,0.0
 04-04-2020,Apr 04,Telfair,,0.0,0.0,0.0,0.0
@@ -15262,6 +15612,7 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-05-2020,Apr 05,Stewart,,0.0,0.0,0.0,0.0
 04-05-2020,Apr 05,Sumter,,0.0,0.0,0.0,0.0
 04-05-2020,Apr 05,Talbot,,0.0,0.0,0.0,0.0
+04-05-2020,Apr 05,Taliaferro,,0.0,0.0,0.0,0.0
 04-05-2020,Apr 05,Tattnall,,0.0,0.0,0.0,0.0
 04-05-2020,Apr 05,Taylor,,0.0,0.0,0.0,0.0
 04-05-2020,Apr 05,Telfair,,0.0,0.0,0.0,0.0
@@ -15419,6 +15770,7 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-06-2020,Apr 06,Stewart,,0.0,0.0,0.0,0.0
 04-06-2020,Apr 06,Sumter,,0.0,0.0,0.0,0.0
 04-06-2020,Apr 06,Talbot,,0.0,0.0,0.0,0.0
+04-06-2020,Apr 06,Taliaferro,,0.0,0.0,0.0,0.0
 04-06-2020,Apr 06,Tattnall,,0.0,0.0,0.0,0.0
 04-06-2020,Apr 06,Taylor,,0.0,0.0,0.0,0.0
 04-06-2020,Apr 06,Telfair,,0.0,0.0,0.0,0.0
@@ -15576,6 +15928,7 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-07-2020,Apr 07,Stewart,,0.0,0.0,0.0,0.0
 04-07-2020,Apr 07,Sumter,,0.0,0.0,0.0,0.0
 04-07-2020,Apr 07,Talbot,,0.0,0.0,0.0,0.0
+04-07-2020,Apr 07,Taliaferro,,0.0,0.0,0.0,0.0
 04-07-2020,Apr 07,Tattnall,,0.0,0.0,0.0,0.0
 04-07-2020,Apr 07,Taylor,,0.0,0.0,0.0,0.0
 04-07-2020,Apr 07,Telfair,,0.0,0.0,0.0,0.0
@@ -15733,6 +16086,7 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-08-2020,Apr 08,Stewart,,0.0,0.0,0.0,0.0
 04-08-2020,Apr 08,Sumter,,0.0,0.0,0.0,0.0
 04-08-2020,Apr 08,Talbot,,0.0,0.0,0.0,0.0
+04-08-2020,Apr 08,Taliaferro,,0.0,0.0,0.0,0.0
 04-08-2020,Apr 08,Tattnall,,0.0,0.0,0.0,0.0
 04-08-2020,Apr 08,Taylor,,0.0,0.0,0.0,0.0
 04-08-2020,Apr 08,Telfair,,0.0,0.0,0.0,0.0
@@ -15890,6 +16244,7 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-09-2020,Apr 09,Stewart,,0.0,0.0,0.0,0.0
 04-09-2020,Apr 09,Sumter,,0.0,0.0,0.0,0.0
 04-09-2020,Apr 09,Talbot,,0.0,0.0,0.0,0.0
+04-09-2020,Apr 09,Taliaferro,,0.0,0.0,0.0,0.0
 04-09-2020,Apr 09,Tattnall,,0.0,0.0,0.0,0.0
 04-09-2020,Apr 09,Taylor,,0.0,0.0,0.0,0.0
 04-09-2020,Apr 09,Telfair,,0.0,0.0,0.0,0.0
@@ -16047,6 +16402,7 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-10-2020,Apr 10,Stewart,,0.0,0.0,0.0,0.0
 04-10-2020,Apr 10,Sumter,,0.0,0.0,0.0,0.0
 04-10-2020,Apr 10,Talbot,,0.0,0.0,0.0,0.0
+04-10-2020,Apr 10,Taliaferro,,0.0,0.0,0.0,0.0
 04-10-2020,Apr 10,Tattnall,,0.0,0.0,0.0,0.0
 04-10-2020,Apr 10,Taylor,,0.0,0.0,0.0,0.0
 04-10-2020,Apr 10,Telfair,,0.0,0.0,0.0,0.0
@@ -16204,6 +16560,7 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-11-2020,Apr 11,Stewart,,0.0,0.0,0.0,0.0
 04-11-2020,Apr 11,Sumter,,0.0,0.0,0.0,0.0
 04-11-2020,Apr 11,Talbot,,0.0,0.0,0.0,0.0
+04-11-2020,Apr 11,Taliaferro,,0.0,0.0,0.0,0.0
 04-11-2020,Apr 11,Tattnall,,0.0,0.0,0.0,0.0
 04-11-2020,Apr 11,Taylor,,0.0,0.0,0.0,0.0
 04-11-2020,Apr 11,Telfair,,0.0,0.0,0.0,0.0
@@ -16361,6 +16718,7 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-12-2020,Apr 12,Stewart,,0.0,0.0,0.0,0.0
 04-12-2020,Apr 12,Sumter,,0.0,0.0,0.0,0.0
 04-12-2020,Apr 12,Talbot,,0.0,0.0,0.0,0.0
+04-12-2020,Apr 12,Taliaferro,,0.0,0.0,0.0,0.0
 04-12-2020,Apr 12,Tattnall,,0.0,0.0,0.0,0.0
 04-12-2020,Apr 12,Taylor,,0.0,0.0,0.0,0.0
 04-12-2020,Apr 12,Telfair,,0.0,0.0,0.0,0.0
@@ -16518,6 +16876,7 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-13-2020,Apr 13,Stewart,,0.0,0.0,0.0,0.0
 04-13-2020,Apr 13,Sumter,,0.0,0.0,0.0,0.0
 04-13-2020,Apr 13,Talbot,,0.0,0.0,0.0,0.0
+04-13-2020,Apr 13,Taliaferro,,0.0,0.0,0.0,0.0
 04-13-2020,Apr 13,Tattnall,,0.0,0.0,0.0,0.0
 04-13-2020,Apr 13,Taylor,,0.0,0.0,0.0,0.0
 04-13-2020,Apr 13,Telfair,,0.0,0.0,0.0,0.0
@@ -16675,6 +17034,7 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-14-2020,Apr 14,Stewart,,0.0,0.0,0.0,0.0
 04-14-2020,Apr 14,Sumter,,0.0,0.0,0.0,0.0
 04-14-2020,Apr 14,Talbot,,0.0,0.0,0.0,0.0
+04-14-2020,Apr 14,Taliaferro,,0.0,0.0,0.0,0.0
 04-14-2020,Apr 14,Tattnall,,0.0,0.0,0.0,0.0
 04-14-2020,Apr 14,Taylor,,0.0,0.0,0.0,0.0
 04-14-2020,Apr 14,Telfair,,0.0,0.0,0.0,0.0
@@ -16832,6 +17192,7 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-15-2020,Apr 15,Stewart,,0.0,0.0,0.0,0.0
 04-15-2020,Apr 15,Sumter,,0.0,0.0,0.0,0.0
 04-15-2020,Apr 15,Talbot,,0.0,0.0,0.0,0.0
+04-15-2020,Apr 15,Taliaferro,,0.0,0.0,0.0,0.0
 04-15-2020,Apr 15,Tattnall,,0.0,0.0,0.0,0.0
 04-15-2020,Apr 15,Taylor,,0.0,0.0,0.0,0.0
 04-15-2020,Apr 15,Telfair,,0.0,0.0,0.0,0.0
@@ -16989,6 +17350,7 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-16-2020,Apr 16,Stewart,,0.0,0.0,0.0,0.0
 04-16-2020,Apr 16,Sumter,,0.0,0.0,0.0,0.0
 04-16-2020,Apr 16,Talbot,,0.0,0.0,0.0,0.0
+04-16-2020,Apr 16,Taliaferro,,0.0,0.0,0.0,0.0
 04-16-2020,Apr 16,Tattnall,,0.0,0.0,0.0,0.0
 04-16-2020,Apr 16,Taylor,,0.0,0.0,0.0,0.0
 04-16-2020,Apr 16,Telfair,,0.0,0.0,0.0,0.0
@@ -17146,6 +17508,7 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-17-2020,Apr 17,Stewart,,0.0,0.0,0.0,0.0
 04-17-2020,Apr 17,Sumter,,0.0,0.0,0.0,0.0
 04-17-2020,Apr 17,Talbot,,0.0,0.0,0.0,0.0
+04-17-2020,Apr 17,Taliaferro,,0.0,0.0,0.0,0.0
 04-17-2020,Apr 17,Tattnall,,0.0,0.0,0.0,0.0
 04-17-2020,Apr 17,Taylor,,0.0,0.0,0.0,0.0
 04-17-2020,Apr 17,Telfair,,0.0,0.0,0.0,0.0
@@ -17303,6 +17666,7 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-18-2020,Apr 18,Stewart,,0.0,0.0,0.0,0.0
 04-18-2020,Apr 18,Sumter,,0.0,0.0,0.0,0.0
 04-18-2020,Apr 18,Talbot,,0.0,0.0,0.0,0.0
+04-18-2020,Apr 18,Taliaferro,,0.0,0.0,0.0,0.0
 04-18-2020,Apr 18,Tattnall,,0.0,0.0,0.0,0.0
 04-18-2020,Apr 18,Taylor,,0.0,0.0,0.0,0.0
 04-18-2020,Apr 18,Telfair,,0.0,0.0,0.0,0.0
@@ -17460,6 +17824,7 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-19-2020,Apr 19,Stewart,,0.0,0.0,0.0,0.0
 04-19-2020,Apr 19,Sumter,,0.0,0.0,0.0,0.0
 04-19-2020,Apr 19,Talbot,,0.0,0.0,0.0,0.0
+04-19-2020,Apr 19,Taliaferro,,0.0,0.0,0.0,0.0
 04-19-2020,Apr 19,Tattnall,,0.0,0.0,0.0,0.0
 04-19-2020,Apr 19,Taylor,,0.0,0.0,0.0,0.0
 04-19-2020,Apr 19,Telfair,,0.0,0.0,0.0,0.0
@@ -17617,6 +17982,7 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-20-2020,Apr 20,Stewart,,0.0,0.0,0.0,0.0
 04-20-2020,Apr 20,Sumter,,0.0,0.0,0.0,0.0
 04-20-2020,Apr 20,Talbot,,0.0,0.0,0.0,0.0
+04-20-2020,Apr 20,Taliaferro,,0.0,0.0,0.0,0.0
 04-20-2020,Apr 20,Tattnall,,0.0,0.0,0.0,0.0
 04-20-2020,Apr 20,Taylor,,0.0,0.0,0.0,0.0
 04-20-2020,Apr 20,Telfair,,0.0,0.0,0.0,0.0
@@ -17774,6 +18140,7 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-21-2020,Apr 21,Stewart,,0.0,0.0,0.0,0.0
 04-21-2020,Apr 21,Sumter,,0.0,0.0,0.0,0.0
 04-21-2020,Apr 21,Talbot,,0.0,0.0,0.0,0.0
+04-21-2020,Apr 21,Taliaferro,,0.0,0.0,0.0,0.0
 04-21-2020,Apr 21,Tattnall,,0.0,0.0,0.0,0.0
 04-21-2020,Apr 21,Taylor,,0.0,0.0,0.0,0.0
 04-21-2020,Apr 21,Telfair,,0.0,0.0,0.0,0.0
@@ -17931,6 +18298,7 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-22-2020,Apr 22,Stewart,,0.0,0.0,0.0,0.0
 04-22-2020,Apr 22,Sumter,,0.0,0.0,0.0,0.0
 04-22-2020,Apr 22,Talbot,,0.0,0.0,0.0,0.0
+04-22-2020,Apr 22,Taliaferro,,0.0,0.0,0.0,0.0
 04-22-2020,Apr 22,Tattnall,,0.0,0.0,0.0,0.0
 04-22-2020,Apr 22,Taylor,,0.0,0.0,0.0,0.0
 04-22-2020,Apr 22,Telfair,,0.0,0.0,0.0,0.0
@@ -18088,6 +18456,7 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-23-2020,Apr 23,Stewart,,0.0,0.0,0.0,0.0
 04-23-2020,Apr 23,Sumter,,0.0,0.0,0.0,0.0
 04-23-2020,Apr 23,Talbot,,0.0,0.0,0.0,0.0
+04-23-2020,Apr 23,Taliaferro,,0.0,0.0,0.0,0.0
 04-23-2020,Apr 23,Tattnall,,0.0,0.0,0.0,0.0
 04-23-2020,Apr 23,Taylor,,0.0,0.0,0.0,0.0
 04-23-2020,Apr 23,Telfair,,0.0,0.0,0.0,0.0
@@ -18245,6 +18614,7 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-24-2020,Apr 24,Stewart,,0.0,0.0,0.0,0.0
 04-24-2020,Apr 24,Sumter,,0.0,0.0,0.0,0.0
 04-24-2020,Apr 24,Talbot,,0.0,0.0,0.0,0.0
+04-24-2020,Apr 24,Taliaferro,,0.0,0.0,0.0,0.0
 04-24-2020,Apr 24,Tattnall,,0.0,0.0,0.0,0.0
 04-24-2020,Apr 24,Taylor,,0.0,0.0,0.0,0.0
 04-24-2020,Apr 24,Telfair,,0.0,0.0,0.0,0.0
@@ -18402,6 +18772,7 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-25-2020,Apr 25,Stewart,,0.0,0.0,0.0,0.0
 04-25-2020,Apr 25,Sumter,,0.0,0.0,0.0,0.0
 04-25-2020,Apr 25,Talbot,,0.0,0.0,0.0,0.0
+04-25-2020,Apr 25,Taliaferro,,0.0,0.0,0.0,0.0
 04-25-2020,Apr 25,Tattnall,,0.0,0.0,0.0,0.0
 04-25-2020,Apr 25,Taylor,,0.0,0.0,0.0,0.0
 04-25-2020,Apr 25,Telfair,,0.0,0.0,0.0,0.0
@@ -18559,6 +18930,7 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-26-2020,Apr 26,Stewart,,0.0,0.0,0.0,0.0
 04-26-2020,Apr 26,Sumter,,0.0,0.0,0.0,0.0
 04-26-2020,Apr 26,Talbot,,0.0,0.0,0.0,0.0
+04-26-2020,Apr 26,Taliaferro,,0.0,0.0,0.0,0.0
 04-26-2020,Apr 26,Tattnall,,0.0,0.0,0.0,0.0
 04-26-2020,Apr 26,Taylor,,0.0,0.0,0.0,0.0
 04-26-2020,Apr 26,Telfair,,0.0,0.0,0.0,0.0
@@ -18716,6 +19088,7 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-27-2020,Apr 27,Stewart,,0.0,0.0,0.0,0.0
 04-27-2020,Apr 27,Sumter,,0.0,0.0,0.0,0.0
 04-27-2020,Apr 27,Talbot,,0.0,0.0,0.0,0.0
+04-27-2020,Apr 27,Taliaferro,,0.0,0.0,0.0,0.0
 04-27-2020,Apr 27,Tattnall,,0.0,0.0,0.0,0.0
 04-27-2020,Apr 27,Taylor,,0.0,0.0,0.0,0.0
 04-27-2020,Apr 27,Telfair,,0.0,0.0,0.0,0.0
@@ -18873,6 +19246,7 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-28-2020,Apr 28,Stewart,,0.0,0.0,0.0,0.0
 04-28-2020,Apr 28,Sumter,,0.0,0.0,0.0,0.0
 04-28-2020,Apr 28,Talbot,,0.0,0.0,0.0,0.0
+04-28-2020,Apr 28,Taliaferro,,0.0,0.0,0.0,0.0
 04-28-2020,Apr 28,Tattnall,,0.0,0.0,0.0,0.0
 04-28-2020,Apr 28,Taylor,,0.0,0.0,0.0,0.0
 04-28-2020,Apr 28,Telfair,,0.0,0.0,0.0,0.0
@@ -19030,6 +19404,7 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-29-2020,Apr 29,Stewart,,0.0,0.0,0.0,0.0
 04-29-2020,Apr 29,Sumter,,0.0,0.0,0.0,0.0
 04-29-2020,Apr 29,Talbot,,0.0,0.0,0.0,0.0
+04-29-2020,Apr 29,Taliaferro,,0.0,0.0,0.0,0.0
 04-29-2020,Apr 29,Tattnall,,0.0,0.0,0.0,0.0
 04-29-2020,Apr 29,Taylor,,0.0,0.0,0.0,0.0
 04-29-2020,Apr 29,Telfair,,0.0,0.0,0.0,0.0
@@ -19187,6 +19562,7 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Stewart,,1.0,0.0,0.0,0.0
 04-30-2020,Apr 30,Sumter,,3.0,0.0,0.0,0.0
 04-30-2020,Apr 30,Talbot,,2.0,0.0,0.0,0.0
+04-30-2020,Apr 30,Taliaferro,,0.0,0.0,0.0,0.0
 04-30-2020,Apr 30,Tattnall,,0.0,0.0,0.0,0.0
 04-30-2020,Apr 30,Taylor,,0.0,0.0,0.0,0.0
 04-30-2020,Apr 30,Telfair,,2.0,0.0,0.0,0.0
@@ -19344,6 +19720,7 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 05-01-2020,May 01,Stewart,,1.0,0.14285714285714285,0.0,0.0
 05-01-2020,May 01,Sumter,,1.0,0.42857142857142855,0.0,0.0
 05-01-2020,May 01,Talbot,,0.0,0.2857142857142857,0.0,0.0
+05-01-2020,May 01,Taliaferro,,0.0,0.0,0.0,0.0
 05-01-2020,May 01,Tattnall,,-1.0,0.0,0.0,0.0
 05-01-2020,May 01,Taylor,,0.0,0.0,0.0,0.0
 05-01-2020,May 01,Telfair,,1.0,0.2857142857142857,0.0,0.0
@@ -19501,6 +19878,7 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 05-02-2020,May 02,Stewart,,0.0,0.2857142857142857,0.0,0.0
 05-02-2020,May 02,Sumter,,3.0,0.5714285714285714,0.0,0.0
 05-02-2020,May 02,Talbot,,0.0,0.2857142857142857,0.0,0.0
+05-02-2020,May 02,Taliaferro,,0.0,0.0,0.0,0.0
 05-02-2020,May 02,Tattnall,,0.0,-0.14285714285714285,0.0,0.0
 05-02-2020,May 02,Taylor,,1.0,0.0,0.0,0.0
 05-02-2020,May 02,Telfair,,0.0,0.42857142857142855,0.0,0.0
@@ -19529,6 +19907,322 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 05-02-2020,May 02,Wilkes,,0.0,0.14285714285714285,0.0,0.0
 05-02-2020,May 02,Wilkinson,,0.0,0.0,0.0,0.0
 05-02-2020,May 02,Worth,,3.0,1.4285714285714286,0.0,0.14285714285714285
+05-03-2020,May 03,Appling,,0.0,1.0,-1.0,0.0
+05-03-2020,May 03,Atkinson,,0.0,0.5714285714285714,0.0,0.0
+05-03-2020,May 03,Bacon,,1.0,0.5714285714285714,0.0,0.0
+05-03-2020,May 03,Baker,,0.0,0.14285714285714285,0.0,0.0
+05-03-2020,May 03,Baldwin,,4.0,2.7142857142857144,0.0,0.0
+05-03-2020,May 03,Banks,,0.0,1.5714285714285714,0.0,0.0
+05-03-2020,May 03,Barrow,,4.0,3.4285714285714284,0.0,0.0
+05-03-2020,May 03,Bartow,,1.0,2.142857142857143,0.0,0.14285714285714285
+05-03-2020,May 03,Ben Hill,,1.0,0.42857142857142855,0.0,0.0
+05-03-2020,May 03,Berrien,,0.0,-0.14285714285714285,0.0,0.0
+05-03-2020,May 03,Bibb,,5.0,2.4285714285714284,0.0,0.14285714285714285
+05-03-2020,May 03,Bleckley,,0.0,1.1428571428571428,0.0,0.0
+05-03-2020,May 03,Brantley,,-1.0,0.14285714285714285,0.0,0.0
+05-03-2020,May 03,Brooks,,1.0,0.5714285714285714,0.0,0.0
+05-03-2020,May 03,Bryan,,0.0,0.42857142857142855,0.0,0.14285714285714285
+05-03-2020,May 03,Bulloch,,0.0,0.8571428571428571,0.0,0.0
+05-03-2020,May 03,Burke,,0.0,0.2857142857142857,0.0,0.0
+05-03-2020,May 03,Butts,,-1.0,2.4285714285714284,0.0,1.7142857142857142
+05-03-2020,May 03,Calhoun,,4.0,1.7142857142857142,0.0,0.0
+05-03-2020,May 03,Camden,,1.0,0.2857142857142857,0.0,0.0
+05-03-2020,May 03,Candler,,0.0,0.0,0.0,0.0
+05-03-2020,May 03,Carroll,,3.0,5.0,0.0,0.0
+05-03-2020,May 03,Catoosa,,-5.0,0.7142857142857143,0.0,0.0
+05-03-2020,May 03,Charlton,,1.0,0.42857142857142855,0.0,0.0
+05-03-2020,May 03,Chatham,,7.0,1.2857142857142858,0.0,0.0
+05-03-2020,May 03,Chattahoochee,,1.0,0.14285714285714285,0.0,0.0
+05-03-2020,May 03,Chattooga,,-1.0,0.0,0.0,0.0
+05-03-2020,May 03,Cherokee,,9.0,3.5714285714285716,0.0,0.2857142857142857
+05-03-2020,May 03,Clarke,,0.0,1.7142857142857142,0.0,0.0
+05-03-2020,May 03,Clay,,0.0,0.5714285714285714,0.0,0.14285714285714285
+05-03-2020,May 03,Clayton,,16.0,12.0,0.0,0.8571428571428571
+05-03-2020,May 03,Clinch,,0.0,0.14285714285714285,0.0,0.0
+05-03-2020,May 03,Cobb,,19.0,24.0,1.0,1.1428571428571428
+05-03-2020,May 03,Coffee,,2.0,2.4285714285714284,0.0,0.14285714285714285
+05-03-2020,May 03,Colquitt,,0.0,1.0,0.0,0.5714285714285714
+05-03-2020,May 03,Columbia,,1.0,1.0,0.0,0.0
+05-03-2020,May 03,Cook,,3.0,0.42857142857142855,0.0,0.0
+05-03-2020,May 03,Coweta,,17.0,2.5714285714285716,0.0,0.0
+05-03-2020,May 03,Crawford,,0.0,0.42857142857142855,0.0,0.0
+05-03-2020,May 03,Crisp,,1.0,0.5714285714285714,0.0,0.0
+05-03-2020,May 03,Dade,,-1.0,0.2857142857142857,0.0,0.0
+05-03-2020,May 03,Dawson,,0.0,0.8571428571428571,0.0,0.0
+05-03-2020,May 03,DeKalb,,36.0,24.0,1.0,0.8571428571428571
+05-03-2020,May 03,Decatur,,1.0,1.2857142857142858,0.0,0.0
+05-03-2020,May 03,Dodge,,0.0,0.5714285714285714,0.0,0.0
+05-03-2020,May 03,Dooly,,1.0,1.1428571428571428,0.0,0.0
+05-03-2020,May 03,Dougherty,,2.0,4.857142857142857,0.0,0.7142857142857143
+05-03-2020,May 03,Douglas,,6.0,3.4285714285714284,0.0,0.0
+05-03-2020,May 03,Early,,5.0,0.0,0.0,-0.14285714285714285
+05-03-2020,May 03,Echols,,0.0,0.0,0.0,0.0
+05-03-2020,May 03,Effingham,,0.0,0.2857142857142857,0.0,0.0
+05-03-2020,May 03,Elbert,,2.0,1.0,0.0,0.0
+05-03-2020,May 03,Emanuel,,0.0,0.0,0.0,0.0
+05-03-2020,May 03,Evans,,0.0,0.14285714285714285,0.0,0.0
+05-03-2020,May 03,Fannin,,0.0,0.42857142857142855,0.0,0.0
+05-03-2020,May 03,Fayette,,2.0,0.7142857142857143,0.0,0.0
+05-03-2020,May 03,Floyd,,0.0,0.8571428571428571,0.0,0.0
+05-03-2020,May 03,Forsyth,,1.0,5.571428571428571,0.0,0.14285714285714285
+05-03-2020,May 03,Franklin,,1.0,0.42857142857142855,0.0,0.14285714285714285
+05-03-2020,May 03,Fulton,,53.0,20.428571428571427,2.0,0.8571428571428571
+05-03-2020,May 03,Gilmer,,0.0,1.1428571428571428,0.0,0.0
+05-03-2020,May 03,Glynn,,0.0,0.5714285714285714,0.0,0.0
+05-03-2020,May 03,Gordon,,0.0,3.142857142857143,0.0,0.0
+05-03-2020,May 03,Grady,,-1.0,0.14285714285714285,-1.0,0.14285714285714285
+05-03-2020,May 03,Greene,,-1.0,0.14285714285714285,1.0,0.0
+05-03-2020,May 03,Gwinnett,,46.0,27.142857142857142,0.0,0.42857142857142855
+05-03-2020,May 03,Habersham,,-1.0,14.142857142857142,0.0,0.14285714285714285
+05-03-2020,May 03,Hall,,6.0,61.857142857142854,1.0,0.2857142857142857
+05-03-2020,May 03,Hancock,,3.0,2.5714285714285716,0.0,0.14285714285714285
+05-03-2020,May 03,Haralson,,0.0,0.14285714285714285,0.0,0.0
+05-03-2020,May 03,Harris,,0.0,0.2857142857142857,0.0,0.0
+05-03-2020,May 03,Hart,,0.0,0.14285714285714285,0.0,0.0
+05-03-2020,May 03,Heard,,3.0,0.2857142857142857,0.0,0.0
+05-03-2020,May 03,Henry,,8.0,2.4285714285714284,0.0,0.14285714285714285
+05-03-2020,May 03,Houston,,5.0,2.4285714285714284,0.0,0.14285714285714285
+05-03-2020,May 03,Irwin,,0.0,0.14285714285714285,0.0,0.0
+05-03-2020,May 03,Jackson,,0.0,3.2857142857142856,0.0,0.14285714285714285
+05-03-2020,May 03,Jasper,,1.0,0.14285714285714285,0.0,0.0
+05-03-2020,May 03,Jeff Davis,,2.0,0.7142857142857143,0.0,0.0
+05-03-2020,May 03,Jefferson,,0.0,0.14285714285714285,0.0,0.0
+05-03-2020,May 03,Jenkins,,1.0,0.0,0.0,0.0
+05-03-2020,May 03,Johnson,,0.0,2.857142857142857,0.0,0.0
+05-03-2020,May 03,Jones,,0.0,0.14285714285714285,0.0,0.0
+05-03-2020,May 03,Lamar,,0.0,0.42857142857142855,0.0,-0.14285714285714285
+05-03-2020,May 03,Lanier,,0.0,0.14285714285714285,0.0,0.0
+05-03-2020,May 03,Laurens,,0.0,1.4285714285714286,0.0,0.0
+05-03-2020,May 03,Lee,,1.0,1.8571428571428572,0.0,0.0
+05-03-2020,May 03,Liberty,,1.0,0.14285714285714285,0.0,0.0
+05-03-2020,May 03,Lincoln,,0.0,0.0,0.0,0.0
+05-03-2020,May 03,Long,,0.0,0.14285714285714285,0.0,0.0
+05-03-2020,May 03,Lowndes,,-1.0,0.7142857142857143,0.0,0.0
+05-03-2020,May 03,Lumpkin,,0.0,3.2857142857142856,0.0,0.0
+05-03-2020,May 03,Macon,,0.0,1.0,0.0,0.0
+05-03-2020,May 03,Madison,,1.0,0.0,0.0,0.0
+05-03-2020,May 03,Marion,,-2.0,0.14285714285714285,0.0,0.0
+05-03-2020,May 03,McDuffie,,0.0,0.0,0.0,0.0
+05-03-2020,May 03,McIntosh,,0.0,0.2857142857142857,0.0,0.0
+05-03-2020,May 03,Meriwether,,0.0,0.0,0.0,-0.14285714285714285
+05-03-2020,May 03,Miller,,0.0,0.2857142857142857,0.0,0.0
+05-03-2020,May 03,Mitchell,,0.0,2.142857142857143,0.0,0.14285714285714285
+05-03-2020,May 03,Monroe,,0.0,0.14285714285714285,0.0,0.0
+05-03-2020,May 03,Montgomery,,0.0,0.0,0.0,0.0
+05-03-2020,May 03,Morgan,,1.0,-0.14285714285714285,0.0,0.0
+05-03-2020,May 03,Murray,,0.0,0.42857142857142855,0.0,0.14285714285714285
+05-03-2020,May 03,Muscogee,,9.0,3.0,0.0,0.0
+05-03-2020,May 03,Newton,,3.0,1.7142857142857142,0.0,0.0
+05-03-2020,May 03,Oconee,,1.0,0.7142857142857143,0.0,0.0
+05-03-2020,May 03,Oglethorpe,,0.0,0.14285714285714285,0.0,0.0
+05-03-2020,May 03,Paulding,,1.0,2.5714285714285716,0.0,0.0
+05-03-2020,May 03,Peach,,-1.0,1.5714285714285714,0.0,0.0
+05-03-2020,May 03,Pickens,,2.0,0.14285714285714285,0.0,0.0
+05-03-2020,May 03,Pierce,,-1.0,-0.2857142857142857,0.0,0.0
+05-03-2020,May 03,Pike,,0.0,0.14285714285714285,0.0,0.0
+05-03-2020,May 03,Polk,,0.0,0.2857142857142857,0.0,0.0
+05-03-2020,May 03,Pulaski,,1.0,0.5714285714285714,0.0,0.0
+05-03-2020,May 03,Putnam,,-1.0,0.7142857142857143,0.0,0.0
+05-03-2020,May 03,Quitman,,3.0,0.14285714285714285,0.0,0.0
+05-03-2020,May 03,Rabun,,0.0,0.14285714285714285,0.0,0.0
+05-03-2020,May 03,Randolph,,0.0,0.5714285714285714,0.0,0.0
+05-03-2020,May 03,Richmond,,2.0,3.5714285714285716,0.0,0.2857142857142857
+05-03-2020,May 03,Rockdale,,1.0,2.2857142857142856,0.0,0.0
+05-03-2020,May 03,Schley,,0.0,0.0,0.0,0.0
+05-03-2020,May 03,Screven,,0.0,0.0,0.0,0.0
+05-03-2020,May 03,Seminole,,1.0,0.0,0.0,0.0
+05-03-2020,May 03,Spalding,,4.0,1.4285714285714286,0.0,0.14285714285714285
+05-03-2020,May 03,Stephens,,0.0,2.0,0.0,0.0
+05-03-2020,May 03,Stewart,,0.0,0.2857142857142857,0.0,0.0
+05-03-2020,May 03,Sumter,,3.0,1.0,0.0,0.0
+05-03-2020,May 03,Talbot,,-1.0,0.2857142857142857,0.0,0.0
+05-03-2020,May 03,Taliaferro,,1.0,0.0,0.0,0.0
+05-03-2020,May 03,Tattnall,,0.0,-0.14285714285714285,0.0,0.0
+05-03-2020,May 03,Taylor,,0.0,0.14285714285714285,0.0,0.0
+05-03-2020,May 03,Telfair,,0.0,0.42857142857142855,0.0,0.0
+05-03-2020,May 03,Terrell,,1.0,1.1428571428571428,0.0,0.14285714285714285
+05-03-2020,May 03,Thomas,,0.0,1.8571428571428572,0.0,0.0
+05-03-2020,May 03,Tift,,1.0,2.2857142857142856,0.0,0.0
+05-03-2020,May 03,Toombs,,2.0,0.2857142857142857,0.0,0.0
+05-03-2020,May 03,Towns,,0.0,-0.14285714285714285,0.0,0.0
+05-03-2020,May 03,Treutlen,,0.0,0.0,0.0,0.0
+05-03-2020,May 03,Troup,,0.0,1.2857142857142858,0.0,0.0
+05-03-2020,May 03,Turner,,-1.0,0.2857142857142857,1.0,0.0
+05-03-2020,May 03,Twiggs,,0.0,0.0,0.0,0.0
+05-03-2020,May 03,Union,,0.0,-0.2857142857142857,0.0,0.0
+05-03-2020,May 03,Upson,,5.0,1.8571428571428572,2.0,0.14285714285714285
+05-03-2020,May 03,Walker,,-9.0,0.0,0.0,0.0
+05-03-2020,May 03,Walton,,1.0,1.5714285714285714,0.0,0.14285714285714285
+05-03-2020,May 03,Ware,,1.0,2.0,0.0,0.14285714285714285
+05-03-2020,May 03,Warren,,0.0,0.14285714285714285,0.0,0.0
+05-03-2020,May 03,Washington,,0.0,0.8571428571428571,-1.0,0.14285714285714285
+05-03-2020,May 03,Wayne,,0.0,0.14285714285714285,0.0,0.0
+05-03-2020,May 03,Webster,,0.0,0.0,0.0,0.0
+05-03-2020,May 03,Wheeler,,0.0,0.14285714285714285,0.0,0.0
+05-03-2020,May 03,White,,0.0,2.7142857142857144,0.0,0.0
+05-03-2020,May 03,Whitfield,,2.0,5.571428571428571,1.0,0.0
+05-03-2020,May 03,Wilcox,,0.0,0.2857142857142857,0.0,0.0
+05-03-2020,May 03,Wilkes,,0.0,0.14285714285714285,0.0,0.0
+05-03-2020,May 03,Wilkinson,,0.0,0.0,0.0,0.0
+05-03-2020,May 03,Worth,,1.0,1.8571428571428572,0.0,0.14285714285714285
+05-04-2020,May 04,Appling,,2.0,1.0,2.0,-0.14285714285714285
+05-04-2020,May 04,Atkinson,,1.0,0.5714285714285714,0.0,0.0
+05-04-2020,May 04,Bacon,,1.0,0.7142857142857143,0.0,0.0
+05-04-2020,May 04,Baker,,3.0,0.14285714285714285,0.0,0.0
+05-04-2020,May 04,Baldwin,,6.0,3.2857142857142856,1.0,0.0
+05-04-2020,May 04,Banks,,-2.0,1.5714285714285714,0.0,0.0
+05-04-2020,May 04,Barrow,,8.0,4.0,0.0,0.0
+05-04-2020,May 04,Bartow,,16.0,2.2857142857142856,0.0,0.14285714285714285
+05-04-2020,May 04,Ben Hill,,0.0,0.5714285714285714,0.0,0.0
+05-04-2020,May 04,Berrien,,0.0,-0.14285714285714285,0.0,0.0
+05-04-2020,May 04,Bibb,,22.0,3.142857142857143,1.0,0.14285714285714285
+05-04-2020,May 04,Bleckley,,1.0,1.1428571428571428,0.0,0.0
+05-04-2020,May 04,Brantley,,0.0,0.0,0.0,0.0
+05-04-2020,May 04,Brooks,,1.0,0.7142857142857143,1.0,0.0
+05-04-2020,May 04,Bryan,,1.0,0.42857142857142855,1.0,0.14285714285714285
+05-04-2020,May 04,Bulloch,,1.0,0.8571428571428571,0.0,0.0
+05-04-2020,May 04,Burke,,1.0,0.2857142857142857,0.0,0.0
+05-04-2020,May 04,Butts,,2.0,2.2857142857142856,1.0,1.7142857142857142
+05-04-2020,May 04,Calhoun,,0.0,2.2857142857142856,0.0,0.0
+05-04-2020,May 04,Camden,,-2.0,0.42857142857142855,0.0,0.0
+05-04-2020,May 04,Candler,,0.0,0.0,0.0,0.0
+05-04-2020,May 04,Carroll,,-4.0,5.428571428571429,1.0,0.0
+05-04-2020,May 04,Catoosa,,5.0,0.0,0.0,0.0
+05-04-2020,May 04,Charlton,,0.0,0.5714285714285714,0.0,0.0
+05-04-2020,May 04,Chatham,,9.0,2.2857142857142856,1.0,0.0
+05-04-2020,May 04,Chattahoochee,,0.0,0.2857142857142857,0.0,0.0
+05-04-2020,May 04,Chattooga,,0.0,-0.14285714285714285,0.0,0.0
+05-04-2020,May 04,Cherokee,,18.0,4.857142857142857,1.0,0.2857142857142857
+05-04-2020,May 04,Clarke,,5.0,1.7142857142857142,0.0,0.0
+05-04-2020,May 04,Clay,,0.0,0.5714285714285714,0.0,0.14285714285714285
+05-04-2020,May 04,Clayton,,11.0,14.285714285714286,-1.0,0.8571428571428571
+05-04-2020,May 04,Clinch,,0.0,0.14285714285714285,0.0,0.0
+05-04-2020,May 04,Cobb,,71.0,26.714285714285715,4.0,1.2857142857142858
+05-04-2020,May 04,Coffee,,3.0,2.7142857142857144,0.0,0.14285714285714285
+05-04-2020,May 04,Colquitt,,4.0,1.0,-1.0,0.5714285714285714
+05-04-2020,May 04,Columbia,,4.0,1.1428571428571428,0.0,0.0
+05-04-2020,May 04,Cook,,0.0,0.8571428571428571,0.0,0.0
+05-04-2020,May 04,Coweta,,12.0,5.0,0.0,0.0
+05-04-2020,May 04,Crawford,,0.0,0.42857142857142855,0.0,0.0
+05-04-2020,May 04,Crisp,,2.0,0.7142857142857143,1.0,0.0
+05-04-2020,May 04,Dade,,1.0,0.14285714285714285,0.0,0.0
+05-04-2020,May 04,Dawson,,1.0,0.8571428571428571,0.0,0.0
+05-04-2020,May 04,DeKalb,,71.0,29.142857142857142,4.0,1.0
+05-04-2020,May 04,Decatur,,3.0,1.4285714285714286,0.0,0.0
+05-04-2020,May 04,Dodge,,1.0,0.5714285714285714,0.0,0.0
+05-04-2020,May 04,Dooly,,1.0,1.2857142857142858,3.0,0.0
+05-04-2020,May 04,Dougherty,,7.0,5.142857142857143,1.0,0.7142857142857143
+05-04-2020,May 04,Douglas,,2.0,4.285714285714286,0.0,0.0
+05-04-2020,May 04,Early,,2.0,0.7142857142857143,4.0,-0.14285714285714285
+05-04-2020,May 04,Echols,,0.0,0.0,0.0,0.0
+05-04-2020,May 04,Effingham,,0.0,0.2857142857142857,0.0,0.0
+05-04-2020,May 04,Elbert,,0.0,1.2857142857142858,0.0,0.0
+05-04-2020,May 04,Emanuel,,1.0,0.0,0.0,0.0
+05-04-2020,May 04,Evans,,0.0,0.14285714285714285,0.0,0.0
+05-04-2020,May 04,Fannin,,1.0,0.42857142857142855,0.0,0.0
+05-04-2020,May 04,Fayette,,4.0,1.0,0.0,0.0
+05-04-2020,May 04,Floyd,,5.0,0.8571428571428571,0.0,0.0
+05-04-2020,May 04,Forsyth,,9.0,5.714285714285714,0.0,0.14285714285714285
+05-04-2020,May 04,Franklin,,1.0,0.5714285714285714,0.0,0.14285714285714285
+05-04-2020,May 04,Fulton,,76.0,28.0,5.0,1.1428571428571428
+05-04-2020,May 04,Gilmer,,4.0,1.1428571428571428,0.0,0.0
+05-04-2020,May 04,Glynn,,-1.0,0.5714285714285714,0.0,0.0
+05-04-2020,May 04,Gordon,,3.0,3.142857142857143,1.0,0.0
+05-04-2020,May 04,Grady,,0.0,0.0,0.0,0.0
+05-04-2020,May 04,Greene,,3.0,0.0,2.0,0.14285714285714285
+05-04-2020,May 04,Gwinnett,,77.0,33.714285714285715,7.0,0.42857142857142855
+05-04-2020,May 04,Habersham,,12.0,14.0,1.0,0.14285714285714285
+05-04-2020,May 04,Hall,,76.0,62.714285714285715,0.0,0.42857142857142855
+05-04-2020,May 04,Hancock,,3.0,3.0,0.0,0.14285714285714285
+05-04-2020,May 04,Haralson,,0.0,0.14285714285714285,0.0,0.0
+05-04-2020,May 04,Harris,,-2.0,0.2857142857142857,0.0,0.0
+05-04-2020,May 04,Hart,,1.0,0.14285714285714285,0.0,0.0
+05-04-2020,May 04,Heard,,-1.0,0.7142857142857143,0.0,0.0
+05-04-2020,May 04,Henry,,0.0,3.5714285714285716,0.0,0.14285714285714285
+05-04-2020,May 04,Houston,,19.0,3.142857142857143,0.0,0.14285714285714285
+05-04-2020,May 04,Irwin,,2.0,0.14285714285714285,0.0,0.0
+05-04-2020,May 04,Jackson,,3.0,3.2857142857142856,0.0,0.14285714285714285
+05-04-2020,May 04,Jasper,,1.0,0.2857142857142857,0.0,0.0
+05-04-2020,May 04,Jeff Davis,,0.0,1.0,0.0,0.0
+05-04-2020,May 04,Jefferson,,0.0,0.14285714285714285,0.0,0.0
+05-04-2020,May 04,Jenkins,,0.0,0.14285714285714285,0.0,0.0
+05-04-2020,May 04,Johnson,,4.0,2.857142857142857,0.0,0.0
+05-04-2020,May 04,Jones,,0.0,0.14285714285714285,0.0,0.0
+05-04-2020,May 04,Lamar,,-1.0,0.42857142857142855,0.0,-0.14285714285714285
+05-04-2020,May 04,Lanier,,1.0,0.14285714285714285,0.0,0.0
+05-04-2020,May 04,Laurens,,3.0,1.4285714285714286,0.0,0.0
+05-04-2020,May 04,Lee,,1.0,2.0,0.0,0.0
+05-04-2020,May 04,Liberty,,-1.0,0.2857142857142857,0.0,0.0
+05-04-2020,May 04,Lincoln,,0.0,0.0,0.0,0.0
+05-04-2020,May 04,Long,,0.0,0.14285714285714285,0.0,0.0
+05-04-2020,May 04,Lowndes,,5.0,0.5714285714285714,0.0,0.0
+05-04-2020,May 04,Lumpkin,,4.0,3.2857142857142856,0.0,0.0
+05-04-2020,May 04,Macon,,0.0,1.0,0.0,0.0
+05-04-2020,May 04,Madison,,1.0,0.14285714285714285,0.0,0.0
+05-04-2020,May 04,Marion,,-1.0,-0.14285714285714285,0.0,0.0
+05-04-2020,May 04,McDuffie,,2.0,0.0,0.0,0.0
+05-04-2020,May 04,McIntosh,,0.0,0.2857142857142857,0.0,0.0
+05-04-2020,May 04,Meriwether,,2.0,0.0,1.0,-0.14285714285714285
+05-04-2020,May 04,Miller,,-1.0,0.2857142857142857,0.0,0.0
+05-04-2020,May 04,Mitchell,,7.0,2.142857142857143,2.0,0.14285714285714285
+05-04-2020,May 04,Monroe,,1.0,0.14285714285714285,0.0,0.0
+05-04-2020,May 04,Montgomery,,0.0,0.0,0.0,0.0
+05-04-2020,May 04,Morgan,,1.0,0.0,0.0,0.0
+05-04-2020,May 04,Murray,,1.0,0.42857142857142855,0.0,0.14285714285714285
+05-04-2020,May 04,Muscogee,,6.0,4.285714285714286,0.0,0.0
+05-04-2020,May 04,Newton,,7.0,2.142857142857143,1.0,0.0
+05-04-2020,May 04,Oconee,,0.0,0.8571428571428571,0.0,0.0
+05-04-2020,May 04,Oglethorpe,,0.0,0.14285714285714285,0.0,0.0
+05-04-2020,May 04,Paulding,,12.0,2.7142857142857144,1.0,0.0
+05-04-2020,May 04,Peach,,4.0,1.4285714285714286,0.0,0.0
+05-04-2020,May 04,Pickens,,0.0,0.42857142857142855,0.0,0.0
+05-04-2020,May 04,Pierce,,2.0,-0.42857142857142855,0.0,0.0
+05-04-2020,May 04,Pike,,0.0,0.14285714285714285,0.0,0.0
+05-04-2020,May 04,Polk,,1.0,0.2857142857142857,0.0,0.0
+05-04-2020,May 04,Pulaski,,1.0,0.7142857142857143,0.0,0.0
+05-04-2020,May 04,Putnam,,5.0,0.5714285714285714,0.0,0.0
+05-04-2020,May 04,Quitman,,-2.0,0.5714285714285714,0.0,0.0
+05-04-2020,May 04,Rabun,,0.0,0.14285714285714285,1.0,0.0
+05-04-2020,May 04,Randolph,,1.0,0.5714285714285714,0.0,0.0
+05-04-2020,May 04,Richmond,,5.0,3.857142857142857,-1.0,0.2857142857142857
+05-04-2020,May 04,Rockdale,,4.0,2.4285714285714284,0.0,0.0
+05-04-2020,May 04,Schley,,0.0,0.0,0.0,0.0
+05-04-2020,May 04,Screven,,0.0,0.0,0.0,0.0
+05-04-2020,May 04,Seminole,,0.0,0.14285714285714285,0.0,0.0
+05-04-2020,May 04,Spalding,,0.0,2.0,1.0,0.14285714285714285
+05-04-2020,May 04,Stephens,,1.0,2.0,0.0,0.0
+05-04-2020,May 04,Stewart,,0.0,0.2857142857142857,0.0,0.0
+05-04-2020,May 04,Sumter,,3.0,1.4285714285714286,1.0,0.0
+05-04-2020,May 04,Talbot,,0.0,0.14285714285714285,0.0,0.0
+05-04-2020,May 04,Taliaferro,,0.0,0.14285714285714285,0.0,0.0
+05-04-2020,May 04,Tattnall,,0.0,-0.14285714285714285,0.0,0.0
+05-04-2020,May 04,Taylor,,0.0,0.14285714285714285,0.0,0.0
+05-04-2020,May 04,Telfair,,0.0,0.42857142857142855,0.0,0.0
+05-04-2020,May 04,Terrell,,3.0,1.2857142857142858,2.0,0.14285714285714285
+05-04-2020,May 04,Thomas,,5.0,1.8571428571428572,1.0,0.0
+05-04-2020,May 04,Tift,,5.0,2.4285714285714284,0.0,0.0
+05-04-2020,May 04,Toombs,,0.0,0.5714285714285714,0.0,0.0
+05-04-2020,May 04,Towns,,0.0,-0.14285714285714285,0.0,0.0
+05-04-2020,May 04,Treutlen,,0.0,0.0,0.0,0.0
+05-04-2020,May 04,Troup,,5.0,1.2857142857142858,1.0,0.0
+05-04-2020,May 04,Turner,,1.0,0.14285714285714285,1.0,0.14285714285714285
+05-04-2020,May 04,Twiggs,,0.0,0.0,0.0,0.0
+05-04-2020,May 04,Union,,0.0,-0.2857142857142857,0.0,0.0
+05-04-2020,May 04,Upson,,10.0,2.5714285714285716,1.0,0.42857142857142855
+05-04-2020,May 04,Walker,,10.0,-1.2857142857142858,0.0,0.0
+05-04-2020,May 04,Walton,,3.0,1.7142857142857142,0.0,0.14285714285714285
+05-04-2020,May 04,Ware,,3.0,2.142857142857143,1.0,0.14285714285714285
+05-04-2020,May 04,Warren,,0.0,0.14285714285714285,0.0,0.0
+05-04-2020,May 04,Washington,,-1.0,0.8571428571428571,0.0,0.0
+05-04-2020,May 04,Wayne,,0.0,0.14285714285714285,0.0,0.0
+05-04-2020,May 04,Webster,,0.0,0.0,0.0,0.0
+05-04-2020,May 04,Wheeler,,0.0,0.14285714285714285,0.0,0.0
+05-04-2020,May 04,White,,1.0,2.7142857142857144,0.0,0.0
+05-04-2020,May 04,Whitfield,,6.0,5.857142857142857,1.0,0.14285714285714285
+05-04-2020,May 04,Wilcox,,0.0,0.2857142857142857,1.0,0.0
+05-04-2020,May 04,Wilkes,,0.0,0.14285714285714285,0.0,0.0
+05-04-2020,May 04,Wilkinson,,1.0,0.0,0.0,0.0
+05-04-2020,May 04,Worth,,4.0,2.0,0.0,0.14285714285714285
 03-02-2020,Mar 02,Northwest,RC_01,0.0,,0.0,
 03-03-2020,Mar 03,Northwest,RC_01,0.0,,0.0,
 03-04-2020,Mar 04,Northwest,RC_01,0.0,,0.0,
@@ -19591,6 +20285,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Northwest,RC_01,59.0,34.714285714285715,0.0,1.8571428571428572
 05-01-2020,May 01,Northwest,RC_01,43.0,39.285714285714285,2.0,1.5714285714285714
 05-02-2020,May 02,Northwest,RC_01,23.0,39.42857142857143,0.0,1.4285714285714286
+05-03-2020,May 03,Northwest,RC_01,-10.0,38.142857142857146,1.0,1.4285714285714286
+05-04-2020,May 04,Northwest,RC_01,65.0,34.142857142857146,3.0,1.5714285714285714
 03-02-2020,Mar 02,Georgia Mountains,RC_02,0.0,,0.0,
 03-03-2020,Mar 03,Georgia Mountains,RC_02,0.0,,0.0,
 03-04-2020,Mar 04,Georgia Mountains,RC_02,0.0,,0.0,
@@ -19653,6 +20349,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Georgia Mountains,RC_02,171.0,92.57142857142857,3.0,2.7142857142857144
 05-01-2020,May 01,Georgia Mountains,RC_02,179.0,101.85714285714286,2.0,3.142857142857143
 05-02-2020,May 02,Georgia Mountains,RC_02,296.0,113.85714285714286,0.0,3.4285714285714284
+05-03-2020,May 03,Georgia Mountains,RC_02,7.0,152.42857142857142,1.0,3.4285714285714284
+05-04-2020,May 04,Georgia Mountains,RC_02,104.0,150.14285714285714,2.0,3.2857142857142856
 03-02-2020,Mar 02,ARC,RC_03,2.0,,0.0,
 03-03-2020,Mar 03,ARC,RC_03,0.0,,0.0,
 03-04-2020,Mar 04,ARC,RC_03,0.0,,0.0,
@@ -19715,6 +20413,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,ARC,RC_03,221.0,309.57142857142856,14.0,13.428571428571429
 05-01-2020,May 01,ARC,RC_03,256.0,263.57142857142856,15.0,14.142857142857142
 05-02-2020,May 02,ARC,RC_03,363.0,271.2857142857143,3.0,14.714285714285714
+05-03-2020,May 03,ARC,RC_03,196.0,287.2857142857143,4.0,14.857142857142858
+05-04-2020,May 04,ARC,RC_03,334.0,299.0,20.0,14.714285714285714
 03-02-2020,Mar 02,Three Rivers,RC_04,0.0,,0.0,
 03-03-2020,Mar 03,Three Rivers,RC_04,0.0,,0.0,
 03-04-2020,Mar 04,Three Rivers,RC_04,0.0,,0.0,
@@ -19777,6 +20477,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Three Rivers,RC_04,37.0,33.142857142857146,7.0,2.142857142857143
 05-01-2020,May 01,Three Rivers,RC_04,56.0,31.857142857142858,5.0,2.7142857142857144
 05-02-2020,May 02,Three Rivers,RC_04,15.0,36.142857142857146,0.0,3.4285714285714284
+05-03-2020,May 03,Three Rivers,RC_04,31.0,30.428571428571427,2.0,3.4285714285714284
+05-04-2020,May 04,Three Rivers,RC_04,25.0,33.57142857142857,6.0,3.5714285714285716
 03-02-2020,Mar 02,Northeast,RC_05,0.0,,0.0,
 03-03-2020,Mar 03,Northeast,RC_05,0.0,,0.0,
 03-04-2020,Mar 04,Northeast,RC_05,0.0,,0.0,
@@ -19839,6 +20541,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Northeast,RC_05,29.0,32.142857142857146,2.0,0.7142857142857143
 05-01-2020,May 01,Northeast,RC_05,31.0,31.142857142857142,0.0,1.0
 05-02-2020,May 02,Northeast,RC_05,36.0,29.857142857142858,0.0,0.8571428571428571
+05-03-2020,May 03,Northeast,RC_05,13.0,33.0,1.0,0.8571428571428571
+05-04-2020,May 04,Northeast,RC_05,32.0,34.42857142857143,3.0,1.0
 03-02-2020,Mar 02,Middle Georgia,RC_06,0.0,,0.0,
 03-03-2020,Mar 03,Middle Georgia,RC_06,0.0,,0.0,
 03-04-2020,Mar 04,Middle Georgia,RC_06,0.0,,0.0,
@@ -19901,6 +20605,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Middle Georgia,RC_06,18.0,31.857142857142858,1.0,2.142857142857143
 05-01-2020,May 01,Middle Georgia,RC_06,42.0,29.285714285714285,0.0,2.142857142857143
 05-02-2020,May 02,Middle Georgia,RC_06,18.0,30.285714285714285,1.0,1.8571428571428572
+05-03-2020,May 03,Middle Georgia,RC_06,13.0,30.142857142857142,0.0,1.7142857142857142
+05-04-2020,May 04,Middle Georgia,RC_06,59.0,31.0,2.0,1.7142857142857142
 03-02-2020,Mar 02,CSRA,RC_07,0.0,,0.0,
 03-03-2020,Mar 03,CSRA,RC_07,0.0,,0.0,
 03-04-2020,Mar 04,CSRA,RC_07,0.0,,0.0,
@@ -19963,6 +20669,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,CSRA,RC_07,33.0,28.428571428571427,2.0,0.5714285714285714
 05-01-2020,May 01,CSRA,RC_07,14.0,26.857142857142858,0.0,0.7142857142857143
 05-02-2020,May 02,CSRA,RC_07,14.0,22.428571428571427,2.0,0.7142857142857143
+05-03-2020,May 03,CSRA,RC_07,8.0,23.0,-1.0,1.0
+05-04-2020,May 04,CSRA,RC_07,14.0,21.857142857142858,-1.0,0.8571428571428571
 03-02-2020,Mar 02,River Valley,RC_08,0.0,,0.0,
 03-03-2020,Mar 03,River Valley,RC_08,0.0,,0.0,
 03-04-2020,Mar 04,River Valley,RC_08,0.0,,0.0,
@@ -20025,6 +20733,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,River Valley,RC_08,27.0,34.142857142857146,1.0,2.857142857142857
 05-01-2020,May 01,River Valley,RC_08,25.0,31.0,0.0,2.5714285714285716
 05-02-2020,May 02,River Valley,RC_08,13.0,28.142857142857142,0.0,2.4285714285714284
+05-03-2020,May 03,River Valley,RC_08,15.0,26.571428571428573,0.0,2.2857142857142856
+05-04-2020,May 04,River Valley,RC_08,8.0,25.714285714285715,5.0,2.142857142857143
 03-02-2020,Mar 02,Heart of Georgia,RC_09,0.0,,0.0,
 03-03-2020,Mar 03,Heart of Georgia,RC_09,0.0,,0.0,
 03-04-2020,Mar 04,Heart of Georgia,RC_09,0.0,,0.0,
@@ -20087,6 +20797,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Heart of Georgia,RC_09,35.0,17.0,0.0,1.2857142857142858
 05-01-2020,May 01,Heart of Georgia,RC_09,16.0,18.285714285714285,0.0,1.1428571428571428
 05-02-2020,May 02,Heart of Georgia,RC_09,12.0,17.0,0.0,1.0
+05-03-2020,May 03,Heart of Georgia,RC_09,4.0,17.142857142857142,-1.0,0.8571428571428571
+05-04-2020,May 04,Heart of Georgia,RC_09,12.0,17.285714285714285,3.0,0.7142857142857143
 03-02-2020,Mar 02,Southwest,RC_10,0.0,,0.0,
 03-03-2020,Mar 03,Southwest,RC_10,0.0,,0.0,
 03-04-2020,Mar 04,Southwest,RC_10,0.0,,0.0,
@@ -20149,6 +20861,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Southwest,RC_10,57.0,39.142857142857146,3.0,6.0
 05-01-2020,May 01,Southwest,RC_10,53.0,40.0,7.0,5.0
 05-02-2020,May 02,Southwest,RC_10,18.0,46.0,2.0,6.0
+05-03-2020,May 03,Southwest,RC_10,15.0,45.57142857142857,-1.0,6.142857142857143
+05-04-2020,May 04,Southwest,RC_10,38.0,45.857142857142854,9.0,5.857142857142857
 03-02-2020,Mar 02,Southern,RC_11,0.0,,0.0,
 03-03-2020,Mar 03,Southern,RC_11,0.0,,0.0,
 03-04-2020,Mar 04,Southern,RC_11,0.0,,0.0,
@@ -20211,6 +20925,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Southern,RC_11,37.0,24.285714285714285,2.0,1.7142857142857142
 05-01-2020,May 01,Southern,RC_11,24.0,25.714285714285715,0.0,1.8571428571428572
 05-02-2020,May 02,Southern,RC_11,15.0,25.857142857142858,0.0,1.7142857142857142
+05-03-2020,May 03,Southern,RC_11,7.0,26.142857142857142,1.0,1.7142857142857142
+05-04-2020,May 04,Southern,RC_11,25.0,26.0,3.0,1.7142857142857142
 03-02-2020,Mar 02,Coastal,RC_12,0.0,,0.0,
 03-03-2020,Mar 03,Coastal,RC_12,0.0,,0.0,
 03-04-2020,Mar 04,Coastal,RC_12,0.0,,0.0,
@@ -20273,6 +20989,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,Coastal,RC_12,12.0,9.0,0.0,0.7142857142857143
 05-01-2020,May 01,Coastal,RC_12,14.0,8.285714285714286,1.0,0.42857142857142855
 05-02-2020,May 02,Coastal,RC_12,4.0,8.571428571428571,0.0,0.5714285714285714
+05-03-2020,May 03,Coastal,RC_12,9.0,8.857142857142858,0.0,0.5714285714285714
+05-04-2020,May 04,Coastal,RC_12,7.0,10.142857142857142,2.0,0.5714285714285714
 03-02-2020,Mar 02,"Albany, GA",10500,0.0,,0.0,
 03-03-2020,Mar 03,"Albany, GA",10500,0.0,,0.0,
 03-04-2020,Mar 04,"Albany, GA",10500,0.0,,0.0,
@@ -20335,6 +21053,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,"Albany, GA",10500,21.0,12.0,3.0,2.7142857142857144
 05-01-2020,May 01,"Albany, GA",10500,35.0,14.142857142857142,3.0,2.7142857142857144
 05-02-2020,May 02,"Albany, GA",10500,12.0,18.714285714285715,1.0,3.142857142857143
+05-03-2020,May 03,"Albany, GA",10500,5.0,19.142857142857142,0.0,3.2857142857142856
+05-04-2020,May 04,"Albany, GA",10500,15.0,19.285714285714285,3.0,3.2857142857142856
 03-02-2020,Mar 02,"Americus, GA",11140,0.0,,0.0,
 03-03-2020,Mar 03,"Americus, GA",11140,0.0,,0.0,
 03-04-2020,Mar 04,"Americus, GA",11140,0.0,,0.0,
@@ -20397,6 +21117,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,"Americus, GA",11140,3.0,5.285714285714286,0.0,1.1428571428571428
 05-01-2020,May 01,"Americus, GA",11140,1.0,5.285714285714286,0.0,1.0
 05-02-2020,May 02,"Americus, GA",11140,3.0,4.857142857142857,0.0,1.0
+05-03-2020,May 03,"Americus, GA",11140,3.0,5.0,0.0,1.0
+05-04-2020,May 04,"Americus, GA",11140,3.0,4.571428571428571,1.0,1.0
 03-02-2020,Mar 02,"Athens-Clarke County, GA",12020,0.0,,0.0,
 03-03-2020,Mar 03,"Athens-Clarke County, GA",12020,0.0,,0.0,
 03-04-2020,Mar 04,"Athens-Clarke County, GA",12020,0.0,,0.0,
@@ -20459,6 +21181,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,"Athens-Clarke County, GA",12020,10.0,7.571428571428571,0.0,0.0
 05-01-2020,May 01,"Athens-Clarke County, GA",12020,8.0,8.0,0.0,0.0
 05-02-2020,May 02,"Athens-Clarke County, GA",12020,0.0,7.142857142857143,0.0,0.0
+05-03-2020,May 03,"Athens-Clarke County, GA",12020,2.0,7.0,0.0,0.0
+05-04-2020,May 04,"Athens-Clarke County, GA",12020,6.0,7.285714285714286,0.0,0.0
 03-02-2020,Mar 02,"Atlanta-Sandy Springs-Alpharetta, GA",12060,2.0,,0.0,
 03-03-2020,Mar 03,"Atlanta-Sandy Springs-Alpharetta, GA",12060,0.0,,0.0,
 03-04-2020,Mar 04,"Atlanta-Sandy Springs-Alpharetta, GA",12060,0.0,,0.0,
@@ -20521,6 +21245,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,"Atlanta-Sandy Springs-Alpharetta, GA",12060,285.0,376.7142857142857,21.0,16.142857142857142
 05-01-2020,May 01,"Atlanta-Sandy Springs-Alpharetta, GA",12060,338.0,330.0,22.0,17.714285714285715
 05-02-2020,May 02,"Atlanta-Sandy Springs-Alpharetta, GA",12060,430.0,340.2857142857143,3.0,19.0
+05-03-2020,May 03,"Atlanta-Sandy Springs-Alpharetta, GA",12060,237.0,353.85714285714283,4.0,19.142857142857142
+05-04-2020,May 04,"Atlanta-Sandy Springs-Alpharetta, GA",12060,402.0,369.7142857142857,26.0,18.857142857142858
 03-02-2020,Mar 02,"Augusta-Richmond County, GA-SC",12260,0.0,,0.0,
 03-03-2020,Mar 03,"Augusta-Richmond County, GA-SC",12260,0.0,,0.0,
 03-04-2020,Mar 04,"Augusta-Richmond County, GA-SC",12260,0.0,,0.0,
@@ -20583,6 +21309,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,"Augusta-Richmond County, GA-SC",12260,21.0,21.428571428571427,1.0,0.42857142857142855
 05-01-2020,May 01,"Augusta-Richmond County, GA-SC",12260,9.0,19.285714285714285,0.0,0.42857142857142855
 05-02-2020,May 02,"Augusta-Richmond County, GA-SC",12260,4.0,15.285714285714286,1.0,0.42857142857142855
+05-03-2020,May 03,"Augusta-Richmond County, GA-SC",12260,3.0,14.857142857142858,0.0,0.5714285714285714
+05-04-2020,May 04,"Augusta-Richmond County, GA-SC",12260,12.0,13.428571428571429,-1.0,0.5714285714285714
 03-02-2020,Mar 02,"Bainbridge, GA",12460,0.0,,0.0,
 03-03-2020,Mar 03,"Bainbridge, GA",12460,0.0,,0.0,
 03-04-2020,Mar 04,"Bainbridge, GA",12460,0.0,,0.0,
@@ -20645,6 +21373,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,"Bainbridge, GA",12460,2.0,4.428571428571429,0.0,0.0
 05-01-2020,May 01,"Bainbridge, GA",12460,4.0,3.4285714285714284,0.0,0.0
 05-02-2020,May 02,"Bainbridge, GA",12460,3.0,4.0,0.0,0.0
+05-03-2020,May 03,"Bainbridge, GA",12460,1.0,4.285714285714286,0.0,0.0
+05-04-2020,May 04,"Bainbridge, GA",12460,3.0,4.428571428571429,0.0,0.0
 03-02-2020,Mar 02,"Brunswick, GA",15260,0.0,,0.0,
 03-03-2020,Mar 03,"Brunswick, GA",15260,0.0,,0.0,
 03-04-2020,Mar 04,"Brunswick, GA",15260,0.0,,0.0,
@@ -20707,6 +21437,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,"Brunswick, GA",15260,1.0,0.8571428571428571,0.0,0.14285714285714285
 05-01-2020,May 01,"Brunswick, GA",15260,5.0,1.0,0.0,0.0
 05-02-2020,May 02,"Brunswick, GA",15260,1.0,1.7142857142857142,0.0,0.0
+05-03-2020,May 03,"Brunswick, GA",15260,-1.0,1.7142857142857142,0.0,0.0
+05-04-2020,May 04,"Brunswick, GA",15260,-1.0,1.5714285714285714,0.0,0.0
 03-02-2020,Mar 02,"Calhoun, GA",15660,0.0,,0.0,
 03-03-2020,Mar 03,"Calhoun, GA",15660,0.0,,0.0,
 03-04-2020,Mar 04,"Calhoun, GA",15660,0.0,,0.0,
@@ -20769,6 +21501,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,"Calhoun, GA",15660,1.0,3.0,0.0,0.5714285714285714
 05-01-2020,May 01,"Calhoun, GA",15660,21.0,2.7142857142857144,0.0,0.2857142857142857
 05-02-2020,May 02,"Calhoun, GA",15660,0.0,5.428571428571429,0.0,0.2857142857142857
+05-03-2020,May 03,"Calhoun, GA",15660,0.0,4.571428571428571,0.0,0.2857142857142857
+05-04-2020,May 04,"Calhoun, GA",15660,3.0,4.571428571428571,1.0,0.2857142857142857
 03-02-2020,Mar 02,"Cedartown, GA",16340,0.0,,0.0,
 03-03-2020,Mar 03,"Cedartown, GA",16340,0.0,,0.0,
 03-04-2020,Mar 04,"Cedartown, GA",16340,0.0,,0.0,
@@ -20831,6 +21565,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,"Cedartown, GA",16340,0.0,3.0,0.0,0.0
 05-01-2020,May 01,"Cedartown, GA",16340,2.0,3.0,0.0,0.0
 05-02-2020,May 02,"Cedartown, GA",16340,0.0,2.4285714285714284,0.0,0.0
+05-03-2020,May 03,"Cedartown, GA",16340,0.0,2.0,0.0,0.0
+05-04-2020,May 04,"Cedartown, GA",16340,1.0,1.8571428571428572,0.0,0.0
 03-02-2020,Mar 02,"Chattanooga, TN-GA",16860,0.0,,0.0,
 03-03-2020,Mar 03,"Chattanooga, TN-GA",16860,0.0,,0.0,
 03-04-2020,Mar 04,"Chattanooga, TN-GA",16860,0.0,,0.0,
@@ -20893,6 +21629,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,"Chattanooga, TN-GA",16860,2.0,0.42857142857142855,0.0,0.0
 05-01-2020,May 01,"Chattanooga, TN-GA",16860,2.0,0.7142857142857143,0.0,0.0
 05-02-2020,May 02,"Chattanooga, TN-GA",16860,3.0,0.8571428571428571,0.0,0.0
+05-03-2020,May 03,"Chattanooga, TN-GA",16860,-15.0,1.2857142857142858,0.0,0.0
+05-04-2020,May 04,"Chattanooga, TN-GA",16860,16.0,-0.8571428571428571,0.0,0.0
 03-02-2020,Mar 02,"Columbus, GA-AL",17980,0.0,,0.0,
 03-03-2020,Mar 03,"Columbus, GA-AL",17980,0.0,,0.0,
 03-04-2020,Mar 04,"Columbus, GA-AL",17980,0.0,,0.0,
@@ -20955,6 +21693,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,"Columbus, GA-AL",17980,10.0,12.142857142857142,0.0,0.42857142857142855
 05-01-2020,May 01,"Columbus, GA-AL",17980,15.0,10.857142857142858,0.0,0.42857142857142855
 05-02-2020,May 02,"Columbus, GA-AL",17980,4.0,12.428571428571429,0.0,0.42857142857142855
+05-03-2020,May 03,"Columbus, GA-AL",17980,7.0,11.0,0.0,0.42857142857142855
+05-04-2020,May 04,"Columbus, GA-AL",17980,3.0,11.142857142857142,0.0,0.42857142857142855
 03-02-2020,Mar 02,"Cordele, GA",18380,0.0,,0.0,
 03-03-2020,Mar 03,"Cordele, GA",18380,0.0,,0.0,
 03-04-2020,Mar 04,"Cordele, GA",18380,0.0,,0.0,
@@ -21017,6 +21757,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,"Cordele, GA",18380,2.0,4.714285714285714,0.0,0.14285714285714285
 05-01-2020,May 01,"Cordele, GA",18380,2.0,3.4285714285714284,0.0,0.14285714285714285
 05-02-2020,May 02,"Cordele, GA",18380,0.0,2.5714285714285716,0.0,0.14285714285714285
+05-03-2020,May 03,"Cordele, GA",18380,1.0,2.2857142857142856,0.0,0.14285714285714285
+05-04-2020,May 04,"Cordele, GA",18380,2.0,2.142857142857143,1.0,0.14285714285714285
 03-02-2020,Mar 02,"Cornelia, GA",18460,0.0,,0.0,
 03-03-2020,Mar 03,"Cornelia, GA",18460,0.0,,0.0,
 03-04-2020,Mar 04,"Cornelia, GA",18460,0.0,,0.0,
@@ -21079,6 +21821,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,"Cornelia, GA",18460,59.0,16.428571428571427,1.0,0.5714285714285714
 05-01-2020,May 01,"Cornelia, GA",18460,23.0,22.142857142857142,0.0,0.7142857142857143
 05-02-2020,May 02,"Cornelia, GA",18460,17.0,23.142857142857142,0.0,0.7142857142857143
+05-03-2020,May 03,"Cornelia, GA",18460,-1.0,24.857142857142858,0.0,0.7142857142857143
+05-04-2020,May 04,"Cornelia, GA",18460,12.0,24.571428571428573,1.0,0.7142857142857143
 03-02-2020,Mar 02,"Dalton, GA",19140,0.0,,0.0,
 03-03-2020,Mar 03,"Dalton, GA",19140,0.0,,0.0,
 03-04-2020,Mar 04,"Dalton, GA",19140,0.0,,0.0,
@@ -21141,6 +21885,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,"Dalton, GA",19140,28.0,5.285714285714286,0.0,0.0
 05-01-2020,May 01,"Dalton, GA",19140,6.0,8.428571428571429,1.0,0.0
 05-02-2020,May 02,"Dalton, GA",19140,8.0,8.428571428571429,0.0,0.14285714285714285
+05-03-2020,May 03,"Dalton, GA",19140,2.0,9.142857142857142,1.0,0.14285714285714285
+05-04-2020,May 04,"Dalton, GA",19140,7.0,9.428571428571429,1.0,0.2857142857142857
 03-02-2020,Mar 02,"Douglas, GA",20060,0.0,,0.0,
 03-03-2020,Mar 03,"Douglas, GA",20060,0.0,,0.0,
 03-04-2020,Mar 04,"Douglas, GA",20060,0.0,,0.0,
@@ -21203,6 +21949,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,"Douglas, GA",20060,12.0,6.428571428571429,1.0,0.42857142857142855
 05-01-2020,May 01,"Douglas, GA",20060,4.0,6.857142857142857,0.0,0.5714285714285714
 05-02-2020,May 02,"Douglas, GA",20060,5.0,6.142857142857143,0.0,0.5714285714285714
+05-03-2020,May 03,"Douglas, GA",20060,2.0,6.428571428571429,0.0,0.5714285714285714
+05-04-2020,May 04,"Douglas, GA",20060,4.0,6.142857142857143,0.0,0.5714285714285714
 03-02-2020,Mar 02,"Dublin, GA",20140,0.0,,0.0,
 03-03-2020,Mar 03,"Dublin, GA",20140,0.0,,0.0,
 03-04-2020,Mar 04,"Dublin, GA",20140,0.0,,0.0,
@@ -21265,6 +22013,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,"Dublin, GA",20140,16.0,2.0,0.0,0.14285714285714285
 05-01-2020,May 01,"Dublin, GA",20140,4.0,4.0,0.0,0.14285714285714285
 05-02-2020,May 02,"Dublin, GA",20140,10.0,4.0,0.0,0.14285714285714285
+05-03-2020,May 03,"Dublin, GA",20140,0.0,5.142857142857143,0.0,0.0
+05-04-2020,May 04,"Dublin, GA",20140,7.0,5.142857142857143,0.0,0.0
 03-02-2020,Mar 02,"Eufaula, AL-GA",21640,0.0,,0.0,
 03-03-2020,Mar 03,"Eufaula, AL-GA",21640,0.0,,0.0,
 03-04-2020,Mar 04,"Eufaula, AL-GA",21640,0.0,,0.0,
@@ -21327,6 +22077,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,"Eufaula, AL-GA",21640,0.0,0.14285714285714285,0.0,0.0
 05-01-2020,May 01,"Eufaula, AL-GA",21640,1.0,0.14285714285714285,0.0,0.0
 05-02-2020,May 02,"Eufaula, AL-GA",21640,0.0,0.2857142857142857,0.0,0.0
+05-03-2020,May 03,"Eufaula, AL-GA",21640,3.0,0.2857142857142857,0.0,0.0
+05-04-2020,May 04,"Eufaula, AL-GA",21640,-2.0,0.7142857142857143,0.0,0.0
 03-02-2020,Mar 02,"Fitzgerald, GA",22340,0.0,,0.0,
 03-03-2020,Mar 03,"Fitzgerald, GA",22340,0.0,,0.0,
 03-04-2020,Mar 04,"Fitzgerald, GA",22340,0.0,,0.0,
@@ -21389,6 +22141,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,"Fitzgerald, GA",22340,0.0,0.7142857142857143,0.0,0.0
 05-01-2020,May 01,"Fitzgerald, GA",22340,1.0,0.5714285714285714,0.0,0.0
 05-02-2020,May 02,"Fitzgerald, GA",22340,2.0,0.7142857142857143,0.0,0.0
+05-03-2020,May 03,"Fitzgerald, GA",22340,1.0,0.7142857142857143,0.0,0.0
+05-04-2020,May 04,"Fitzgerald, GA",22340,0.0,0.8571428571428571,0.0,0.0
 03-02-2020,Mar 02,"Gainesville, GA",23580,0.0,,0.0,
 03-03-2020,Mar 03,"Gainesville, GA",23580,0.0,,0.0,
 03-04-2020,Mar 04,"Gainesville, GA",23580,0.0,,0.0,
@@ -21451,6 +22205,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,"Gainesville, GA",23580,85.0,50.57142857142857,1.0,1.5714285714285714
 05-01-2020,May 01,"Gainesville, GA",23580,136.0,54.714285714285715,1.0,1.7142857142857142
 05-02-2020,May 02,"Gainesville, GA",23580,212.0,65.71428571428571,0.0,1.8571428571428572
+05-03-2020,May 03,"Gainesville, GA",23580,6.0,94.57142857142857,1.0,1.8571428571428572
+05-04-2020,May 04,"Gainesville, GA",23580,76.0,95.28571428571429,0.0,1.7142857142857142
 03-02-2020,Mar 02,"Hinesville, GA",25980,0.0,,0.0,
 03-03-2020,Mar 03,"Hinesville, GA",25980,0.0,,0.0,
 03-04-2020,Mar 04,"Hinesville, GA",25980,0.0,,0.0,
@@ -21513,6 +22269,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,"Hinesville, GA",25980,2.0,0.5714285714285714,0.0,0.0
 05-01-2020,May 01,"Hinesville, GA",25980,0.0,0.7142857142857143,0.0,0.0
 05-02-2020,May 02,"Hinesville, GA",25980,0.0,0.7142857142857143,0.0,0.0
+05-03-2020,May 03,"Hinesville, GA",25980,1.0,0.5714285714285714,0.0,0.0
+05-04-2020,May 04,"Hinesville, GA",25980,-1.0,0.7142857142857143,0.0,0.0
 03-02-2020,Mar 02,"Jefferson, GA",27600,0.0,,0.0,
 03-03-2020,Mar 03,"Jefferson, GA",27600,0.0,,0.0,
 03-04-2020,Mar 04,"Jefferson, GA",27600,0.0,,0.0,
@@ -21575,6 +22333,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,"Jefferson, GA",27600,9.0,3.142857142857143,1.0,0.0
 05-01-2020,May 01,"Jefferson, GA",27600,3.0,3.5714285714285716,0.0,0.14285714285714285
 05-02-2020,May 02,"Jefferson, GA",27600,11.0,3.4285714285714284,0.0,0.14285714285714285
+05-03-2020,May 03,"Jefferson, GA",27600,0.0,5.0,0.0,0.14285714285714285
+05-04-2020,May 04,"Jefferson, GA",27600,3.0,5.0,0.0,0.14285714285714285
 03-02-2020,Mar 02,"Jesup, GA",27700,0.0,,0.0,
 03-03-2020,Mar 03,"Jesup, GA",27700,0.0,,0.0,
 03-04-2020,Mar 04,"Jesup, GA",27700,0.0,,0.0,
@@ -21637,6 +22397,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,"Jesup, GA",27700,1.0,0.2857142857142857,0.0,0.0
 05-01-2020,May 01,"Jesup, GA",27700,0.0,0.42857142857142855,0.0,0.0
 05-02-2020,May 02,"Jesup, GA",27700,0.0,0.2857142857142857,0.0,0.0
+05-03-2020,May 03,"Jesup, GA",27700,0.0,0.2857142857142857,0.0,0.0
+05-04-2020,May 04,"Jesup, GA",27700,0.0,0.2857142857142857,0.0,0.0
 03-02-2020,Mar 02,"LaGrange, GA-AL",29300,0.0,,0.0,
 03-03-2020,Mar 03,"LaGrange, GA-AL",29300,0.0,,0.0,
 03-04-2020,Mar 04,"LaGrange, GA-AL",29300,0.0,,0.0,
@@ -21699,6 +22461,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,"LaGrange, GA-AL",29300,3.0,5.142857142857143,0.0,0.0
 05-01-2020,May 01,"LaGrange, GA-AL",29300,2.0,4.285714285714286,0.0,0.0
 05-02-2020,May 02,"LaGrange, GA-AL",29300,4.0,4.0,0.0,0.0
+05-03-2020,May 03,"LaGrange, GA-AL",29300,0.0,4.571428571428571,0.0,0.0
+05-04-2020,May 04,"LaGrange, GA-AL",29300,5.0,4.0,1.0,0.0
 03-02-2020,Mar 02,"Macon-Bibb County, GA",31420,0.0,,0.0,
 03-03-2020,Mar 03,"Macon-Bibb County, GA",31420,0.0,,0.0,
 03-04-2020,Mar 04,"Macon-Bibb County, GA",31420,0.0,,0.0,
@@ -21761,6 +22525,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,"Macon-Bibb County, GA",31420,4.0,13.571428571428571,0.0,1.1428571428571428
 05-01-2020,May 01,"Macon-Bibb County, GA",31420,10.0,12.0,0.0,1.0
 05-02-2020,May 02,"Macon-Bibb County, GA",31420,8.0,11.714285714285714,1.0,1.0
+05-03-2020,May 03,"Macon-Bibb County, GA",31420,5.0,12.142857142857142,0.0,1.0
+05-04-2020,May 04,"Macon-Bibb County, GA",31420,23.0,12.571428571428571,1.0,1.0
 03-02-2020,Mar 02,"Milledgeville, GA",33300,0.0,,0.0,
 03-03-2020,Mar 03,"Milledgeville, GA",33300,0.0,,0.0,
 03-04-2020,Mar 04,"Milledgeville, GA",33300,0.0,,0.0,
@@ -21823,6 +22589,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,"Milledgeville, GA",33300,12.0,12.0,1.0,0.7142857142857143
 05-01-2020,May 01,"Milledgeville, GA",33300,15.0,12.428571428571429,0.0,0.8571428571428571
 05-02-2020,May 02,"Milledgeville, GA",33300,10.0,13.142857142857142,0.0,0.7142857142857143
+05-03-2020,May 03,"Milledgeville, GA",33300,7.0,12.857142857142858,0.0,0.5714285714285714
+05-04-2020,May 04,"Milledgeville, GA",33300,9.0,13.571428571428571,1.0,0.5714285714285714
 03-02-2020,Mar 02,"Moultrie, GA",34220,0.0,,0.0,
 03-03-2020,Mar 03,"Moultrie, GA",34220,0.0,,0.0,
 03-04-2020,Mar 04,"Moultrie, GA",34220,0.0,,0.0,
@@ -21885,6 +22653,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,"Moultrie, GA",34220,4.0,3.2857142857142856,0.0,0.0
 05-01-2020,May 01,"Moultrie, GA",34220,2.0,3.142857142857143,3.0,0.0
 05-02-2020,May 02,"Moultrie, GA",34220,1.0,3.142857142857143,1.0,0.42857142857142855
+05-03-2020,May 03,"Moultrie, GA",34220,0.0,3.2857142857142856,0.0,0.5714285714285714
+05-04-2020,May 04,"Moultrie, GA",34220,4.0,3.2857142857142856,-1.0,0.5714285714285714
 03-02-2020,Mar 02,"Rome, GA",40660,0.0,,0.0,
 03-03-2020,Mar 03,"Rome, GA",40660,0.0,,0.0,
 03-04-2020,Mar 04,"Rome, GA",40660,0.0,,0.0,
@@ -21947,6 +22717,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,"Rome, GA",40660,5.0,1.5714285714285714,0.0,0.42857142857142855
 05-01-2020,May 01,"Rome, GA",40660,1.0,2.2857142857142856,0.0,0.42857142857142855
 05-02-2020,May 02,"Rome, GA",40660,0.0,2.0,0.0,0.14285714285714285
+05-03-2020,May 03,"Rome, GA",40660,0.0,1.7142857142857142,0.0,0.14285714285714285
+05-04-2020,May 04,"Rome, GA",40660,5.0,1.7142857142857142,0.0,0.14285714285714285
 03-02-2020,Mar 02,"St. Marys, GA",41220,0.0,,0.0,
 03-03-2020,Mar 03,"St. Marys, GA",41220,0.0,,0.0,
 03-04-2020,Mar 04,"St. Marys, GA",41220,0.0,,0.0,
@@ -22009,6 +22781,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,"St. Marys, GA",41220,1.0,0.7142857142857143,0.0,0.14285714285714285
 05-01-2020,May 01,"St. Marys, GA",41220,0.0,0.7142857142857143,0.0,0.0
 05-02-2020,May 02,"St. Marys, GA",41220,1.0,0.7142857142857143,0.0,0.0
+05-03-2020,May 03,"St. Marys, GA",41220,1.0,0.8571428571428571,0.0,0.0
+05-04-2020,May 04,"St. Marys, GA",41220,-2.0,1.0,0.0,0.0
 03-02-2020,Mar 02,"Savannah, GA",42340,0.0,,0.0,
 03-03-2020,Mar 03,"Savannah, GA",42340,0.0,,0.0,
 03-04-2020,Mar 04,"Savannah, GA",42340,0.0,,0.0,
@@ -22071,6 +22845,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,"Savannah, GA",42340,7.0,6.571428571428571,0.0,0.42857142857142855
 05-01-2020,May 01,"Savannah, GA",42340,7.0,5.428571428571429,1.0,0.42857142857142855
 05-02-2020,May 02,"Savannah, GA",42340,0.0,4.857142857142857,0.0,0.5714285714285714
+05-03-2020,May 03,"Savannah, GA",42340,7.0,4.714285714285714,0.0,0.5714285714285714
+05-04-2020,May 04,"Savannah, GA",42340,10.0,5.714285714285714,2.0,0.5714285714285714
 03-02-2020,Mar 02,"Statesboro, GA",44340,0.0,,0.0,
 03-03-2020,Mar 03,"Statesboro, GA",44340,0.0,,0.0,
 03-04-2020,Mar 04,"Statesboro, GA",44340,0.0,,0.0,
@@ -22133,6 +22909,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,"Statesboro, GA",44340,2.0,0.42857142857142855,0.0,0.0
 05-01-2020,May 01,"Statesboro, GA",44340,2.0,0.7142857142857143,0.0,0.0
 05-02-2020,May 02,"Statesboro, GA",44340,2.0,0.8571428571428571,0.0,0.0
+05-03-2020,May 03,"Statesboro, GA",44340,0.0,1.1428571428571428,0.0,0.0
+05-04-2020,May 04,"Statesboro, GA",44340,1.0,1.1428571428571428,0.0,0.0
 03-02-2020,Mar 02,"Summerville, GA",44900,0.0,,0.0,
 03-03-2020,Mar 03,"Summerville, GA",44900,0.0,,0.0,
 03-04-2020,Mar 04,"Summerville, GA",44900,0.0,,0.0,
@@ -22195,6 +22973,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,"Summerville, GA",44900,0.0,0.7142857142857143,0.0,0.14285714285714285
 05-01-2020,May 01,"Summerville, GA",44900,0.0,0.7142857142857143,0.0,0.14285714285714285
 05-02-2020,May 02,"Summerville, GA",44900,0.0,0.42857142857142855,0.0,0.14285714285714285
+05-03-2020,May 03,"Summerville, GA",44900,-1.0,0.42857142857142855,0.0,0.14285714285714285
+05-04-2020,May 04,"Summerville, GA",44900,0.0,0.2857142857142857,0.0,0.14285714285714285
 03-02-2020,Mar 02,"Thomaston, GA",45580,0.0,,0.0,
 03-03-2020,Mar 03,"Thomaston, GA",45580,0.0,,0.0,
 03-04-2020,Mar 04,"Thomaston, GA",45580,0.0,,0.0,
@@ -22257,6 +23037,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,"Thomaston, GA",45580,5.0,3.857142857142857,1.0,0.7142857142857143
 05-01-2020,May 01,"Thomaston, GA",45580,7.0,3.7142857142857144,0.0,0.5714285714285714
 05-02-2020,May 02,"Thomaston, GA",45580,1.0,4.428571428571429,0.0,0.5714285714285714
+05-03-2020,May 03,"Thomaston, GA",45580,5.0,4.142857142857143,2.0,0.5714285714285714
+05-04-2020,May 04,"Thomaston, GA",45580,10.0,4.714285714285714,1.0,0.8571428571428571
 03-02-2020,Mar 02,"Thomasville, GA",45620,0.0,,0.0,
 03-03-2020,Mar 03,"Thomasville, GA",45620,0.0,,0.0,
 03-04-2020,Mar 04,"Thomasville, GA",45620,0.0,,0.0,
@@ -22319,6 +23101,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,"Thomasville, GA",45620,8.0,4.285714285714286,0.0,0.7142857142857143
 05-01-2020,May 01,"Thomasville, GA",45620,4.0,4.142857142857143,0.0,0.42857142857142855
 05-02-2020,May 02,"Thomasville, GA",45620,1.0,4.714285714285714,0.0,0.42857142857142855
+05-03-2020,May 03,"Thomasville, GA",45620,0.0,4.857142857142857,0.0,0.42857142857142855
+05-04-2020,May 04,"Thomasville, GA",45620,5.0,4.714285714285714,1.0,0.42857142857142855
 03-02-2020,Mar 02,"Tifton, GA",45700,0.0,,0.0,
 03-03-2020,Mar 03,"Tifton, GA",45700,0.0,,0.0,
 03-04-2020,Mar 04,"Tifton, GA",45700,0.0,,0.0,
@@ -22381,6 +23165,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,"Tifton, GA",45700,8.0,2.4285714285714284,0.0,0.2857142857142857
 05-01-2020,May 01,"Tifton, GA",45700,4.0,3.0,0.0,0.2857142857142857
 05-02-2020,May 02,"Tifton, GA",45700,4.0,3.5714285714285716,0.0,0.2857142857142857
+05-03-2020,May 03,"Tifton, GA",45700,1.0,4.142857142857143,0.0,0.2857142857142857
+05-04-2020,May 04,"Tifton, GA",45700,5.0,4.285714285714286,0.0,0.14285714285714285
 03-02-2020,Mar 02,"Toccoa, GA",45740,0.0,,0.0,
 03-03-2020,Mar 03,"Toccoa, GA",45740,0.0,,0.0,
 03-04-2020,Mar 04,"Toccoa, GA",45740,0.0,,0.0,
@@ -22443,6 +23229,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,"Toccoa, GA",45740,6.0,4.428571428571429,0.0,0.0
 05-01-2020,May 01,"Toccoa, GA",45740,2.0,4.428571428571429,0.0,0.0
 05-02-2020,May 02,"Toccoa, GA",45740,6.0,3.7142857142857144,0.0,0.0
+05-03-2020,May 03,"Toccoa, GA",45740,0.0,4.428571428571429,0.0,0.0
+05-04-2020,May 04,"Toccoa, GA",45740,1.0,2.4285714285714284,0.0,0.0
 03-02-2020,Mar 02,"Valdosta, GA",46660,0.0,,0.0,
 03-03-2020,Mar 03,"Valdosta, GA",46660,0.0,,0.0,
 03-04-2020,Mar 04,"Valdosta, GA",46660,0.0,,0.0,
@@ -22505,6 +23293,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,"Valdosta, GA",46660,6.0,7.285714285714286,0.0,0.0
 05-01-2020,May 01,"Valdosta, GA",46660,2.0,7.571428571428571,0.0,0.0
 05-02-2020,May 02,"Valdosta, GA",46660,2.0,6.857142857142857,0.0,0.0
+05-03-2020,May 03,"Valdosta, GA",46660,0.0,6.857142857142857,0.0,0.0
+05-04-2020,May 04,"Valdosta, GA",46660,7.0,6.857142857142857,1.0,0.0
 03-02-2020,Mar 02,"Vidalia, GA",47080,0.0,,0.0,
 03-03-2020,Mar 03,"Vidalia, GA",47080,0.0,,0.0,
 03-04-2020,Mar 04,"Vidalia, GA",47080,0.0,,0.0,
@@ -22567,6 +23357,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,"Vidalia, GA",47080,1.0,1.2857142857142858,0.0,0.0
 05-01-2020,May 01,"Vidalia, GA",47080,1.0,1.1428571428571428,0.0,0.0
 05-02-2020,May 02,"Vidalia, GA",47080,0.0,0.8571428571428571,0.0,0.0
+05-03-2020,May 03,"Vidalia, GA",47080,2.0,0.7142857142857143,0.0,0.0
+05-04-2020,May 04,"Vidalia, GA",47080,0.0,1.0,0.0,0.0
 03-02-2020,Mar 02,"Warner Robins, GA",47580,0.0,,0.0,
 03-03-2020,Mar 03,"Warner Robins, GA",47580,0.0,,0.0,
 03-04-2020,Mar 04,"Warner Robins, GA",47580,0.0,,0.0,
@@ -22629,6 +23421,8 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,"Warner Robins, GA",47580,3.0,5.714285714285714,1.0,0.0
 05-01-2020,May 01,"Warner Robins, GA",47580,18.0,5.428571428571429,0.0,0.14285714285714285
 05-02-2020,May 02,"Warner Robins, GA",47580,7.0,6.428571428571429,0.0,0.14285714285714285
+05-03-2020,May 03,"Warner Robins, GA",47580,4.0,7.142857142857143,0.0,0.14285714285714285
+05-04-2020,May 04,"Warner Robins, GA",47580,23.0,7.285714285714286,0.0,0.14285714285714285
 03-02-2020,Mar 02,"Waycross, GA",48180,0.0,,0.0,
 03-03-2020,Mar 03,"Waycross, GA",48180,0.0,,0.0,
 03-04-2020,Mar 04,"Waycross, GA",48180,0.0,,0.0,
@@ -22691,3 +23485,5 @@ date,dateTwo,area_name,area_code,daily_cases,avg_cases_7,daily_deaths,avg_deaths
 04-30-2020,Apr 30,"Waycross, GA",48180,7.0,3.2857142857142856,1.0,0.5714285714285714
 05-01-2020,May 01,"Waycross, GA",48180,7.0,3.5714285714285716,0.0,0.7142857142857143
 05-02-2020,May 02,"Waycross, GA",48180,-2.0,4.0,0.0,0.5714285714285714
+05-03-2020,May 03,"Waycross, GA",48180,0.0,3.4285714285714284,0.0,0.5714285714285714
+05-04-2020,May 04,"Waycross, GA",48180,5.0,3.142857142857143,1.0,0.5714285714285714

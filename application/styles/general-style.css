@@ -59,6 +59,18 @@ select {
 	width: 100%;
 }
 
+hr {
+	width: 50%;
+	border: 0;
+    height: 1px;
+    background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+}
+
+hr.second {
+	margin-top: 5rem;
+}
+
 .start {
 	padding-top: 8rem;
 }
@@ -202,9 +214,17 @@ p.lead {
   opacity:0.9;
 }
 
-/*svg styling*/
-.cls-12 {
-	display: none;
+.tableContainer {
+	padding-top: 3rem;
+}
+
+span.italic {
+	font-family: jaf-bernina-sans, sans-serif;
+	font-weight: 300;
+	font-size: 1.25rem;
+	line-height: 1.6;
+	margin-bottom: 2rem;
+	font-style: italic;
 }
 
 /*styles for bottom application*/
@@ -244,6 +264,7 @@ p.lead {
 
 #geoContainer {
 	margin: auto;
+	padding-top: 5rem;
 }
 
 #geo {
