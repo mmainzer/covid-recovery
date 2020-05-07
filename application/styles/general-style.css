@@ -139,6 +139,119 @@ hr.second {
 		font-size: 12px;
 	}
 
+/*styles for second ai2html bar charts sid by side*/
+#g-casesCompare-box ,
+	#g-casesCompare-box .g-artboard {
+		margin:0 auto;
+	}
+	#g-casesCompare-box p {
+		margin:0;
+	}
+	#g-casesCompare-box .g-aiAbs {
+		position:absolute;
+	}
+	#g-casesCompare-box .g-aiImg {
+		position:absolute;
+		top:0;
+		display:block;
+		width:100% !important;
+	}
+	#g-casesCompare-box .g-aiSymbol {
+		position: absolute;
+		box-sizing: border-box;
+	}
+	#g-casesCompare-box .g-aiPointText p { white-space: nowrap; }
+	#g-casesCompare-Artboard_1 {
+		position:relative;
+		overflow:hidden;
+	}
+	#g-casesCompare-Artboard_1 p {
+		font-weight:500;
+		line-height:19px;
+		height:auto;
+		filter:alpha(opacity=100);
+		-ms-filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
+		opacity:1;
+		letter-spacing:0em;
+		font-size:16px;
+		text-align:left;
+		color:rgb(0,0,0);
+		text-transform:none;
+		padding-bottom:0;
+		padding-top:0;
+		mix-blend-mode:normal;
+		font-style:normal;
+		position:static;
+	}
+	#g-casesCompare-Artboard_1 .g-pstyle0 {
+		line-height:17px;
+		height:17px;
+		font-size:14px;
+	}
+	#g-casesCompare-Artboard_1 .g-pstyle1 {
+		height:19px;
+	}
+	#g-casesCompare-Artboard_2 {
+		position:relative;
+		overflow:hidden;
+	}
+	#g-casesCompare-Artboard_2 p {
+		font-weight:500;
+		line-height:16px;
+		height:auto;
+		filter:alpha(opacity=100);
+		-ms-filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
+		opacity:1;
+		letter-spacing:0em;
+		font-size:14px;
+		text-align:left;
+		color:rgb(0,0,0);
+		text-transform:none;
+		padding-bottom:0;
+		padding-top:0;
+		mix-blend-mode:normal;
+		font-style:normal;
+		position:static;
+	}
+	#g-casesCompare-Artboard_2 .g-pstyle0 {
+		line-height:13px;
+		height:13px;
+		font-size:11px;
+	}
+	#g-casesCompare-Artboard_2 .g-pstyle1 {
+		height:16px;
+	}
+	#g-casesCompare-Artboard_3 {
+		position:relative;
+		overflow:hidden;
+	}
+	#g-casesCompare-Artboard_3 p {
+		font-weight:500;
+		line-height:17px;
+		height:auto;
+		filter:alpha(opacity=100);
+		-ms-filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
+		opacity:1;
+		letter-spacing:0em;
+		font-size:14px;
+		text-align:left;
+		color:rgb(0,0,0);
+		text-transform:none;
+		padding-bottom:0;
+		padding-top:0;
+		mix-blend-mode:normal;
+		font-style:normal;
+		position:static;
+	}
+	#g-casesCompare-Artboard_3 .g-pstyle0 {
+		line-height:14px;
+		height:14px;
+		font-size:12px;
+	}
+	#g-casesCompare-Artboard_3 .g-pstyle1 {
+		height:17px;
+	}
+
 /*styles for copy and embed containers*/
 .entry-body {
     padding-bottom: 2rem;
