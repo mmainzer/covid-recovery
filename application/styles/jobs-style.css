@@ -1,0 +1,316 @@
+/*font reference*/
+
+/* Bernina Sans Regular
+	font-family: jaf-bernina-sans, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+Bernina Sans Italic
+	font-family: jaf-bernina-sans, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+Bernina Sans Bold
+	font-family: jaf-bernina-sans, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+Bernina Sans Light
+	font-family: jaf-bernina-sans, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+Bernina Sans Semibold
+	font-family: jaf-bernina-sans, sans-serif;
+	font-weight: 600;
+	font-style: normal;*/
+
+body {
+	background-color: #e8e8e8;
+}
+
+h1 {
+	font-family: jaf-bernina-sans, sans-serif;
+	font-weight: 600;
+	font-style: normal;
+	margin-bottom: 0;
+}
+
+h3 {
+	font-family: jaf-bernina-sans, sans-serif;
+	font-weight: 600;
+	font-style: normal;
+	font-size: 24px;
+}
+
+p {
+	font-family: jaf-bernina-sans, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+select {
+	width: 90%;
+}
+
+button, input, optgroup, select, textarea {
+    margin: 0;
+    font-family: inherit;
+    font-size: 12px;
+    line-height: inherit;
+    margin-bottom: .5rem;
+}
+
+hr {
+	width: 50%;
+	border: 0;
+    height: 1px;
+    background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+}
+
+#title {
+	font-family: jaf-bernina-sans, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 4rem;
+	margin-bottom: 0;
+}
+
+.start {
+	padding-top: 8rem;
+}
+
+/*style for app*/
+
+#appContainer {
+	height: 100vh;
+}
+
+#browserAlert {
+  z-index: 9999;
+  width: 100vw;
+  background-color: #fff!important;
+  position: relative!important;
+  display: none;
+}
+
+.loading {
+  display: none;
+  position: fixed;
+  z-index: 999;
+  height: 2em;
+  width: 2em;
+  overflow: show;
+  margin: auto;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+
+#mapWrapper {
+	height: 100%;
+	width: 100%;
+	position: relative;
+}
+
+#map {
+	top: 0;
+	bottom: 0;
+	width: 100%;
+	height: 100%;
+}
+
+.mapboxgl-ctrl-attrib {
+	display: none;
+}
+
+
+/*styling for form within application*/
+
+.side-panel-container {
+	display: block;
+	float: left;
+	z-index: 9999;
+	position:absolute;
+    width: 45vw;
+    text-align:center;
+    align-items: center;
+    justify-content: center;
+    height: 95%;
+    top: 1rem;
+    left: 24px;
+    background-color: #e8e8e8;
+    border: .75px solid hsla(193,100%,47%,.6);
+    overflow-y: auto;
+}
+
+
+.side-panel-section {
+	width: 100%;
+	margin-top: 1rem;
+}
+
+.subtitle {
+	margin-bottom: 0;
+	font-family: jaf-bernina-sans, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+}
+
+.kpi {
+	display: flex;
+	justify-content: space-evenly;
+}
+
+.kpiSub {
+	font-size: .75rem;
+}
+
+/*styling for selection pane at top right of application*/
+
+.select {
+	float: right;
+	z-index: 9999;
+	position:absolute;
+    justify-content: space-between;
+    top: 2.5vh;
+    right: 48px;
+    width: 33vw;
+    min-width: 415px;
+    border: 1.25px solid hsla(193,100%,47%);
+    background-color: white;
+}
+
+.select-row {
+	margin-left: 0;
+	margin-right: 0;
+	width: 100%;
+}
+
+.select-title {
+	font-family: jaf-bernina-sans, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 14px;
+	margin-top: .5rem;
+}
+
+.select2-container--default .select2-selection--single {
+    background-color: #fff;
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    margin-bottom: .5rem;
+    font-size: 12px;
+}
+
+.select2-results {
+	font-size: 12px;
+}
+
+span {
+	font-family: jaf-bernina-sans, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 0.75rem;
+}
+
+.map-key {
+	display: block;
+}
+
+.key-bubbles {
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-pack: center;
+	justify-content: center;
+	-ms-flex-align: center;
+	align-items: center;
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+}
+
+.key-bubble-label {
+	display: inline;
+}
+
+.key-value {
+	font-family: jaf-bernina-sans, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 12px;
+
+}
+
+.min-key-value {
+	padding-right: 10px;
+}
+
+.max-key-value {
+	padding-left: 10px;
+}
+
+.key-bubbles-wrap {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.key-bubble {
+	border: 1px solid #252525;
+	background-color: rgba(37, 37, 37, 0.25);
+	border-radius: 500px;
+	margin: 0 3px;
+}
+
+.key-bars {
+	display: block;
+	max-width: 450px;
+	width: 100%;
+	margin: auto;
+}
+
+.key-subhead {
+	font-size: 12px;
+	margin-top: 10px;
+	margin-bottom: 5px;
+	font-weight: 300;
+	text-align: center;
+}
+
+.g-bars {
+	display: flex;
+	margin-bottom: 5px;
+}
+
+.g-bar {
+	flex: 1;
+	height: 15px;
+}
+
+.g-bar-tick {
+	border-right: 1px solid #252525;
+}
+
+.g-level {
+	width: 100%;
+	height: 60%;
+}
+
+.g-level-0 {
+	background-color: #ffffcc;
+}
+
+.g-level-1 {
+	background-color: #a1dab4;
+}
+
+.g-level-2 {
+	background-color: #41b6c4;
+}
+
+.g-level-3 {
+	background-color: #2c7fb8;
+}
+
+.g-level-4 {
+	background-color: #253494;
+}
