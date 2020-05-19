@@ -26,6 +26,82 @@ $(document).ready(function() {
     $('#kpiFive').text(kpiSelect[startKpiVal].PctChngEmployed);
 });
 
+$("#point-select").change(function() {
+	var val = $(this).val();
+	var size = selectObj.points[val].circles;
+	var minSize = selectObj.points[val].min;
+	var maxSize = selectObj.points[val].max;
+	$('#minSize').text(minSize);
+	$('#maxSize').text(maxSize);
+
+	map.setPaintProperty('points','circle-radius',size);
+
+});
+
+// function to update chart on geography select
+function update(selectedGeo) {
+	// create new data with the selection
+	let dataFilter = claimData.filter(function(d){return d.Area==selectedGeo})
+
+	// create new min and max for the y axis
+	yClaims.domain([0, d3.max(dataFilter, function(d) { return d.Claims; }) + 5]);
+
+
+	// give new data to bars for update
+	barsClaims
+		.data(dataFilter)
+		.transition()
+		.duration(1000)
+		.attr("y", function(d) { return yClaims(d.Claims); })
+		.attr("height", function(d) { return height - yClaims(d.Claims); })
+
+	// add an update to the y axis
+	svgClaims.select(".y.axis")
+		.transition()
+		.duration(1000)
+		.call(d3.axisLeft(yClaims).ticks(5));
+
+	$('#geo').text(selectedGeo);
+	$('#kpiOne').text(kpiSelect[selectedGeo].MarchEmployed);
+    $('#kpiTwo').text(kpiSelect[selectedGeo].CumClaims);
+    $('#kpiThree').text(kpiSelect[selectedGeo].Employed);
+    $('#kpiFour').text(kpiSelect[selectedGeo].Unemployed);
+    $('#kpiFive').text(kpiSelect[selectedGeo].PctChngEmployed);
+
+
+}
+
+function geoHighlight(level, option) {
+	console.log(option);
+	if (level == 'MSA') {
+		// hide rc layer
+		map.setLayoutProperty('rcLines','visibility','none');
+		map.setLayoutProperty('countyLines','visibility','none');
+		// filter msa layer
+		map.setFilter('msaLines',["match",["get","NAME"],option,true,false]);
+		// show msa layer
+		map.setLayoutProperty('msaLines','visibility','visible');
+	} else if (level == 'Regional Commission') {
+		// hide msa layer
+		map.setLayoutProperty('msaLines','visibility','none');
+		map.setLayoutProperty('countyLines','visibility','none');
+		// filter rc layer
+		map.setFilter('rcLines',["match",["get","Regional Commission"],option,true,false]);
+		// show rc layer
+		map.setLayoutProperty('rcLines','visibility','visible');
+	} else if (level == 'County') {
+		map.setLayoutProperty('msaLines','visibility','none');
+		map.setLayoutProperty('rcLines','visibility','none');
+		map.setFilter('countyLines',["match",["get","County"],option,true,false]);
+		map.setLayoutProperty('countyLines','visibility','visible');
+	} else {
+		// hide rc and msa layers
+		map.setLayoutProperty('msaLines','visibility','none');
+		map.setLayoutProperty('rcLines','visibility','none');
+		map.setLayoutProperty('countyLines','visibility','none');
+	}
+}
+
 //populate the geography dropdown based on the level that's been chosen in the level dropdown
 $("#level-select").change(function() {
 	//remove any existing option from the geography select
@@ -48,41 +124,9 @@ $("#level-select").change(function() {
 	let selectedLevel = $('#level-select option:selected').text()
 	let selectedOption = $("#geo-select option").first().text();
 
-	// set the correct label and kpi values for the first geography now filtered
-	$('#geo').text(selectedOption);
-	$('#kpiOne').text(kpiSelect[selectedOption].MarchEmployed);
-    $('#kpiTwo').text(kpiSelect[selectedOption].CumClaims);
-    $('#kpiThree').text(kpiSelect[selectedOption].Employed);
-    $('#kpiFour').text(kpiSelect[selectedOption].Unemployed);
-    $('#kpiFive').text(kpiSelect[selectedOption].PctChngEmployed);
+	update(selectedOption);
 
-    if (selectedLevel == 'MSA') {
-		// hide rc layer
-		map.setLayoutProperty('rcLines','visibility','none');
-		map.setLayoutProperty('countyLines','visibility','none');
-		// filter msa layer
-		map.setFilter('msaLines',["match",["get","NAME"],selectedOption,true,false]);
-		// show msa layer
-		map.setLayoutProperty('msaLines','visibility','visible');
-	} else if (selectedLevel == 'Regional Commission') {
-		// hide msa layer
-		map.setLayoutProperty('msaLines','visibility','none');
-		map.setLayoutProperty('countyLines','visibility','none');
-		// filter rc layer
-		map.setFilter('rcLines',["match",["get","Regional Commission"],selectedOption,true,false]);
-		// show rc layer
-		map.setLayoutProperty('rcLines','visibility','visible');
-	} else if (selectedLevel == 'County') {
-		map.setLayoutProperty('msaLines','visibility','none');
-		map.setLayoutProperty('rcLines','visibility','none');
-		map.setFilter('countyLines',["match",["get","County"],selectedOption,true,false]);
-		map.setLayoutProperty('countyLines','visibility','visible');
-	} else {
-		// hide rc and msa layers
-		map.setLayoutProperty('msaLines','visibility','none');
-		map.setLayoutProperty('rcLines','visibility','none');
-		map.setLayoutProperty('countyLines','visibility','none');
-	}
+    geoHighlight(selectedLevel,selectedOption);
 
 });
 
@@ -91,52 +135,9 @@ $("#geo-select").change(function() {
 	// recover selected option
 	let selectedOption = d3.select(this).property("value")
 	let selectedLevel = $('#level-select option:selected').text()
-	// run the updated chart function with this selected option
-	$('#geo').text(selectedOption);
-	$('#kpiOne').text(kpiSelect[selectedOption].MarchEmployed);
-    $('#kpiTwo').text(kpiSelect[selectedOption].CumClaims);
-    $('#kpiThree').text(kpiSelect[selectedOption].Employed);
-    $('#kpiFour').text(kpiSelect[selectedOption].Unemployed);
-    $('#kpiFive').text(kpiSelect[selectedOption].PctChngEmployed);
+	
+	update(selectedOption);
 
-	if (selectedLevel == 'MSA') {
-		// hide rc layer
-		map.setLayoutProperty('rcLines','visibility','none');
-		map.setLayoutProperty('countyLines','visibility','none');
-		// filter msa layer
-		map.setFilter('msaLines',["match",["get","NAME"],selectedOption,true,false]);
-		// show msa layer
-		map.setLayoutProperty('msaLines','visibility','visible');
-	} else if (selectedLevel == 'Regional Commission') {
-		// hide msa layer
-		map.setLayoutProperty('msaLines','visibility','none');
-		map.setLayoutProperty('countyLines','visibility','none');
-		// filter rc layer
-		map.setFilter('rcLines',["match",["get","Regional Commission"],selectedOption,true,false]);
-		// show rc layer
-		map.setLayoutProperty('rcLines','visibility','visible');
-	} else if (selectedLevel == 'County') {
-		map.setLayoutProperty('msaLines','visibility','none');
-		map.setLayoutProperty('rcLines','visibility','none');
-		map.setFilter('countyLines',["match",["get","County"],selectedOption,true,false]);
-		map.setLayoutProperty('countyLines','visibility','visible');
-	} else {
-		// hide rc and msa layers
-		map.setLayoutProperty('msaLines','visibility','none');
-		map.setLayoutProperty('rcLines','visibility','none');
-		map.setLayoutProperty('countyLines','visibility','none');
-	}
-
-});
-
-$("#point-select").change(function() {
-	var val = $(this).val();
-	var size = selectObj.points[val].circles;
-	var minSize = selectObj.points[val].min;
-	var maxSize = selectObj.points[val].max;
-	$('#minSize').text(minSize);
-	$('#maxSize').text(maxSize);
-
-	map.setPaintProperty('points','circle-radius',size);
+	geoHighlight(selectedLevel,selectedOption);
 
 });
