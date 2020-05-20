@@ -130,7 +130,7 @@ hr {
 	float: left;
 	z-index: 9999;
 	position:absolute;
-    width: 45vw;
+    width: 50vw;
     text-align:center;
     align-items: center;
     justify-content: center;
@@ -174,7 +174,96 @@ hr {
 	font-family: jaf-bernina-sans, sans-serif;
 	font-weight: 400;
 	font-style: normal;
+	font-size: .65rem;
 }
+
+.tooltip {
+	font-family: jaf-bernina-sans, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	max-width: 300px;
+}
+
+.table-responsive {
+	margin-bottom: 10px;
+}
+
+.table .thead-dark th {
+    color: #fff;
+    background-color: #003a5d;
+    border-color: #454d55;
+}
+
+th {
+	font-family: jaf-bernina-sans, sans-serif;
+	font-weight: 600;
+	font-style: normal;
+	font-size: 11px;
+}
+
+td:first-of-type {
+	border-left: none;
+}
+
+td {
+	font-family: jaf-bernina-sans, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 11px;
+	border-left: 1px solid #dee2e6;
+}
+
+.dt-buttons {
+    display: flex;
+    float: left;
+    padding-bottom: 3px;
+    margin-left: 20px;
+}
+
+.dt-buttons .btn {
+    cursor: pointer;
+    color: #fff;
+    background-color: #003a5d;
+    border-color: #003a5d;
+    padding: .375rem .75rem;
+    border-radius: .25em;
+}
+
+.dataTables_filter {
+	font-family: jaf-bernina-sans, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 12px;
+	padding-bottom: 3px;
+	width: 95%;
+	margin: auto;
+}
+
+.dataTables_info {
+	display: none;
+}
+
+div.dataTables_wrapper div.dataTables_paginate ul.pagination {
+	font-family: jaf-bernina-sans, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 12px;
+	padding-top: 9px;
+	width: 95%;
+	margin: auto;
+}
+
+a.page-link {
+	color: #003a5d;
+	font-family: jaf-bernina-sans, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+}
+
+#industryTable td {
+	text-align: left;
+}
+
 
 /*styling for selection pane at top right of application*/
 

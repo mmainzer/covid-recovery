@@ -91,7 +91,126 @@ function update(selectedGeo) {
     $('#kpiFour').text(kpiSelect[selectedGeo].Unemployed);
     $('#kpiFive').text(kpiSelect[selectedGeo].PctChngEmployed);
 
+}
 
+// function for building a table from a dataset
+function buildTable(dataset,selectedGeo) {
+	// if Datatable currently exists, then clear and kill it
+	if ( $.fn.dataTable.isDataTable('#claimsTable') ) {
+		$('#claimsTable').DataTable().destroy();
+	}
+
+	dataset = dataset.filter(function(d){return d.Area==selectedGeo})
+	// get list of headers
+	let str = '<tr>';
+	let headers = [' '];
+	
+	let dataArray = [];
+	dataArray.push(dataset[0].Area);
+	let index;
+	dataset.forEach(function(element) {
+		// push dates for column headers
+		headers.push(element.date);
+		let claims = element.Claims.format();
+		dataArray.push(claims)
+	});
+
+	headers.forEach(function(header) {
+		str += '<th>' + header + '</th>';
+	});
+
+	str += '</tr>';
+
+	let row = document.createElement('tr');
+	dataArray.forEach(function(cellData) {
+		var cell = document.createElement('td');
+		cell.appendChild(document.createTextNode(cellData));
+		row.appendChild(cell);
+	});	
+
+	$('#claimsTable thead').html(str);
+	$("#claimsTable tbody").append(row);
+
+	// make as a datatable for search, pagination, sort and export
+	$('#claimsTable').DataTable({
+				"lengthChange" : false,
+				"pageLength" : 5,
+				"autoWidth" : true,
+				"dom" : "Bfrtip",
+				"pagingType" : "full",
+				"buttons" : [
+					{extend: 'csv', exportOptions:{columns:':visible'}}
+				],
+				"colReorder" : false
+			});
+
+}
+
+// function for building the industry table
+function buildIndustryTable(dataset,selectedGeo) {
+	// if Datatable currently exists, then clear and kill it
+	if ( $.fn.dataTable.isDataTable('#industryTable') ) {
+		$('#industryTable').DataTable().destroy();
+	}
+
+	// filter the dataset
+	dataset = dataset.filter(function(d){return d.Area==selectedGeo})
+	// get appropriate headers and build in table
+	let str = '<tr>';
+	let headers = ['Area','Industry','Claims'];
+	headers.forEach(function(header) {
+		str += '<th>' + header + '</th>';
+	});
+	str += '</tr>';
+	$('#industryTable thead').html(str);
+
+	// restructure data
+	let arrAll = [];
+	dataset.forEach(function(element) {
+		let tempArray = [];
+		let area = element.Area;
+		let ind = element.Industry;
+		let claims = element.Claims.format();
+		tempArray.push(area);
+		tempArray.push(ind);
+		tempArray.push(claims);
+		arrAll.push(tempArray);
+	});
+
+	console.log(dataset);
+	console.log(arrAll);
+
+	// build row and send to html table
+	arrAll.forEach(function(rowData) {
+		let row = document.createElement('tr');
+		rowData.forEach(function(cellData) {
+			let cell = document.createElement('td');
+			cell.appendChild(document.createTextNode(cellData));
+			row.appendChild(cell);
+		});
+		$("#industryTable tbody").append(row);
+	});
+
+	// make as a datatable for search, pagination, sort and export
+	$('#industryTable').DataTable({
+		"lengthChange" : false,
+		"pageLength" : 5,
+		"autoWidth" : true,
+		"dom" : "Bfrtip",
+		"pagingType" : "full",
+		"buttons" : [
+			{extend: 'csv', exportOptions:{columns:':visible'}}
+		],
+		"colReorder" : false
+	});
+
+
+}
+
+// function for number formatting
+Number.prototype.format = function(n, x) {
+    var re = '\\d(?=(\\d{' + (x || 3) + '})+' + (n > 0 ? '\\.' : '$') + ')';
+    return this.toFixed(Math.max(0, ~~n)).replace(new RegExp(re, 'g'), '$&,');
 }
 
 function geoHighlight(level, option) {
@@ -148,7 +267,8 @@ $("#level-select").change(function() {
 	let selectedOption = $("#geo-select option").first().text();
 
 	update(selectedOption);
-
+	buildTable(claimData,selectedOption);
+	buildIndustryTable(industryData,selectedOption);
     geoHighlight(selectedLevel,selectedOption);
 
 });
@@ -160,7 +280,8 @@ $("#geo-select").change(function() {
 	let selectedLevel = $('#level-select option:selected').text()
 	
 	update(selectedOption);
-
+	buildTable(claimData,selectedOption);
+	buildIndustryTable(industryData,selectedOption);
 	geoHighlight(selectedLevel,selectedOption);
 
 });
