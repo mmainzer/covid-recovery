@@ -3,7 +3,7 @@ Georgia,Accommodation and Food Services,Food Services,478492
 Georgia,Health Care and Social Assistance,Health Care,206548
 Georgia,Retail Trade,Retail,205366
 Georgia,Unclassified,Unclassified,180078
-Georgia,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",144556
+Georgia,Administrative and Support and Waste Management and Remediation Services,Waste Management,144556
 Georgia,Manufacturing,Manufacturing,136871
 Georgia,Other Services (except Public Administration),Other,69551
 Georgia,"Arts, Entertainment, and Recreation",Entertainment,58798
@@ -27,7 +27,7 @@ Appling County,Construction,Construction,167
 Appling County,Retail Trade,Retail,156
 Appling County,Unclassified,Unclassified,154
 Appling County,Transportation and Warehousing,Transportation,91
-Appling County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",79
+Appling County,Administrative and Support and Waste Management and Remediation Services,Waste Management,79
 Appling County,Wholesale Trade,Wholesale Trade,65
 Appling County,"Arts, Entertainment, and Recreation",Entertainment,61
 Appling County,Other Services (except Public Administration),Other,30
@@ -45,7 +45,7 @@ Atkinson County,Accommodation and Food Services,Food Services,1183
 Atkinson County,Health Care and Social Assistance,Health Care,903
 Atkinson County,Retail Trade,Retail,606
 Atkinson County,Manufacturing,Manufacturing,503
-Atkinson County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",419
+Atkinson County,Administrative and Support and Waste Management and Remediation Services,Waste Management,419
 Atkinson County,Construction,Construction,268
 Atkinson County,Other Services (except Public Administration),Other,244
 Atkinson County,Unclassified,Unclassified,195
@@ -66,7 +66,7 @@ Bacon County,Health Care and Social Assistance,Health Care,252
 Bacon County,Manufacturing,Manufacturing,244
 Bacon County,Accommodation and Food Services,Food Services,160
 Bacon County,Unclassified,Unclassified,105
-Bacon County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",104
+Bacon County,Administrative and Support and Waste Management and Remediation Services,Waste Management,104
 Bacon County,Construction,Construction,89
 Bacon County,Transportation and Warehousing,Transportation,70
 Bacon County,Retail Trade,Retail,51
@@ -91,7 +91,7 @@ Baker County,Unclassified,Unclassified,37
 Baker County,Educational Services,Education,22
 Baker County,Construction,Construction,21
 Baker County,Transportation and Warehousing,Transportation,21
-Baker County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",14
+Baker County,Administrative and Support and Waste Management and Remediation Services,Waste Management,14
 Baker County,Wholesale Trade,Wholesale Trade,12
 Baker County,"Arts, Entertainment, and Recreation",Entertainment,6
 Baker County,Information,Information,6
@@ -110,7 +110,7 @@ Baldwin County,Retail Trade,Retail,589
 Baldwin County,Unclassified,Unclassified,439
 Baldwin County,Manufacturing,Manufacturing,373
 Baldwin County,Public Administration,Public Admin,287
-Baldwin County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",214
+Baldwin County,Administrative and Support and Waste Management and Remediation Services,Waste Management,214
 Baldwin County,Construction,Construction,178
 Baldwin County,Educational Services,Education,164
 Baldwin County,Transportation and Warehousing,Transportation,155
@@ -130,7 +130,7 @@ Banks County,Manufacturing,Manufacturing,540
 Banks County,Retail Trade,Retail,461
 Banks County,Health Care and Social Assistance,Health Care,352
 Banks County,Wholesale Trade,Wholesale Trade,210
-Banks County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",183
+Banks County,Administrative and Support and Waste Management and Remediation Services,Waste Management,183
 Banks County,Unclassified,Unclassified,172
 Banks County,Transportation and Warehousing,Transportation,153
 Banks County,Construction,Construction,121
@@ -149,7 +149,7 @@ Banks County,Utilities,Utilities,0
 Barrow County,Accommodation and Food Services,Food Services,3021
 Barrow County,Retail Trade,Retail,2099
 Barrow County,Health Care and Social Assistance,Health Care,2026
-Barrow County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",1353
+Barrow County,Administrative and Support and Waste Management and Remediation Services,Waste Management,1353
 Barrow County,Unclassified,Unclassified,1101
 Barrow County,Manufacturing,Manufacturing,881
 Barrow County,Educational Services,Education,674
@@ -172,7 +172,7 @@ Bartow County,Accommodation and Food Services,Food Services,4694
 Bartow County,Health Care and Social Assistance,Health Care,2462
 Bartow County,Retail Trade,Retail,2258
 Bartow County,Unclassified,Unclassified,1714
-Bartow County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",1518
+Bartow County,Administrative and Support and Waste Management and Remediation Services,Waste Management,1518
 Bartow County,Other Services (except Public Administration),Other,606
 Bartow County,"Arts, Entertainment, and Recreation",Entertainment,565
 Bartow County,Construction,Construction,562
@@ -189,7 +189,7 @@ Bartow County,"Mining, Quarrying, and Oil and Gas Extraction",Oil & Gas,4
 Bartow County,"Agriculture, Forestry, Fishing and Hunting",Agriculture,3
 Bartow County,Utilities,Utilities,0
 Ben Hill County,Manufacturing,Manufacturing,1862
-Ben Hill County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",895
+Ben Hill County,Administrative and Support and Waste Management and Remediation Services,Waste Management,895
 Ben Hill County,Transportation and Warehousing,Transportation,436
 Ben Hill County,Health Care and Social Assistance,Health Care,396
 Ben Hill County,Accommodation and Food Services,Food Services,392
@@ -216,7 +216,7 @@ Berrien County,Wholesale Trade,Wholesale Trade,200
 Berrien County,Health Care and Social Assistance,Health Care,194
 Berrien County,Retail Trade,Retail,151
 Berrien County,Educational Services,Education,145
-Berrien County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",134
+Berrien County,Administrative and Support and Waste Management and Remediation Services,Waste Management,134
 Berrien County,Construction,Construction,77
 Berrien County,Other Services (except Public Administration),Other,38
 Berrien County,"Arts, Entertainment, and Recreation",Entertainment,33
@@ -234,7 +234,7 @@ Bibb County,Accommodation and Food Services,Food Services,7994
 Bibb County,Retail Trade,Retail,3876
 Bibb County,Health Care and Social Assistance,Health Care,2509
 Bibb County,Unclassified,Unclassified,1892
-Bibb County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",1783
+Bibb County,Administrative and Support and Waste Management and Remediation Services,Waste Management,1783
 Bibb County,Manufacturing,Manufacturing,971
 Bibb County,Educational Services,Education,594
 Bibb County,Transportation and Warehousing,Transportation,517
@@ -257,7 +257,7 @@ Bleckley County,Unclassified,Unclassified,112
 Bleckley County,Retail Trade,Retail,93
 Bleckley County,Manufacturing,Manufacturing,82
 Bleckley County,Construction,Construction,50
-Bleckley County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",40
+Bleckley County,Administrative and Support and Waste Management and Remediation Services,Waste Management,40
 Bleckley County,"Professional, Scientific, and Technical Services",Technical Services,27
 Bleckley County,Educational Services,Education,21
 Bleckley County,Wholesale Trade,Wholesale Trade,20
@@ -277,7 +277,7 @@ Brantley County,Health Care and Social Assistance,Health Care,467
 Brantley County,Unclassified,Unclassified,232
 Brantley County,Retail Trade,Retail,148
 Brantley County,Construction,Construction,124
-Brantley County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",92
+Brantley County,Administrative and Support and Waste Management and Remediation Services,Waste Management,92
 Brantley County,Transportation and Warehousing,Transportation,91
 Brantley County,Other Services (except Public Administration),Other,82
 Brantley County,Manufacturing,Manufacturing,67
@@ -303,7 +303,7 @@ Brooks County,Other Services (except Public Administration),Other,50
 Brooks County,"Arts, Entertainment, and Recreation",Entertainment,49
 Brooks County,Educational Services,Education,36
 Brooks County,Transportation and Warehousing,Transportation,30
-Brooks County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",28
+Brooks County,Administrative and Support and Waste Management and Remediation Services,Waste Management,28
 Brooks County,"Professional, Scientific, and Technical Services",Technical Services,22
 Brooks County,Wholesale Trade,Wholesale Trade,16
 Brooks County,Information,Information,8
@@ -319,7 +319,7 @@ Bryan County,Health Care and Social Assistance,Health Care,1028
 Bryan County,Retail Trade,Retail,745
 Bryan County,Unclassified,Unclassified,626
 Bryan County,Manufacturing,Manufacturing,544
-Bryan County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",459
+Bryan County,Administrative and Support and Waste Management and Remediation Services,Waste Management,459
 Bryan County,Educational Services,Education,407
 Bryan County,Other Services (except Public Administration),Other,402
 Bryan County,Transportation and Warehousing,Transportation,183
@@ -341,7 +341,7 @@ Bulloch County,Health Care and Social Assistance,Health Care,1371
 Bulloch County,Manufacturing,Manufacturing,1174
 Bulloch County,Unclassified,Unclassified,822
 Bulloch County,Educational Services,Education,735
-Bulloch County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",608
+Bulloch County,Administrative and Support and Waste Management and Remediation Services,Waste Management,608
 Bulloch County,Public Administration,Public Admin,605
 Bulloch County,Other Services (except Public Administration),Other,504
 Bulloch County,"Professional, Scientific, and Technical Services",Technical Services,308
@@ -358,7 +358,7 @@ Bulloch County,Utilities,Utilities,1
 Bulloch County,"Mining, Quarrying, and Oil and Gas Extraction",Oil & Gas,0
 Burke County,Manufacturing,Manufacturing,454
 Burke County,Accommodation and Food Services,Food Services,391
-Burke County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",262
+Burke County,Administrative and Support and Waste Management and Remediation Services,Waste Management,262
 Burke County,Construction,Construction,226
 Burke County,Health Care and Social Assistance,Health Care,213
 Burke County,Retail Trade,Retail,186
@@ -382,7 +382,7 @@ Butts County,Retail Trade,Retail,656
 Butts County,Manufacturing,Manufacturing,489
 Butts County,Health Care and Social Assistance,Health Care,435
 Butts County,Unclassified,Unclassified,322
-Butts County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",289
+Butts County,Administrative and Support and Waste Management and Remediation Services,Waste Management,289
 Butts County,Transportation and Warehousing,Transportation,262
 Butts County,Educational Services,Education,184
 Butts County,Construction,Construction,178
@@ -404,7 +404,7 @@ Calhoun County,Health Care and Social Assistance,Health Care,178
 Calhoun County,Manufacturing,Manufacturing,130
 Calhoun County,Retail Trade,Retail,127
 Calhoun County,Information,Information,80
-Calhoun County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",57
+Calhoun County,Administrative and Support and Waste Management and Remediation Services,Waste Management,57
 Calhoun County,Construction,Construction,57
 Calhoun County,Unclassified,Unclassified,50
 Calhoun County,"Professional, Scientific, and Technical Services",Technical Services,49
@@ -424,7 +424,7 @@ Camden County,Unclassified,Unclassified,651
 Camden County,Health Care and Social Assistance,Health Care,549
 Camden County,Retail Trade,Retail,492
 Camden County,Educational Services,Education,314
-Camden County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",194
+Camden County,Administrative and Support and Waste Management and Remediation Services,Waste Management,194
 Camden County,Other Services (except Public Administration),Other,178
 Camden County,"Arts, Entertainment, and Recreation",Entertainment,96
 Camden County,"Professional, Scientific, and Technical Services",Technical Services,87
@@ -446,7 +446,7 @@ Candler County,Retail Trade,Retail,153
 Candler County,Manufacturing,Manufacturing,146
 Candler County,Unclassified,Unclassified,81
 Candler County,Construction,Construction,56
-Candler County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",48
+Candler County,Administrative and Support and Waste Management and Remediation Services,Waste Management,48
 Candler County,Transportation and Warehousing,Transportation,44
 Candler County,Other Services (except Public Administration),Other,33
 Candler County,"Professional, Scientific, and Technical Services",Technical Services,33
@@ -464,7 +464,7 @@ Candler County,Utilities,Utilities,0
 Carroll County,Accommodation and Food Services,Food Services,4237
 Carroll County,Health Care and Social Assistance,Health Care,2702
 Carroll County,Manufacturing,Manufacturing,2685
-Carroll County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",2038
+Carroll County,Administrative and Support and Waste Management and Remediation Services,Waste Management,2038
 Carroll County,Unclassified,Unclassified,1668
 Carroll County,Retail Trade,Retail,1560
 Carroll County,Construction,Construction,700
@@ -487,7 +487,7 @@ Catoosa County,Manufacturing,Manufacturing,987
 Catoosa County,Unclassified,Unclassified,928
 Catoosa County,Retail Trade,Retail,638
 Catoosa County,Health Care and Social Assistance,Health Care,534
-Catoosa County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",270
+Catoosa County,Administrative and Support and Waste Management and Remediation Services,Waste Management,270
 Catoosa County,Transportation and Warehousing,Transportation,161
 Catoosa County,"Arts, Entertainment, and Recreation",Entertainment,142
 Catoosa County,Wholesale Trade,Wholesale Trade,136
@@ -508,7 +508,7 @@ Charlton County,Accommodation and Food Services,Food Services,166
 Charlton County,Retail Trade,Retail,108
 Charlton County,Unclassified,Unclassified,77
 Charlton County,Manufacturing,Manufacturing,72
-Charlton County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",55
+Charlton County,Administrative and Support and Waste Management and Remediation Services,Waste Management,55
 Charlton County,Construction,Construction,45
 Charlton County,Transportation and Warehousing,Transportation,44
 Charlton County,Other Services (except Public Administration),Other,25
@@ -528,7 +528,7 @@ Chatham County,Accommodation and Food Services,Food Services,24794
 Chatham County,Retail Trade,Retail,7828
 Chatham County,Health Care and Social Assistance,Health Care,7717
 Chatham County,Unclassified,Unclassified,5667
-Chatham County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",5223
+Chatham County,Administrative and Support and Waste Management and Remediation Services,Waste Management,5223
 Chatham County,Other Services (except Public Administration),Other,3215
 Chatham County,Manufacturing,Manufacturing,2003
 Chatham County,"Arts, Entertainment, and Recreation",Entertainment,1873
@@ -548,7 +548,7 @@ Chatham County,"Mining, Quarrying, and Oil and Gas Extraction",Oil & Gas,1
 Chattahoochee County,Accommodation and Food Services,Food Services,248
 Chattahoochee County,Retail Trade,Retail,111
 Chattahoochee County,Health Care and Social Assistance,Health Care,80
-Chattahoochee County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",72
+Chattahoochee County,Administrative and Support and Waste Management and Remediation Services,Waste Management,72
 Chattahoochee County,Unclassified,Unclassified,64
 Chattahoochee County,Transportation and Warehousing,Transportation,60
 Chattahoochee County,Construction,Construction,30
@@ -570,7 +570,7 @@ Chattooga County,Manufacturing,Manufacturing,3057
 Chattooga County,Health Care and Social Assistance,Health Care,466
 Chattooga County,Accommodation and Food Services,Food Services,399
 Chattooga County,Unclassified,Unclassified,265
-Chattooga County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",183
+Chattooga County,Administrative and Support and Waste Management and Remediation Services,Waste Management,183
 Chattooga County,Retail Trade,Retail,165
 Chattooga County,Construction,Construction,139
 Chattooga County,Wholesale Trade,Wholesale Trade,90
@@ -592,7 +592,7 @@ Cherokee County,Health Care and Social Assistance,Health Care,6279
 Cherokee County,Retail Trade,Retail,5504
 Cherokee County,Unclassified,Unclassified,4306
 Cherokee County,Manufacturing,Manufacturing,2602
-Cherokee County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",2356
+Cherokee County,Administrative and Support and Waste Management and Remediation Services,Waste Management,2356
 Cherokee County,Other Services (except Public Administration),Other,2196
 Cherokee County,"Arts, Entertainment, and Recreation",Entertainment,2035
 Cherokee County,"Professional, Scientific, and Technical Services",Technical Services,1110
@@ -611,7 +611,7 @@ Cherokee County,Utilities,Utilities,2
 Clarke County,Accommodation and Food Services,Food Services,7717
 Clarke County,Retail Trade,Retail,2616
 Clarke County,Health Care and Social Assistance,Health Care,2507
-Clarke County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",1474
+Clarke County,Administrative and Support and Waste Management and Remediation Services,Waste Management,1474
 Clarke County,Unclassified,Unclassified,1413
 Clarke County,Manufacturing,Manufacturing,1070
 Clarke County,Wholesale Trade,Wholesale Trade,863
@@ -634,7 +634,7 @@ Clay County,Transportation and Warehousing,Transportation,62
 Clay County,Health Care and Social Assistance,Health Care,60
 Clay County,Unclassified,Unclassified,51
 Clay County,Retail Trade,Retail,45
-Clay County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",32
+Clay County,Administrative and Support and Waste Management and Remediation Services,Waste Management,32
 Clay County,"Arts, Entertainment, and Recreation",Entertainment,27
 Clay County,Manufacturing,Manufacturing,25
 Clay County,Construction,Construction,23
@@ -651,7 +651,7 @@ Clay County,"Mining, Quarrying, and Oil and Gas Extraction",Oil & Gas,0
 Clay County,Real Estate and Rental and Leasing,Real Estate,0
 Clay County,Utilities,Utilities,0
 Clayton County,Accommodation and Food Services,Food Services,16320
-Clayton County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",8402
+Clayton County,Administrative and Support and Waste Management and Remediation Services,Waste Management,8402
 Clayton County,Unclassified,Unclassified,7902
 Clayton County,Retail Trade,Retail,7217
 Clayton County,Health Care and Social Assistance,Health Care,5382
@@ -677,7 +677,7 @@ Clinch County,"Arts, Entertainment, and Recreation",Entertainment,356
 Clinch County,Health Care and Social Assistance,Health Care,250
 Clinch County,Retail Trade,Retail,161
 Clinch County,Unclassified,Unclassified,155
-Clinch County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",141
+Clinch County,Administrative and Support and Waste Management and Remediation Services,Waste Management,141
 Clinch County,Transportation and Warehousing,Transportation,130
 Clinch County,Other Services (except Public Administration),Other,79
 Clinch County,Educational Services,Education,64
@@ -696,7 +696,7 @@ Cobb County,Accommodation and Food Services,Food Services,38573
 Cobb County,Retail Trade,Retail,17119
 Cobb County,Health Care and Social Assistance,Health Care,15784
 Cobb County,Unclassified,Unclassified,14909
-Cobb County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",10745
+Cobb County,Administrative and Support and Waste Management and Remediation Services,Waste Management,10745
 Cobb County,"Arts, Entertainment, and Recreation",Entertainment,6824
 Cobb County,Other Services (except Public Administration),Other,6492
 Cobb County,Manufacturing,Manufacturing,4216
@@ -718,7 +718,7 @@ Coffee County,Manufacturing,Manufacturing,740
 Coffee County,Accommodation and Food Services,Food Services,630
 Coffee County,Retail Trade,Retail,378
 Coffee County,Construction,Construction,299
-Coffee County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",283
+Coffee County,Administrative and Support and Waste Management and Remediation Services,Waste Management,283
 Coffee County,"Arts, Entertainment, and Recreation",Entertainment,257
 Coffee County,Unclassified,Unclassified,238
 Coffee County,Educational Services,Education,217
@@ -740,7 +740,7 @@ Colquitt County,Manufacturing,Manufacturing,532
 Colquitt County,Other Services (except Public Administration),Other,433
 Colquitt County,Retail Trade,Retail,429
 Colquitt County,Unclassified,Unclassified,286
-Colquitt County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",151
+Colquitt County,Administrative and Support and Waste Management and Remediation Services,Waste Management,151
 Colquitt County,"Professional, Scientific, and Technical Services",Technical Services,97
 Colquitt County,Transportation and Warehousing,Transportation,92
 Colquitt County,"Arts, Entertainment, and Recreation",Entertainment,88
@@ -760,7 +760,7 @@ Columbia County,Health Care and Social Assistance,Health Care,2531
 Columbia County,Retail Trade,Retail,2391
 Columbia County,Unclassified,Unclassified,1722
 Columbia County,Other Services (except Public Administration),Other,1025
-Columbia County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",960
+Columbia County,Administrative and Support and Waste Management and Remediation Services,Waste Management,960
 Columbia County,Manufacturing,Manufacturing,890
 Columbia County,"Arts, Entertainment, and Recreation",Entertainment,500
 Columbia County,Construction,Construction,470
@@ -784,7 +784,7 @@ Cook County,Unclassified,Unclassified,136
 Cook County,Educational Services,Education,124
 Cook County,Wholesale Trade,Wholesale Trade,111
 Cook County,"Arts, Entertainment, and Recreation",Entertainment,103
-Cook County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",78
+Cook County,Administrative and Support and Waste Management and Remediation Services,Waste Management,78
 Cook County,Transportation and Warehousing,Transportation,77
 Cook County,"Professional, Scientific, and Technical Services",Technical Services,43
 Cook County,Other Services (except Public Administration),Other,36
@@ -801,7 +801,7 @@ Coweta County,Accommodation and Food Services,Food Services,6050
 Coweta County,Retail Trade,Retail,3054
 Coweta County,Health Care and Social Assistance,Health Care,2697
 Coweta County,Transportation and Warehousing,Transportation,2599
-Coweta County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",2223
+Coweta County,Administrative and Support and Waste Management and Remediation Services,Waste Management,2223
 Coweta County,Manufacturing,Manufacturing,2027
 Coweta County,Unclassified,Unclassified,2017
 Coweta County,Other Services (except Public Administration),Other,1316
@@ -823,7 +823,7 @@ Crawford County,Retail Trade,Retail,186
 Crawford County,Health Care and Social Assistance,Health Care,176
 Crawford County,Unclassified,Unclassified,137
 Crawford County,Manufacturing,Manufacturing,136
-Crawford County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",89
+Crawford County,Administrative and Support and Waste Management and Remediation Services,Waste Management,89
 Crawford County,Construction,Construction,60
 Crawford County,Transportation and Warehousing,Transportation,59
 Crawford County,"Arts, Entertainment, and Recreation",Entertainment,39
@@ -843,7 +843,7 @@ Crisp County,Accommodation and Food Services,Food Services,1360
 Crisp County,Health Care and Social Assistance,Health Care,410
 Crisp County,Manufacturing,Manufacturing,382
 Crisp County,Retail Trade,Retail,372
-Crisp County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",352
+Crisp County,Administrative and Support and Waste Management and Remediation Services,Waste Management,352
 Crisp County,Unclassified,Unclassified,327
 Crisp County,Wholesale Trade,Wholesale Trade,143
 Crisp County,Transportation and Warehousing,Transportation,141
@@ -867,7 +867,7 @@ Dade County,Retail Trade,Retail,100
 Dade County,Transportation and Warehousing,Transportation,85
 Dade County,"Arts, Entertainment, and Recreation",Entertainment,78
 Dade County,Health Care and Social Assistance,Health Care,66
-Dade County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",43
+Dade County,Administrative and Support and Waste Management and Remediation Services,Waste Management,43
 Dade County,Construction,Construction,38
 Dade County,Other Services (except Public Administration),Other,36
 Dade County,Educational Services,Education,31
@@ -885,7 +885,7 @@ Dawson County,Accommodation and Food Services,Food Services,1101
 Dawson County,Health Care and Social Assistance,Health Care,931
 Dawson County,Retail Trade,Retail,875
 Dawson County,Unclassified,Unclassified,470
-Dawson County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",284
+Dawson County,Administrative and Support and Waste Management and Remediation Services,Waste Management,284
 Dawson County,Manufacturing,Manufacturing,264
 Dawson County,Other Services (except Public Administration),Other,180
 Dawson County,Wholesale Trade,Wholesale Trade,153
@@ -905,7 +905,7 @@ Dawson County,Utilities,Utilities,1
 DeKalb County,Accommodation and Food Services,Food Services,40909
 DeKalb County,Unclassified,Unclassified,17480
 DeKalb County,Retail Trade,Retail,15842
-DeKalb County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",13572
+DeKalb County,Administrative and Support and Waste Management and Remediation Services,Waste Management,13572
 DeKalb County,Health Care and Social Assistance,Health Care,13291
 DeKalb County,Other Services (except Public Administration),Other,6740
 DeKalb County,"Arts, Entertainment, and Recreation",Entertainment,5985
@@ -929,7 +929,7 @@ Decatur County,Unclassified,Unclassified,414
 Decatur County,Health Care and Social Assistance,Health Care,313
 Decatur County,Manufacturing,Manufacturing,281
 Decatur County,Educational Services,Education,182
-Decatur County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",140
+Decatur County,Administrative and Support and Waste Management and Remediation Services,Waste Management,140
 Decatur County,"Arts, Entertainment, and Recreation",Entertainment,113
 Decatur County,Other Services (except Public Administration),Other,70
 Decatur County,Transportation and Warehousing,Transportation,70
@@ -950,7 +950,7 @@ Dodge County,Unclassified,Unclassified,187
 Dodge County,Educational Services,Education,184
 Dodge County,Retail Trade,Retail,165
 Dodge County,Manufacturing,Manufacturing,101
-Dodge County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",85
+Dodge County,Administrative and Support and Waste Management and Remediation Services,Waste Management,85
 Dodge County,Construction,Construction,59
 Dodge County,Transportation and Warehousing,Transportation,46
 Dodge County,"Arts, Entertainment, and Recreation",Entertainment,40
@@ -968,7 +968,7 @@ Dodge County,"Mining, Quarrying, and Oil and Gas Extraction",Oil & Gas,0
 Dooly County,Accommodation and Food Services,Food Services,255
 Dooly County,Manufacturing,Manufacturing,116
 Dooly County,Unclassified,Unclassified,96
-Dooly County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",88
+Dooly County,Administrative and Support and Waste Management and Remediation Services,Waste Management,88
 Dooly County,Retail Trade,Retail,86
 Dooly County,Health Care and Social Assistance,Health Care,78
 Dooly County,Transportation and Warehousing,Transportation,41
@@ -990,7 +990,7 @@ Dougherty County,Accommodation and Food Services,Food Services,4428
 Dougherty County,Retail Trade,Retail,2365
 Dougherty County,Health Care and Social Assistance,Health Care,1449
 Dougherty County,Unclassified,Unclassified,1063
-Dougherty County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",869
+Dougherty County,Administrative and Support and Waste Management and Remediation Services,Waste Management,869
 Dougherty County,Manufacturing,Manufacturing,549
 Dougherty County,"Arts, Entertainment, and Recreation",Entertainment,519
 Dougherty County,Other Services (except Public Administration),Other,490
@@ -1011,7 +1011,7 @@ Douglas County,Accommodation and Food Services,Food Services,7028
 Douglas County,Retail Trade,Retail,3624
 Douglas County,Health Care and Social Assistance,Health Care,3081
 Douglas County,Unclassified,Unclassified,2623
-Douglas County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",2480
+Douglas County,Administrative and Support and Waste Management and Remediation Services,Waste Management,2480
 Douglas County,"Arts, Entertainment, and Recreation",Entertainment,1740
 Douglas County,Transportation and Warehousing,Transportation,1416
 Douglas County,Wholesale Trade,Wholesale Trade,1062
@@ -1034,7 +1034,7 @@ Early County,Health Care and Social Assistance,Health Care,88
 Early County,Transportation and Warehousing,Transportation,81
 Early County,Unclassified,Unclassified,79
 Early County,Construction,Construction,57
-Early County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",50
+Early County,Administrative and Support and Waste Management and Remediation Services,Waste Management,50
 Early County,Manufacturing,Manufacturing,28
 Early County,Educational Services,Education,23
 Early County,"Arts, Entertainment, and Recreation",Entertainment,14
@@ -1058,7 +1058,7 @@ Echols County,Manufacturing,Manufacturing,30
 Echols County,Unclassified,Unclassified,28
 Echols County,Educational Services,Education,20
 Echols County,Construction,Construction,14
-Echols County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",11
+Echols County,Administrative and Support and Waste Management and Remediation Services,Waste Management,11
 Echols County,Wholesale Trade,Wholesale Trade,7
 Echols County,Other Services (except Public Administration),Other,5
 Echols County,"Agriculture, Forestry, Fishing and Hunting",Agriculture,4
@@ -1076,7 +1076,7 @@ Effingham County,Retail Trade,Retail,1141
 Effingham County,Other Services (except Public Administration),Other,758
 Effingham County,Unclassified,Unclassified,729
 Effingham County,Manufacturing,Manufacturing,705
-Effingham County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",647
+Effingham County,Administrative and Support and Waste Management and Remediation Services,Waste Management,647
 Effingham County,Transportation and Warehousing,Transportation,373
 Effingham County,Construction,Construction,278
 Effingham County,Wholesale Trade,Wholesale Trade,154
@@ -1097,7 +1097,7 @@ Elbert County,Accommodation and Food Services,Food Services,297
 Elbert County,Unclassified,Unclassified,186
 Elbert County,Wholesale Trade,Wholesale Trade,144
 Elbert County,Retail Trade,Retail,131
-Elbert County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",119
+Elbert County,Administrative and Support and Waste Management and Remediation Services,Waste Management,119
 Elbert County,Construction,Construction,68
 Elbert County,Transportation and Warehousing,Transportation,66
 Elbert County,"Professional, Scientific, and Technical Services",Technical Services,55
@@ -1117,7 +1117,7 @@ Emanuel County,Retail Trade,Retail,232
 Emanuel County,Health Care and Social Assistance,Health Care,220
 Emanuel County,Accommodation and Food Services,Food Services,215
 Emanuel County,Unclassified,Unclassified,185
-Emanuel County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",150
+Emanuel County,Administrative and Support and Waste Management and Remediation Services,Waste Management,150
 Emanuel County,Construction,Construction,100
 Emanuel County,Wholesale Trade,Wholesale Trade,57
 Emanuel County,Educational Services,Education,41
@@ -1137,7 +1137,7 @@ Evans County,Health Care and Social Assistance,Health Care,193
 Evans County,Accommodation and Food Services,Food Services,183
 Evans County,Retail Trade,Retail,112
 Evans County,Manufacturing,Manufacturing,107
-Evans County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",87
+Evans County,Administrative and Support and Waste Management and Remediation Services,Waste Management,87
 Evans County,Educational Services,Education,76
 Evans County,Unclassified,Unclassified,70
 Evans County,Transportation and Warehousing,Transportation,60
@@ -1159,7 +1159,7 @@ Fannin County,Unclassified,Unclassified,518
 Fannin County,Health Care and Social Assistance,Health Care,469
 Fannin County,Retail Trade,Retail,310
 Fannin County,Manufacturing,Manufacturing,212
-Fannin County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",168
+Fannin County,Administrative and Support and Waste Management and Remediation Services,Waste Management,168
 Fannin County,Educational Services,Education,158
 Fannin County,"Agriculture, Forestry, Fishing and Hunting",Agriculture,129
 Fannin County,Other Services (except Public Administration),Other,119
@@ -1180,7 +1180,7 @@ Fayette County,Retail Trade,Retail,2596
 Fayette County,Health Care and Social Assistance,Health Care,2483
 Fayette County,Unclassified,Unclassified,2250
 Fayette County,Transportation and Warehousing,Transportation,2153
-Fayette County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",1734
+Fayette County,Administrative and Support and Waste Management and Remediation Services,Waste Management,1734
 Fayette County,"Arts, Entertainment, and Recreation",Entertainment,1182
 Fayette County,Manufacturing,Manufacturing,1038
 Fayette County,Other Services (except Public Administration),Other,970
@@ -1200,7 +1200,7 @@ Floyd County,Manufacturing,Manufacturing,4187
 Floyd County,Accommodation and Food Services,Food Services,3860
 Floyd County,Health Care and Social Assistance,Health Care,3021
 Floyd County,Retail Trade,Retail,1367
-Floyd County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",1333
+Floyd County,Administrative and Support and Waste Management and Remediation Services,Waste Management,1333
 Floyd County,Unclassified,Unclassified,1229
 Floyd County,Public Administration,Public Admin,439
 Floyd County,Wholesale Trade,Wholesale Trade,400
@@ -1222,7 +1222,7 @@ Forsyth County,Health Care and Social Assistance,Health Care,4686
 Forsyth County,Retail Trade,Retail,4137
 Forsyth County,Educational Services,Education,3813
 Forsyth County,Unclassified,Unclassified,3763
-Forsyth County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",1632
+Forsyth County,Administrative and Support and Waste Management and Remediation Services,Waste Management,1632
 Forsyth County,Other Services (except Public Administration),Other,1518
 Forsyth County,"Arts, Entertainment, and Recreation",Entertainment,1442
 Forsyth County,"Professional, Scientific, and Technical Services",Technical Services,1068
@@ -1244,7 +1244,7 @@ Franklin County,Manufacturing,Manufacturing,514
 Franklin County,Retail Trade,Retail,334
 Franklin County,Unclassified,Unclassified,312
 Franklin County,Transportation and Warehousing,Transportation,259
-Franklin County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",163
+Franklin County,Administrative and Support and Waste Management and Remediation Services,Waste Management,163
 Franklin County,Wholesale Trade,Wholesale Trade,102
 Franklin County,Construction,Construction,89
 Franklin County,"Professional, Scientific, and Technical Services",Technical Services,82
@@ -1262,7 +1262,7 @@ Franklin County,"Mining, Quarrying, and Oil and Gas Extraction",Oil & Gas,0
 Fulton County,Accommodation and Food Services,Food Services,70410
 Fulton County,Unclassified,Unclassified,25028
 Fulton County,Retail Trade,Retail,23119
-Fulton County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",22061
+Fulton County,Administrative and Support and Waste Management and Remediation Services,Waste Management,22061
 Fulton County,Health Care and Social Assistance,Health Care,19417
 Fulton County,Information,Information,18102
 Fulton County,"Arts, Entertainment, and Recreation",Entertainment,10843
@@ -1287,7 +1287,7 @@ Gilmer County,Health Care and Social Assistance,Health Care,426
 Gilmer County,Retail Trade,Retail,319
 Gilmer County,Other Services (except Public Administration),Other,191
 Gilmer County,Educational Services,Education,190
-Gilmer County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",141
+Gilmer County,Administrative and Support and Waste Management and Remediation Services,Waste Management,141
 Gilmer County,Construction,Construction,123
 Gilmer County,Information,Information,79
 Gilmer County,"Professional, Scientific, and Technical Services",Technical Services,63
@@ -1307,7 +1307,7 @@ Glascock County,Transportation and Warehousing,Transportation,37
 Glascock County,Health Care and Social Assistance,Health Care,33
 Glascock County,Manufacturing,Manufacturing,32
 Glascock County,Retail Trade,Retail,31
-Glascock County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",24
+Glascock County,Administrative and Support and Waste Management and Remediation Services,Waste Management,24
 Glascock County,Unclassified,Unclassified,22
 Glascock County,Construction,Construction,10
 Glascock County,"Arts, Entertainment, and Recreation",Entertainment,9
@@ -1327,7 +1327,7 @@ Glynn County,Unclassified,Unclassified,1906
 Glynn County,Retail Trade,Retail,1634
 Glynn County,Educational Services,Education,1287
 Glynn County,Health Care and Social Assistance,Health Care,1264
-Glynn County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",979
+Glynn County,Administrative and Support and Waste Management and Remediation Services,Waste Management,979
 Glynn County,Wholesale Trade,Wholesale Trade,726
 Glynn County,Other Services (except Public Administration),Other,508
 Glynn County,"Arts, Entertainment, and Recreation",Entertainment,355
@@ -1348,7 +1348,7 @@ Gordon County,Accommodation and Food Services,Food Services,1538
 Gordon County,Retail Trade,Retail,924
 Gordon County,Health Care and Social Assistance,Health Care,855
 Gordon County,Unclassified,Unclassified,765
-Gordon County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",728
+Gordon County,Administrative and Support and Waste Management and Remediation Services,Waste Management,728
 Gordon County,Wholesale Trade,Wholesale Trade,581
 Gordon County,"Professional, Scientific, and Technical Services",Technical Services,210
 Gordon County,Construction,Construction,207
@@ -1369,7 +1369,7 @@ Grady County,Accommodation and Food Services,Food Services,237
 Grady County,Retail Trade,Retail,231
 Grady County,Unclassified,Unclassified,198
 Grady County,Health Care and Social Assistance,Health Care,185
-Grady County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",86
+Grady County,Administrative and Support and Waste Management and Remediation Services,Waste Management,86
 Grady County,"Professional, Scientific, and Technical Services",Technical Services,64
 Grady County,"Agriculture, Forestry, Fishing and Hunting",Agriculture,50
 Grady County,Other Services (except Public Administration),Other,38
@@ -1390,7 +1390,7 @@ Greene County,Construction,Construction,285
 Greene County,Health Care and Social Assistance,Health Care,278
 Greene County,Unclassified,Unclassified,248
 Greene County,Retail Trade,Retail,140
-Greene County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",128
+Greene County,Administrative and Support and Waste Management and Remediation Services,Waste Management,128
 Greene County,Educational Services,Education,127
 Greene County,Manufacturing,Manufacturing,111
 Greene County,Transportation and Warehousing,Transportation,83
@@ -1410,7 +1410,7 @@ Gwinnett County,Accommodation and Food Services,Food Services,44431
 Gwinnett County,Retail Trade,Retail,25028
 Gwinnett County,Unclassified,Unclassified,24973
 Gwinnett County,Health Care and Social Assistance,Health Care,21392
-Gwinnett County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",13627
+Gwinnett County,Administrative and Support and Waste Management and Remediation Services,Waste Management,13627
 Gwinnett County,Other Services (except Public Administration),Other,7868
 Gwinnett County,"Arts, Entertainment, and Recreation",Entertainment,6107
 Gwinnett County,Manufacturing,Manufacturing,5921
@@ -1432,7 +1432,7 @@ Habersham County,Manufacturing,Manufacturing,1018
 Habersham County,Health Care and Social Assistance,Health Care,787
 Habersham County,Retail Trade,Retail,474
 Habersham County,Unclassified,Unclassified,414
-Habersham County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",371
+Habersham County,Administrative and Support and Waste Management and Remediation Services,Waste Management,371
 Habersham County,Other Services (except Public Administration),Other,145
 Habersham County,Wholesale Trade,Wholesale Trade,119
 Habersham County,Educational Services,Education,103
@@ -1453,7 +1453,7 @@ Hall County,Health Care and Social Assistance,Health Care,4370
 Hall County,Retail Trade,Retail,3777
 Hall County,Manufacturing,Manufacturing,3688
 Hall County,Unclassified,Unclassified,2644
-Hall County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",2506
+Hall County,Administrative and Support and Waste Management and Remediation Services,Waste Management,2506
 Hall County,Educational Services,Education,1821
 Hall County,Other Services (except Public Administration),Other,1192
 Hall County,Wholesale Trade,Wholesale Trade,1105
@@ -1470,7 +1470,7 @@ Hall County,"Agriculture, Forestry, Fishing and Hunting",Agriculture,24
 Hall County,Utilities,Utilities,2
 Hall County,"Mining, Quarrying, and Oil and Gas Extraction",Oil & Gas,1
 Hancock County,Accommodation and Food Services,Food Services,140
-Hancock County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",129
+Hancock County,Administrative and Support and Waste Management and Remediation Services,Waste Management,129
 Hancock County,Manufacturing,Manufacturing,126
 Hancock County,Health Care and Social Assistance,Health Care,74
 Hancock County,Transportation and Warehousing,Transportation,73
@@ -1493,7 +1493,7 @@ Hancock County,Utilities,Utilities,0
 Haralson County,Accommodation and Food Services,Food Services,1526
 Haralson County,Manufacturing,Manufacturing,835
 Haralson County,Health Care and Social Assistance,Health Care,676
-Haralson County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",454
+Haralson County,Administrative and Support and Waste Management and Remediation Services,Waste Management,454
 Haralson County,Unclassified,Unclassified,444
 Haralson County,Retail Trade,Retail,317
 Haralson County,Construction,Construction,167
@@ -1516,7 +1516,7 @@ Harris County,Health Care and Social Assistance,Health Care,476
 Harris County,Manufacturing,Manufacturing,396
 Harris County,Unclassified,Unclassified,377
 Harris County,Retail Trade,Retail,359
-Harris County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",326
+Harris County,Administrative and Support and Waste Management and Remediation Services,Waste Management,326
 Harris County,"Arts, Entertainment, and Recreation",Entertainment,276
 Harris County,Other Services (except Public Administration),Other,239
 Harris County,Educational Services,Education,197
@@ -1539,7 +1539,7 @@ Hart County,Unclassified,Unclassified,307
 Hart County,Retail Trade,Retail,182
 Hart County,Transportation and Warehousing,Transportation,128
 Hart County,Educational Services,Education,103
-Hart County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",95
+Hart County,Administrative and Support and Waste Management and Remediation Services,Waste Management,95
 Hart County,Other Services (except Public Administration),Other,86
 Hart County,"Professional, Scientific, and Technical Services",Technical Services,52
 Hart County,Construction,Construction,40
@@ -1555,7 +1555,7 @@ Hart County,"Mining, Quarrying, and Oil and Gas Extraction",Oil & Gas,0
 Hart County,Utilities,Utilities,0
 Heard County,Manufacturing,Manufacturing,373
 Heard County,Accommodation and Food Services,Food Services,277
-Heard County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",216
+Heard County,Administrative and Support and Waste Management and Remediation Services,Waste Management,216
 Heard County,Unclassified,Unclassified,136
 Heard County,Construction,Construction,115
 Heard County,Retail Trade,Retail,113
@@ -1577,7 +1577,7 @@ Heard County,Utilities,Utilities,0
 Henry County,Accommodation and Food Services,Food Services,10801
 Henry County,Retail Trade,Retail,6726
 Henry County,Health Care and Social Assistance,Health Care,5596
-Henry County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",4901
+Henry County,Administrative and Support and Waste Management and Remediation Services,Waste Management,4901
 Henry County,Unclassified,Unclassified,4893
 Henry County,Transportation and Warehousing,Transportation,4260
 Henry County,Educational Services,Education,3979
@@ -1600,7 +1600,7 @@ Houston County,Health Care and Social Assistance,Health Care,3058
 Houston County,Retail Trade,Retail,2515
 Houston County,Unclassified,Unclassified,1699
 Houston County,Manufacturing,Manufacturing,1068
-Houston County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",840
+Houston County,Administrative and Support and Waste Management and Remediation Services,Waste Management,840
 Houston County,Other Services (except Public Administration),Other,624
 Houston County,"Arts, Entertainment, and Recreation",Entertainment,504
 Houston County,Educational Services,Education,390
@@ -1622,7 +1622,7 @@ Irwin County,Accommodation and Food Services,Food Services,98
 Irwin County,Retail Trade,Retail,75
 Irwin County,Unclassified,Unclassified,57
 Irwin County,Construction,Construction,51
-Irwin County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",24
+Irwin County,Administrative and Support and Waste Management and Remediation Services,Waste Management,24
 Irwin County,Wholesale Trade,Wholesale Trade,20
 Irwin County,"Professional, Scientific, and Technical Services",Technical Services,17
 Irwin County,Other Services (except Public Administration),Other,14
@@ -1642,7 +1642,7 @@ Jackson County,Health Care and Social Assistance,Health Care,2345
 Jackson County,Retail Trade,Retail,1574
 Jackson County,Unclassified,Unclassified,984
 Jackson County,Educational Services,Education,843
-Jackson County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",770
+Jackson County,Administrative and Support and Waste Management and Remediation Services,Waste Management,770
 Jackson County,Manufacturing,Manufacturing,728
 Jackson County,Wholesale Trade,Wholesale Trade,622
 Jackson County,Other Services (except Public Administration),Other,410
@@ -1663,7 +1663,7 @@ Jasper County,Manufacturing,Manufacturing,227
 Jasper County,Health Care and Social Assistance,Health Care,218
 Jasper County,Retail Trade,Retail,163
 Jasper County,Unclassified,Unclassified,158
-Jasper County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",128
+Jasper County,Administrative and Support and Waste Management and Remediation Services,Waste Management,128
 Jasper County,Construction,Construction,117
 Jasper County,Other Services (except Public Administration),Other,81
 Jasper County,Transportation and Warehousing,Transportation,61
@@ -1686,7 +1686,7 @@ Jeff Davis County,Unclassified,Unclassified,125
 Jeff Davis County,Retail Trade,Retail,93
 Jeff Davis County,Transportation and Warehousing,Transportation,56
 Jeff Davis County,Construction,Construction,51
-Jeff Davis County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",39
+Jeff Davis County,Administrative and Support and Waste Management and Remediation Services,Waste Management,39
 Jeff Davis County,Wholesale Trade,Wholesale Trade,33
 Jeff Davis County,Educational Services,Education,21
 Jeff Davis County,Management of Companies and Enterprises,Enterprise Management,21
@@ -1702,7 +1702,7 @@ Jeff Davis County,"Mining, Quarrying, and Oil and Gas Extraction",Oil & Gas,0
 Jeff Davis County,Utilities,Utilities,0
 Jefferson County,Accommodation and Food Services,Food Services,332
 Jefferson County,Manufacturing,Manufacturing,260
-Jefferson County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",152
+Jefferson County,Administrative and Support and Waste Management and Remediation Services,Waste Management,152
 Jefferson County,Health Care and Social Assistance,Health Care,146
 Jefferson County,Retail Trade,Retail,123
 Jefferson County,Transportation and Warehousing,Transportation,108
@@ -1724,7 +1724,7 @@ Jefferson County,Utilities,Utilities,0
 Jenkins County,Accommodation and Food Services,Food Services,187
 Jenkins County,Manufacturing,Manufacturing,177
 Jenkins County,Health Care and Social Assistance,Health Care,67
-Jenkins County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",52
+Jenkins County,Administrative and Support and Waste Management and Remediation Services,Waste Management,52
 Jenkins County,Retail Trade,Retail,52
 Jenkins County,Unclassified,Unclassified,49
 Jenkins County,Construction,Construction,39
@@ -1747,7 +1747,7 @@ Johnson County,Accommodation and Food Services,Food Services,88
 Johnson County,Health Care and Social Assistance,Health Care,85
 Johnson County,Retail Trade,Retail,61
 Johnson County,Unclassified,Unclassified,57
-Johnson County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",55
+Johnson County,Administrative and Support and Waste Management and Remediation Services,Waste Management,55
 Johnson County,Construction,Construction,51
 Johnson County,Transportation and Warehousing,Transportation,35
 Johnson County,"Mining, Quarrying, and Oil and Gas Extraction",Oil & Gas,21
@@ -1768,7 +1768,7 @@ Jones County,Health Care and Social Assistance,Health Care,501
 Jones County,Retail Trade,Retail,362
 Jones County,Unclassified,Unclassified,252
 Jones County,Manufacturing,Manufacturing,117
-Jones County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",112
+Jones County,Administrative and Support and Waste Management and Remediation Services,Waste Management,112
 Jones County,Educational Services,Education,77
 Jones County,Wholesale Trade,Wholesale Trade,77
 Jones County,Construction,Construction,75
@@ -1789,7 +1789,7 @@ Lamar County,Manufacturing,Manufacturing,361
 Lamar County,Retail Trade,Retail,275
 Lamar County,Health Care and Social Assistance,Health Care,232
 Lamar County,Unclassified,Unclassified,211
-Lamar County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",191
+Lamar County,Administrative and Support and Waste Management and Remediation Services,Waste Management,191
 Lamar County,Construction,Construction,80
 Lamar County,Transportation and Warehousing,Transportation,78
 Lamar County,Wholesale Trade,Wholesale Trade,78
@@ -1811,7 +1811,7 @@ Lanier County,Health Care and Social Assistance,Health Care,108
 Lanier County,Retail Trade,Retail,59
 Lanier County,Unclassified,Unclassified,58
 Lanier County,Educational Services,Education,53
-Lanier County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",27
+Lanier County,Administrative and Support and Waste Management and Remediation Services,Waste Management,27
 Lanier County,"Arts, Entertainment, and Recreation",Entertainment,26
 Lanier County,"Professional, Scientific, and Technical Services",Technical Services,17
 Lanier County,Construction,Construction,15
@@ -1831,7 +1831,7 @@ Laurens County,Health Care and Social Assistance,Health Care,759
 Laurens County,Unclassified,Unclassified,748
 Laurens County,Retail Trade,Retail,726
 Laurens County,Manufacturing,Manufacturing,622
-Laurens County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",246
+Laurens County,Administrative and Support and Waste Management and Remediation Services,Waste Management,246
 Laurens County,Construction,Construction,162
 Laurens County,Other Services (except Public Administration),Other,149
 Laurens County,"Arts, Entertainment, and Recreation",Entertainment,98
@@ -1850,7 +1850,7 @@ Laurens County,Utilities,Utilities,0
 Lee County,Accommodation and Food Services,Food Services,1520
 Lee County,Health Care and Social Assistance,Health Care,1011
 Lee County,Retail Trade,Retail,876
-Lee County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",584
+Lee County,Administrative and Support and Waste Management and Remediation Services,Waste Management,584
 Lee County,Manufacturing,Manufacturing,561
 Lee County,Unclassified,Unclassified,433
 Lee County,Other Services (except Public Administration),Other,263
@@ -1873,7 +1873,7 @@ Liberty County,Health Care and Social Assistance,Health Care,1035
 Liberty County,Retail Trade,Retail,954
 Liberty County,Educational Services,Education,721
 Liberty County,Unclassified,Unclassified,682
-Liberty County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",593
+Liberty County,Administrative and Support and Waste Management and Remediation Services,Waste Management,593
 Liberty County,Other Services (except Public Administration),Other,524
 Liberty County,Transportation and Warehousing,Transportation,357
 Liberty County,Manufacturing,Manufacturing,147
@@ -1895,7 +1895,7 @@ Lincoln County,Manufacturing,Manufacturing,92
 Lincoln County,Unclassified,Unclassified,73
 Lincoln County,Retail Trade,Retail,49
 Lincoln County,Construction,Construction,47
-Lincoln County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",33
+Lincoln County,Administrative and Support and Waste Management and Remediation Services,Waste Management,33
 Lincoln County,Transportation and Warehousing,Transportation,30
 Lincoln County,Other Services (except Public Administration),Other,29
 Lincoln County,"Professional, Scientific, and Technical Services",Technical Services,18
@@ -1914,7 +1914,7 @@ Long County,Health Care and Social Assistance,Health Care,448
 Long County,Accommodation and Food Services,Food Services,352
 Long County,Retail Trade,Retail,205
 Long County,Unclassified,Unclassified,123
-Long County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",99
+Long County,Administrative and Support and Waste Management and Remediation Services,Waste Management,99
 Long County,Transportation and Warehousing,Transportation,87
 Long County,Other Services (except Public Administration),Other,78
 Long County,Construction,Construction,48
@@ -1937,7 +1937,7 @@ Lowndes County,Health Care and Social Assistance,Health Care,1881
 Lowndes County,"Arts, Entertainment, and Recreation",Entertainment,1412
 Lowndes County,Unclassified,Unclassified,1050
 Lowndes County,Manufacturing,Manufacturing,649
-Lowndes County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",535
+Lowndes County,Administrative and Support and Waste Management and Remediation Services,Waste Management,535
 Lowndes County,Educational Services,Education,501
 Lowndes County,Other Services (except Public Administration),Other,444
 Lowndes County,"Professional, Scientific, and Technical Services",Technical Services,252
@@ -1957,7 +1957,7 @@ Lumpkin County,Health Care and Social Assistance,Health Care,791
 Lumpkin County,Retail Trade,Retail,615
 Lumpkin County,Manufacturing,Manufacturing,474
 Lumpkin County,Unclassified,Unclassified,414
-Lumpkin County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",173
+Lumpkin County,Administrative and Support and Waste Management and Remediation Services,Waste Management,173
 Lumpkin County,"Professional, Scientific, and Technical Services",Technical Services,138
 Lumpkin County,Educational Services,Education,115
 Lumpkin County,Construction,Construction,113
@@ -1975,7 +1975,7 @@ Lumpkin County,"Mining, Quarrying, and Oil and Gas Extraction",Oil & Gas,0
 Lumpkin County,Utilities,Utilities,0
 Macon County,Accommodation and Food Services,Food Services,324
 Macon County,Manufacturing,Manufacturing,288
-Macon County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",205
+Macon County,Administrative and Support and Waste Management and Remediation Services,Waste Management,205
 Macon County,Health Care and Social Assistance,Health Care,114
 Macon County,Retail Trade,Retail,113
 Macon County,Unclassified,Unclassified,108
@@ -2000,7 +2000,7 @@ Madison County,Retail Trade,Retail,409
 Madison County,Manufacturing,Manufacturing,402
 Madison County,Unclassified,Unclassified,331
 Madison County,Wholesale Trade,Wholesale Trade,302
-Madison County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",279
+Madison County,Administrative and Support and Waste Management and Remediation Services,Waste Management,279
 Madison County,Educational Services,Education,165
 Madison County,Construction,Construction,155
 Madison County,Other Services (except Public Administration),Other,144
@@ -2020,7 +2020,7 @@ Marion County,Health Care and Social Assistance,Health Care,83
 Marion County,Manufacturing,Manufacturing,80
 Marion County,Retail Trade,Retail,66
 Marion County,Unclassified,Unclassified,53
-Marion County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",42
+Marion County,Administrative and Support and Waste Management and Remediation Services,Waste Management,42
 Marion County,Transportation and Warehousing,Transportation,42
 Marion County,Other Services (except Public Administration),Other,35
 Marion County,Construction,Construction,33
@@ -2038,7 +2038,7 @@ Marion County,"Agriculture, Forestry, Fishing and Hunting",Agriculture,0
 Marion County,Utilities,Utilities,0
 McDuffie County,Manufacturing,Manufacturing,602
 McDuffie County,Accommodation and Food Services,Food Services,568
-McDuffie County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",416
+McDuffie County,Administrative and Support and Waste Management and Remediation Services,Waste Management,416
 McDuffie County,Health Care and Social Assistance,Health Care,271
 McDuffie County,Retail Trade,Retail,260
 McDuffie County,Other Services (except Public Administration),Other,173
@@ -2063,7 +2063,7 @@ McIntosh County,Retail Trade,Retail,150
 McIntosh County,Health Care and Social Assistance,Health Care,118
 McIntosh County,Wholesale Trade,Wholesale Trade,94
 McIntosh County,Other Services (except Public Administration),Other,85
-McIntosh County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",84
+McIntosh County,Administrative and Support and Waste Management and Remediation Services,Waste Management,84
 McIntosh County,Educational Services,Education,73
 McIntosh County,Manufacturing,Manufacturing,46
 McIntosh County,"Arts, Entertainment, and Recreation",Entertainment,44
@@ -2080,7 +2080,7 @@ McIntosh County,Utilities,Utilities,1
 McIntosh County,"Mining, Quarrying, and Oil and Gas Extraction",Oil & Gas,0
 Meriwether County,Manufacturing,Manufacturing,784
 Meriwether County,Accommodation and Food Services,Food Services,740
-Meriwether County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",401
+Meriwether County,Administrative and Support and Waste Management and Remediation Services,Waste Management,401
 Meriwether County,Unclassified,Unclassified,259
 Meriwether County,Health Care and Social Assistance,Health Care,226
 Meriwether County,Retail Trade,Retail,191
@@ -2104,7 +2104,7 @@ Miller County,Educational Services,Education,70
 Miller County,Unclassified,Unclassified,52
 Miller County,Health Care and Social Assistance,Health Care,37
 Miller County,Manufacturing,Manufacturing,36
-Miller County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",22
+Miller County,Administrative and Support and Waste Management and Remediation Services,Waste Management,22
 Miller County,Retail Trade,Retail,18
 Miller County,Transportation and Warehousing,Transportation,13
 Miller County,Construction,Construction,9
@@ -2125,7 +2125,7 @@ Mitchell County,Health Care and Social Assistance,Health Care,236
 Mitchell County,Retail Trade,Retail,207
 Mitchell County,Manufacturing,Manufacturing,192
 Mitchell County,Unclassified,Unclassified,152
-Mitchell County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",95
+Mitchell County,Administrative and Support and Waste Management and Remediation Services,Waste Management,95
 Mitchell County,Educational Services,Education,77
 Mitchell County,Construction,Construction,36
 Mitchell County,"Professional, Scientific, and Technical Services",Technical Services,29
@@ -2146,7 +2146,7 @@ Monroe County,Health Care and Social Assistance,Health Care,470
 Monroe County,Retail Trade,Retail,404
 Monroe County,Unclassified,Unclassified,283
 Monroe County,Manufacturing,Manufacturing,232
-Monroe County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",172
+Monroe County,Administrative and Support and Waste Management and Remediation Services,Waste Management,172
 Monroe County,Construction,Construction,113
 Monroe County,Educational Services,Education,93
 Monroe County,Other Services (except Public Administration),Other,92
@@ -2168,7 +2168,7 @@ Montgomery County,Manufacturing,Manufacturing,155
 Montgomery County,Retail Trade,Retail,85
 Montgomery County,Unclassified,Unclassified,83
 Montgomery County,Transportation and Warehousing,Transportation,81
-Montgomery County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",59
+Montgomery County,Administrative and Support and Waste Management and Remediation Services,Waste Management,59
 Montgomery County,Wholesale Trade,Wholesale Trade,52
 Montgomery County,Construction,Construction,49
 Montgomery County,Educational Services,Education,29
@@ -2190,7 +2190,7 @@ Morgan County,Unclassified,Unclassified,281
 Morgan County,Retail Trade,Retail,189
 Morgan County,Educational Services,Education,185
 Morgan County,Other Services (except Public Administration),Other,157
-Morgan County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",153
+Morgan County,Administrative and Support and Waste Management and Remediation Services,Waste Management,153
 Morgan County,Construction,Construction,139
 Morgan County,Management of Companies and Enterprises,Enterprise Management,76
 Morgan County,Wholesale Trade,Wholesale Trade,71
@@ -2206,7 +2206,7 @@ Morgan County,"Mining, Quarrying, and Oil and Gas Extraction",Oil & Gas,1
 Morgan County,Utilities,Utilities,0
 Murray County,Manufacturing,Manufacturing,4398
 Murray County,Retail Trade,Retail,719
-Murray County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",708
+Murray County,Administrative and Support and Waste Management and Remediation Services,Waste Management,708
 Murray County,Accommodation and Food Services,Food Services,679
 Murray County,Health Care and Social Assistance,Health Care,461
 Murray County,Unclassified,Unclassified,453
@@ -2228,7 +2228,7 @@ Murray County,Utilities,Utilities,0
 Muscogee County,Accommodation and Food Services,Food Services,9726
 Muscogee County,Retail Trade,Retail,3584
 Muscogee County,Health Care and Social Assistance,Health Care,2934
-Muscogee County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",2462
+Muscogee County,Administrative and Support and Waste Management and Remediation Services,Waste Management,2462
 Muscogee County,Unclassified,Unclassified,2352
 Muscogee County,Manufacturing,Manufacturing,1378
 Muscogee County,Other Services (except Public Administration),Other,1244
@@ -2251,7 +2251,7 @@ Newton County,Health Care and Social Assistance,Health Care,2598
 Newton County,Retail Trade,Retail,2138
 Newton County,Unclassified,Unclassified,1859
 Newton County,Manufacturing,Manufacturing,1715
-Newton County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",1692
+Newton County,Administrative and Support and Waste Management and Remediation Services,Waste Management,1692
 Newton County,Construction,Construction,615
 Newton County,Other Services (except Public Administration),Other,608
 Newton County,Educational Services,Education,577
@@ -2275,7 +2275,7 @@ Oconee County,Educational Services,Education,334
 Oconee County,Manufacturing,Manufacturing,233
 Oconee County,Other Services (except Public Administration),Other,231
 Oconee County,Wholesale Trade,Wholesale Trade,205
-Oconee County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",187
+Oconee County,Administrative and Support and Waste Management and Remediation Services,Waste Management,187
 Oconee County,Information,Information,117
 Oconee County,Construction,Construction,116
 Oconee County,"Professional, Scientific, and Technical Services",Technical Services,109
@@ -2295,7 +2295,7 @@ Oglethorpe County,Wholesale Trade,Wholesale Trade,149
 Oglethorpe County,Unclassified,Unclassified,144
 Oglethorpe County,Educational Services,Education,142
 Oglethorpe County,Manufacturing,Manufacturing,122
-Oglethorpe County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",94
+Oglethorpe County,Administrative and Support and Waste Management and Remediation Services,Waste Management,94
 Oglethorpe County,Other Services (except Public Administration),Other,85
 Oglethorpe County,Construction,Construction,57
 Oglethorpe County,"Professional, Scientific, and Technical Services",Technical Services,30
@@ -2313,7 +2313,7 @@ Paulding County,Accommodation and Food Services,Food Services,5516
 Paulding County,Health Care and Social Assistance,Health Care,3772
 Paulding County,Retail Trade,Retail,2871
 Paulding County,Unclassified,Unclassified,2413
-Paulding County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",1535
+Paulding County,Administrative and Support and Waste Management and Remediation Services,Waste Management,1535
 Paulding County,Manufacturing,Manufacturing,1120
 Paulding County,Other Services (except Public Administration),Other,1092
 Paulding County,"Arts, Entertainment, and Recreation",Entertainment,965
@@ -2335,7 +2335,7 @@ Peach County,Manufacturing,Manufacturing,547
 Peach County,Retail Trade,Retail,449
 Peach County,Health Care and Social Assistance,Health Care,360
 Peach County,Unclassified,Unclassified,239
-Peach County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",220
+Peach County,Administrative and Support and Waste Management and Remediation Services,Waste Management,220
 Peach County,Other Services (except Public Administration),Other,105
 Peach County,Wholesale Trade,Wholesale Trade,86
 Peach County,"Professional, Scientific, and Technical Services",Technical Services,82
@@ -2356,7 +2356,7 @@ Pickens County,Health Care and Social Assistance,Health Care,871
 Pickens County,Manufacturing,Manufacturing,738
 Pickens County,Unclassified,Unclassified,424
 Pickens County,Retail Trade,Retail,351
-Pickens County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",235
+Pickens County,Administrative and Support and Waste Management and Remediation Services,Waste Management,235
 Pickens County,Other Services (except Public Administration),Other,172
 Pickens County,"Arts, Entertainment, and Recreation",Entertainment,163
 Pickens County,Construction,Construction,153
@@ -2377,7 +2377,7 @@ Pierce County,Accommodation and Food Services,Food Services,362
 Pierce County,Manufacturing,Manufacturing,242
 Pierce County,Unclassified,Unclassified,150
 Pierce County,Retail Trade,Retail,144
-Pierce County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",114
+Pierce County,Administrative and Support and Waste Management and Remediation Services,Waste Management,114
 Pierce County,"Arts, Entertainment, and Recreation",Entertainment,79
 Pierce County,Construction,Construction,75
 Pierce County,"Professional, Scientific, and Technical Services",Technical Services,42
@@ -2399,7 +2399,7 @@ Pike County,Manufacturing,Manufacturing,324
 Pike County,Retail Trade,Retail,240
 Pike County,Unclassified,Unclassified,222
 Pike County,Transportation and Warehousing,Transportation,193
-Pike County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",124
+Pike County,Administrative and Support and Waste Management and Remediation Services,Waste Management,124
 Pike County,Construction,Construction,82
 Pike County,Wholesale Trade,Wholesale Trade,81
 Pike County,Other Services (except Public Administration),Other,80
@@ -2417,7 +2417,7 @@ Pike County,Utilities,Utilities,0
 Polk County,Manufacturing,Manufacturing,1833
 Polk County,Accommodation and Food Services,Food Services,1536
 Polk County,Health Care and Social Assistance,Health Care,912
-Polk County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",637
+Polk County,Administrative and Support and Waste Management and Remediation Services,Waste Management,637
 Polk County,Unclassified,Unclassified,453
 Polk County,Retail Trade,Retail,403
 Polk County,Other Services (except Public Administration),Other,169
@@ -2440,7 +2440,7 @@ Pulaski County,Health Care and Social Assistance,Health Care,118
 Pulaski County,Retail Trade,Retail,69
 Pulaski County,Manufacturing,Manufacturing,65
 Pulaski County,Unclassified,Unclassified,54
-Pulaski County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",32
+Pulaski County,Administrative and Support and Waste Management and Remediation Services,Waste Management,32
 Pulaski County,Wholesale Trade,Wholesale Trade,19
 Pulaski County,Other Services (except Public Administration),Other,15
 Pulaski County,Transportation and Warehousing,Transportation,15
@@ -2462,7 +2462,7 @@ Putnam County,Health Care and Social Assistance,Health Care,251
 Putnam County,Construction,Construction,245
 Putnam County,Manufacturing,Manufacturing,240
 Putnam County,Retail Trade,Retail,216
-Putnam County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",188
+Putnam County,Administrative and Support and Waste Management and Remediation Services,Waste Management,188
 Putnam County,Transportation and Warehousing,Transportation,177
 Putnam County,Information,Information,100
 Putnam County,Wholesale Trade,Wholesale Trade,63
@@ -2480,7 +2480,7 @@ Putnam County,Utilities,Utilities,0
 Quitman County,Accommodation and Food Services,Food Services,21
 Quitman County,Transportation and Warehousing,Transportation,12
 Quitman County,Unclassified,Unclassified,9
-Quitman County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",5
+Quitman County,Administrative and Support and Waste Management and Remediation Services,Waste Management,5
 Quitman County,Retail Trade,Retail,4
 Quitman County,Other Services (except Public Administration),Other,2
 Quitman County,Public Administration,Public Admin,2
@@ -2504,7 +2504,7 @@ Rabun County,Unclassified,Unclassified,263
 Rabun County,Health Care and Social Assistance,Health Care,250
 Rabun County,Retail Trade,Retail,123
 Rabun County,Wholesale Trade,Wholesale Trade,100
-Rabun County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",84
+Rabun County,Administrative and Support and Waste Management and Remediation Services,Waste Management,84
 Rabun County,Educational Services,Education,60
 Rabun County,Construction,Construction,43
 Rabun County,"Arts, Entertainment, and Recreation",Entertainment,37
@@ -2520,7 +2520,7 @@ Rabun County,"Mining, Quarrying, and Oil and Gas Extraction",Oil & Gas,1
 Rabun County,Management of Companies and Enterprises,Enterprise Management,0
 Rabun County,Utilities,Utilities,0
 Randolph County,Manufacturing,Manufacturing,378
-Randolph County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",234
+Randolph County,Administrative and Support and Waste Management and Remediation Services,Waste Management,234
 Randolph County,Accommodation and Food Services,Food Services,128
 Randolph County,Health Care and Social Assistance,Health Care,102
 Randolph County,Transportation and Warehousing,Transportation,69
@@ -2542,7 +2542,7 @@ Randolph County,"Mining, Quarrying, and Oil and Gas Extraction",Oil & Gas,0
 Randolph County,Utilities,Utilities,0
 Richmond County,Accommodation and Food Services,Food Services,9066
 Richmond County,Retail Trade,Retail,3621
-Richmond County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",2830
+Richmond County,Administrative and Support and Waste Management and Remediation Services,Waste Management,2830
 Richmond County,Health Care and Social Assistance,Health Care,2811
 Richmond County,Unclassified,Unclassified,2050
 Richmond County,Manufacturing,Manufacturing,1606
@@ -2565,7 +2565,7 @@ Rockdale County,Accommodation and Food Services,Food Services,3895
 Rockdale County,Retail Trade,Retail,2139
 Rockdale County,Health Care and Social Assistance,Health Care,1949
 Rockdale County,Unclassified,Unclassified,1945
-Rockdale County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",1691
+Rockdale County,Administrative and Support and Waste Management and Remediation Services,Waste Management,1691
 Rockdale County,Manufacturing,Manufacturing,898
 Rockdale County,Educational Services,Education,626
 Rockdale County,Other Services (except Public Administration),Other,576
@@ -2589,7 +2589,7 @@ Schley County,Retail Trade,Retail,26
 Schley County,Unclassified,Unclassified,22
 Schley County,Wholesale Trade,Wholesale Trade,14
 Schley County,Educational Services,Education,13
-Schley County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",12
+Schley County,Administrative and Support and Waste Management and Remediation Services,Waste Management,12
 Schley County,Other Services (except Public Administration),Other,10
 Schley County,"Professional, Scientific, and Technical Services",Technical Services,6
 Schley County,Public Administration,Public Admin,6
@@ -2606,7 +2606,7 @@ Schley County,Utilities,Utilities,0
 Screven County,Manufacturing,Manufacturing,715
 Screven County,Health Care and Social Assistance,Health Care,275
 Screven County,Accommodation and Food Services,Food Services,268
-Screven County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",169
+Screven County,Administrative and Support and Waste Management and Remediation Services,Waste Management,169
 Screven County,Retail Trade,Retail,155
 Screven County,Unclassified,Unclassified,133
 Screven County,Construction,Construction,71
@@ -2629,7 +2629,7 @@ Seminole County,Accommodation and Food Services,Food Services,148
 Seminole County,Unclassified,Unclassified,76
 Seminole County,Retail Trade,Retail,42
 Seminole County,Manufacturing,Manufacturing,40
-Seminole County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",31
+Seminole County,Administrative and Support and Waste Management and Remediation Services,Waste Management,31
 Seminole County,Transportation and Warehousing,Transportation,29
 Seminole County,Other Services (except Public Administration),Other,25
 Seminole County,Construction,Construction,24
@@ -2647,7 +2647,7 @@ Seminole County,Public Administration,Public Admin,0
 Seminole County,Utilities,Utilities,0
 Spalding County,Accommodation and Food Services,Food Services,2186
 Spalding County,Retail Trade,Retail,1343
-Spalding County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",1230
+Spalding County,Administrative and Support and Waste Management and Remediation Services,Waste Management,1230
 Spalding County,Manufacturing,Manufacturing,1105
 Spalding County,Health Care and Social Assistance,Health Care,928
 Spalding County,Unclassified,Unclassified,898
@@ -2671,7 +2671,7 @@ Stephens County,Accommodation and Food Services,Food Services,552
 Stephens County,Health Care and Social Assistance,Health Care,436
 Stephens County,Unclassified,Unclassified,405
 Stephens County,Retail Trade,Retail,307
-Stephens County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",259
+Stephens County,Administrative and Support and Waste Management and Remediation Services,Waste Management,259
 Stephens County,Transportation and Warehousing,Transportation,122
 Stephens County,Wholesale Trade,Wholesale Trade,117
 Stephens County,Other Services (except Public Administration),Other,114
@@ -2691,7 +2691,7 @@ Stewart County,Manufacturing,Manufacturing,75
 Stewart County,Accommodation and Food Services,Food Services,43
 Stewart County,Health Care and Social Assistance,Health Care,42
 Stewart County,Retail Trade,Retail,31
-Stewart County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",29
+Stewart County,Administrative and Support and Waste Management and Remediation Services,Waste Management,29
 Stewart County,Unclassified,Unclassified,21
 Stewart County,Construction,Construction,18
 Stewart County,Other Services (except Public Administration),Other,12
@@ -2715,7 +2715,7 @@ Sumter County,Unclassified,Unclassified,264
 Sumter County,Retail Trade,Retail,253
 Sumter County,Wholesale Trade,Wholesale Trade,173
 Sumter County,Educational Services,Education,153
-Sumter County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",137
+Sumter County,Administrative and Support and Waste Management and Remediation Services,Waste Management,137
 Sumter County,"Professional, Scientific, and Technical Services",Technical Services,63
 Sumter County,Construction,Construction,46
 Sumter County,Real Estate and Rental and Leasing,Real Estate,44
@@ -2731,7 +2731,7 @@ Sumter County,"Mining, Quarrying, and Oil and Gas Extraction",Oil & Gas,1
 Sumter County,Utilities,Utilities,0
 Talbot County,Manufacturing,Manufacturing,129
 Talbot County,Accommodation and Food Services,Food Services,90
-Talbot County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",87
+Talbot County,Administrative and Support and Waste Management and Remediation Services,Waste Management,87
 Talbot County,Health Care and Social Assistance,Health Care,63
 Talbot County,Retail Trade,Retail,48
 Talbot County,Unclassified,Unclassified,41
@@ -2759,7 +2759,7 @@ Taliaferro County,Retail Trade,Retail,15
 Taliaferro County,"Mining, Quarrying, and Oil and Gas Extraction",Oil & Gas,5
 Taliaferro County,Construction,Construction,4
 Taliaferro County,Wholesale Trade,Wholesale Trade,3
-Taliaferro County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",2
+Taliaferro County,Administrative and Support and Waste Management and Remediation Services,Waste Management,2
 Taliaferro County,Other Services (except Public Administration),Other,2
 Taliaferro County,"Professional, Scientific, and Technical Services",Technical Services,1
 Taliaferro County,Public Administration,Public Admin,1
@@ -2776,7 +2776,7 @@ Tattnall County,Accommodation and Food Services,Food Services,259
 Tattnall County,Retail Trade,Retail,196
 Tattnall County,Manufacturing,Manufacturing,116
 Tattnall County,Unclassified,Unclassified,109
-Tattnall County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",104
+Tattnall County,Administrative and Support and Waste Management and Remediation Services,Waste Management,104
 Tattnall County,"Agriculture, Forestry, Fishing and Hunting",Agriculture,46
 Tattnall County,Construction,Construction,44
 Tattnall County,Wholesale Trade,Wholesale Trade,29
@@ -2796,7 +2796,7 @@ Taylor County,Manufacturing,Manufacturing,217
 Taylor County,Health Care and Social Assistance,Health Care,112
 Taylor County,Accommodation and Food Services,Food Services,94
 Taylor County,Unclassified,Unclassified,70
-Taylor County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",55
+Taylor County,Administrative and Support and Waste Management and Remediation Services,Waste Management,55
 Taylor County,Retail Trade,Retail,39
 Taylor County,Other Services (except Public Administration),Other,37
 Taylor County,Construction,Construction,24
@@ -2817,7 +2817,7 @@ Telfair County,Accommodation and Food Services,Food Services,175
 Telfair County,Manufacturing,Manufacturing,135
 Telfair County,Unclassified,Unclassified,96
 Telfair County,Health Care and Social Assistance,Health Care,66
-Telfair County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",51
+Telfair County,Administrative and Support and Waste Management and Remediation Services,Waste Management,51
 Telfair County,Retail Trade,Retail,42
 Telfair County,Construction,Construction,41
 Telfair County,Wholesale Trade,Wholesale Trade,21
@@ -2839,7 +2839,7 @@ Terrell County,Retail Trade,Retail,151
 Terrell County,Health Care and Social Assistance,Health Care,134
 Terrell County,Unclassified,Unclassified,106
 Terrell County,Manufacturing,Manufacturing,49
-Terrell County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",38
+Terrell County,Administrative and Support and Waste Management and Remediation Services,Waste Management,38
 Terrell County,Construction,Construction,26
 Terrell County,Other Services (except Public Administration),Other,25
 Terrell County,Wholesale Trade,Wholesale Trade,20
@@ -2861,7 +2861,7 @@ Thomas County,Retail Trade,Retail,665
 Thomas County,Manufacturing,Manufacturing,662
 Thomas County,Unclassified,Unclassified,432
 Thomas County,Other Services (except Public Administration),Other,369
-Thomas County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",250
+Thomas County,Administrative and Support and Waste Management and Remediation Services,Waste Management,250
 Thomas County,"Professional, Scientific, and Technical Services",Technical Services,206
 Thomas County,Educational Services,Education,171
 Thomas County,Wholesale Trade,Wholesale Trade,82
@@ -2880,7 +2880,7 @@ Tift County,Accommodation and Food Services,Food Services,2238
 Tift County,Health Care and Social Assistance,Health Care,918
 Tift County,Retail Trade,Retail,577
 Tift County,Unclassified,Unclassified,477
-Tift County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",283
+Tift County,Administrative and Support and Waste Management and Remediation Services,Waste Management,283
 Tift County,Manufacturing,Manufacturing,258
 Tift County,Wholesale Trade,Wholesale Trade,235
 Tift County,"Professional, Scientific, and Technical Services",Technical Services,106
@@ -2903,7 +2903,7 @@ Toombs County,Manufacturing,Manufacturing,429
 Toombs County,Retail Trade,Retail,373
 Toombs County,Unclassified,Unclassified,294
 Toombs County,Wholesale Trade,Wholesale Trade,240
-Toombs County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",226
+Toombs County,Administrative and Support and Waste Management and Remediation Services,Waste Management,226
 Toombs County,Educational Services,Education,179
 Toombs County,Construction,Construction,102
 Toombs County,Other Services (except Public Administration),Other,75
@@ -2923,7 +2923,7 @@ Towns County,Unclassified,Unclassified,207
 Towns County,Health Care and Social Assistance,Health Care,206
 Towns County,Educational Services,Education,106
 Towns County,Retail Trade,Retail,62
-Towns County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",45
+Towns County,Administrative and Support and Waste Management and Remediation Services,Waste Management,45
 Towns County,Manufacturing,Manufacturing,37
 Towns County,Construction,Construction,33
 Towns County,Other Services (except Public Administration),Other,30
@@ -2943,7 +2943,7 @@ Treutlen County,Health Care and Social Assistance,Health Care,141
 Treutlen County,Unclassified,Unclassified,66
 Treutlen County,Manufacturing,Manufacturing,64
 Treutlen County,Accommodation and Food Services,Food Services,58
-Treutlen County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",46
+Treutlen County,Administrative and Support and Waste Management and Remediation Services,Waste Management,46
 Treutlen County,Retail Trade,Retail,38
 Treutlen County,Construction,Construction,28
 Treutlen County,Wholesale Trade,Wholesale Trade,22
@@ -2962,7 +2962,7 @@ Treutlen County,Management of Companies and Enterprises,Enterprise Management,0
 Treutlen County,Utilities,Utilities,0
 Troup County,Manufacturing,Manufacturing,4379
 Troup County,Accommodation and Food Services,Food Services,3173
-Troup County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",2506
+Troup County,Administrative and Support and Waste Management and Remediation Services,Waste Management,2506
 Troup County,Retail Trade,Retail,1077
 Troup County,Unclassified,Unclassified,843
 Troup County,Health Care and Social Assistance,Health Care,748
@@ -2986,7 +2986,7 @@ Turner County,Wholesale Trade,Wholesale Trade,185
 Turner County,Health Care and Social Assistance,Health Care,162
 Turner County,Retail Trade,Retail,79
 Turner County,Unclassified,Unclassified,77
-Turner County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",59
+Turner County,Administrative and Support and Waste Management and Remediation Services,Waste Management,59
 Turner County,Manufacturing,Manufacturing,53
 Turner County,Other Services (except Public Administration),Other,20
 Turner County,"Professional, Scientific, and Technical Services",Technical Services,17
@@ -3006,7 +3006,7 @@ Twiggs County,Health Care and Social Assistance,Health Care,106
 Twiggs County,Accommodation and Food Services,Food Services,105
 Twiggs County,Retail Trade,Retail,79
 Twiggs County,Manufacturing,Manufacturing,49
-Twiggs County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",46
+Twiggs County,Administrative and Support and Waste Management and Remediation Services,Waste Management,46
 Twiggs County,Other Services (except Public Administration),Other,44
 Twiggs County,Unclassified,Unclassified,44
 Twiggs County,Educational Services,Education,39
@@ -3028,7 +3028,7 @@ Union County,Health Care and Social Assistance,Health Care,541
 Union County,Unclassified,Unclassified,333
 Union County,Retail Trade,Retail,208
 Union County,Educational Services,Education,149
-Union County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",143
+Union County,Administrative and Support and Waste Management and Remediation Services,Waste Management,143
 Union County,Construction,Construction,88
 Union County,Other Services (except Public Administration),Other,86
 Union County,Transportation and Warehousing,Transportation,80
@@ -3049,7 +3049,7 @@ Upson County,Accommodation and Food Services,Food Services,802
 Upson County,Health Care and Social Assistance,Health Care,453
 Upson County,Unclassified,Unclassified,286
 Upson County,Retail Trade,Retail,262
-Upson County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",241
+Upson County,Administrative and Support and Waste Management and Remediation Services,Waste Management,241
 Upson County,Other Services (except Public Administration),Other,92
 Upson County,Construction,Construction,81
 Upson County,Transportation and Warehousing,Transportation,70
@@ -3071,7 +3071,7 @@ Walker County,Unclassified,Unclassified,851
 Walker County,Retail Trade,Retail,727
 Walker County,Health Care and Social Assistance,Health Care,702
 Walker County,"Arts, Entertainment, and Recreation",Entertainment,360
-Walker County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",263
+Walker County,Administrative and Support and Waste Management and Remediation Services,Waste Management,263
 Walker County,Other Services (except Public Administration),Other,144
 Walker County,Wholesale Trade,Wholesale Trade,119
 Walker County,Transportation and Warehousing,Transportation,112
@@ -3092,7 +3092,7 @@ Walton County,Retail Trade,Retail,1821
 Walton County,Manufacturing,Manufacturing,1573
 Walton County,Educational Services,Education,1512
 Walton County,Unclassified,Unclassified,1470
-Walton County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",896
+Walton County,Administrative and Support and Waste Management and Remediation Services,Waste Management,896
 Walton County,Other Services (except Public Administration),Other,641
 Walton County,Construction,Construction,549
 Walton County,Wholesale Trade,Wholesale Trade,477
@@ -3112,7 +3112,7 @@ Ware County,Manufacturing,Manufacturing,538
 Ware County,Retail Trade,Retail,506
 Ware County,Health Care and Social Assistance,Health Care,478
 Ware County,Unclassified,Unclassified,233
-Ware County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",189
+Ware County,Administrative and Support and Waste Management and Remediation Services,Waste Management,189
 Ware County,"Professional, Scientific, and Technical Services",Technical Services,151
 Ware County,"Arts, Entertainment, and Recreation",Entertainment,129
 Ware County,Wholesale Trade,Wholesale Trade,89
@@ -3130,7 +3130,7 @@ Ware County,"Mining, Quarrying, and Oil and Gas Extraction",Oil & Gas,0
 Ware County,Utilities,Utilities,0
 Warren County,Manufacturing,Manufacturing,276
 Warren County,Accommodation and Food Services,Food Services,82
-Warren County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",82
+Warren County,Administrative and Support and Waste Management and Remediation Services,Waste Management,82
 Warren County,Retail Trade,Retail,48
 Warren County,Health Care and Social Assistance,Health Care,42
 Warren County,Unclassified,Unclassified,27
@@ -3150,7 +3150,7 @@ Warren County,Management of Companies and Enterprises,Enterprise Management,0
 Warren County,"Mining, Quarrying, and Oil and Gas Extraction",Oil & Gas,0
 Warren County,Utilities,Utilities,0
 Washington County,Accommodation and Food Services,Food Services,417
-Washington County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",148
+Washington County,Administrative and Support and Waste Management and Remediation Services,Waste Management,148
 Washington County,Health Care and Social Assistance,Health Care,141
 Washington County,Educational Services,Education,113
 Washington County,Retail Trade,Retail,110
@@ -3175,7 +3175,7 @@ Wayne County,Accommodation and Food Services,Food Services,886
 Wayne County,Retail Trade,Retail,260
 Wayne County,Unclassified,Unclassified,253
 Wayne County,Construction,Construction,172
-Wayne County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",151
+Wayne County,Administrative and Support and Waste Management and Remediation Services,Waste Management,151
 Wayne County,Transportation and Warehousing,Transportation,98
 Wayne County,Other Services (except Public Administration),Other,79
 Wayne County,Manufacturing,Manufacturing,74
@@ -3195,7 +3195,7 @@ Webster County,Manufacturing,Manufacturing,28
 Webster County,Retail Trade,Retail,22
 Webster County,Health Care and Social Assistance,Health Care,19
 Webster County,Unclassified,Unclassified,14
-Webster County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",8
+Webster County,Administrative and Support and Waste Management and Remediation Services,Waste Management,8
 Webster County,Accommodation and Food Services,Food Services,7
 Webster County,Transportation and Warehousing,Transportation,5
 Webster County,"Professional, Scientific, and Technical Services",Technical Services,3
@@ -3217,7 +3217,7 @@ Wheeler County,Manufacturing,Manufacturing,66
 Wheeler County,Retail Trade,Retail,33
 Wheeler County,Unclassified,Unclassified,32
 Wheeler County,Accommodation and Food Services,Food Services,31
-Wheeler County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",22
+Wheeler County,Administrative and Support and Waste Management and Remediation Services,Waste Management,22
 Wheeler County,Construction,Construction,14
 Wheeler County,Other Services (except Public Administration),Other,13
 Wheeler County,Transportation and Warehousing,Transportation,13
@@ -3238,7 +3238,7 @@ White County,Health Care and Social Assistance,Health Care,549
 White County,Unclassified,Unclassified,516
 White County,Manufacturing,Manufacturing,489
 White County,Retail Trade,Retail,363
-White County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",198
+White County,Administrative and Support and Waste Management and Remediation Services,Waste Management,198
 White County,Educational Services,Education,119
 White County,Other Services (except Public Administration),Other,115
 White County,"Arts, Entertainment, and Recreation",Entertainment,104
@@ -3256,7 +3256,7 @@ White County,"Mining, Quarrying, and Oil and Gas Extraction",Oil & Gas,0
 White County,Utilities,Utilities,0
 Whitfield County,Manufacturing,Manufacturing,13458
 Whitfield County,Accommodation and Food Services,Food Services,3019
-Whitfield County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",2322
+Whitfield County,Administrative and Support and Waste Management and Remediation Services,Waste Management,2322
 Whitfield County,Health Care and Social Assistance,Health Care,1589
 Whitfield County,Retail Trade,Retail,1409
 Whitfield County,Unclassified,Unclassified,1382
@@ -3279,7 +3279,7 @@ Wilcox County,Accommodation and Food Services,Food Services,85
 Wilcox County,Manufacturing,Manufacturing,76
 Wilcox County,Retail Trade,Retail,52
 Wilcox County,Health Care and Social Assistance,Health Care,50
-Wilcox County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",43
+Wilcox County,Administrative and Support and Waste Management and Remediation Services,Waste Management,43
 Wilcox County,Unclassified,Unclassified,37
 Wilcox County,Wholesale Trade,Wholesale Trade,29
 Wilcox County,Finance and Insurance,Finance,9
@@ -3300,7 +3300,7 @@ Wilkes County,Accommodation and Food Services,Food Services,116
 Wilkes County,Health Care and Social Assistance,Health Care,113
 Wilkes County,Unclassified,Unclassified,101
 Wilkes County,Manufacturing,Manufacturing,83
-Wilkes County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",63
+Wilkes County,Administrative and Support and Waste Management and Remediation Services,Waste Management,63
 Wilkes County,Retail Trade,Retail,62
 Wilkes County,Wholesale Trade,Wholesale Trade,35
 Wilkes County,Real Estate and Rental and Leasing,Real Estate,31
@@ -3322,7 +3322,7 @@ Wilkinson County,Health Care and Social Assistance,Health Care,157
 Wilkinson County,Retail Trade,Retail,107
 Wilkinson County,Unclassified,Unclassified,93
 Wilkinson County,Manufacturing,Manufacturing,69
-Wilkinson County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",46
+Wilkinson County,Administrative and Support and Waste Management and Remediation Services,Waste Management,46
 Wilkinson County,Construction,Construction,23
 Wilkinson County,Other Services (except Public Administration),Other,22
 Wilkinson County,"Professional, Scientific, and Technical Services",Technical Services,20
@@ -3343,7 +3343,7 @@ Worth County,Accommodation and Food Services,Food Services,269
 Worth County,Retail Trade,Retail,237
 Worth County,Unclassified,Unclassified,199
 Worth County,Manufacturing,Manufacturing,109
-Worth County,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",96
+Worth County,Administrative and Support and Waste Management and Remediation Services,Waste Management,96
 Worth County,Wholesale Trade,Wholesale Trade,60
 Worth County,Construction,Construction,50
 Worth County,Other Services (except Public Administration),Other,45
@@ -3363,7 +3363,7 @@ ARC,Accommodation and Food Services,Food Services,250025
 ARC,Retail Trade,Retail,108914
 ARC,Unclassified,Unclassified,106309
 ARC,Health Care and Social Assistance,Health Care,94654
-ARC,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",81569
+ARC,Administrative and Support and Waste Management and Remediation Services,Waste Management,81569
 ARC,Other Services (except Public Administration),Other,39191
 ARC,"Arts, Entertainment, and Recreation",Entertainment,38071
 ARC,Transportation and Warehousing,Transportation,34889
@@ -3383,7 +3383,7 @@ ARC,"Mining, Quarrying, and Oil and Gas Extraction",Oil & Gas,49
 CSRA,Accommodation and Food Services,Food Services,16570
 CSRA,Retail Trade,Retail,7019
 CSRA,Health Care and Social Assistance,Health Care,6562
-CSRA,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",5153
+CSRA,Administrative and Support and Waste Management and Remediation Services,Waste Management,5153
 CSRA,Manufacturing,Manufacturing,4684
 CSRA,Unclassified,Unclassified,4639
 CSRA,Other Services (except Public Administration),Other,2616
@@ -3405,7 +3405,7 @@ Coastal,Accommodation and Food Services,Food Services,45657
 Coastal,Health Care and Social Assistance,Health Care,15157
 Coastal,Retail Trade,Retail,14955
 Coastal,Unclassified,Unclassified,11506
-Coastal,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",9055
+Coastal,Administrative and Support and Waste Management and Remediation Services,Waste Management,9055
 Coastal,Other Services (except Public Administration),Other,6301
 Coastal,Manufacturing,Manufacturing,5709
 Coastal,Educational Services,Education,4886
@@ -3428,7 +3428,7 @@ Georgia Mountains,Retail Trade,Retail,11918
 Georgia Mountains,Unclassified,Unclassified,10220
 Georgia Mountains,Manufacturing,Manufacturing,9869
 Georgia Mountains,Educational Services,Education,6681
-Georgia Mountains,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",6136
+Georgia Mountains,Administrative and Support and Waste Management and Remediation Services,Waste Management,6136
 Georgia Mountains,Other Services (except Public Administration),Other,3726
 Georgia Mountains,Wholesale Trade,Wholesale Trade,3085
 Georgia Mountains,"Arts, Entertainment, and Recreation",Entertainment,2508
@@ -3448,7 +3448,7 @@ Heart of Georgia,Health Care and Social Assistance,Health Care,5136
 Heart of Georgia,Manufacturing,Manufacturing,3435
 Heart of Georgia,Retail Trade,Retail,2870
 Heart of Georgia,Unclassified,Unclassified,2689
-Heart of Georgia,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",1531
+Heart of Georgia,Administrative and Support and Waste Management and Remediation Services,Waste Management,1531
 Heart of Georgia,Construction,Construction,1178
 Heart of Georgia,Educational Services,Education,785
 Heart of Georgia,Transportation and Warehousing,Transportation,780
@@ -3469,7 +3469,7 @@ Middle Georgia,Retail Trade,Retail,8852
 Middle Georgia,Health Care and Social Assistance,Health Care,8558
 Middle Georgia,Unclassified,Unclassified,5405
 Middle Georgia,Manufacturing,Manufacturing,3867
-Middle Georgia,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",3742
+Middle Georgia,Administrative and Support and Waste Management and Remediation Services,Waste Management,3742
 Middle Georgia,Other Services (except Public Administration),Other,1660
 Middle Georgia,Educational Services,Education,1507
 Middle Georgia,Transportation and Warehousing,Transportation,1501
@@ -3490,7 +3490,7 @@ Northeast,Health Care and Social Assistance,Health Care,15229
 Northeast,Retail Trade,Retail,12035
 Northeast,Unclassified,Unclassified,8688
 Northeast,Manufacturing,Manufacturing,8036
-Northeast,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",7273
+Northeast,Administrative and Support and Waste Management and Remediation Services,Waste Management,7273
 Northeast,Educational Services,Education,5298
 Northeast,Wholesale Trade,Wholesale Trade,3911
 Northeast,Other Services (except Public Administration),Other,3752
@@ -3511,7 +3511,7 @@ Northwest,Accommodation and Food Services,Food Services,29004
 Northwest,Health Care and Social Assistance,Health Care,17282
 Northwest,Retail Trade,Retail,12878
 Northwest,Unclassified,Unclassified,12481
-Northwest,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",10538
+Northwest,Administrative and Support and Waste Management and Remediation Services,Waste Management,10538
 Northwest,Wholesale Trade,Wholesale Trade,4484
 Northwest,Other Services (except Public Administration),Other,3846
 Northwest,Construction,Construction,3352
@@ -3530,7 +3530,7 @@ Northwest,Utilities,Utilities,10
 River Valley,Accommodation and Food Services,Food Services,14904
 River Valley,Retail Trade,Retail,5216
 River Valley,Health Care and Social Assistance,Health Care,4948
-River Valley,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",4146
+River Valley,Administrative and Support and Waste Management and Remediation Services,Waste Management,4146
 River Valley,Unclassified,Unclassified,3909
 River Valley,Manufacturing,Manufacturing,3894
 River Valley,Other Services (except Public Administration),Other,1824
@@ -3553,7 +3553,7 @@ Southern,Health Care and Social Assistance,Health Care,8629
 Southern,Manufacturing,Manufacturing,7463
 Southern,Retail Trade,Retail,5978
 Southern,Unclassified,Unclassified,3793
-Southern,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",3471
+Southern,Administrative and Support and Waste Management and Remediation Services,Waste Management,3471
 Southern,"Arts, Entertainment, and Recreation",Entertainment,2799
 Southern,Wholesale Trade,Wholesale Trade,1693
 Southern,Construction,Construction,1623
@@ -3574,7 +3574,7 @@ Southwest,Health Care and Social Assistance,Health Care,6562
 Southwest,Retail Trade,Retail,5960
 Southwest,Manufacturing,Manufacturing,3947
 Southwest,Unclassified,Unclassified,3577
-Southwest,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",2483
+Southwest,Administrative and Support and Waste Management and Remediation Services,Waste Management,2483
 Southwest,Other Services (except Public Administration),Other,1854
 Southwest,"Arts, Entertainment, and Recreation",Entertainment,1121
 Southwest,Transportation and Warehousing,Transportation,1095
@@ -3592,7 +3592,7 @@ Southwest,Utilities,Utilities,5
 Southwest,"Mining, Quarrying, and Oil and Gas Extraction",Oil & Gas,3
 Three Rivers,Accommodation and Food Services,Food Services,19480
 Three Rivers,Manufacturing,Manufacturing,13849
-Three Rivers,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",9459
+Three Rivers,Administrative and Support and Waste Management and Remediation Services,Waste Management,9459
 Three Rivers,Health Care and Social Assistance,Health Care,8950
 Three Rivers,Retail Trade,Retail,8771
 Three Rivers,Unclassified,Unclassified,6862
@@ -3615,7 +3615,7 @@ Georgia,Accommodation and Food Services,Food Services,478492
 Georgia,Health Care and Social Assistance,Health Care,206548
 Georgia,Retail Trade,Retail,205366
 Georgia,Unclassified,Unclassified,180078
-Georgia,Administrative and Support and Waste Management and Remediation Services,"Support, Waste Management",144556
+Georgia,Administrative and Support and Waste Management and Remediation Services,Waste Management,144556
 Georgia,Manufacturing,Manufacturing,136871
 Georgia,Other Services (except Public Administration),Other,69551
 Georgia,"Arts, Entertainment, and Recreation",Entertainment,58798
