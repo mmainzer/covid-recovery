@@ -2,9 +2,15 @@
 let margin = {top: 10, right: 30, bottom: 30, left: 60};
 let height = $(window).height() * .33;
 let width = $(window).width() * .45;
+let indMargin = {top: 10, right: 30, bottom: 50, left: 125};
+let indWidth = $(window).width() * .45;
+let indHeight = $(window).height() * .5;
 
 width = width - margin.left - margin.right,
 height = height - margin.top - margin.bottom;
+
+indWidth = indWidth - indMargin.left - indMargin.right,
+indHeight = indHeight - indMargin.top - indMargin.bottom;
 
 // append the svg object for cases chart
 const svgClaims = d3.select("#claimsBar")
@@ -18,11 +24,11 @@ const svgClaims = d3.select("#claimsBar")
 // append the svg object for cases chart
 const svgIndustry = d3.select("#industryBar")
 						  .append("svg")
-						    .attr("width", width + margin.left + margin.right)
-						    .attr("height", height + margin.top + margin.bottom)
+						    .attr("width", indWidth + indMargin.left + indMargin.right)
+						    .attr("height", indHeight + indMargin.top + indMargin.bottom)
 						  .append("g")
 						    .attr("transform",
-						          "translate(" + margin.left + "," + margin.top + ")");
+						          "translate(" + indMargin.left + "," + indMargin.top + ")");
 
 // date parser
 const parser = d3.timeParse("%m-%d-%Y");
@@ -33,7 +39,7 @@ let xAxis;
 let barsClaims;
 
 let industryData;
-let yIndustry;
+let xIndustry;
 let barsIndustry;
 
 // get data and build first bar chart
@@ -88,33 +94,29 @@ d3.csv('https://raw.githubusercontent.com/mmainzer/covid-recovery/master/applica
 		industryData = data;
 		// list of areas to filter by
 		const areas = d3.map(data, function(d){return(d.Area)}).keys()
-		const dates = ( d3.map(data, function(d){return(d.Industry)}).keys() ).length - 1
+		const dates = ( d3.map(data, function(d){return(d.Ind)}).keys() ).length - 1
 
-		// add x axis --> it is a date format
-		let xIndustry = d3.scaleBand()
-					.range([ 0, width ])
-					.domain(data.map(function(d) { return d.Industry; }))
-					.padding(0.2);
-
-		// let xAxis = d3.axisBottom(x).tickValues(x.domain());
-		xAxis = d3.axisBottom(xIndustry).tickValues(xIndustry.domain());
-
+		// add x axis for claims
+		xIndustry = d3.scaleLinear()
+							.domain([0, d3.max(data, function(d) { return d.Claims; }) + 5])
+							.range([0,indWidth]);
+		
 		svgIndustry.append("g")
-					.attr( "transform", "translate(0," + height + ")" )
-					.call(xAxis)
-				.selectAll(".tick text")
-					.attr("transform", "translate(-10,0)rotate(-45)")
-      				.style("text-anchor", "end")
-					.call(wrap, xIndustry.bandwidth())
+					.attr("transform", "translate(0," + indHeight + ")")
+					.call(d3.axisBottom(xIndustry).tickValues(xIndustry.domain()))
+					.selectAll(".tick text")
+						.attr("transform", "translate(-10,0)rotate(-45)")
+	      				.style("text-anchor", "end");
+				
 
-		// add y axis for claims
-		yIndustry = d3.scaleLinear().range([height, 0]);
-		yIndustry.domain([0, d3.max(data, function(d) { return d.Claims; }) + 5]);
-
-
+		// add y axis for industry labels
+		let yIndustry = d3.scaleBand()
+						    .range([ 0, indHeight ])
+						    .domain(data.map(function(d) { return d.Ind; }))
+						    .padding(.1);
+		
 		svgIndustry.append("g")
-					.attr("class","y axis")
-					.call(d3.axisLeft(yIndustry).ticks(5));
+		    		.call(d3.axisLeft(yIndustry))
 
 
 		// create the bar charts
@@ -123,36 +125,11 @@ d3.csv('https://raw.githubusercontent.com/mmainzer/covid-recovery/master/applica
 							.enter()
 							.append("rect")
 							.attr("class", "bar claims")
-							.attr("x", function(d) { return xIndustry(d.Industry); })
-						    .attr("y", function(d) { return yIndustry(d.Claims); })
-						    .attr("width", xIndustry.bandwidth())
-						    .attr("height", function(d) { return height - yIndustry(d.Claims); })
+							.attr("x", xIndustry(0) )
+						    .attr("y", function(d) { return yIndustry(d.Ind); })
+						    .attr("width", function(d) { return xIndustry(d.Claims); })
+						    .attr("height", yIndustry.bandwidth() )
 						    .attr("fill", "#003a5d")
 						    .attr("border-color", "#003a5d")
 
 });
-
-// function to wrap text labels
-function wrap(text, width) {
-  text.each(function() {
-    var text = d3.select(this),
-        words = text.text().split(/\s+/).reverse(),
-        word,
-        line = [],
-        lineNumber = 0,
-        lineHeight = 1.1, // ems
-        y = text.attr("y"),
-        dy = parseFloat(text.attr("dy")),
-        tspan = text.text(null).append("tspan").attr("x", 0).attr("y", y).attr("dy", dy + "em")
-    while (word = words.pop()) {
-      line.push(word)
-      tspan.text(line.join(" "))
-      if (tspan.node().getComputedTextLength() > width) {
-        line.pop()
-        tspan.text(line.join(" "))
-        line = [word]
-        tspan = text.append("tspan").attr("x", 0).attr("y", y).attr("dy", `${++lineNumber * lineHeight + dy}em`).text(word)
-      }
-    }
-  })
-}
