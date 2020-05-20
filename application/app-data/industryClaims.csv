@@ -3611,24 +3611,822 @@ Three Rivers,Management of Companies and Enterprises,Enterprise Management,125
 Three Rivers,"Agriculture, Forestry, Fishing and Hunting",Agriculture,15
 Three Rivers,Utilities,Utilities,8
 Three Rivers,"Mining, Quarrying, and Oil and Gas Extraction",Oil & Gas,4
-Georgia,Accommodation and Food Services,Food Services,478492
-Georgia,Health Care and Social Assistance,Health Care,206548
-Georgia,Retail Trade,Retail,205366
-Georgia,Unclassified,Unclassified,180078
-Georgia,Administrative and Support and Waste Management and Remediation Services,Waste Management,144556
-Georgia,Manufacturing,Manufacturing,136871
-Georgia,Other Services (except Public Administration),Other,69551
-Georgia,"Arts, Entertainment, and Recreation",Entertainment,58798
-Georgia,Transportation and Warehousing,Transportation,57666
-Georgia,Educational Services,Education,50000
-Georgia,Wholesale Trade,Wholesale Trade,46586
-Georgia,Information,Information,39815
-Georgia,"Professional, Scientific, and Technical Services",Technical Services,37773
-Georgia,Construction,Construction,32933
-Georgia,Real Estate and Rental and Leasing,Real Estate,20746
-Georgia,Public Administration,Public Admin,9387
-Georgia,Finance and Insurance,Finance,8973
-Georgia,Management of Companies and Enterprises,Enterprise Management,8253
-Georgia,"Agriculture, Forestry, Fishing and Hunting",Agriculture,1081
-Georgia,"Mining, Quarrying, and Oil and Gas Extraction",Oil & Gas,245
-Georgia,Utilities,Utilities,143
+"Albany, GA",Accommodation and Food Services,Food Services,6380
+"Albany, GA",Retail Trade,Retail,3629
+"Albany, GA",Health Care and Social Assistance,Health Care,3102
+"Albany, GA",Unclassified,Unclassified,1801
+"Albany, GA",Administrative and Support and Waste Management and Remediation Services,Waste Management,1587
+"Albany, GA",Manufacturing,Manufacturing,1268
+"Albany, GA",Other Services (except Public Administration),Other,823
+"Albany, GA","Arts, Entertainment, and Recreation",Entertainment,785
+"Albany, GA",Transportation and Warehousing,Transportation,531
+"Albany, GA",Wholesale Trade,Wholesale Trade,441
+"Albany, GA","Professional, Scientific, and Technical Services",Technical Services,423
+"Albany, GA",Construction,Construction,414
+"Albany, GA",Educational Services,Education,383
+"Albany, GA",Information,Information,295
+"Albany, GA",Real Estate and Rental and Leasing,Real Estate,274
+"Albany, GA",Finance and Insurance,Finance,166
+"Albany, GA",Public Administration,Public Admin,119
+"Albany, GA","Agriculture, Forestry, Fishing and Hunting",Agriculture,38
+"Albany, GA",Management of Companies and Enterprises,Enterprise Management,34
+"Albany, GA",Utilities,Utilities,3
+"Albany, GA","Mining, Quarrying, and Oil and Gas Extraction",Oil & Gas,0
+"Americus, GA",Accommodation and Food Services,Food Services,865
+"Americus, GA",Manufacturing,Manufacturing,376
+"Americus, GA",Health Care and Social Assistance,Health Care,374
+"Americus, GA",Unclassified,Unclassified,286
+"Americus, GA",Retail Trade,Retail,279
+"Americus, GA",Wholesale Trade,Wholesale Trade,187
+"Americus, GA",Educational Services,Education,166
+"Americus, GA",Administrative and Support and Waste Management and Remediation Services,Waste Management,149
+"Americus, GA","Professional, Scientific, and Technical Services",Technical Services,69
+"Americus, GA",Construction,Construction,51
+"Americus, GA",Real Estate and Rental and Leasing,Real Estate,46
+"Americus, GA",Other Services (except Public Administration),Other,44
+"Americus, GA",Transportation and Warehousing,Transportation,37
+"Americus, GA",Public Administration,Public Admin,32
+"Americus, GA","Arts, Entertainment, and Recreation",Entertainment,23
+"Americus, GA",Finance and Insurance,Finance,16
+"Americus, GA",Information,Information,12
+"Americus, GA","Agriculture, Forestry, Fishing and Hunting",Agriculture,11
+"Americus, GA",Management of Companies and Enterprises,Enterprise Management,1
+"Americus, GA","Mining, Quarrying, and Oil and Gas Extraction",Oil & Gas,1
+"Americus, GA",Utilities,Utilities,0
+"Athens-Clarke County, GA",Accommodation and Food Services,Food Services,10128
+"Athens-Clarke County, GA",Health Care and Social Assistance,Health Care,4399
+"Athens-Clarke County, GA",Retail Trade,Retail,3780
+"Athens-Clarke County, GA",Unclassified,Unclassified,2401
+"Athens-Clarke County, GA",Administrative and Support and Waste Management and Remediation Services,Waste Management,2034
+"Athens-Clarke County, GA",Manufacturing,Manufacturing,1827
+"Athens-Clarke County, GA",Wholesale Trade,Wholesale Trade,1519
+"Athens-Clarke County, GA",Educational Services,Education,1310
+"Athens-Clarke County, GA",Other Services (except Public Administration),Other,1187
+"Athens-Clarke County, GA","Arts, Entertainment, and Recreation",Entertainment,773
+"Athens-Clarke County, GA",Real Estate and Rental and Leasing,Real Estate,569
+"Athens-Clarke County, GA",Information,Information,564
+"Athens-Clarke County, GA",Construction,Construction,558
+"Athens-Clarke County, GA",Transportation and Warehousing,Transportation,517
+"Athens-Clarke County, GA","Professional, Scientific, and Technical Services",Technical Services,493
+"Athens-Clarke County, GA",Public Administration,Public Admin,446
+"Athens-Clarke County, GA",Management of Companies and Enterprises,Enterprise Management,187
+"Athens-Clarke County, GA",Finance and Insurance,Finance,70
+"Athens-Clarke County, GA","Agriculture, Forestry, Fishing and Hunting",Agriculture,13
+"Athens-Clarke County, GA","Mining, Quarrying, and Oil and Gas Extraction",Oil & Gas,4
+"Athens-Clarke County, GA",Utilities,Utilities,2
+"Atlanta-Sandy Springs-Alpharetta, GA",Accommodation and Food Services,Food Services,297782
+"Atlanta-Sandy Springs-Alpharetta, GA",Retail Trade,Retail,133565
+"Atlanta-Sandy Springs-Alpharetta, GA",Unclassified,Unclassified,126139
+"Atlanta-Sandy Springs-Alpharetta, GA",Health Care and Social Assistance,Health Care,123516
+"Atlanta-Sandy Springs-Alpharetta, GA",Administrative and Support and Waste Management and Remediation Services,Waste Management,98161
+"Atlanta-Sandy Springs-Alpharetta, GA",Manufacturing,Manufacturing,49456
+"Atlanta-Sandy Springs-Alpharetta, GA",Other Services (except Public Administration),Other,47465
+"Atlanta-Sandy Springs-Alpharetta, GA","Arts, Entertainment, and Recreation",Entertainment,43890
+"Atlanta-Sandy Springs-Alpharetta, GA",Transportation and Warehousing,Transportation,42129
+"Atlanta-Sandy Springs-Alpharetta, GA",Information,Information,33989
+"Atlanta-Sandy Springs-Alpharetta, GA",Educational Services,Education,32416
+"Atlanta-Sandy Springs-Alpharetta, GA",Wholesale Trade,Wholesale Trade,30447
+"Atlanta-Sandy Springs-Alpharetta, GA","Professional, Scientific, and Technical Services",Technical Services,26617
+"Atlanta-Sandy Springs-Alpharetta, GA",Construction,Construction,18882
+"Atlanta-Sandy Springs-Alpharetta, GA",Real Estate and Rental and Leasing,Real Estate,14807
+"Atlanta-Sandy Springs-Alpharetta, GA",Management of Companies and Enterprises,Enterprise Management,7167
+"Atlanta-Sandy Springs-Alpharetta, GA",Finance and Insurance,Finance,6232
+"Atlanta-Sandy Springs-Alpharetta, GA",Public Administration,Public Admin,4106
+"Atlanta-Sandy Springs-Alpharetta, GA","Agriculture, Forestry, Fishing and Hunting",Agriculture,223
+"Atlanta-Sandy Springs-Alpharetta, GA","Mining, Quarrying, and Oil and Gas Extraction",Oil & Gas,89
+"Atlanta-Sandy Springs-Alpharetta, GA",Utilities,Utilities,74
+"Augusta-Richmond County, GA-SC",Accommodation and Food Services,Food Services,15200
+"Augusta-Richmond County, GA-SC",Retail Trade,Retail,6507
+"Augusta-Richmond County, GA-SC",Health Care and Social Assistance,Health Care,5929
+"Augusta-Richmond County, GA-SC",Administrative and Support and Waste Management and Remediation Services,Waste Management,4501
+"Augusta-Richmond County, GA-SC",Unclassified,Unclassified,4165
+"Augusta-Richmond County, GA-SC",Manufacturing,Manufacturing,3644
+"Augusta-Richmond County, GA-SC",Other Services (except Public Administration),Other,2415
+"Augusta-Richmond County, GA-SC",Construction,Construction,1701
+"Augusta-Richmond County, GA-SC","Arts, Entertainment, and Recreation",Entertainment,1606
+"Augusta-Richmond County, GA-SC",Transportation and Warehousing,Transportation,1036
+"Augusta-Richmond County, GA-SC","Professional, Scientific, and Technical Services",Technical Services,900
+"Augusta-Richmond County, GA-SC",Wholesale Trade,Wholesale Trade,624
+"Augusta-Richmond County, GA-SC",Real Estate and Rental and Leasing,Real Estate,589
+"Augusta-Richmond County, GA-SC",Educational Services,Education,503
+"Augusta-Richmond County, GA-SC",Information,Information,360
+"Augusta-Richmond County, GA-SC",Public Administration,Public Admin,223
+"Augusta-Richmond County, GA-SC",Finance and Insurance,Finance,163
+"Augusta-Richmond County, GA-SC",Management of Companies and Enterprises,Enterprise Management,62
+"Augusta-Richmond County, GA-SC",Utilities,Utilities,17
+"Augusta-Richmond County, GA-SC","Agriculture, Forestry, Fishing and Hunting",Agriculture,11
+"Augusta-Richmond County, GA-SC","Mining, Quarrying, and Oil and Gas Extraction",Oil & Gas,5
+"Bainbridge, GA",Accommodation and Food Services,Food Services,488
+"Bainbridge, GA",Retail Trade,Retail,457
+"Bainbridge, GA",Unclassified,Unclassified,414
+"Bainbridge, GA",Health Care and Social Assistance,Health Care,313
+"Bainbridge, GA",Manufacturing,Manufacturing,281
+"Bainbridge, GA",Educational Services,Education,182
+"Bainbridge, GA",Administrative and Support and Waste Management and Remediation Services,Waste Management,140
+"Bainbridge, GA","Arts, Entertainment, and Recreation",Entertainment,113
+"Bainbridge, GA",Other Services (except Public Administration),Other,70
+"Bainbridge, GA",Transportation and Warehousing,Transportation,70
+"Bainbridge, GA",Real Estate and Rental and Leasing,Real Estate,48
+"Bainbridge, GA",Construction,Construction,43
+"Bainbridge, GA","Professional, Scientific, and Technical Services",Technical Services,29
+"Bainbridge, GA",Information,Information,28
+"Bainbridge, GA",Wholesale Trade,Wholesale Trade,28
+"Bainbridge, GA",Finance and Insurance,Finance,23
+"Bainbridge, GA","Agriculture, Forestry, Fishing and Hunting",Agriculture,17
+"Bainbridge, GA",Public Administration,Public Admin,11
+"Bainbridge, GA",Management of Companies and Enterprises,Enterprise Management,2
+"Bainbridge, GA","Mining, Quarrying, and Oil and Gas Extraction",Oil & Gas,1
+"Bainbridge, GA",Utilities,Utilities,1
+"Brunswick, GA",Accommodation and Food Services,Food Services,8575
+"Brunswick, GA",Unclassified,Unclassified,2305
+"Brunswick, GA",Retail Trade,Retail,1932
+"Brunswick, GA",Health Care and Social Assistance,Health Care,1849
+"Brunswick, GA",Educational Services,Education,1394
+"Brunswick, GA",Administrative and Support and Waste Management and Remediation Services,Waste Management,1155
+"Brunswick, GA",Wholesale Trade,Wholesale Trade,883
+"Brunswick, GA",Other Services (except Public Administration),Other,675
+"Brunswick, GA","Arts, Entertainment, and Recreation",Entertainment,425
+"Brunswick, GA",Manufacturing,Manufacturing,384
+"Brunswick, GA",Construction,Construction,333
+"Brunswick, GA",Transportation and Warehousing,Transportation,333
+"Brunswick, GA","Professional, Scientific, and Technical Services",Technical Services,241
+"Brunswick, GA",Information,Information,195
+"Brunswick, GA",Public Administration,Public Admin,177
+"Brunswick, GA",Real Estate and Rental and Leasing,Real Estate,151
+"Brunswick, GA",Finance and Insurance,Finance,45
+"Brunswick, GA",Management of Companies and Enterprises,Enterprise Management,11
+"Brunswick, GA","Agriculture, Forestry, Fishing and Hunting",Agriculture,7
+"Brunswick, GA",Utilities,Utilities,2
+"Brunswick, GA","Mining, Quarrying, and Oil and Gas Extraction",Oil & Gas,0
+"Calhoun, GA",Manufacturing,Manufacturing,4869
+"Calhoun, GA",Accommodation and Food Services,Food Services,1538
+"Calhoun, GA",Retail Trade,Retail,924
+"Calhoun, GA",Health Care and Social Assistance,Health Care,855
+"Calhoun, GA",Unclassified,Unclassified,765
+"Calhoun, GA",Administrative and Support and Waste Management and Remediation Services,Waste Management,728
+"Calhoun, GA",Wholesale Trade,Wholesale Trade,581
+"Calhoun, GA","Professional, Scientific, and Technical Services",Technical Services,210
+"Calhoun, GA",Construction,Construction,207
+"Calhoun, GA",Transportation and Warehousing,Transportation,193
+"Calhoun, GA",Other Services (except Public Administration),Other,174
+"Calhoun, GA","Arts, Entertainment, and Recreation",Entertainment,105
+"Calhoun, GA",Educational Services,Education,91
+"Calhoun, GA",Real Estate and Rental and Leasing,Real Estate,33
+"Calhoun, GA",Finance and Insurance,Finance,31
+"Calhoun, GA",Public Administration,Public Admin,28
+"Calhoun, GA",Information,Information,26
+"Calhoun, GA","Agriculture, Forestry, Fishing and Hunting",Agriculture,6
+"Calhoun, GA",Management of Companies and Enterprises,Enterprise Management,2
+"Calhoun, GA",Utilities,Utilities,2
+"Calhoun, GA","Mining, Quarrying, and Oil and Gas Extraction",Oil & Gas,1
+"Cedartown, GA",Manufacturing,Manufacturing,1833
+"Cedartown, GA",Accommodation and Food Services,Food Services,1536
+"Cedartown, GA",Health Care and Social Assistance,Health Care,912
+"Cedartown, GA",Administrative and Support and Waste Management and Remediation Services,Waste Management,637
+"Cedartown, GA",Unclassified,Unclassified,453
+"Cedartown, GA",Retail Trade,Retail,403
+"Cedartown, GA",Other Services (except Public Administration),Other,169
+"Cedartown, GA",Construction,Construction,168
+"Cedartown, GA",Wholesale Trade,Wholesale Trade,138
+"Cedartown, GA","Professional, Scientific, and Technical Services",Technical Services,93
+"Cedartown, GA",Transportation and Warehousing,Transportation,90
+"Cedartown, GA","Arts, Entertainment, and Recreation",Entertainment,80
+"Cedartown, GA",Educational Services,Education,55
+"Cedartown, GA",Information,Information,40
+"Cedartown, GA",Public Administration,Public Admin,31
+"Cedartown, GA","Agriculture, Forestry, Fishing and Hunting",Agriculture,19
+"Cedartown, GA",Real Estate and Rental and Leasing,Real Estate,17
+"Cedartown, GA",Finance and Insurance,Finance,13
+"Cedartown, GA",Management of Companies and Enterprises,Enterprise Management,3
+"Cedartown, GA","Mining, Quarrying, and Oil and Gas Extraction",Oil & Gas,2
+"Cedartown, GA",Utilities,Utilities,0
+"Chattanooga, TN-GA",Manufacturing,Manufacturing,4048
+"Chattanooga, TN-GA",Accommodation and Food Services,Food Services,2623
+"Chattanooga, TN-GA",Unclassified,Unclassified,1946
+"Chattanooga, TN-GA",Retail Trade,Retail,1465
+"Chattanooga, TN-GA",Health Care and Social Assistance,Health Care,1302
+"Chattanooga, TN-GA","Arts, Entertainment, and Recreation",Entertainment,580
+"Chattanooga, TN-GA",Administrative and Support and Waste Management and Remediation Services,Waste Management,576
+"Chattanooga, TN-GA",Transportation and Warehousing,Transportation,358
+"Chattanooga, TN-GA",Other Services (except Public Administration),Other,303
+"Chattanooga, TN-GA",Wholesale Trade,Wholesale Trade,271
+"Chattanooga, TN-GA",Construction,Construction,236
+"Chattanooga, TN-GA",Educational Services,Education,191
+"Chattanooga, TN-GA","Professional, Scientific, and Technical Services",Technical Services,190
+"Chattanooga, TN-GA",Information,Information,92
+"Chattanooga, TN-GA",Real Estate and Rental and Leasing,Real Estate,61
+"Chattanooga, TN-GA",Finance and Insurance,Finance,56
+"Chattanooga, TN-GA",Management of Companies and Enterprises,Enterprise Management,42
+"Chattanooga, TN-GA",Public Administration,Public Admin,41
+"Chattanooga, TN-GA","Mining, Quarrying, and Oil and Gas Extraction",Oil & Gas,1
+"Chattanooga, TN-GA","Agriculture, Forestry, Fishing and Hunting",Agriculture,0
+"Chattanooga, TN-GA",Utilities,Utilities,0
+"Columbus, GA-AL",Accommodation and Food Services,Food Services,11547
+"Columbus, GA-AL",Retail Trade,Retail,4199
+"Columbus, GA-AL",Health Care and Social Assistance,Health Care,3678
+"Columbus, GA-AL",Administrative and Support and Waste Management and Remediation Services,Waste Management,3018
+"Columbus, GA-AL",Unclassified,Unclassified,2908
+"Columbus, GA-AL",Manufacturing,Manufacturing,2083
+"Columbus, GA-AL",Other Services (except Public Administration),Other,1571
+"Columbus, GA-AL","Arts, Entertainment, and Recreation",Entertainment,1111
+"Columbus, GA-AL",Transportation and Warehousing,Transportation,832
+"Columbus, GA-AL",Public Administration,Public Admin,669
+"Columbus, GA-AL","Professional, Scientific, and Technical Services",Technical Services,593
+"Columbus, GA-AL",Educational Services,Education,569
+"Columbus, GA-AL",Information,Information,531
+"Columbus, GA-AL",Wholesale Trade,Wholesale Trade,520
+"Columbus, GA-AL",Construction,Construction,487
+"Columbus, GA-AL",Real Estate and Rental and Leasing,Real Estate,337
+"Columbus, GA-AL",Finance and Insurance,Finance,213
+"Columbus, GA-AL",Management of Companies and Enterprises,Enterprise Management,75
+"Columbus, GA-AL","Agriculture, Forestry, Fishing and Hunting",Agriculture,9
+"Columbus, GA-AL","Mining, Quarrying, and Oil and Gas Extraction",Oil & Gas,1
+"Columbus, GA-AL",Utilities,Utilities,1
+"Cordele, GA",Accommodation and Food Services,Food Services,1360
+"Cordele, GA",Health Care and Social Assistance,Health Care,410
+"Cordele, GA",Manufacturing,Manufacturing,382
+"Cordele, GA",Retail Trade,Retail,372
+"Cordele, GA",Administrative and Support and Waste Management and Remediation Services,Waste Management,352
+"Cordele, GA",Unclassified,Unclassified,327
+"Cordele, GA",Wholesale Trade,Wholesale Trade,143
+"Cordele, GA",Transportation and Warehousing,Transportation,141
+"Cordele, GA",Construction,Construction,99
+"Cordele, GA",Other Services (except Public Administration),Other,91
+"Cordele, GA","Arts, Entertainment, and Recreation",Entertainment,88
+"Cordele, GA","Professional, Scientific, and Technical Services",Technical Services,69
+"Cordele, GA",Real Estate and Rental and Leasing,Real Estate,67
+"Cordele, GA",Information,Information,59
+"Cordele, GA",Finance and Insurance,Finance,53
+"Cordele, GA",Educational Services,Education,29
+"Cordele, GA",Public Administration,Public Admin,19
+"Cordele, GA",Management of Companies and Enterprises,Enterprise Management,17
+"Cordele, GA","Agriculture, Forestry, Fishing and Hunting",Agriculture,3
+"Cordele, GA","Mining, Quarrying, and Oil and Gas Extraction",Oil & Gas,0
+"Cordele, GA",Utilities,Utilities,0
+"Cornelia, GA",Accommodation and Food Services,Food Services,1317
+"Cornelia, GA",Manufacturing,Manufacturing,1018
+"Cornelia, GA",Health Care and Social Assistance,Health Care,787
+"Cornelia, GA",Retail Trade,Retail,474
+"Cornelia, GA",Unclassified,Unclassified,414
+"Cornelia, GA",Administrative and Support and Waste Management and Remediation Services,Waste Management,371
+"Cornelia, GA",Other Services (except Public Administration),Other,145
+"Cornelia, GA",Wholesale Trade,Wholesale Trade,119
+"Cornelia, GA",Educational Services,Education,103
+"Cornelia, GA",Public Administration,Public Admin,98
+"Cornelia, GA",Construction,Construction,89
+"Cornelia, GA","Professional, Scientific, and Technical Services",Technical Services,75
+"Cornelia, GA","Arts, Entertainment, and Recreation",Entertainment,74
+"Cornelia, GA",Information,Information,73
+"Cornelia, GA",Transportation and Warehousing,Transportation,59
+"Cornelia, GA",Real Estate and Rental and Leasing,Real Estate,32
+"Cornelia, GA",Finance and Insurance,Finance,22
+"Cornelia, GA","Agriculture, Forestry, Fishing and Hunting",Agriculture,8
+"Cornelia, GA",Management of Companies and Enterprises,Enterprise Management,5
+"Cornelia, GA",Utilities,Utilities,1
+"Cornelia, GA","Mining, Quarrying, and Oil and Gas Extraction",Oil & Gas,0
+"Dalton, GA",Manufacturing,Manufacturing,17856
+"Dalton, GA",Accommodation and Food Services,Food Services,3698
+"Dalton, GA",Administrative and Support and Waste Management and Remediation Services,Waste Management,3030
+"Dalton, GA",Retail Trade,Retail,2128
+"Dalton, GA",Health Care and Social Assistance,Health Care,2050
+"Dalton, GA",Unclassified,Unclassified,1835
+"Dalton, GA",Wholesale Trade,Wholesale Trade,1547
+"Dalton, GA","Professional, Scientific, and Technical Services",Technical Services,932
+"Dalton, GA",Transportation and Warehousing,Transportation,577
+"Dalton, GA",Other Services (except Public Administration),Other,458
+"Dalton, GA",Educational Services,Education,338
+"Dalton, GA",Construction,Construction,299
+"Dalton, GA","Arts, Entertainment, and Recreation",Entertainment,125
+"Dalton, GA",Information,Information,113
+"Dalton, GA",Finance and Insurance,Finance,70
+"Dalton, GA",Public Administration,Public Admin,69
+"Dalton, GA",Real Estate and Rental and Leasing,Real Estate,47
+"Dalton, GA",Management of Companies and Enterprises,Enterprise Management,7
+"Dalton, GA","Agriculture, Forestry, Fishing and Hunting",Agriculture,3
+"Dalton, GA",Utilities,Utilities,1
+"Dalton, GA","Mining, Quarrying, and Oil and Gas Extraction",Oil & Gas,0
+"Douglas, GA",Health Care and Social Assistance,Health Care,1954
+"Douglas, GA",Accommodation and Food Services,Food Services,1813
+"Douglas, GA",Manufacturing,Manufacturing,1243
+"Douglas, GA",Retail Trade,Retail,984
+"Douglas, GA",Administrative and Support and Waste Management and Remediation Services,Waste Management,702
+"Douglas, GA",Construction,Construction,567
+"Douglas, GA",Unclassified,Unclassified,433
+"Douglas, GA","Arts, Entertainment, and Recreation",Entertainment,423
+"Douglas, GA",Wholesale Trade,Wholesale Trade,336
+"Douglas, GA",Other Services (except Public Administration),Other,314
+"Douglas, GA",Educational Services,Education,263
+"Douglas, GA",Transportation and Warehousing,Transportation,207
+"Douglas, GA","Professional, Scientific, and Technical Services",Technical Services,136
+"Douglas, GA",Real Estate and Rental and Leasing,Real Estate,88
+"Douglas, GA",Information,Information,76
+"Douglas, GA",Finance and Insurance,Finance,28
+"Douglas, GA",Public Administration,Public Admin,22
+"Douglas, GA","Agriculture, Forestry, Fishing and Hunting",Agriculture,16
+"Douglas, GA",Management of Companies and Enterprises,Enterprise Management,8
+"Douglas, GA",Utilities,Utilities,2
+"Douglas, GA","Mining, Quarrying, and Oil and Gas Extraction",Oil & Gas,0
+"Dublin, GA",Accommodation and Food Services,Food Services,1737
+"Dublin, GA",Health Care and Social Assistance,Health Care,985
+"Dublin, GA",Unclassified,Unclassified,871
+"Dublin, GA",Retail Trade,Retail,825
+"Dublin, GA",Manufacturing,Manufacturing,823
+"Dublin, GA",Administrative and Support and Waste Management and Remediation Services,Waste Management,347
+"Dublin, GA",Construction,Construction,241
+"Dublin, GA",Other Services (except Public Administration),Other,169
+"Dublin, GA",Transportation and Warehousing,Transportation,134
+"Dublin, GA","Arts, Entertainment, and Recreation",Entertainment,106
+"Dublin, GA",Educational Services,Education,96
+"Dublin, GA",Wholesale Trade,Wholesale Trade,91
+"Dublin, GA",Information,Information,86
+"Dublin, GA","Professional, Scientific, and Technical Services",Technical Services,85
+"Dublin, GA","Mining, Quarrying, and Oil and Gas Extraction",Oil & Gas,54
+"Dublin, GA",Public Administration,Public Admin,46
+"Dublin, GA",Finance and Insurance,Finance,39
+"Dublin, GA",Real Estate and Rental and Leasing,Real Estate,29
+"Dublin, GA","Agriculture, Forestry, Fishing and Hunting",Agriculture,11
+"Dublin, GA",Management of Companies and Enterprises,Enterprise Management,3
+"Dublin, GA",Utilities,Utilities,0
+"Eufaula, AL-GA",Accommodation and Food Services,Food Services,21
+"Eufaula, AL-GA",Transportation and Warehousing,Transportation,12
+"Eufaula, AL-GA",Unclassified,Unclassified,9
+"Eufaula, AL-GA",Administrative and Support and Waste Management and Remediation Services,Waste Management,5
+"Eufaula, AL-GA",Retail Trade,Retail,4
+"Eufaula, AL-GA",Other Services (except Public Administration),Other,2
+"Eufaula, AL-GA",Public Administration,Public Admin,2
+"Eufaula, AL-GA","Agriculture, Forestry, Fishing and Hunting",Agriculture,1
+"Eufaula, AL-GA",Construction,Construction,1
+"Eufaula, AL-GA",Health Care and Social Assistance,Health Care,1
+"Eufaula, AL-GA",Manufacturing,Manufacturing,1
+"Eufaula, AL-GA",Wholesale Trade,Wholesale Trade,1
+"Eufaula, AL-GA","Arts, Entertainment, and Recreation",Entertainment,0
+"Eufaula, AL-GA",Educational Services,Education,0
+"Eufaula, AL-GA",Finance and Insurance,Finance,0
+"Eufaula, AL-GA",Information,Information,0
+"Eufaula, AL-GA",Management of Companies and Enterprises,Enterprise Management,0
+"Eufaula, AL-GA","Mining, Quarrying, and Oil and Gas Extraction",Oil & Gas,0
+"Eufaula, AL-GA","Professional, Scientific, and Technical Services",Technical Services,0
+"Eufaula, AL-GA",Real Estate and Rental and Leasing,Real Estate,0
+"Eufaula, AL-GA",Utilities,Utilities,0
+"Fitzgerald, GA",Manufacturing,Manufacturing,1862
+"Fitzgerald, GA",Administrative and Support and Waste Management and Remediation Services,Waste Management,895
+"Fitzgerald, GA",Transportation and Warehousing,Transportation,436
+"Fitzgerald, GA",Health Care and Social Assistance,Health Care,396
+"Fitzgerald, GA",Accommodation and Food Services,Food Services,392
+"Fitzgerald, GA",Retail Trade,Retail,213
+"Fitzgerald, GA",Unclassified,Unclassified,173
+"Fitzgerald, GA",Construction,Construction,78
+"Fitzgerald, GA",Wholesale Trade,Wholesale Trade,67
+"Fitzgerald, GA","Arts, Entertainment, and Recreation",Entertainment,42
+"Fitzgerald, GA","Professional, Scientific, and Technical Services",Technical Services,39
+"Fitzgerald, GA",Other Services (except Public Administration),Other,22
+"Fitzgerald, GA",Finance and Insurance,Finance,20
+"Fitzgerald, GA",Educational Services,Education,15
+"Fitzgerald, GA","Agriculture, Forestry, Fishing and Hunting",Agriculture,14
+"Fitzgerald, GA",Public Administration,Public Admin,11
+"Fitzgerald, GA",Real Estate and Rental and Leasing,Real Estate,10
+"Fitzgerald, GA",Information,Information,9
+"Fitzgerald, GA",Management of Companies and Enterprises,Enterprise Management,0
+"Fitzgerald, GA","Mining, Quarrying, and Oil and Gas Extraction",Oil & Gas,0
+"Fitzgerald, GA",Utilities,Utilities,0
+"Gainesville, GA",Accommodation and Food Services,Food Services,7179
+"Gainesville, GA",Health Care and Social Assistance,Health Care,4370
+"Gainesville, GA",Retail Trade,Retail,3777
+"Gainesville, GA",Manufacturing,Manufacturing,3688
+"Gainesville, GA",Unclassified,Unclassified,2644
+"Gainesville, GA",Administrative and Support and Waste Management and Remediation Services,Waste Management,2506
+"Gainesville, GA",Educational Services,Education,1821
+"Gainesville, GA",Other Services (except Public Administration),Other,1192
+"Gainesville, GA",Wholesale Trade,Wholesale Trade,1105
+"Gainesville, GA","Professional, Scientific, and Technical Services",Technical Services,522
+"Gainesville, GA",Construction,Construction,499
+"Gainesville, GA","Arts, Entertainment, and Recreation",Entertainment,456
+"Gainesville, GA",Real Estate and Rental and Leasing,Real Estate,413
+"Gainesville, GA",Transportation and Warehousing,Transportation,381
+"Gainesville, GA",Information,Information,160
+"Gainesville, GA",Finance and Insurance,Finance,155
+"Gainesville, GA",Management of Companies and Enterprises,Enterprise Management,120
+"Gainesville, GA",Public Administration,Public Admin,59
+"Gainesville, GA","Agriculture, Forestry, Fishing and Hunting",Agriculture,24
+"Gainesville, GA",Utilities,Utilities,2
+"Gainesville, GA","Mining, Quarrying, and Oil and Gas Extraction",Oil & Gas,1
+"Hinesville, GA",Accommodation and Food Services,Food Services,2590
+"Hinesville, GA",Health Care and Social Assistance,Health Care,1483
+"Hinesville, GA",Retail Trade,Retail,1159
+"Hinesville, GA",Unclassified,Unclassified,805
+"Hinesville, GA",Educational Services,Education,756
+"Hinesville, GA",Administrative and Support and Waste Management and Remediation Services,Waste Management,692
+"Hinesville, GA",Other Services (except Public Administration),Other,602
+"Hinesville, GA",Transportation and Warehousing,Transportation,444
+"Hinesville, GA",Manufacturing,Manufacturing,173
+"Hinesville, GA",Construction,Construction,168
+"Hinesville, GA","Arts, Entertainment, and Recreation",Entertainment,158
+"Hinesville, GA","Professional, Scientific, and Technical Services",Technical Services,145
+"Hinesville, GA",Wholesale Trade,Wholesale Trade,98
+"Hinesville, GA",Real Estate and Rental and Leasing,Real Estate,97
+"Hinesville, GA",Information,Information,91
+"Hinesville, GA",Public Administration,Public Admin,84
+"Hinesville, GA",Finance and Insurance,Finance,45
+"Hinesville, GA",Management of Companies and Enterprises,Enterprise Management,11
+"Hinesville, GA","Agriculture, Forestry, Fishing and Hunting",Agriculture,2
+"Hinesville, GA","Mining, Quarrying, and Oil and Gas Extraction",Oil & Gas,0
+"Hinesville, GA",Utilities,Utilities,0
+"Jefferson, GA",Accommodation and Food Services,Food Services,2368
+"Jefferson, GA",Health Care and Social Assistance,Health Care,2345
+"Jefferson, GA",Retail Trade,Retail,1574
+"Jefferson, GA",Unclassified,Unclassified,984
+"Jefferson, GA",Educational Services,Education,843
+"Jefferson, GA",Administrative and Support and Waste Management and Remediation Services,Waste Management,770
+"Jefferson, GA",Manufacturing,Manufacturing,728
+"Jefferson, GA",Wholesale Trade,Wholesale Trade,622
+"Jefferson, GA",Other Services (except Public Administration),Other,410
+"Jefferson, GA",Construction,Construction,326
+"Jefferson, GA",Real Estate and Rental and Leasing,Real Estate,318
+"Jefferson, GA",Transportation and Warehousing,Transportation,313
+"Jefferson, GA","Professional, Scientific, and Technical Services",Technical Services,216
+"Jefferson, GA","Arts, Entertainment, and Recreation",Entertainment,205
+"Jefferson, GA",Information,Information,114
+"Jefferson, GA",Public Administration,Public Admin,52
+"Jefferson, GA",Finance and Insurance,Finance,51
+"Jefferson, GA",Management of Companies and Enterprises,Enterprise Management,19
+"Jefferson, GA","Agriculture, Forestry, Fishing and Hunting",Agriculture,13
+"Jefferson, GA","Mining, Quarrying, and Oil and Gas Extraction",Oil & Gas,0
+"Jefferson, GA",Utilities,Utilities,0
+"Jesup, GA",Health Care and Social Assistance,Health Care,932
+"Jesup, GA",Accommodation and Food Services,Food Services,886
+"Jesup, GA",Retail Trade,Retail,260
+"Jesup, GA",Unclassified,Unclassified,253
+"Jesup, GA",Construction,Construction,172
+"Jesup, GA",Administrative and Support and Waste Management and Remediation Services,Waste Management,151
+"Jesup, GA",Transportation and Warehousing,Transportation,98
+"Jesup, GA",Other Services (except Public Administration),Other,79
+"Jesup, GA",Manufacturing,Manufacturing,74
+"Jesup, GA","Professional, Scientific, and Technical Services",Technical Services,56
+"Jesup, GA",Wholesale Trade,Wholesale Trade,43
+"Jesup, GA",Information,Information,40
+"Jesup, GA",Educational Services,Education,34
+"Jesup, GA",Finance and Insurance,Finance,19
+"Jesup, GA","Arts, Entertainment, and Recreation",Entertainment,17
+"Jesup, GA",Public Administration,Public Admin,10
+"Jesup, GA",Real Estate and Rental and Leasing,Real Estate,7
+"Jesup, GA",Utilities,Utilities,2
+"Jesup, GA","Agriculture, Forestry, Fishing and Hunting",Agriculture,1
+"Jesup, GA",Management of Companies and Enterprises,Enterprise Management,0
+"Jesup, GA","Mining, Quarrying, and Oil and Gas Extraction",Oil & Gas,0
+"LaGrange, GA-AL",Manufacturing,Manufacturing,4379
+"LaGrange, GA-AL",Accommodation and Food Services,Food Services,3173
+"LaGrange, GA-AL",Administrative and Support and Waste Management and Remediation Services,Waste Management,2506
+"LaGrange, GA-AL",Retail Trade,Retail,1077
+"LaGrange, GA-AL",Unclassified,Unclassified,843
+"LaGrange, GA-AL",Health Care and Social Assistance,Health Care,748
+"LaGrange, GA-AL",Transportation and Warehousing,Transportation,707
+"LaGrange, GA-AL",Wholesale Trade,Wholesale Trade,327
+"LaGrange, GA-AL",Other Services (except Public Administration),Other,265
+"LaGrange, GA-AL",Construction,Construction,223
+"LaGrange, GA-AL",Educational Services,Education,153
+"LaGrange, GA-AL","Professional, Scientific, and Technical Services",Technical Services,131
+"LaGrange, GA-AL","Arts, Entertainment, and Recreation",Entertainment,128
+"LaGrange, GA-AL",Information,Information,92
+"LaGrange, GA-AL",Real Estate and Rental and Leasing,Real Estate,91
+"LaGrange, GA-AL",Finance and Insurance,Finance,49
+"LaGrange, GA-AL",Public Administration,Public Admin,22
+"LaGrange, GA-AL",Management of Companies and Enterprises,Enterprise Management,4
+"LaGrange, GA-AL","Agriculture, Forestry, Fishing and Hunting",Agriculture,0
+"LaGrange, GA-AL","Mining, Quarrying, and Oil and Gas Extraction",Oil & Gas,0
+"LaGrange, GA-AL",Utilities,Utilities,0
+"Macon-Bibb County, GA",Accommodation and Food Services,Food Services,9796
+"Macon-Bibb County, GA",Retail Trade,Retail,4907
+"Macon-Bibb County, GA",Health Care and Social Assistance,Health Care,3762
+"Macon-Bibb County, GA",Unclassified,Unclassified,2608
+"Macon-Bibb County, GA",Administrative and Support and Waste Management and Remediation Services,Waste Management,2202
+"Macon-Bibb County, GA",Manufacturing,Manufacturing,1505
+"Macon-Bibb County, GA",Educational Services,Education,820
+"Macon-Bibb County, GA",Transportation and Warehousing,Transportation,727
+"Macon-Bibb County, GA",Other Services (except Public Administration),Other,702
+"Macon-Bibb County, GA","Arts, Entertainment, and Recreation",Entertainment,660
+"Macon-Bibb County, GA",Construction,Construction,628
+"Macon-Bibb County, GA",Wholesale Trade,Wholesale Trade,574
+"Macon-Bibb County, GA","Professional, Scientific, and Technical Services",Technical Services,429
+"Macon-Bibb County, GA",Real Estate and Rental and Leasing,Real Estate,323
+"Macon-Bibb County, GA",Information,Information,288
+"Macon-Bibb County, GA",Finance and Insurance,Finance,255
+"Macon-Bibb County, GA",Public Administration,Public Admin,142
+"Macon-Bibb County, GA","Agriculture, Forestry, Fishing and Hunting",Agriculture,15
+"Macon-Bibb County, GA",Management of Companies and Enterprises,Enterprise Management,14
+"Macon-Bibb County, GA","Mining, Quarrying, and Oil and Gas Extraction",Oil & Gas,12
+"Macon-Bibb County, GA",Utilities,Utilities,0
+"Milledgeville, GA",Accommodation and Food Services,Food Services,2157
+"Milledgeville, GA",Health Care and Social Assistance,Health Care,926
+"Milledgeville, GA",Retail Trade,Retail,660
+"Milledgeville, GA",Manufacturing,Manufacturing,499
+"Milledgeville, GA",Unclassified,Unclassified,493
+"Milledgeville, GA",Administrative and Support and Waste Management and Remediation Services,Waste Management,343
+"Milledgeville, GA",Public Administration,Public Admin,307
+"Milledgeville, GA",Transportation and Warehousing,Transportation,228
+"Milledgeville, GA",Construction,Construction,208
+"Milledgeville, GA",Educational Services,Education,176
+"Milledgeville, GA",Other Services (except Public Administration),Other,144
+"Milledgeville, GA",Wholesale Trade,Wholesale Trade,80
+"Milledgeville, GA","Arts, Entertainment, and Recreation",Entertainment,64
+"Milledgeville, GA",Information,Information,64
+"Milledgeville, GA",Real Estate and Rental and Leasing,Real Estate,58
+"Milledgeville, GA","Professional, Scientific, and Technical Services",Technical Services,48
+"Milledgeville, GA",Finance and Insurance,Finance,21
+"Milledgeville, GA","Mining, Quarrying, and Oil and Gas Extraction",Oil & Gas,5
+"Milledgeville, GA","Agriculture, Forestry, Fishing and Hunting",Agriculture,3
+"Milledgeville, GA",Management of Companies and Enterprises,Enterprise Management,3
+"Milledgeville, GA",Utilities,Utilities,0
+"Moultrie, GA",Health Care and Social Assistance,Health Care,1426
+"Moultrie, GA",Accommodation and Food Services,Food Services,927
+"Moultrie, GA",Manufacturing,Manufacturing,532
+"Moultrie, GA",Other Services (except Public Administration),Other,433
+"Moultrie, GA",Retail Trade,Retail,429
+"Moultrie, GA",Unclassified,Unclassified,286
+"Moultrie, GA",Administrative and Support and Waste Management and Remediation Services,Waste Management,151
+"Moultrie, GA","Professional, Scientific, and Technical Services",Technical Services,97
+"Moultrie, GA",Transportation and Warehousing,Transportation,92
+"Moultrie, GA","Arts, Entertainment, and Recreation",Entertainment,88
+"Moultrie, GA",Wholesale Trade,Wholesale Trade,71
+"Moultrie, GA",Construction,Construction,69
+"Moultrie, GA",Information,Information,47
+"Moultrie, GA",Finance and Insurance,Finance,40
+"Moultrie, GA","Agriculture, Forestry, Fishing and Hunting",Agriculture,20
+"Moultrie, GA",Real Estate and Rental and Leasing,Real Estate,20
+"Moultrie, GA",Educational Services,Education,18
+"Moultrie, GA",Public Administration,Public Admin,6
+"Moultrie, GA",Management of Companies and Enterprises,Enterprise Management,2
+"Moultrie, GA","Mining, Quarrying, and Oil and Gas Extraction",Oil & Gas,0
+"Moultrie, GA",Utilities,Utilities,0
+"Rome, GA",Manufacturing,Manufacturing,4187
+"Rome, GA",Accommodation and Food Services,Food Services,3860
+"Rome, GA",Health Care and Social Assistance,Health Care,3021
+"Rome, GA",Retail Trade,Retail,1367
+"Rome, GA",Administrative and Support and Waste Management and Remediation Services,Waste Management,1333
+"Rome, GA",Unclassified,Unclassified,1229
+"Rome, GA",Public Administration,Public Admin,439
+"Rome, GA",Wholesale Trade,Wholesale Trade,400
+"Rome, GA",Other Services (except Public Administration),Other,370
+"Rome, GA",Construction,Construction,356
+"Rome, GA","Professional, Scientific, and Technical Services",Technical Services,262
+"Rome, GA","Arts, Entertainment, and Recreation",Entertainment,188
+"Rome, GA",Transportation and Warehousing,Transportation,157
+"Rome, GA",Educational Services,Education,73
+"Rome, GA",Information,Information,72
+"Rome, GA",Real Estate and Rental and Leasing,Real Estate,60
+"Rome, GA",Finance and Insurance,Finance,30
+"Rome, GA","Agriculture, Forestry, Fishing and Hunting",Agriculture,7
+"Rome, GA",Management of Companies and Enterprises,Enterprise Management,4
+"Rome, GA","Mining, Quarrying, and Oil and Gas Extraction",Oil & Gas,2
+"Rome, GA",Utilities,Utilities,1
+"Savannah, GA",Accommodation and Food Services,Food Services,28668
+"Savannah, GA",Health Care and Social Assistance,Health Care,10097
+"Savannah, GA",Retail Trade,Retail,9714
+"Savannah, GA",Unclassified,Unclassified,7022
+"Savannah, GA",Administrative and Support and Waste Management and Remediation Services,Waste Management,6329
+"Savannah, GA",Other Services (except Public Administration),Other,4375
+"Savannah, GA",Manufacturing,Manufacturing,3252
+"Savannah, GA",Transportation and Warehousing,Transportation,2405
+"Savannah, GA","Arts, Entertainment, and Recreation",Entertainment,2160
+"Savannah, GA",Educational Services,Education,1659
+"Savannah, GA","Professional, Scientific, and Technical Services",Technical Services,1441
+"Savannah, GA",Wholesale Trade,Wholesale Trade,1220
+"Savannah, GA",Construction,Construction,1174
+"Savannah, GA",Real Estate and Rental and Leasing,Real Estate,915
+"Savannah, GA",Information,Information,692
+"Savannah, GA",Public Administration,Public Admin,370
+"Savannah, GA",Finance and Insurance,Finance,356
+"Savannah, GA",Management of Companies and Enterprises,Enterprise Management,276
+"Savannah, GA",Utilities,Utilities,12
+"Savannah, GA","Agriculture, Forestry, Fishing and Hunting",Agriculture,5
+"Savannah, GA","Mining, Quarrying, and Oil and Gas Extraction",Oil & Gas,2
+"St. Marys, GA",Accommodation and Food Services,Food Services,2524
+"St. Marys, GA",Unclassified,Unclassified,651
+"St. Marys, GA",Health Care and Social Assistance,Health Care,549
+"St. Marys, GA",Retail Trade,Retail,492
+"St. Marys, GA",Educational Services,Education,314
+"St. Marys, GA",Administrative and Support and Waste Management and Remediation Services,Waste Management,194
+"St. Marys, GA",Other Services (except Public Administration),Other,178
+"St. Marys, GA","Arts, Entertainment, and Recreation",Entertainment,96
+"St. Marys, GA","Professional, Scientific, and Technical Services",Technical Services,87
+"St. Marys, GA",Construction,Construction,86
+"St. Marys, GA",Wholesale Trade,Wholesale Trade,83
+"St. Marys, GA",Manufacturing,Manufacturing,78
+"St. Marys, GA",Transportation and Warehousing,Transportation,73
+"St. Marys, GA",Real Estate and Rental and Leasing,Real Estate,57
+"St. Marys, GA",Public Administration,Public Admin,51
+"St. Marys, GA",Information,Information,50
+"St. Marys, GA",Finance and Insurance,Finance,24
+"St. Marys, GA","Agriculture, Forestry, Fishing and Hunting",Agriculture,4
+"St. Marys, GA",Management of Companies and Enterprises,Enterprise Management,3
+"St. Marys, GA",Utilities,Utilities,1
+"St. Marys, GA","Mining, Quarrying, and Oil and Gas Extraction",Oil & Gas,0
+"Statesboro, GA",Accommodation and Food Services,Food Services,3658
+"Statesboro, GA",Retail Trade,Retail,1651
+"Statesboro, GA",Health Care and Social Assistance,Health Care,1371
+"Statesboro, GA",Manufacturing,Manufacturing,1174
+"Statesboro, GA",Unclassified,Unclassified,822
+"Statesboro, GA",Educational Services,Education,735
+"Statesboro, GA",Administrative and Support and Waste Management and Remediation Services,Waste Management,608
+"Statesboro, GA",Public Administration,Public Admin,605
+"Statesboro, GA",Other Services (except Public Administration),Other,504
+"Statesboro, GA","Professional, Scientific, and Technical Services",Technical Services,308
+"Statesboro, GA",Transportation and Warehousing,Transportation,258
+"Statesboro, GA","Arts, Entertainment, and Recreation",Entertainment,242
+"Statesboro, GA",Construction,Construction,189
+"Statesboro, GA",Information,Information,136
+"Statesboro, GA",Wholesale Trade,Wholesale Trade,118
+"Statesboro, GA",Real Estate and Rental and Leasing,Real Estate,96
+"Statesboro, GA",Finance and Insurance,Finance,41
+"Statesboro, GA",Management of Companies and Enterprises,Enterprise Management,9
+"Statesboro, GA","Agriculture, Forestry, Fishing and Hunting",Agriculture,2
+"Statesboro, GA",Utilities,Utilities,1
+"Statesboro, GA","Mining, Quarrying, and Oil and Gas Extraction",Oil & Gas,0
+"Summerville, GA",Manufacturing,Manufacturing,3057
+"Summerville, GA",Health Care and Social Assistance,Health Care,466
+"Summerville, GA",Accommodation and Food Services,Food Services,399
+"Summerville, GA",Unclassified,Unclassified,265
+"Summerville, GA",Administrative and Support and Waste Management and Remediation Services,Waste Management,183
+"Summerville, GA",Retail Trade,Retail,165
+"Summerville, GA",Construction,Construction,139
+"Summerville, GA",Wholesale Trade,Wholesale Trade,90
+"Summerville, GA",Transportation and Warehousing,Transportation,40
+"Summerville, GA",Other Services (except Public Administration),Other,37
+"Summerville, GA",Educational Services,Education,28
+"Summerville, GA","Professional, Scientific, and Technical Services",Technical Services,27
+"Summerville, GA",Public Administration,Public Admin,26
+"Summerville, GA","Arts, Entertainment, and Recreation",Entertainment,17
+"Summerville, GA",Finance and Insurance,Finance,17
+"Summerville, GA",Information,Information,13
+"Summerville, GA",Real Estate and Rental and Leasing,Real Estate,8
+"Summerville, GA","Agriculture, Forestry, Fishing and Hunting",Agriculture,5
+"Summerville, GA",Management of Companies and Enterprises,Enterprise Management,0
+"Summerville, GA","Mining, Quarrying, and Oil and Gas Extraction",Oil & Gas,0
+"Summerville, GA",Utilities,Utilities,0
+"Thomaston, GA",Manufacturing,Manufacturing,1322
+"Thomaston, GA",Accommodation and Food Services,Food Services,802
+"Thomaston, GA",Health Care and Social Assistance,Health Care,453
+"Thomaston, GA",Unclassified,Unclassified,286
+"Thomaston, GA",Retail Trade,Retail,262
+"Thomaston, GA",Administrative and Support and Waste Management and Remediation Services,Waste Management,241
+"Thomaston, GA",Other Services (except Public Administration),Other,92
+"Thomaston, GA",Construction,Construction,81
+"Thomaston, GA",Transportation and Warehousing,Transportation,70
+"Thomaston, GA",Wholesale Trade,Wholesale Trade,61
+"Thomaston, GA","Professional, Scientific, and Technical Services",Technical Services,57
+"Thomaston, GA","Arts, Entertainment, and Recreation",Entertainment,44
+"Thomaston, GA",Educational Services,Education,33
+"Thomaston, GA",Finance and Insurance,Finance,21
+"Thomaston, GA",Real Estate and Rental and Leasing,Real Estate,21
+"Thomaston, GA",Information,Information,16
+"Thomaston, GA",Public Administration,Public Admin,9
+"Thomaston, GA",Management of Companies and Enterprises,Enterprise Management,3
+"Thomaston, GA","Agriculture, Forestry, Fishing and Hunting",Agriculture,1
+"Thomaston, GA",Utilities,Utilities,1
+"Thomaston, GA","Mining, Quarrying, and Oil and Gas Extraction",Oil & Gas,0
+"Thomasville, GA",Accommodation and Food Services,Food Services,934
+"Thomasville, GA",Health Care and Social Assistance,Health Care,783
+"Thomasville, GA",Retail Trade,Retail,665
+"Thomasville, GA",Manufacturing,Manufacturing,662
+"Thomasville, GA",Unclassified,Unclassified,432
+"Thomasville, GA",Other Services (except Public Administration),Other,369
+"Thomasville, GA",Administrative and Support and Waste Management and Remediation Services,Waste Management,250
+"Thomasville, GA","Professional, Scientific, and Technical Services",Technical Services,206
+"Thomasville, GA",Educational Services,Education,171
+"Thomasville, GA",Wholesale Trade,Wholesale Trade,82
+"Thomasville, GA","Arts, Entertainment, and Recreation",Entertainment,42
+"Thomasville, GA",Construction,Construction,42
+"Thomasville, GA",Information,Information,37
+"Thomasville, GA",Finance and Insurance,Finance,35
+"Thomasville, GA",Public Administration,Public Admin,30
+"Thomasville, GA",Transportation and Warehousing,Transportation,29
+"Thomasville, GA",Real Estate and Rental and Leasing,Real Estate,25
+"Thomasville, GA","Agriculture, Forestry, Fishing and Hunting",Agriculture,11
+"Thomasville, GA",Management of Companies and Enterprises,Enterprise Management,1
+"Thomasville, GA","Mining, Quarrying, and Oil and Gas Extraction",Oil & Gas,1
+"Thomasville, GA",Utilities,Utilities,1
+"Tifton, GA",Accommodation and Food Services,Food Services,2238
+"Tifton, GA",Health Care and Social Assistance,Health Care,918
+"Tifton, GA",Retail Trade,Retail,577
+"Tifton, GA",Unclassified,Unclassified,477
+"Tifton, GA",Administrative and Support and Waste Management and Remediation Services,Waste Management,283
+"Tifton, GA",Manufacturing,Manufacturing,258
+"Tifton, GA",Wholesale Trade,Wholesale Trade,235
+"Tifton, GA","Professional, Scientific, and Technical Services",Technical Services,106
+"Tifton, GA",Other Services (except Public Administration),Other,105
+"Tifton, GA",Construction,Construction,63
+"Tifton, GA",Educational Services,Education,52
+"Tifton, GA",Transportation and Warehousing,Transportation,49
+"Tifton, GA",Information,Information,29
+"Tifton, GA","Arts, Entertainment, and Recreation",Entertainment,26
+"Tifton, GA",Real Estate and Rental and Leasing,Real Estate,26
+"Tifton, GA",Finance and Insurance,Finance,18
+"Tifton, GA","Agriculture, Forestry, Fishing and Hunting",Agriculture,16
+"Tifton, GA",Public Administration,Public Admin,15
+"Tifton, GA",Management of Companies and Enterprises,Enterprise Management,1
+"Tifton, GA","Mining, Quarrying, and Oil and Gas Extraction",Oil & Gas,0
+"Tifton, GA",Utilities,Utilities,0
+"Toccoa, GA",Manufacturing,Manufacturing,1013
+"Toccoa, GA",Accommodation and Food Services,Food Services,552
+"Toccoa, GA",Health Care and Social Assistance,Health Care,436
+"Toccoa, GA",Unclassified,Unclassified,405
+"Toccoa, GA",Retail Trade,Retail,307
+"Toccoa, GA",Administrative and Support and Waste Management and Remediation Services,Waste Management,259
+"Toccoa, GA",Transportation and Warehousing,Transportation,122
+"Toccoa, GA",Wholesale Trade,Wholesale Trade,117
+"Toccoa, GA",Other Services (except Public Administration),Other,114
+"Toccoa, GA","Professional, Scientific, and Technical Services",Technical Services,75
+"Toccoa, GA","Arts, Entertainment, and Recreation",Entertainment,69
+"Toccoa, GA",Educational Services,Education,52
+"Toccoa, GA",Construction,Construction,42
+"Toccoa, GA",Public Administration,Public Admin,27
+"Toccoa, GA",Real Estate and Rental and Leasing,Real Estate,27
+"Toccoa, GA",Information,Information,24
+"Toccoa, GA",Finance and Insurance,Finance,12
+"Toccoa, GA",Management of Companies and Enterprises,Enterprise Management,2
+"Toccoa, GA","Agriculture, Forestry, Fishing and Hunting",Agriculture,0
+"Toccoa, GA","Mining, Quarrying, and Oil and Gas Extraction",Oil & Gas,0
+"Toccoa, GA",Utilities,Utilities,0
+"Valdosta, GA",Accommodation and Food Services,Food Services,6666
+"Valdosta, GA",Retail Trade,Retail,2607
+"Valdosta, GA",Health Care and Social Assistance,Health Care,2351
+"Valdosta, GA","Arts, Entertainment, and Recreation",Entertainment,1529
+"Valdosta, GA",Unclassified,Unclassified,1249
+"Valdosta, GA",Manufacturing,Manufacturing,871
+"Valdosta, GA",Educational Services,Education,610
+"Valdosta, GA",Administrative and Support and Waste Management and Remediation Services,Waste Management,601
+"Valdosta, GA",Other Services (except Public Administration),Other,510
+"Valdosta, GA","Professional, Scientific, and Technical Services",Technical Services,294
+"Valdosta, GA",Construction,Construction,273
+"Valdosta, GA",Wholesale Trade,Wholesale Trade,267
+"Valdosta, GA",Transportation and Warehousing,Transportation,207
+"Valdosta, GA",Information,Information,184
+"Valdosta, GA",Real Estate and Rental and Leasing,Real Estate,126
+"Valdosta, GA",Public Administration,Public Admin,76
+"Valdosta, GA",Finance and Insurance,Finance,53
+"Valdosta, GA","Agriculture, Forestry, Fishing and Hunting",Agriculture,17
+"Valdosta, GA",Management of Companies and Enterprises,Enterprise Management,13
+"Valdosta, GA",Utilities,Utilities,3
+"Valdosta, GA","Mining, Quarrying, and Oil and Gas Extraction",Oil & Gas,0
+"Vidalia, GA",Health Care and Social Assistance,Health Care,1109
+"Vidalia, GA",Accommodation and Food Services,Food Services,813
+"Vidalia, GA",Manufacturing,Manufacturing,584
+"Vidalia, GA",Retail Trade,Retail,458
+"Vidalia, GA",Unclassified,Unclassified,377
+"Vidalia, GA",Wholesale Trade,Wholesale Trade,292
+"Vidalia, GA",Administrative and Support and Waste Management and Remediation Services,Waste Management,285
+"Vidalia, GA",Educational Services,Education,208
+"Vidalia, GA",Transportation and Warehousing,Transportation,154
+"Vidalia, GA",Construction,Construction,151
+"Vidalia, GA",Other Services (except Public Administration),Other,94
+"Vidalia, GA","Professional, Scientific, and Technical Services",Technical Services,46
+"Vidalia, GA","Arts, Entertainment, and Recreation",Entertainment,32
+"Vidalia, GA",Public Administration,Public Admin,29
+"Vidalia, GA",Information,Information,25
+"Vidalia, GA",Finance and Insurance,Finance,19
+"Vidalia, GA","Agriculture, Forestry, Fishing and Hunting",Agriculture,17
+"Vidalia, GA",Real Estate and Rental and Leasing,Real Estate,5
+"Vidalia, GA",Management of Companies and Enterprises,Enterprise Management,1
+"Vidalia, GA",Utilities,Utilities,1
+"Vidalia, GA","Mining, Quarrying, and Oil and Gas Extraction",Oil & Gas,0
+"Warner Robins, GA",Accommodation and Food Services,Food Services,8204
+"Warner Robins, GA",Health Care and Social Assistance,Health Care,3418
+"Warner Robins, GA",Retail Trade,Retail,2964
+"Warner Robins, GA",Unclassified,Unclassified,1938
+"Warner Robins, GA",Manufacturing,Manufacturing,1615
+"Warner Robins, GA",Administrative and Support and Waste Management and Remediation Services,Waste Management,1060
+"Warner Robins, GA",Other Services (except Public Administration),Other,729
+"Warner Robins, GA","Arts, Entertainment, and Recreation",Entertainment,551
+"Warner Robins, GA",Educational Services,Education,468
+"Warner Robins, GA",Transportation and Warehousing,Transportation,415
+"Warner Robins, GA",Wholesale Trade,Wholesale Trade,403
+"Warner Robins, GA","Professional, Scientific, and Technical Services",Technical Services,332
+"Warner Robins, GA",Public Administration,Public Admin,297
+"Warner Robins, GA",Construction,Construction,295
+"Warner Robins, GA",Information,Information,275
+"Warner Robins, GA",Real Estate and Rental and Leasing,Real Estate,215
+"Warner Robins, GA",Finance and Insurance,Finance,111
+"Warner Robins, GA","Agriculture, Forestry, Fishing and Hunting",Agriculture,20
+"Warner Robins, GA",Management of Companies and Enterprises,Enterprise Management,4
+"Warner Robins, GA","Mining, Quarrying, and Oil and Gas Extraction",Oil & Gas,4
+"Warner Robins, GA",Utilities,Utilities,1
+"Waycross, GA",Accommodation and Food Services,Food Services,1471
+"Waycross, GA",Health Care and Social Assistance,Health Care,1147
+"Waycross, GA",Manufacturing,Manufacturing,780
+"Waycross, GA",Retail Trade,Retail,650
+"Waycross, GA",Unclassified,Unclassified,383
+"Waycross, GA",Administrative and Support and Waste Management and Remediation Services,Waste Management,303
+"Waycross, GA","Arts, Entertainment, and Recreation",Entertainment,208
+"Waycross, GA","Professional, Scientific, and Technical Services",Technical Services,193
+"Waycross, GA",Construction,Construction,152
+"Waycross, GA",Wholesale Trade,Wholesale Trade,124
+"Waycross, GA",Other Services (except Public Administration),Other,99
+"Waycross, GA",Transportation and Warehousing,Transportation,68
+"Waycross, GA",Information,Information,57
+"Waycross, GA",Educational Services,Education,46
+"Waycross, GA",Public Administration,Public Admin,23
+"Waycross, GA",Finance and Insurance,Finance,18
+"Waycross, GA","Agriculture, Forestry, Fishing and Hunting",Agriculture,15
+"Waycross, GA",Real Estate and Rental and Leasing,Real Estate,9
+"Waycross, GA",Management of Companies and Enterprises,Enterprise Management,2
+"Waycross, GA","Mining, Quarrying, and Oil and Gas Extraction",Oil & Gas,0
+"Waycross, GA",Utilities,Utilities,0

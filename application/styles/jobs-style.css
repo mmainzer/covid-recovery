@@ -142,10 +142,14 @@ hr {
     overflow-y: auto;
 }
 
+.side-panel-section:first-of-type {
+	border-bottom: none;
+}
 
 .side-panel-section {
 	width: 100%;
 	margin-top: 1rem;
+	border-bottom: .75px solid hsla(193,100%,47%,.6);
 }
 
 .subtitle {

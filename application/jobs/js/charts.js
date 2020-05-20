@@ -1,9 +1,9 @@
 // set the dimensions and margins for the chart
 let margin = {top: 10, right: 30, bottom: 30, left: 60};
 let height = $(window).height() * .33;
-let width = $(window).width() * .45;
-let indMargin = {top: 10, right: 30, bottom: 50, left: 125};
-let indWidth = $(window).width() * .45;
+let width = $(window).width() * .44;
+let indMargin = {top: 10, right: 20, bottom: 50, left: 125};
+let indWidth = $(window).width() * .44;
 let indHeight = $(window).height() * .5;
 
 width = width - margin.left - margin.right,
@@ -40,6 +40,7 @@ let barsClaims;
 
 let industryData;
 let xIndustry;
+let yIndustry;
 let barsIndustry;
 
 // get data and build first bar chart
@@ -70,7 +71,7 @@ d3.csv('https://raw.githubusercontent.com/mmainzer/covid-recovery/master/applica
 
 		svgClaims.append("g")
 					.attr("class","y axis")
-					.call(d3.axisLeft(yClaims).ticks(5));
+					.call(d3.axisLeft(yClaims).ticks(5).tickFormat(d3.format("~s")));
 
 
 		// create the bar charts
@@ -103,14 +104,15 @@ d3.csv('https://raw.githubusercontent.com/mmainzer/covid-recovery/master/applica
 		
 		svgIndustry.append("g")
 					.attr("transform", "translate(0," + indHeight + ")")
-					.call(d3.axisBottom(xIndustry).tickValues(xIndustry.domain()))
+					.attr("class","x axis")
+					.call(d3.axisBottom(xIndustry).tickFormat(d3.format("~s")))
 					.selectAll(".tick text")
 						.attr("transform", "translate(-10,0)rotate(-45)")
 	      				.style("text-anchor", "end");
 				
 
 		// add y axis for industry labels
-		let yIndustry = d3.scaleBand()
+		yIndustry = d3.scaleBand()
 						    .range([ 0, indHeight ])
 						    .domain(data.map(function(d) { return d.Ind; }))
 						    .padding(.1);
