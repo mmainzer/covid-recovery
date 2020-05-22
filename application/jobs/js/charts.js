@@ -191,7 +191,7 @@ d3.csv('https://raw.githubusercontent.com/mmainzer/covid-recovery/master/applica
 			industryTip
 			      .html("Since March, there have been " + d.Claims.format() + " claims in " + d.Industry + " in " + d.Area)
 			      .style("left", x+"px")
-			      .style("top", y+150+"px")
+			      .style("top", y+"px")
 		}
 
 		const indMouseLeave = function(d) {
