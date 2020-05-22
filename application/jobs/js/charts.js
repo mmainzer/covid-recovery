@@ -44,6 +44,8 @@ let xIndustry;
 let yIndustry;
 let barsIndustry;
 
+let warnData;
+
 // get data and build first bar chart
 d3.csv('https://raw.githubusercontent.com/mmainzer/covid-recovery/master/application/app-data/uiClaims.csv', d3.autoType)
 	.then(function(data) {
@@ -88,6 +90,7 @@ d3.csv('https://raw.githubusercontent.com/mmainzer/covid-recovery/master/applica
 							    .style("padding", "5px")
 
 		const claimsMouseOver = function(d) {
+			console.log("Hovering");
 			claimsTip
 			      .style("opacity", 1)
 			    d3.select(this)
@@ -96,10 +99,12 @@ d3.csv('https://raw.githubusercontent.com/mmainzer/covid-recovery/master/applica
 		}
 
 		const claimsMouseMove = function(d) {
+			let x = event.pageX - $('#claimsBar').offset().left;
+			let y = event.pageY - $('#claimsBar').offset().top;
 			claimsTip
-			      .html("There were " + d.Claims + " in " + d.Area + " during the week of " + d.date)
-			      .style("left", (event.pageX-100)+"px")
-			      .style("top", (event.pageY-100)+"px")
+			      .html("There were " + d.Claims.format() + " in " + d.Area + " during the week of " + d.date)
+			      .style("left", x+"px")
+			      .style("top", y+"px")
 		}
 
 		const claimsMouseLeave = function(d) {
@@ -182,7 +187,7 @@ d3.csv('https://raw.githubusercontent.com/mmainzer/covid-recovery/master/applica
 
 		const indMouseMove = function(d) {
 			industryTip
-			      .html("Since March, there have been " + d.Claims + " claims in " + d.Industry + " in " + d.Area)
+			      .html("Since March, there have been " + d.Claims.format() + " claims in " + d.Industry + " in " + d.Area)
 			      .style("left", (event.pageX+50)+"px")
 			      .style("top", (event.pageY)+300+"px")
 		}
@@ -212,3 +217,66 @@ d3.csv('https://raw.githubusercontent.com/mmainzer/covid-recovery/master/applica
 						    .on("mouseleave", indMouseLeave)
 
 });
+
+d3.csv('https://raw.githubusercontent.com/mmainzer/covid-recovery/master/application/app-data/warns.csv', d3.autoType)
+	.then(function(data){
+		
+		warnData = data;
+
+		// get appropriate headers and build in table
+		let str = '<tr>';
+		let headers = ['Date','Company','City','County','Employees Impacted'];
+		headers.forEach(function(header) {
+			str += '<th>' + header + '</th>';
+		});
+		str += '</tr>';
+		$('#warnsTable thead').html(str);
+
+		// restructure data
+		let arrAll = [];
+		warnData.forEach(function(element) {
+			let tempArray = [];
+			let date = element.Date;
+			let company = element.Company;
+			let city = element.City;
+			let county = element.County;
+			let employees = element.Employees.format();
+			tempArray.push(date);
+			tempArray.push(company);
+			tempArray.push(city);
+			tempArray.push(county);
+			tempArray.push(employees);
+			arrAll.push(tempArray);
+		});
+
+		// build row and send to html table
+		arrAll.forEach(function(rowData) {
+			let row = document.createElement('tr');
+			rowData.forEach(function(cellData) {
+				let cell = document.createElement('td');
+				cell.appendChild(document.createTextNode(cellData));
+				row.appendChild(cell);
+			});
+			$("#warnsTable tbody").append(row);
+		});
+
+		// make as a datatable for search, pagination, sort and export
+		$('#warnsTable').DataTable({
+			"lengthChange" : false,
+			"pageLength" : 5,
+			"autoWidth" : true,
+			"dom" : "Bfrtip",
+			"pagingType" : "full",
+			"buttons" : [
+				{extend: 'csv', exportOptions:{columns:':visible'}}
+			],
+			"colReorder" : false
+		});
+
+});
+
+// function for number formatting
+Number.prototype.format = function(n, x) {
+    var re = '\\d(?=(\\d{' + (x || 3) + '})+' + (n > 0 ? '\\.' : '$') + ')';
+    return this.toFixed(Math.max(0, ~~n)).replace(new RegExp(re, 'g'), '$&,');
+}

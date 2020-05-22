@@ -207,10 +207,67 @@ function buildIndustryTable(dataset,selectedGeo) {
 
 }
 
-// function for number formatting
-Number.prototype.format = function(n, x) {
-    var re = '\\d(?=(\\d{' + (x || 3) + '})+' + (n > 0 ? '\\.' : '$') + ')';
-    return this.toFixed(Math.max(0, ~~n)).replace(new RegExp(re, 'g'), '$&,');
+// function to update the warnsTable
+function warnsTable(selectedLevel, selectedGeo) {
+	// first kill the existing table if it exists
+	if ( $.fn.dataTable.isDataTable('#warnsTable') ) {
+		$('#warnsTable').DataTable().destroy();
+	}
+
+	$('#warnsTable tbody').empty();
+
+	let data;
+	// first filter the data in that global variable from the start, depending on geography selected
+	if (selectedLevel == 'County') {
+		data = warnData.filter(function(d){ return d.County==selectedGeo });
+	} else if (selectedLevel == 'State') {
+		data = warnData;
+	} else if (selectedLevel == 'MSA') {
+		data = warnData.filter(function(d){ return d.MSA==selectedGeo });
+	} else if (selectedLevel == 'Regional Commission') {
+		data = warnData.filter(function(d){ return d['Regional Commission']==selectedGeo });
+	}
+
+	// restructure data
+	let arrAll = [];
+	data.forEach(function(element) {
+		let tempArray = [];
+		let date = element.Date;
+		let company = element.Company;
+		let city = element.City;
+		let county = element.County;
+		let employees = element.Employees.format();
+		tempArray.push(date);
+		tempArray.push(company);
+		tempArray.push(city);
+		tempArray.push(county);
+		tempArray.push(employees);
+		arrAll.push(tempArray);
+	});
+
+	// build row and send to html table
+	arrAll.forEach(function(rowData) {
+		let row = document.createElement('tr');
+		rowData.forEach(function(cellData) {
+			let cell = document.createElement('td');
+			cell.appendChild(document.createTextNode(cellData));
+			row.appendChild(cell);
+		});
+		$("#warnsTable tbody").append(row);
+	});
+
+	// make as a datatable for search, pagination, sort and export
+	$('#warnsTable').DataTable({
+		"lengthChange" : false,
+		"pageLength" : 5,
+		"autoWidth" : true,
+		"dom" : "Bfrtip",
+		"pagingType" : "full",
+		"buttons" : [
+			{extend: 'csv', exportOptions:{columns:':visible'}}
+		],
+		"colReorder" : false
+	});
 }
 
 function geoHighlight(level, option) {
@@ -270,6 +327,7 @@ $("#level-select").change(function() {
 	buildTable(claimData,selectedOption);
 	buildIndustryTable(industryData,selectedOption);
     geoHighlight(selectedLevel,selectedOption);
+    warnsTable(selectedLevel,selectedOption);
 
 });
 
@@ -283,5 +341,6 @@ $("#geo-select").change(function() {
 	buildTable(claimData,selectedOption);
 	buildIndustryTable(industryData,selectedOption);
 	geoHighlight(selectedLevel,selectedOption);
+	warnsTable(selectedLevel,selectedOption);
 
 });

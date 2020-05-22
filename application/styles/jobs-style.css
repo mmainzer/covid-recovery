@@ -25,6 +25,12 @@ body {
 	background-color: #e8e8e8;
 }
 
+nav {
+	max-height: 100px;
+	height: 5rem;
+	border-bottom: .75px solid hsla(193,100%,47%,.6);
+}
+
 h1 {
 	font-family: jaf-bernina-sans, sans-serif;
 	font-weight: 600;
@@ -260,7 +266,7 @@ a.page-link {
 	font-style: normal;
 }
 
-#industryTable td {
+td {
 	text-align: left;
 }
 
