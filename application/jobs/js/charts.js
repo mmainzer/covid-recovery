@@ -104,7 +104,7 @@ d3.csv('https://raw.githubusercontent.com/mmainzer/covid-recovery/master/applica
 			claimsTip
 			      .html("There were " + d.Claims.format() + " in " + d.Area + " during the week of " + d.date)
 			      .style("left", x+"px")
-			      .style("top", y+"px")
+			      .style("top", y+150+"px")
 		}
 
 		const claimsMouseLeave = function(d) {
@@ -186,10 +186,12 @@ d3.csv('https://raw.githubusercontent.com/mmainzer/covid-recovery/master/applica
 		}
 
 		const indMouseMove = function(d) {
+			let x = event.pageX - $('#industryBar').offset().left;
+			let y = event.pageY - $('#industryBar').offset().top;
 			industryTip
 			      .html("Since March, there have been " + d.Claims.format() + " claims in " + d.Industry + " in " + d.Area)
-			      .style("left", (event.pageX+50)+"px")
-			      .style("top", (event.pageY)+300+"px")
+			      .style("left", x+"px")
+			      .style("top", y+150+"px")
 		}
 
 		const indMouseLeave = function(d) {
