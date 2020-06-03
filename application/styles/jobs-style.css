@@ -22,7 +22,11 @@ Bernina Sans Semibold
 	font-style: normal;*/
 
 body {
-	background-color: #e8e8e8;
+	background-color: white;
+}
+
+.row {
+	margin-top: 2rem;
 }
 
 nav {
@@ -47,8 +51,10 @@ h3 {
 
 p {
 	font-family: jaf-bernina-sans, sans-serif;
-	font-weight: 400;
+	font-weight: 300;
 	font-style: normal;
+	font-size: 1.2rem;
+	margin-bottom: 1rem;
 }
 
 select {
@@ -75,14 +81,207 @@ hr {
 	font-family: jaf-bernina-sans, sans-serif;
 	font-weight: 400;
 	font-style: normal;
-	font-size: 4rem;
+	font-size: 3.75rem;
 	margin-bottom: 0;
+	text-align: center;
+	margin-bottom: 1rem;
 }
 
 .start {
 	padding-top: 8rem;
 }
 
+/*styling for opening image with ai2html*/
+#g-stateClaims-box ,
+	#g-stateClaims-box .g-artboard {
+		margin:0 auto;
+	}
+	#g-stateClaims-box p {
+		margin:0;
+		font-family: jaf-bernina-sans, sans-serif;
+		font-style: normal;
+	}
+	#g-stateClaims-box .g-aiAbs {
+		position:absolute;
+	}
+	#g-stateClaims-box .g-aiImg {
+		position:absolute;
+		top:0;
+		display:block;
+		width:100% !important;
+	}
+	#g-stateClaims-box .g-aiSymbol {
+		position: absolute;
+		box-sizing: border-box;
+	}
+	#g-stateClaims-box .g-aiPointText p { white-space: nowrap; }
+	#g-stateClaims-Artboard_1 {
+		position:relative;
+		overflow:hidden;
+	}
+	#g-stateClaims-Artboard_1 p {
+		font-weight:500;
+		line-height:13px;
+		height:auto;
+		filter:alpha(opacity=100);
+		-ms-filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
+		opacity:1;
+		letter-spacing:0em;
+		font-size:11px;
+		text-align:left;
+		color:rgb(112,111,111);
+		text-transform:none;
+		padding-bottom:0;
+		padding-top:0;
+		mix-blend-mode:normal;
+		font-style:normal;
+		position:static;
+	}
+	#g-stateClaims-Artboard_1 .g-pstyle0 {
+		line-height:12px;
+		height:12px;
+		font-size:10px;
+		color:rgb(114,113,113);
+	}
+
+	#g-stateClaims-Artboard_1 .g-pstyle1 {
+		line-height:20px;
+		height:20px;
+		font-size:17px;
+		color:rgb(242,99,34);
+		font-weight: 700;
+	}
+	#g-stateClaims-Artboard_1 .g-pstyle2 {
+		font-weight:700;
+		line-height:12px;
+		height:12px;
+		font-size:10px;
+		color:rgb(0,0,0);
+	}
+	#g-stateClaims-Artboard_1 .g-pstyle3 {
+		font-style:italic;
+		line-height:12px;
+		height:12px;
+		font-size:10px;
+		color:rgb(0,0,0);
+	}
+	#g-stateClaims-Artboard_1 .g-pstyle4 {
+		height:13px;
+		text-align:center;
+	}
+	#g-stateClaims-Artboard_1 .g-pstyle5 {
+		height:13px;
+		text-align:center;
+	}
+	#g-stateClaims-Artboard_2 {
+		position:relative;
+		overflow:hidden;
+	}
+	#g-stateClaims-Artboard_2 p {
+		font-weight:500;
+		line-height:12px;
+		height:auto;
+		filter:alpha(opacity=100);
+		-ms-filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
+		opacity:1;
+		letter-spacing:0em;
+		font-size:10px;
+		text-align:left;
+		color:rgb(112,111,111);
+		text-transform:none;
+		padding-bottom:0;
+		padding-top:0;
+		mix-blend-mode:normal;
+		font-style:normal;
+		position:static;
+	}
+	#g-stateClaims-Artboard_2 .g-pstyle0 {
+		height:12px;
+		color:rgb(114,113,113);
+	}
+	#g-stateClaims-Artboard_2 .g-pstyle1 {
+		font-weight:700;
+		line-height:17px;
+		height:17px;
+		font-size:14px;
+		color:rgb(242,99,34);
+	}
+	#g-stateClaims-Artboard_2 .g-pstyle2 {
+		font-weight:700;
+		height:12px;
+		color:rgb(0,0,0);
+	}
+	#g-stateClaims-Artboard_2 .g-pstyle3 {
+		font-style:italic;
+		height:12px;
+		color:rgb(0,0,0);
+	}
+	#g-stateClaims-Artboard_2 .g-pstyle4 {
+		height:12px;
+		text-align:center;
+	}
+	#g-stateClaims-Artboard_2 .g-pstyle5 {
+		height:12px;
+		text-align:center;
+	}
+	#g-stateClaims-Artboard_3 {
+		position:relative;
+		overflow:hidden;
+	}
+	#g-stateClaims-Artboard_3 p {
+		font-weight:500;
+		font-style:normal;
+		line-height:12px;
+		height:auto;
+		filter:alpha(opacity=100);
+		-ms-filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
+		opacity:1;
+		letter-spacing:0em;
+		font-size:10px;
+		text-align:left;
+		color:rgb(0,0,0);
+		text-transform:none;
+		padding-bottom:0;
+		padding-top:0;
+		mix-blend-mode:normal;
+		position:static;
+	}
+	#g-stateClaims-Artboard_3 .g-pstyle0 {
+		height:12px;
+		color:rgb(114,113,113);
+	}
+	#g-stateClaims-Artboard_3 .g-pstyle1 {
+		font-weight:700;
+		line-height:17px;
+		height:17px;
+		font-size:14px;
+		color:rgb(242,99,34);
+	}
+	#g-stateClaims-Artboard_3 .g-pstyle2 {
+		font-style:italic;
+		height:12px;
+	}
+	#g-stateClaims-Artboard_3 .g-pstyle3 {
+		height:12px;
+		text-align:center;
+		color:rgb(112,111,111);
+	}
+	#g-stateClaims-Artboard_3 .g-pstyle4 {
+		height:12px;
+		text-align:center;
+		color:rgb(112,111,111);
+	}
+
+/*style for copy*/
+.multiple-title {
+	font-size: 1rem;
+	text-align: center;
+}
+
+.w-100 {
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+}
 /*style for app*/
 
 #appContainer {
@@ -159,7 +358,6 @@ hr {
 }
 
 .subtitle {
-	margin-bottom: 0;
 	font-family: jaf-bernina-sans, sans-serif;
 	font-weight: 400;
 	font-style: italic;
@@ -272,6 +470,10 @@ td {
 
 
 /*styling for selection pane at top right of application*/
+
+.select2-dropdown.select2-dropdown--below {
+	z-index: 9999;
+}
 
 .select {
 	float: right;
@@ -420,4 +622,31 @@ span {
 
 .g-level-4 {
 	background-color: #253494;
+}
+
+
+
+/*small screen adjustments*/
+@media only screen and (max-width: 1000px) {
+  #tick2020 {
+    display: none;
+  }
+  .hide-tick {
+    display: none;
+  }
+}
+
+/*extra small screen adjustments*/
+@media only screen and (max-width: 879px) {
+  #map {
+  	display: none;
+  }
+
+  .select-row.key {
+  	display: none;
+  }
+
+  .side-panel-container {
+  	width: 90vw;
+  }
 }

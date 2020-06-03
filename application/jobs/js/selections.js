@@ -19,11 +19,9 @@ $(document).ready(function() {
     $('.single-select').select2();
     const startKpiVal = 'Georgia';
     $('#geo').text(startKpiVal);
-    $('#kpiOne').text(kpiSelect[startKpiVal].MarchEmployed);
+    $('#kpiOne').text(kpiSelect[startKpiVal].FebLaborForce);
     $('#kpiTwo').text(kpiSelect[startKpiVal].CumClaims);
-    $('#kpiThree').text(kpiSelect[startKpiVal].Employed);
-    $('#kpiFour').text(kpiSelect[startKpiVal].Unemployed);
-    $('#kpiFive').text(kpiSelect[startKpiVal].PctChngEmployed);
+    $('#kpiThree').text(kpiSelect[startKpiVal].PctFebLabor);
 });
 
 $("#point-select").change(function() {
@@ -85,11 +83,9 @@ function update(selectedGeo) {
 		.call(d3.axisBottom(xIndustry).tickFormat(d3.format("~s")));
 
 	$('#geo').text(selectedGeo);
-	$('#kpiOne').text(kpiSelect[selectedGeo].MarchEmployed);
+	$('#kpiOne').text(kpiSelect[selectedGeo].FebLaborForce);
     $('#kpiTwo').text(kpiSelect[selectedGeo].CumClaims);
-    $('#kpiThree').text(kpiSelect[selectedGeo].Employed);
-    $('#kpiFour').text(kpiSelect[selectedGeo].Unemployed);
-    $('#kpiFive').text(kpiSelect[selectedGeo].PctChngEmployed);
+    $('#kpiThree').text(kpiSelect[selectedGeo].PctFebLabor);
 
 }
 

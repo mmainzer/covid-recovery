@@ -1,9 +1,7 @@
 // set the dimensions and margins for the chart
 let margin = {top: 10, right: 30, bottom: 30, left: 60};
 let height = $(window).height() * .33;
-let width = $(window).width() * .44;
 let indMargin = {top: 10, right: 20, bottom: 50, left: 125};
-let indWidth = $(window).width() * .44;
 let indHeight = $(window).height() * .5;
 
 width = width - margin.left - margin.right,
