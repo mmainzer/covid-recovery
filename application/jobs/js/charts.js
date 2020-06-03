@@ -100,7 +100,7 @@ d3.csv('https://raw.githubusercontent.com/mmainzer/covid-recovery/master/applica
 			let x = event.pageX - $('#claimsBar').offset().left;
 			let y = event.pageY - $('#claimsBar').offset().top;
 			claimsTip
-			      .html("There were " + d.Claims.format() + " in " + d.Area + " during the week of " + d.date)
+			      .html("There were " + d.Claims.format() + " unemployment claims in " + d.Area + " during the week of " + d.date)
 			      .style("left", x+"px")
 			      .style("top", y+150+"px")
 		}
@@ -187,7 +187,7 @@ d3.csv('https://raw.githubusercontent.com/mmainzer/covid-recovery/master/applica
 			let x = event.pageX - $('#industryBar').offset().left;
 			let y = event.pageY - $('#industryBar').offset().top;
 			industryTip
-			      .html("Since March, there have been " + d.Claims.format() + " claims in " + d.Industry + " in " + d.Area)
+			      .html("Since March, there have been " + d.Claims.format() + " unemployment claims in " + d.Industry + " in " + d.Area)
 			      .style("left", x+"px")
 			      .style("top", y+"px")
 		}

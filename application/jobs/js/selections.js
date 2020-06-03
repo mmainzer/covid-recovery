@@ -99,33 +99,41 @@ function buildTable(dataset,selectedGeo) {
 	dataset = dataset.filter(function(d){return d.Area==selectedGeo})
 	// get list of headers
 	let str = '<tr>';
-	let headers = [' '];
-	
-	let dataArray = [];
-	dataArray.push(dataset[0].Area);
-	let index;
-	dataset.forEach(function(element) {
-		// push dates for column headers
-		headers.push(element.date);
-		let claims = element.Claims.format();
-		dataArray.push(claims)
-	});
-
+	let headers = ['Area', 'Date', 'Claims'];
 	headers.forEach(function(header) {
 		str += '<th>' + header + '</th>';
 	});
 
 	str += '</tr>';
-
-	let row = document.createElement('tr');
-	dataArray.forEach(function(cellData) {
-		var cell = document.createElement('td');
-		cell.appendChild(document.createTextNode(cellData));
-		row.appendChild(cell);
-	});	
-
 	$('#claimsTable thead').html(str);
-	$("#claimsTable tbody").append(row);
+
+	console.log(dataset);
+
+	let arrAll = [];
+	dataset.forEach(function(element) {
+		// push dates for column headers
+		let tempArray = [];
+		let area = element.Area;
+		let date = element.date;
+		let claims = element.Claims.format();
+		tempArray.push(area);
+		tempArray.push(date);
+		tempArray.push(claims);
+		arrAll.push(tempArray)
+	});
+
+	// build row and send to html table
+	arrAll.forEach(function(rowData) {
+		let row = document.createElement('tr');
+		rowData.forEach(function(cellData) {
+			let cell = document.createElement('td');
+			cell.appendChild(document.createTextNode(cellData));
+			row.appendChild(cell);
+		});
+		$("#claimsTable tbody").append(row);
+	});
+
+	console.log(arrAll);
 
 	// make as a datatable for search, pagination, sort and export
 	$('#claimsTable').DataTable({
