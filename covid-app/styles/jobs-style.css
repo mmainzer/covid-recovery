@@ -448,11 +448,6 @@ td {
 	display: none;
 }
 
-.chart-note {
-	font-style: italic;
-	font-size: 0.9rem;
-}
-
 div.dataTables_wrapper div.dataTables_paginate ul.pagination {
 	font-family: jaf-bernina-sans, sans-serif;
 	font-weight: 400;
