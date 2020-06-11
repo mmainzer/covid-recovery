@@ -1,6 +1,6 @@
 Date,Company,City,ZIP,County,Employees,Regional Commission,MSA
 Mar 09,"Mount Vernon Mills, Inc.",Alto,30510,Banks County,600,Georgia Mountains,
-Mar 17,Scandinavian Tobacco Group Lane Limited,Tucker,30084,DeKalb County,113,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
+Mar 17,Scandinavian Tobacco Group Lane Limited,Tucker,30084,Dekalb County,113,,
 Feb 01,"Mahogany Interiors, LLC",Atlanta,30318,Fulton County,2,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
 Mar 31,Cox Corporate Service,Atlanta,30326,Fulton County,81,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
 Apr 04,"Shaw Industries Group, Inc. Plant 23",Dalton,30721,Whitfield County,275,Northwest,"Dalton, GA"
@@ -9,7 +9,7 @@ Apr 12,Express Parcel Service LLC,Smyrna,30082,Cobb County,74,ARC,"Atlanta-Sandy
 Mar 10,Pacific Architects & Engineers (PAE),Albany,31704,Dougherty County,200,Southwest,"Albany, GA"
 Apr 30,"ACTS-Aviation Security, Inc.",Atlanta,30320,Clayton County,90,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
 May 04,Concentrix,Savannah,31419,Chatham County,139,Coastal,"Savannah, GA"
-Mar 19,Cincuenta llc,Atlanta,30317,DeKalb County,38,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
+Mar 19,Cincuenta llc,Atlanta,30317,Dekalb County,38,,
 Mar 16,The Beginning Learning Center Inc.,Fort Valley,31030,Peach County,13,Middle Georgia,"Warner Robins, GA"
 Mar 23,"Terri Woodward, Inc",Augusta,30907,Columbia County,14,CSRA,"Augusta-Richmond County, GA-SC"
 Mar 16,"Global Concessions, Inc.",Atlanta,30337,Fulton County,100,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
@@ -31,10 +31,10 @@ Mar 19,"Monikey, LLC",Bonaire,31005,Houston County,24,Middle Georgia,"Warner Rob
 Mar 19,G. C. of Albany Inc.,Albany,31707,Dougherty County,71,Southwest,"Albany, GA"
 Mar 23,"Black Diamond Grill and Grill, Inc",Cumming,30041,Forsyth County,38,Georgia Mountains,"Atlanta-Sandy Springs-Alpharetta, GA"
 Mar 16,Punch Bowl Social,Atlanta,30339,Fulton County,173,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
-Mar 17,Razor Sharp Recoreds South Inc.,Atlanta,30340,DeKalb County,1,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
+Mar 17,Razor Sharp Recoreds South Inc.,Atlanta,30340,Dekalb County,1,,
 Mar 30,Haven Manufacturing Corp,Brunswick,31525,Glynn County,14,Coastal,"Brunswick, GA"
 Mar 20,Crestline Hotels & Resorts,Atlanta,30308,Fulton County,113,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
-Mar 20,Crestline Hotels & Resorts,Atlanta,30329,DeKalb County,126,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
+Mar 20,Crestline Hotels & Resorts,Atlanta,30329,Dekalb County,126,,
 Mar 25,"Ramineni & Shepard, LLC",Marietta,30067,Cobb County,21,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
 May 31,XPO Logistics Supply Chain Headquarters,Fairburn,30213,Fulton County,226,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
 Mar 13,Airport Retail Management (ARM),Atlanta,30349,Clayton County,196,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
@@ -59,8 +59,8 @@ Mar 30,KAYBEE OF MACON INC,Macon,31201,Bibb County,9,Middle Georgia,"Macon-Bibb 
 Mar 19,Hunt Enterprises LLC,DAHLONEGA,30533,Lumpkin County,2,Georgia Mountains,
 Mar 17,"America's Auto Auction Atlanta, Inc.",Cartersville,30120,Bartow County,65,Northwest,"Atlanta-Sandy Springs-Alpharetta, GA"
 Mar 25,Carol's Pampered Pets,savannah,31406,Chatham County,4,Coastal,"Savannah, GA"
-Mar 27,"Wencor Group, LLC",Peachtree City,30269,Fayette County,57,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
-Mar 24,CTC FAM LLC,"Dunwoody, GA",30338,DeKalb County,1,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
+Mar 27,"Wencor Group, LLC",Peachtree City,30269,Fayette County,65,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
+Mar 24,CTC FAM LLC,"Dunwoody, GA",30338,Dekalb County,1,,
 Mar 27,new nails Salon,Vidalia,30474,Toombs County,3,Heart of Georgia,"Vidalia, GA"
 Mar 30,"Drive Time Car Sales Company, LLC",Stockbridge,30281,Henry County,128,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
 Mar 23,PEG Smyrna Property LLC,Sm\,30080,Cobb County,10,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
@@ -69,7 +69,7 @@ Mar 29,Paper Source,Atlanta,30306,Fulton County,11,ARC,"Atlanta-Sandy Springs-Al
 Mar 29,Paper Source,Atlanta,30326,Fulton County,8,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
 Apr 01,"Ritchey Enterprises, Inc.",Athens,30606,Clarke County,1,Northeast,"Athens-Clarke County, GA"
 Mar 24,River Street Tavern Inc,Ellijay,30540,Gilmer County,29,Northwest,
-Mar 16,Marriott Hotels & Resorts,Atlnta,30345,DeKalb County,138,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
+Mar 16,Marriott Hotels & Resorts,Atlnta,30345,Dekalb County,107,,
 Mar 25,M.D. Whitest Medical Institute,Cordele,31015,Crisp County,7,River Valley,"Cordele, GA"
 Mar 30,NDC Family Care Inc,Loganville,30052,Gwinnett County,3,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
 Feb 29,GPC  Renovations,Monroe,30655,Walton County,20,Northeast,"Atlanta-Sandy Springs-Alpharetta, GA"
@@ -81,12 +81,12 @@ Mar 27,"Focus Brands, LLC",Atlanta,30342,Fulton County,136,ARC,"Atlanta-Sandy Sp
 Mar 25,Gifted Creations Salon,Midway,31320,Liberty County,2,Coastal,"Hinesville, GA"
 Mar 22,Daniel DeReuter,Dalton,30720,Whitfield County,4,Northwest,"Dalton, GA"
 Mar 18,Prohibition,SAVANNAH,31401,Chatham County,42,Coastal,"Savannah, GA"
-Mar 25,Alsco,Atlanta,30340,DeKalb County,117,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
+Mar 25,Alsco,Atlanta,30340,Dekalb County,117,,
 Apr 03,Gutterglove South & Home Renovation,Marietta,30066,Cobb County,22,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
 Mar 24,"MEAT DONE RIGHT, LLC",GRAYSON,30017,Gwinnett County,24,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
-Mar 21,Barteca,Atlanta,30342,DeKalb County,84,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
-Mar 21,Barteca,Atlanta,30307,DeKalb County,86,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
-Mar 21,Barteca,Atlanta,30318,DeKalb County,58,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
+Mar 21,Barteca,Atlanta,30342,Dekalb County,84,,
+Mar 21,Barteca,Atlanta,30307,Dekalb County,86,,
+Mar 21,Barteca,Atlanta,30318,Dekalb County,58,,
 Apr 01,"J ALLEN HENSON JR.,. DDS",Marietta,30064,Cobb County,4,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
 Apr 06,Carestream Dental LLC,Atlanta,30339,Cobb County,196,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
 Mar 16,Kai Kare LLC,Atlanta,30305,Fulton County,34,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
@@ -96,11 +96,11 @@ Apr 06,"St Joseph Clinic, P.C.",DALTON,30720,Whitfield County,13,Northwest,"Dalt
 Apr 01,Emergency Dental Service LLC,Savannah,31406,Chatham County,5,Coastal,"Savannah, GA"
 Mar 27,"G2 Secure Staff, LLC",Atlanta,30354,Clayton County,122,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
 Apr 02,Straight Line Roofing,Villa RIca,30180,Carroll County,14,Three Rivers,"Atlanta-Sandy Springs-Alpharetta, GA"
-Apr 01,A Book Nook Inc,Decatur,30033,DeKalb County,17,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
+Apr 01,A Book Nook Inc,Decatur,30033,Dekalb County,17,,
 Mar 12,IMP Mechanical LLC,Fayetteville,30214,Fayette County,16,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
 Apr 07,"The Martin-Brower Company, L.L.C.",East Point,30349,Fulton County,84,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
 Mar 02,"Austrian Motors, Ltd",Atlanta,30318,Fulton County,5,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
-Mar 23,Arizona's at Stonecrest,Lithonia,30038,DeKalb County,60,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
+Mar 23,Arizona's at Stonecrest,Lithonia,30038,Dekalb County,60,,
 Apr 02,Coastal Center for Developmental Services,Savannah,31406,Chatham County,132,Coastal,"Savannah, GA"
 Mar 20,Complete Preservation Services INC (CPS INC),LAGRANGE,30241,Troup County,1,Three Rivers,"LaGrange, GA-AL"
 Mar 26,Daiohs First Choice Coffee Service,norcross,30071,Gwinnett County,5,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
@@ -110,15 +110,16 @@ Mar 31,handyman of villarica llc,villa rica,30180,Carroll County,10,Three Rivers
 Jan 03,Walmart,Atlanta,30349,Fulton County,20,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
 Apr 02,RA Sushi Atlanta Midtown Corp.,Atlanta,30309,Fulton County,94,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
 Apr 03,Asbury Automotive,Alpharetta,30009,Fulton County,5,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
+Apr 03,Asbury Automotive,Alpharetta,30009,Fulton County,16,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
 Feb 28,Accounting & Tax Service of Rome,Rome,30161,Floyd County,1,Northwest,"Rome, GA"
 Mar 27,IH Services,Trion,30753,Chattooga County,46,Northwest,"Summerville, GA"
 Apr 03,Asbury Automotive,Atlanta,30350,Fulton County,16,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
 Apr 03,Asbury Automotive,Atlanta,30360,Fulton County,26,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
 Apr 03,Asbury Automotive,Cumming,30041,Forsyth County,13,Georgia Mountains,"Atlanta-Sandy Springs-Alpharetta, GA"
-Apr 03,Asbury Automotive,Decatur,30033,DeKalb County,59,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
-Apr 03,Asbury Automotive,Lithonia,30038,DeKalb County,21,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
-Apr 03,Asbury Automotive,Lithonia,30038,DeKalb County,19,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
-Apr 03,Asbury Automotive,Lithonia,30038,DeKalb County,49,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
+Apr 03,Asbury Automotive,Decatur,30033,Dekalb County,59,,
+Apr 03,Asbury Automotive,Lithonia,30038,Dekalb County,21,,
+Apr 03,Asbury Automotive,Lithonia,30038,Dekalb County,19,,
+Apr 03,Asbury Automotive,Lithonia,30038,Dekalb County,49,,
 Apr 03,Asbury Automotive,Marietta,30060,Cobb County,32,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
 Apr 03,Asbury Automotive,Marietta,30060,Cobb County,38,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
 Apr 03,Asbury Automotive,Roswell,30076,Fulton County,42,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
@@ -134,7 +135,7 @@ Mar 31,"B&O Joint Venture, LLC",Glynco,31520,Glynn County,100,Coastal,"Brunswick
 Mar 19,Uncle Julios,Atlanta,30309,Fulton County,73,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
 Mar 23,North American Dental Group,New Castle,16101,Lawrence County,360,,
 Apr 02,"Art Carpet, LLC",Chatsworth,30705,Murray County,10,Northwest,"Dalton, GA"
-Apr 11,FLOOR COVERING INSTALLATION,CARTERSVILLE,30120,Bartow County,2,Northwest,"Atlanta-Sandy Springs-Alpharetta, GA"
+Apr 11,Floor Covering Installation,CARTERSVILLE,30120,Bartow County,2,Northwest,"Atlanta-Sandy Springs-Alpharetta, GA"
 Mar 30,Pinnacle Staffing,Villa Rica,30180,Carroll County,50,Three Rivers,"Atlanta-Sandy Springs-Alpharetta, GA"
 Mar 23,Kelsey Hayes,Flowery Branch,30542,Hall County,386,Georgia Mountains,"Gainesville, GA"
 Mar 29,"Suit Supply (USA), Inc",Atlanta,30326,Fulton County,28,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
@@ -154,7 +155,7 @@ Mar 25,The Family Y of the CSRA,Augusta,30907,Richmond County,165,CSRA,"Augusta-
 Mar 25,The Family Y of the CSRA,Augusta,30906,Richmond County,36,CSRA,"Augusta-Richmond County, GA-SC"
 Mar 25,The Family Y of the CSRA,Augusta,30901,Richmond County,20,CSRA,"Augusta-Richmond County, GA-SC"
 Mar 25,The Family Y of the CSRA,Evans,30809,Columbia County,57,CSRA,"Augusta-Richmond County, GA-SC"
-Mar 25,The Familyy of the CSRA,WRENS,30833,Jefferson County,19,CSRA,
+Mar 25,The Family Y of the CSRA,WRENS,30833,Jefferson County,19,CSRA,
 Mar 25,tHE FAMILY Y OF THE CSRA,GROVETOWN,30813,Columbia County,48,CSRA,"Augusta-Richmond County, GA-SC"
 Mar 25,THE FAMILYY OF THE CSRA,THOMSON,30824,McDuffie County,49,CSRA,"Augusta-Richmond County, GA-SC"
 Apr 13,Apple American Group II LLC,Perry,31069,Peach County,54,Middle Georgia,"Warner Robins, GA"
@@ -164,7 +165,7 @@ Jan 01,Tech Posse Inc,Acworth,30102,Cherokee County,7,ARC,"Atlanta-Sandy Springs
 Apr 12,"The Finish Line, Inc.",Athens,30606,Clarke County,13,Northeast,"Athens-Clarke County, GA"
 Apr 12,"The Finish Line, Inc.",Macon,31206,Bibb County,10,Middle Georgia,"Macon-Bibb County, GA"
 Apr 12,"The Finish Line, Inc.",Douglasville,30135,Douglas County,28,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
-Apr 12,"The Finish Line, Inc.",Lithonia,30038,DeKalb County,19,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
+Apr 12,"The Finish Line, Inc.",Lithonia,30038,Dekalb County,19,,
 Mar 15,Inspire Restaurant Group LLC,Atlanta,30312,Fulton County,30,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
 Apr 12,"The Finish Line, Inc.",Gainesville,30501,Hall County,12,Georgia Mountains,"Gainesville, GA"
 Apr 12,"The Finish Line, Inc.",Centerville,31028,Houston County,21,Middle Georgia,"Warner Robins, GA"
@@ -187,7 +188,7 @@ Apr 12,"The Finish Line, Inc.",Morrow,30260,Clayton County,15,ARC,"Atlanta-Sandy
 Apr 12,"The Finish Line, Inc.",Atlanta,30339,Cobb County,30,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
 Apr 12,"The Finish Line, Inc.",Burford,30519,Gwinnett County,40,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
 Mar 28,Aqua Salon and Spa LLC,Martinez,30907,Columbia County,8,CSRA,"Augusta-Richmond County, GA-SC"
-Apr 20,Stone Mountain Park,Stone Mountain,30087,DeKalb County,52,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
+Apr 20,Stone Mountain Park,Stone Mountain,30087,Dekalb County,52,,
 Mar 27,"Immediate Credit Recovery, Inc.",Kennesaw,30144,Cobb County,145,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
 Apr 08,Elite Comfort Solutions,Newnan,30265,Coweta County,8,Three Rivers,"Atlanta-Sandy Springs-Alpharetta, GA"
 Apr 08,Elite Comfort Solutions,Newnane,30265,Coweta County,1,Three Rivers,"Atlanta-Sandy Springs-Alpharetta, GA"
@@ -195,6 +196,7 @@ Apr 08,Elite Comfort Solutions,Americus,31719,Sumter County,2,River Valley,"Amer
 Mar 18,Miguel Wilson Collection,Atlanta,30326,Fulton County,10,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
 Apr 06,Primrose School Franchising Company LLC,Atlanta,30339,Cobb County,59,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
 Apr 20,"Harlem Globetrotters International, Inc.",Peachtree Corners,30092,Gwinnett County,175,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
+Apr 30,Alion Science and Technology,Hanover,21076,Anne Arundel County,45,,
 Mar 25,PCAM LLC,Atlanta,30354,Fulton County,100,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
 Mar 27,"Sysco Atlanta, LLC",College Park,30337,Fulton County,176,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
 Mar 31,Kathy and Company LLC,Kennesaw,30152,Cobb County,3,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
@@ -202,10 +204,12 @@ Mar 13,Kabobs Acquisition  LLC,Lake City,30260,Clayton County,175,ARC,"Atlanta-S
 Mar 21,Miller Ale House,Alpharetta,30004,Fulton County,45,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
 Mar 23,Augusta Sportswear Brands,Grovetown,30813,Columbia County,141,CSRA,"Augusta-Richmond County, GA-SC"
 Mar 21,Miller's Ale House,McDonough,30253,Henry County,110,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
+Apr 01,SAGE MONTESSORI,MARIETTA,30062,Cobb County,7,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
+Mar 10,Mid Georgia Fire Safety,Eastman,31023,Dodge County,4,Heart of Georgia,
 Mar 23,InterContinental Buckhead Atlanta,Atlanta,30326,Fulton County,210,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
 Mar 23,Mt. Bailey Holdings LLC,Atlanta,30309,Fulton County,109,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
 Apr 03,Safran Aerosystems,Peachtree City,30269,Henry County,8,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
-Mar 25,Crestline Hotels & Resorts,Peachtree Corners,30092,Fulton County,72,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
+Mar 25,Crestline Hotels & Resorts,Peachtree Corners,30092,Fulton County,91,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
 Mar 16,Scholastic Book Fairs,Kennesaw,30152,Cobb County,74,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
 Mar 20,Crowne Plaza Atlanta Airport,Atlanta,30344,Fulton County,57,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
 Mar 26,Tower 3 Champions Retreat,Evans,30809,Columbia County,45,CSRA,"Augusta-Richmond County, GA-SC"
@@ -242,15 +246,15 @@ Apr 03,Asbury Automotive,Roswell,30076,Fulton County,10,ARC,"Atlanta-Sandy Sprin
 Apr 17,"SodexoMagic, Delta Sky Club",Atlanta,30320,Clayton County,246,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
 Apr 30,Havertys Furniture Companies,Braselton,30517,Jackson County,122,Northeast,"Jefferson, GA"
 May 01,Parkway Products LLC,Marietta,30066,Cobb County,58,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
-May 01,Gulfstream Aerospace Corporation,Savannah,31408,Chatham County,699,Coastal,"Savannah, GA"
+May 01,Gulfstream Aerospace Corporation,Savannah,31408,Chatham County,650,Coastal,"Savannah, GA"
 Mar 17,Regal Corporate Headquarters,Atlanta,30363,Fulton County,43,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
 Apr 23,YKK U.S.A. Inc.,Macon,31217,Bibb County,80,Middle Georgia,"Macon-Bibb County, GA"
 Apr 04,BAC Local 8 SE,Atlanta,30312,Fulton County,3,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
 Mar 12,Atrium Hospitality,Atlanta,30326,Fulton County,145,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
 May 09,VMC Specialty Alloys LLC,Adairsville,30103,Bartow County,120,Northwest,"Atlanta-Sandy Springs-Alpharetta, GA"
 Apr 04,Vision Works (Alpharetta),Alpharetta,30022,Fulton County,4,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
-Apr 04,Vision Works (Lithonia),Lithonia,30038,DeKalb County,9,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
-Apr 04,Vision Works (Tucker),Tucker,30084,DeKalb County,6,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
+Apr 04,Vision Works (Lithonia),Lithonia,30038,Dekalb County,9,,
+Apr 04,Vision Works (Tucker),Tucker,30084,Dekalb County,6,,
 Apr 04,Vision Works (Duluth),Duluth,30096,Gwinnett County,9,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
 Apr 04,Vision Works (Kennesaw),Kennesaw,30144,Cherokee County,10,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
 Apr 04,Vision Works (Cumberland Mall-Atlanta),Atlanta,30329,Fulton County,6,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
@@ -281,9 +285,12 @@ Mar 15,Bloomin Brands (Bonefish 1704),Alpharetta,30005,Fulton County,44,ARC,"Atl
 Mar 15,Bloomin Brands (Bonefish 1705),Macon,31210,Bibb County,72,Middle Georgia,"Macon-Bibb County, GA"
 Mar 15,Bloomin Brands (Bonefish 1706),Snellville,30078,Gwinnett County,58,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
 Mar 15,Bloomin Brands (Bonefish 1707),Buford,30519,Gwinnett County,47,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
+Apr 27,Interfor US Inc,"Eatonton, GA",31024,Putnam County,105,Middle Georgia,
 Mar 15,Bloomin Brands (Bonefish 1709),Columbus,31909,Muscogee County,48,River Valley,"Columbus, GA-AL"
 Mar 15,Bloomin Brands (Bonefish 1712),Atlanta,30339,Fulton County,62,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
+Apr 27,Interfor US Inc,Bloomingdale,31302,Effingham County,137,Coastal,"Savannah, GA"
 Mar 15,Bloomin Brands (Carrabbas 1101),Macon,31210,Bibb County,97,Middle Georgia,"Macon-Bibb County, GA"
+Apr 27,Interfor US INC,Baxley,31513,Appling County,162,Heart of Georgia,
 Mar 15,Bloomin Brands (Carrabbas 1102),Kennesaw,30144,Cobb County,67,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
 Mar 15,Bloomin Brands (Carrabbas 1105),Atlanta,30339,Fulton County,51,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
 Mar 15,Bloomin Brands (Carrabbas 1108),Morrow,30260,Clayton County,86,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
@@ -324,10 +331,44 @@ Mar 15,Bloomin Brands (Outback 1174),Commerce,30529,Jackson County,56,Northeast,
 Mar 15,Bloomin Brands (Outback 1175),Alpharetta,30022,Fulton County,70,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
 May 12,Trinity Industries Inc.,Cartersville,30121,Bartow County,138,Northwest,"Atlanta-Sandy Springs-Alpharetta, GA"
 Apr 24,The Staffing People,Americus,31709,Sumter County,36,River Valley,"Americus, GA"
+Mar 18,"LAZ Parking Georgia, LLC",Atlanta,30305,Fulton County,298,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
 May 15,Sodexo (Middle GA State University),Cochran,31014,Laurens County,97,Heart of Georgia,"Dublin, GA"
-Jan 07,ICOT Holdings LLC,Savannah,31401,Chatham County,74,Coastal,"Savannah, GA"
-Jan 13,Ryder System,Augusta,30906,Richmond County,50,CSRA,"Augusta-Richmond County, GA-SC"
-Jan 15,Colorado Premium,Carrollton,30117,Carroll County,206,Three Rivers,"Atlanta-Sandy Springs-Alpharetta, GA"
-Jan 13,Resolute Forest Products,Augusta,30906,Richmond County,150,CSRA,"Augusta-Richmond County, GA-SC"
-Jan 17,Concentrix Corporation,Valdosta,31605,Lowndes County,85,Southern,"Valdosta, GA"
-Jan 25,Southern Crescent Behavioral Health System,Stockbridge,30281,Henry County,167,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
+Mar 20,GDOTS Inc,Statham,30666,Barrow County,2,Northeast,"Atlanta-Sandy Springs-Alpharetta, GA"
+May 17,Cox Automotive,Atlanta,30331,Fulton County,181,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
+May 17,Cox Automotive,Atlanta,30319,Dekalb County,76,,
+May 17,Cox Automotive,Atlanta,30328,Fulton County,118,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
+May 17,Cox Automotive,Atlanta,30328,Fulton County,344,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
+May 17,Cox Automotive,College Park,30349,Clayton County,160,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
+May 18,Brittany Maids Ltd,Atlanta,30329,Dekalb County,38,,
+Mar 18,Barcelona Wine Bar,Atlanta,30318,Fulton County,53,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
+Apr 13,Buhler Quality Yarns Inc,Jefferson,30549,Jackson County,69,Northeast,"Jefferson, GA"
+Mar 18,Barcelona Wine Bar,Atlanta,30307,Fulton County,70,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
+May 19,Czarnowski,Austell,30168,Cobb County,318,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
+Apr 07,"Four Seasons Hotels Corporate Services, Inc.",Atlanta,30345,Dekalb County,1,,
+Apr 04,Master Tech Augusta,Augusta,30909,Richmond County,2,CSRA,"Augusta-Richmond County, GA-SC"
+Mar 17,Renaissance Atlanta Midtown Hotel,Atlanta,30308,Fulton County,78,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
+Jun 08,"Nth Degree, Inc.",Duluth,30096,Gwinnett County,35,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
+Mar 23,Imagine That INC,Peachtree Corners,30092,Gwinnett County,5,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
+Jul 21,Exide Technologies,Milton,30004,Fulton County,298,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
+May 21,"Merritt Hospitality, LLC (The Hotel at Avalon)",Alpharetta,30009,Fulton County,157,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
+Mar 20,"Jim's Formal Wear, LLC",Lithia Springs,30122,Cobb County,44,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
+May 25,Woodstock Pain Solutions,woodstock,30189,Cherokee County,4,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
+May 26,"Merritt Hospitality, LLC (Hilton Atlanta Airport)",Atlanta,30354,Fulton County,86,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
+Mar 27,"Williamson Fire Protection, LLC",Ellenwood,30294,Dekalb County,10,,
+May 01,Spiffy Clean Of Liberty,Carrollton,30116,Carroll County,1,Three Rivers,"Atlanta-Sandy Springs-Alpharetta, GA"
+Jun 12,The Educational Commission for Foreign Med. Grad.,College Park,30337,Fulton County,91,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
+Mar 21,The Ritz-Carlton Hotel Co LLC,Atlanta,30303,Fulton County,294,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
+May 27,LH Atlanta Hotel Corp LLC,Atlanta,30309,Fulton County,159,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
+Mar 15,Hyatt Corporation,Savannah,31401,Chatham County,97,Coastal,"Savannah, GA"
+May 22,"Merritt Hospitality, LLC/Sheraton Atlanta Downtown",Atlanta,30303,Fulton County,192,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
+Jun 05,Hyatt Corporation,Atlanta,30305,Fulton County,121,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
+Mar 01,"Global Experience Specialists, Inc. (GES)",Lithia Springs,30122,Douglas County,94,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
+Mar 01,"ON Services-AV Specialists, Inc.",Norcross,30071,Gwinnett County,128,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
+Mar 21,"SW Hotels & Resorts WW, LLC",Savannah,31421,Chatham County,244,Coastal,"Savannah, GA"
+Mar 17,"Marriott Hotel Services, Inc. (Atl Airport)",Atlanta,30337,Fulton County,229,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
+Mar 16,The Ritz-Carlton Hotel Co LLC,Greensboro,30642,Greene County,440,Northeast,
+Mar 14,"Marriott Hotel Services, Inc. (Midtown)",Atlanta,30309,Fulton County,77,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
+Mar 15,"Marriott Hotel Services, Inc. (Buckhead)",Atlanta,30326,Fulton County,156,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
+Mar 21,"Marriott Hotel Services, Inc. (Alpharetta)",Alpharetta,30005,Fulton County,112,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
+Mar 17,"Renaissance Hotel Mgmt Co, LLC (Atl Airport)",Atlanta,30337,Fulton County,86,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
+Aug 05,"Avanos Medical, Inc. (NeoMed, Inc.)",Woodstock,30188,Cherokee County,17,ARC,"Atlanta-Sandy Springs-Alpharetta, GA"
