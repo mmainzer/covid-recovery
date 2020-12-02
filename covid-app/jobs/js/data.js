@@ -18,1268 +18,1268 @@ const geographies = {
 const kpiSelect = {
   "Georgia": {
     "FebLaborForce": "5.19M",
-    "CumClaims": "2.13M",
-    "PctFebLabor": "41.1%",
-    "CurrentWarns": "321"
+    "CumClaims": "2.54M",
+    "PctFebLabor": "49.0%",
+    "CurrentWarns": "364"
   },
   "Atlanta-Sandy Springs-Alpharetta, GA": {
     "FebLaborForce": "3.14M",
-    "CumClaims": "1.35M",
-    "PctFebLabor": "43.0%",
-    "CurrentWarns": "207"
+    "CumClaims": "1.61M",
+    "PctFebLabor": "51.2%",
+    "CurrentWarns": "216"
   },
   "ARC": {
     "FebLaborForce": "2.47M",
-    "CumClaims": "1.1M",
-    "PctFebLabor": "44.3%",
-    "CurrentWarns": "182"
+    "CumClaims": "1.31M",
+    "PctFebLabor": "52.8%",
+    "CurrentWarns": "189"
   },
   "Fulton County": {
     "FebLaborForce": "566K",
-    "CumClaims": "287K",
-    "PctFebLabor": "50.8%",
-    "CurrentWarns": "78"
-  },
-  "Gwinnett County": {
-    "FebLaborForce": "497K",
-    "CumClaims": "208K",
-    "PctFebLabor": "41.8%",
-    "CurrentWarns": "21"
+    "CumClaims": "342K",
+    "PctFebLabor": "60.4%",
+    "CurrentWarns": "98"
   },
   "DeKalb County": {
     "FebLaborForce": "406K",
-    "CumClaims": "172K",
-    "PctFebLabor": "42.4%",
-    "CurrentWarns": "20"
+    "CumClaims": "208K",
+    "PctFebLabor": "51.2%",
+    "CurrentWarns": "0"
   },
-  "Coastal": {
-    "FebLaborForce": "333K",
-    "CumClaims": "156K",
-    "PctFebLabor": "46.7%",
-    "CurrentWarns": "28"
-  },
-  "Cobb County": {
-    "FebLaborForce": "432K",
-    "CumClaims": "161K",
-    "PctFebLabor": "37.3%",
-    "CurrentWarns": "30"
+  "Gwinnett County": {
+    "FebLaborForce": "497K",
+    "CumClaims": "245K",
+    "PctFebLabor": "49.4%",
+    "CurrentWarns": "23"
   },
   "Northwest": {
     "FebLaborForce": "427K",
-    "CumClaims": "178K",
-    "PctFebLabor": "41.6%",
+    "CumClaims": "210K",
+    "PctFebLabor": "49.3%",
     "CurrentWarns": "18"
+  },
+  "Cobb County": {
+    "FebLaborForce": "432K",
+    "CumClaims": "191K",
+    "PctFebLabor": "44.3%",
+    "CurrentWarns": "33"
+  },
+  "Coastal": {
+    "FebLaborForce": "333K",
+    "CumClaims": "183K",
+    "PctFebLabor": "54.9%",
+    "CurrentWarns": "31"
   },
   "Northeast": {
     "FebLaborForce": "309K",
-    "CumClaims": "123K",
-    "PctFebLabor": "39.9%",
-    "CurrentWarns": "12"
-  },
-  "Georgia Mountains": {
-    "FebLaborForce": "356K",
-    "CumClaims": "122K",
-    "PctFebLabor": "34.4%",
-    "CurrentWarns": "17"
+    "CumClaims": "146K",
+    "PctFebLabor": "47.0%",
+    "CurrentWarns": "15"
   },
   "Three Rivers": {
     "FebLaborForce": "254K",
-    "CumClaims": "105K",
-    "PctFebLabor": "41.2%",
-    "CurrentWarns": "10"
+    "CumClaims": "126K",
+    "PctFebLabor": "49.7%",
+    "CurrentWarns": "11"
+  },
+  "Georgia Mountains": {
+    "FebLaborForce": "356K",
+    "CumClaims": "143K",
+    "PctFebLabor": "40.3%",
+    "CurrentWarns": "17"
   },
   "Savannah, GA": {
     "FebLaborForce": "190K",
-    "CumClaims": "97.3K",
-    "PctFebLabor": "51.2%",
-    "CurrentWarns": "21"
-  },
-  "Middle Georgia": {
-    "FebLaborForce": "222K",
-    "CumClaims": "76.2K",
-    "PctFebLabor": "34.3%",
-    "CurrentWarns": "15"
+    "CumClaims": "114K",
+    "PctFebLabor": "60.3%",
+    "CurrentWarns": "24"
   },
   "Clayton County": {
     "FebLaborForce": "140K",
-    "CumClaims": "75.5K",
-    "PctFebLabor": "53.9%",
-    "CurrentWarns": "14"
-  },
-  "Chatham County": {
-    "FebLaborForce": "140K",
-    "CumClaims": "78.3K",
-    "PctFebLabor": "55.8%",
-    "CurrentWarns": "21"
+    "CumClaims": "92.3K",
+    "PctFebLabor": "65.8%",
+    "CurrentWarns": "15"
   },
   "Southern": {
     "FebLaborForce": "182K",
-    "CumClaims": "68.9K",
-    "PctFebLabor": "37.8%",
+    "CumClaims": "84K",
+    "PctFebLabor": "46.1%",
     "CurrentWarns": "2"
-  },
-  "River Valley": {
-    "FebLaborForce": "149K",
-    "CumClaims": "57.2K",
-    "PctFebLabor": "38.4%",
-    "CurrentWarns": "11"
   },
   "CSRA": {
     "FebLaborForce": "212K",
-    "CumClaims": "66.9K",
-    "PctFebLabor": "31.6%",
-    "CurrentWarns": "19"
+    "CumClaims": "81.7K",
+    "PctFebLabor": "38.6%",
+    "CurrentWarns": "20"
+  },
+  "Middle Georgia": {
+    "FebLaborForce": "222K",
+    "CumClaims": "90.5K",
+    "PctFebLabor": "40.8%",
+    "CurrentWarns": "16"
+  },
+  "River Valley": {
+    "FebLaborForce": "149K",
+    "CumClaims": "70.9K",
+    "PctFebLabor": "47.6%",
+    "CurrentWarns": "11"
+  },
+  "Chatham County": {
+    "FebLaborForce": "140K",
+    "CumClaims": "92.3K",
+    "PctFebLabor": "65.7%",
+    "CurrentWarns": "23"
   },
   "Augusta-Richmond County, GA-SC": {
     "FebLaborForce": "184K",
-    "CumClaims": "59.1K",
-    "PctFebLabor": "32.2%",
-    "CurrentWarns": "18"
-  },
-  "Henry County": {
-    "FebLaborForce": "117K",
-    "CumClaims": "59.7K",
-    "PctFebLabor": "50.8%",
-    "CurrentWarns": "4"
-  },
-  "Southwest": {
-    "FebLaborForce": "151K",
-    "CumClaims": "50.3K",
-    "PctFebLabor": "33.4%",
-    "CurrentWarns": "3"
+    "CumClaims": "72K",
+    "PctFebLabor": "39.2%",
+    "CurrentWarns": "19"
   },
   "Columbus, GA-AL": {
     "FebLaborForce": "105K",
-    "CumClaims": "42.4K",
-    "PctFebLabor": "40.3%",
+    "CumClaims": "52.7K",
+    "PctFebLabor": "50.1%",
     "CurrentWarns": "6"
   },
-  "Heart of Georgia": {
-    "FebLaborForce": "118K",
-    "CumClaims": "33.7K",
-    "PctFebLabor": "28.5%",
+  "Southwest": {
+    "FebLaborForce": "151K",
+    "CumClaims": "60.5K",
+    "PctFebLabor": "40.2%",
     "CurrentWarns": "3"
   },
-  "Athens-Clarke County, GA": {
-    "FebLaborForce": "100K",
-    "CumClaims": "39.4K",
-    "PctFebLabor": "39.3%",
-    "CurrentWarns": "6"
-  },
-  "Cherokee County": {
-    "FebLaborForce": "138K",
-    "CumClaims": "49.9K",
-    "PctFebLabor": "36.2%",
+  "Henry County": {
+    "FebLaborForce": "117K",
+    "CumClaims": "70.6K",
+    "PctFebLabor": "60.1%",
     "CurrentWarns": "4"
-  },
-  "Macon-Bibb County, GA": {
-    "FebLaborForce": "104K",
-    "CumClaims": "36.7K",
-    "PctFebLabor": "35.2%",
-    "CurrentWarns": "9"
   },
   "Muscogee County": {
     "FebLaborForce": "77.8K",
-    "CumClaims": "33.9K",
-    "PctFebLabor": "43.5%",
+    "CumClaims": "42.3K",
+    "PctFebLabor": "54.4%",
     "CurrentWarns": "5"
   },
-  "Douglas County": {
-    "FebLaborForce": "74.4K",
-    "CumClaims": "34.2K",
-    "PctFebLabor": "46.0%",
-    "CurrentWarns": "5"
+  "Macon-Bibb County, GA": {
+    "FebLaborForce": "104K",
+    "CumClaims": "43.8K",
+    "PctFebLabor": "42.0%",
+    "CurrentWarns": "9"
   },
-  "Coweta County": {
-    "FebLaborForce": "75.8K",
-    "CumClaims": "31.9K",
+  "Cherokee County": {
+    "FebLaborForce": "138K",
+    "CumClaims": "58.1K",
     "PctFebLabor": "42.1%",
     "CurrentWarns": "5"
   },
   "Dalton, GA": {
     "FebLaborForce": "59.2K",
-    "CumClaims": "40.9K",
-    "PctFebLabor": "69.1%",
+    "CumClaims": "48.5K",
+    "PctFebLabor": "81.9%",
     "CurrentWarns": "7"
+  },
+  "Douglas County": {
+    "FebLaborForce": "74.4K",
+    "CumClaims": "41.5K",
+    "PctFebLabor": "55.8%",
+    "CurrentWarns": "5"
+  },
+  "Heart of Georgia": {
+    "FebLaborForce": "118K",
+    "CumClaims": "40.3K",
+    "PctFebLabor": "34.1%",
+    "CurrentWarns": "5"
   },
   "Richmond County": {
     "FebLaborForce": "86K",
-    "CumClaims": "32.2K",
-    "PctFebLabor": "37.5%",
-    "CurrentWarns": "11"
+    "CumClaims": "39.3K",
+    "PctFebLabor": "45.8%",
+    "CurrentWarns": "12"
   },
-  "Gainesville, GA": {
-    "FebLaborForce": "104K",
-    "CumClaims": "36.4K",
-    "PctFebLabor": "35.0%",
+  "Athens-Clarke County, GA": {
+    "FebLaborForce": "100K",
+    "CumClaims": "46.8K",
+    "PctFebLabor": "46.7%",
     "CurrentWarns": "6"
   },
-  "Hall County": {
-    "FebLaborForce": "104K",
-    "CumClaims": "36.4K",
-    "PctFebLabor": "35.0%",
+  "Forsyth County": {
+    "FebLaborForce": "124K",
+    "CumClaims": "46.7K",
+    "PctFebLabor": "37.6%",
     "CurrentWarns": "6"
   },
   "Bibb County": {
     "FebLaborForce": "68.6K",
-    "CumClaims": "27.7K",
-    "PctFebLabor": "40.5%",
+    "CumClaims": "33.4K",
+    "PctFebLabor": "48.7%",
     "CurrentWarns": "8"
   },
-  "Forsyth County": {
-    "FebLaborForce": "124K",
-    "CumClaims": "39.4K",
-    "PctFebLabor": "31.8%",
+  "Valdosta, GA": {
+    "FebLaborForce": "64.8K",
+    "CumClaims": "28.1K",
+    "PctFebLabor": "43.3%",
+    "CurrentWarns": "1"
+  },
+  "Albany, GA": {
+    "FebLaborForce": "66.5K",
+    "CumClaims": "32.2K",
+    "PctFebLabor": "48.5%",
+    "CurrentWarns": "3"
+  },
+  "Whitfield County": {
+    "FebLaborForce": "43.5K",
+    "CumClaims": "36.4K",
+    "PctFebLabor": "83.5%",
     "CurrentWarns": "6"
   },
   "Fayette County": {
     "FebLaborForce": "58.9K",
-    "CumClaims": "28.6K",
-    "PctFebLabor": "48.6%",
+    "CumClaims": "34.4K",
+    "PctFebLabor": "58.5%",
     "CurrentWarns": "5"
   },
-  "Clarke County": {
-    "FebLaborForce": "59.9K",
-    "CumClaims": "26.3K",
-    "PctFebLabor": "43.9%",
-    "CurrentWarns": "5"
-  },
-  "Albany, GA": {
-    "FebLaborForce": "66.5K",
-    "CumClaims": "26.9K",
-    "PctFebLabor": "40.5%",
-    "CurrentWarns": "3"
-  },
-  "Valdosta, GA": {
-    "FebLaborForce": "64.8K",
-    "CumClaims": "22.6K",
-    "PctFebLabor": "34.9%",
-    "CurrentWarns": "1"
-  },
-  "Warner Robins, GA": {
-    "FebLaborForce": "83.4K",
-    "CumClaims": "27.4K",
-    "PctFebLabor": "32.9%",
-    "CurrentWarns": "6"
-  },
-  "Whitfield County": {
-    "FebLaborForce": "43.5K",
-    "CumClaims": "30.7K",
-    "PctFebLabor": "70.6%",
-    "CurrentWarns": "6"
-  },
-  "Paulding County": {
-    "FebLaborForce": "87.4K",
-    "CumClaims": "27.4K",
-    "PctFebLabor": "31.3%",
-    "CurrentWarns": "2"
-  },
-  "Lowndes County": {
-    "FebLaborForce": "51.9K",
-    "CumClaims": "19.7K",
-    "PctFebLabor": "37.9%",
-    "CurrentWarns": "1"
-  },
-  "Houston County": {
-    "FebLaborForce": "71.4K",
-    "CumClaims": "22.8K",
-    "PctFebLabor": "32.0%",
-    "CurrentWarns": "4"
-  },
-  "Newton County": {
-    "FebLaborForce": "53.1K",
-    "CumClaims": "21.8K",
-    "PctFebLabor": "41.2%",
-    "CurrentWarns": "2"
-  },
-  "Rockdale County": {
-    "FebLaborForce": "45.5K",
-    "CumClaims": "20K",
-    "PctFebLabor": "44.0%",
-    "CurrentWarns": "1"
-  },
-  "Brunswick, GA": {
-    "FebLaborForce": "52.6K",
-    "CumClaims": "24.4K",
-    "PctFebLabor": "46.4%",
-    "CurrentWarns": "4"
-  },
-  "Bulloch County": {
-    "FebLaborForce": "37K",
-    "CumClaims": "15.5K",
-    "PctFebLabor": "42.1%",
-    "CurrentWarns": "0"
-  },
-  "Statesboro, GA": {
-    "FebLaborForce": "37K",
-    "CumClaims": "15.5K",
-    "PctFebLabor": "42.1%",
-    "CurrentWarns": "0"
-  },
-  "Bartow County": {
-    "FebLaborForce": "51.5K",
-    "CumClaims": "25.5K",
+  "Coweta County": {
+    "FebLaborForce": "75.8K",
+    "CumClaims": "37.6K",
     "PctFebLabor": "49.5%",
     "CurrentWarns": "5"
   },
-  "Carroll County": {
-    "FebLaborForce": "56.3K",
-    "CumClaims": "22.3K",
-    "PctFebLabor": "39.6%",
-    "CurrentWarns": "3"
+  "Gainesville, GA": {
+    "FebLaborForce": "104K",
+    "CumClaims": "42.4K",
+    "PctFebLabor": "40.9%",
+    "CurrentWarns": "6"
   },
-  "LaGrange, GA-AL": {
-    "FebLaborForce": "37.8K",
-    "CumClaims": "17.7K",
-    "PctFebLabor": "46.8%",
+  "Hall County": {
+    "FebLaborForce": "104K",
+    "CumClaims": "42.4K",
+    "PctFebLabor": "40.9%",
+    "CurrentWarns": "6"
+  },
+  "Warner Robins, GA": {
+    "FebLaborForce": "83.4K",
+    "CumClaims": "32.3K",
+    "PctFebLabor": "38.8%",
+    "CurrentWarns": "6"
+  },
+  "Lowndes County": {
+    "FebLaborForce": "51.9K",
+    "CumClaims": "24.3K",
+    "PctFebLabor": "46.9%",
     "CurrentWarns": "1"
   },
-  "Troup County": {
-    "FebLaborForce": "37.8K",
-    "CumClaims": "17.7K",
-    "PctFebLabor": "46.8%",
-    "CurrentWarns": "1"
+  "Clarke County": {
+    "FebLaborForce": "59.9K",
+    "CumClaims": "31.3K",
+    "PctFebLabor": "52.3%",
+    "CurrentWarns": "5"
   },
-  "Rome, GA": {
-    "FebLaborForce": "44.8K",
-    "CumClaims": "20.3K",
-    "PctFebLabor": "45.2%",
-    "CurrentWarns": "2"
-  },
-  "Floyd County": {
-    "FebLaborForce": "44.8K",
-    "CumClaims": "20.3K",
-    "PctFebLabor": "45.2%",
+  "Paulding County": {
+    "FebLaborForce": "87.4K",
+    "CumClaims": "32.2K",
+    "PctFebLabor": "36.8%",
     "CurrentWarns": "2"
   },
   "Columbia County": {
     "FebLaborForce": "75.9K",
-    "CumClaims": "19.9K",
-    "PctFebLabor": "26.2%",
+    "CumClaims": "24K",
+    "PctFebLabor": "31.7%",
     "CurrentWarns": "6"
   },
-  "Walton County": {
-    "FebLaborForce": "46.8K",
-    "CumClaims": "18.8K",
-    "PctFebLabor": "40.2%",
+  "Carroll County": {
+    "FebLaborForce": "56.3K",
+    "CumClaims": "26.7K",
+    "PctFebLabor": "47.4%",
+    "CurrentWarns": "4"
+  },
+  "Houston County": {
+    "FebLaborForce": "71.4K",
+    "CumClaims": "26.9K",
+    "PctFebLabor": "37.6%",
+    "CurrentWarns": "4"
+  },
+  "Rockdale County": {
+    "FebLaborForce": "45.5K",
+    "CumClaims": "24.2K",
+    "PctFebLabor": "53.2%",
+    "CurrentWarns": "1"
+  },
+  "Newton County": {
+    "FebLaborForce": "53.1K",
+    "CumClaims": "26K",
+    "PctFebLabor": "49.0%",
+    "CurrentWarns": "2"
+  },
+  "Floyd County": {
+    "FebLaborForce": "44.8K",
+    "CumClaims": "24.1K",
+    "PctFebLabor": "53.9%",
+    "CurrentWarns": "2"
+  },
+  "Rome, GA": {
+    "FebLaborForce": "44.8K",
+    "CumClaims": "24.1K",
+    "PctFebLabor": "53.9%",
+    "CurrentWarns": "2"
+  },
+  "Bartow County": {
+    "FebLaborForce": "51.5K",
+    "CumClaims": "29.7K",
+    "PctFebLabor": "57.7%",
+    "CurrentWarns": "5"
+  },
+  "Brunswick, GA": {
+    "FebLaborForce": "52.6K",
+    "CumClaims": "28.3K",
+    "PctFebLabor": "53.8%",
+    "CurrentWarns": "4"
+  },
+  "LaGrange, GA-AL": {
+    "FebLaborForce": "37.8K",
+    "CumClaims": "22.4K",
+    "PctFebLabor": "59.2%",
+    "CurrentWarns": "1"
+  },
+  "Troup County": {
+    "FebLaborForce": "37.8K",
+    "CumClaims": "22.4K",
+    "PctFebLabor": "59.2%",
+    "CurrentWarns": "1"
+  },
+  "Bulloch County": {
+    "FebLaborForce": "37K",
+    "CumClaims": "18.5K",
+    "PctFebLabor": "50.1%",
     "CurrentWarns": "0"
   },
-  "Barrow County": {
-    "FebLaborForce": "41.1K",
-    "CumClaims": "17K",
-    "PctFebLabor": "41.4%",
+  "Statesboro, GA": {
+    "FebLaborForce": "37K",
+    "CumClaims": "18.5K",
+    "PctFebLabor": "50.1%",
     "CurrentWarns": "0"
   },
   "Dougherty County": {
     "FebLaborForce": "38.9K",
-    "CumClaims": "16K",
-    "PctFebLabor": "41.2%",
-    "CurrentWarns": "3"
-  },
-  "Jackson County": {
-    "FebLaborForce": "37K",
-    "CumClaims": "15K",
-    "PctFebLabor": "40.5%",
-    "CurrentWarns": "3"
-  },
-  "Jefferson, GA": {
-    "FebLaborForce": "37K",
-    "CumClaims": "15K",
-    "PctFebLabor": "40.5%",
+    "CumClaims": "19.2K",
+    "PctFebLabor": "49.5%",
     "CurrentWarns": "3"
   },
   "Glynn County": {
     "FebLaborForce": "39.1K",
-    "CumClaims": "19.8K",
-    "PctFebLabor": "50.7%",
+    "CumClaims": "22.9K",
+    "PctFebLabor": "58.5%",
     "CurrentWarns": "4"
   },
-  "Chattanooga, TN-GA": {
-    "FebLaborForce": "74.5K",
-    "CumClaims": "16.8K",
-    "PctFebLabor": "22.5%",
-    "CurrentWarns": "0"
-  },
-  "Hinesville, GA": {
-    "FebLaborForce": "35.1K",
-    "CumClaims": "11.7K",
-    "PctFebLabor": "33.3%",
-    "CurrentWarns": "2"
-  },
-  "Dublin, GA": {
-    "FebLaborForce": "25.9K",
-    "CumClaims": "8.44K",
-    "PctFebLabor": "32.6%",
+  "Barrow County": {
+    "FebLaborForce": "41.1K",
+    "CumClaims": "20K",
+    "PctFebLabor": "48.7%",
     "CurrentWarns": "1"
   },
   "Douglas, GA": {
     "FebLaborForce": "24.4K",
-    "CumClaims": "11.4K",
-    "PctFebLabor": "46.8%",
+    "CumClaims": "13.8K",
+    "PctFebLabor": "56.6%",
     "CurrentWarns": "0"
   },
-  "Spalding County": {
-    "FebLaborForce": "29.2K",
-    "CumClaims": "11.9K",
-    "PctFebLabor": "40.6%",
+  "Chattanooga, TN-GA": {
+    "FebLaborForce": "74.5K",
+    "CumClaims": "20.3K",
+    "PctFebLabor": "27.2%",
     "CurrentWarns": "0"
   },
-  "Calhoun, GA": {
-    "FebLaborForce": "28.5K",
-    "CumClaims": "13.3K",
-    "PctFebLabor": "46.6%",
+  "Jackson County": {
+    "FebLaborForce": "37K",
+    "CumClaims": "17.7K",
+    "PctFebLabor": "47.7%",
+    "CurrentWarns": "4"
+  },
+  "Jefferson, GA": {
+    "FebLaborForce": "37K",
+    "CumClaims": "17.7K",
+    "PctFebLabor": "47.7%",
+    "CurrentWarns": "4"
+  },
+  "Hinesville, GA": {
+    "FebLaborForce": "35.1K",
+    "CumClaims": "14.1K",
+    "PctFebLabor": "40.1%",
+    "CurrentWarns": "2"
+  },
+  "Walton County": {
+    "FebLaborForce": "46.8K",
+    "CumClaims": "21.7K",
+    "PctFebLabor": "46.5%",
     "CurrentWarns": "0"
   },
   "Gordon County": {
     "FebLaborForce": "28.5K",
-    "CumClaims": "13.3K",
-    "PctFebLabor": "46.6%",
+    "CumClaims": "15.9K",
+    "PctFebLabor": "55.9%",
+    "CurrentWarns": "0"
+  },
+  "Calhoun, GA": {
+    "FebLaborForce": "28.5K",
+    "CumClaims": "15.9K",
+    "PctFebLabor": "55.9%",
+    "CurrentWarns": "0"
+  },
+  "Spalding County": {
+    "FebLaborForce": "29.2K",
+    "CumClaims": "14.1K",
+    "PctFebLabor": "48.4%",
     "CurrentWarns": "0"
   },
   "Liberty County": {
     "FebLaborForce": "26.7K",
-    "CumClaims": "9.61K",
-    "PctFebLabor": "36.0%",
+    "CumClaims": "11.5K",
+    "PctFebLabor": "43.1%",
     "CurrentWarns": "2"
   },
-  "Laurens County": {
-    "FebLaborForce": "19.1K",
-    "CumClaims": "6.96K",
-    "PctFebLabor": "36.4%",
+  "Murray County": {
+    "FebLaborForce": "15.6K",
+    "CumClaims": "12.1K",
+    "PctFebLabor": "77.4%",
     "CurrentWarns": "1"
   },
   "Effingham County": {
     "FebLaborForce": "31.1K",
-    "CumClaims": "10.5K",
-    "PctFebLabor": "33.7%",
-    "CurrentWarns": "0"
-  },
-  "Murray County": {
-    "FebLaborForce": "15.6K",
-    "CumClaims": "10.1K",
-    "PctFebLabor": "64.9%",
-    "CurrentWarns": "1"
-  },
-  "Milledgeville, GA": {
-    "FebLaborForce": "20.4K",
-    "CumClaims": "7.8K",
-    "PctFebLabor": "38.3%",
-    "CurrentWarns": "0"
-  },
-  "Crisp County": {
-    "FebLaborForce": "9.65K",
-    "CumClaims": "5.17K",
-    "PctFebLabor": "53.6%",
-    "CurrentWarns": "2"
-  },
-  "Cordele, GA": {
-    "FebLaborForce": "9.65K",
-    "CumClaims": "5.17K",
-    "PctFebLabor": "53.6%",
-    "CurrentWarns": "2"
-  },
-  "Polk County": {
-    "FebLaborForce": "18.6K",
-    "CumClaims": "7.85K",
-    "PctFebLabor": "42.2%",
-    "CurrentWarns": "0"
-  },
-  "Cedartown, GA": {
-    "FebLaborForce": "18.6K",
-    "CumClaims": "7.85K",
-    "PctFebLabor": "42.2%",
-    "CurrentWarns": "0"
-  },
-  "Bryan County": {
-    "FebLaborForce": "18.4K",
-    "CumClaims": "8.53K",
-    "PctFebLabor": "46.4%",
-    "CurrentWarns": "0"
-  },
-  "Waycross, GA": {
-    "FebLaborForce": "24.7K",
-    "CumClaims": "6.84K",
-    "PctFebLabor": "27.7%",
+    "CumClaims": "12.3K",
+    "PctFebLabor": "39.5%",
     "CurrentWarns": "1"
   },
   "Lee County": {
     "FebLaborForce": "15K",
-    "CumClaims": "7.83K",
-    "PctFebLabor": "52.4%",
+    "CumClaims": "9.29K",
+    "PctFebLabor": "62.1%",
+    "CurrentWarns": "0"
+  },
+  "Waycross, GA": {
+    "FebLaborForce": "24.7K",
+    "CumClaims": "8.24K",
+    "PctFebLabor": "33.4%",
+    "CurrentWarns": "1"
+  },
+  "Dublin, GA": {
+    "FebLaborForce": "25.9K",
+    "CumClaims": "9.95K",
+    "PctFebLabor": "38.4%",
+    "CurrentWarns": "1"
+  },
+  "Milledgeville, GA": {
+    "FebLaborForce": "20.4K",
+    "CumClaims": "9.27K",
+    "PctFebLabor": "45.5%",
+    "CurrentWarns": "0"
+  },
+  "Bryan County": {
+    "FebLaborForce": "18.4K",
+    "CumClaims": "9.94K",
+    "PctFebLabor": "54.1%",
+    "CurrentWarns": "0"
+  },
+  "Tift County": {
+    "FebLaborForce": "20.3K",
+    "CumClaims": "7.72K",
+    "PctFebLabor": "38.0%",
     "CurrentWarns": "0"
   },
   "Baldwin County": {
     "FebLaborForce": "17.8K",
-    "CumClaims": "6.81K",
-    "PctFebLabor": "38.2%",
-    "CurrentWarns": "0"
-  },
-  "Thomasville, GA": {
-    "FebLaborForce": "16.6K",
-    "CumClaims": "5.9K",
-    "PctFebLabor": "35.6%",
-    "CurrentWarns": "0"
-  },
-  "Thomas County": {
-    "FebLaborForce": "16.6K",
-    "CumClaims": "5.9K",
-    "PctFebLabor": "35.6%",
-    "CurrentWarns": "0"
-  },
-  "Walker County": {
-    "FebLaborForce": "32K",
-    "CumClaims": "8.63K",
-    "PctFebLabor": "27.0%",
-    "CurrentWarns": "0"
-  },
-  "Harris County": {
-    "FebLaborForce": "16.8K",
-    "CumClaims": "5.63K",
-    "PctFebLabor": "33.5%",
-    "CurrentWarns": "0"
-  },
-  "Ben Hill County": {
-    "FebLaborForce": "5.36K",
-    "CumClaims": "5.62K",
-    "PctFebLabor": "105.0%",
-    "CurrentWarns": "0"
-  },
-  "Fitzgerald, GA": {
-    "FebLaborForce": "5.36K",
-    "CumClaims": "5.62K",
-    "PctFebLabor": "105.0%",
-    "CurrentWarns": "0"
-  },
-  "Moultrie, GA": {
-    "FebLaborForce": "22K",
-    "CumClaims": "5.79K",
-    "PctFebLabor": "26.3%",
-    "CurrentWarns": "0"
-  },
-  "Colquitt County": {
-    "FebLaborForce": "22K",
-    "CumClaims": "5.79K",
-    "PctFebLabor": "26.3%",
-    "CurrentWarns": "0"
-  },
-  "Coffee County": {
-    "FebLaborForce": "19.3K",
-    "CumClaims": "5.41K",
-    "PctFebLabor": "28.1%",
-    "CurrentWarns": "0"
-  },
-  "Oconee County": {
-    "FebLaborForce": "19.8K",
-    "CumClaims": "5.95K",
-    "PctFebLabor": "30.1%",
-    "CurrentWarns": "1"
-  },
-  "Atkinson County": {
-    "FebLaborForce": "5.15K",
-    "CumClaims": "6.02K",
-    "PctFebLabor": "117.0%",
-    "CurrentWarns": "0"
-  },
-  "Camden County": {
-    "FebLaborForce": "21K",
-    "CumClaims": "6.59K",
-    "PctFebLabor": "31.3%",
-    "CurrentWarns": "1"
-  },
-  "St. Marys, GA": {
-    "FebLaborForce": "21K",
-    "CumClaims": "6.59K",
-    "PctFebLabor": "31.3%",
-    "CurrentWarns": "1"
-  },
-  "Tift County": {
-    "FebLaborForce": "20.3K",
-    "CumClaims": "6.47K",
-    "PctFebLabor": "31.8%",
+    "CumClaims": "8.07K",
+    "PctFebLabor": "45.3%",
     "CurrentWarns": "0"
   },
   "Tifton, GA": {
     "FebLaborForce": "20.3K",
-    "CumClaims": "6.47K",
-    "PctFebLabor": "31.8%",
+    "CumClaims": "7.72K",
+    "PctFebLabor": "38.0%",
     "CurrentWarns": "0"
   },
-  "Franklin County": {
-    "FebLaborForce": "10.1K",
-    "CumClaims": "4.82K",
-    "PctFebLabor": "47.7%",
+  "Atkinson County": {
+    "FebLaborForce": "5.15K",
+    "CumClaims": "7.3K",
+    "PctFebLabor": "141.8%",
     "CurrentWarns": "0"
   },
-  "Madison County": {
-    "FebLaborForce": "13.5K",
-    "CumClaims": "5.3K",
-    "PctFebLabor": "39.3%",
+  "Coffee County": {
+    "FebLaborForce": "19.3K",
+    "CumClaims": "6.53K",
+    "PctFebLabor": "33.8%",
+    "CurrentWarns": "0"
+  },
+  "Laurens County": {
+    "FebLaborForce": "19.1K",
+    "CumClaims": "8.14K",
+    "PctFebLabor": "42.5%",
+    "CurrentWarns": "1"
+  },
+  "Harris County": {
+    "FebLaborForce": "16.8K",
+    "CumClaims": "6.8K",
+    "PctFebLabor": "40.5%",
+    "CurrentWarns": "0"
+  },
+  "Crisp County": {
+    "FebLaborForce": "9.65K",
+    "CumClaims": "6.57K",
+    "PctFebLabor": "68.0%",
+    "CurrentWarns": "2"
+  },
+  "Cordele, GA": {
+    "FebLaborForce": "9.65K",
+    "CumClaims": "6.57K",
+    "PctFebLabor": "68.0%",
+    "CurrentWarns": "2"
+  },
+  "Walker County": {
+    "FebLaborForce": "32K",
+    "CumClaims": "10.6K",
+    "PctFebLabor": "33.3%",
+    "CurrentWarns": "0"
+  },
+  "Cedartown, GA": {
+    "FebLaborForce": "18.6K",
+    "CumClaims": "9.13K",
+    "PctFebLabor": "49.0%",
+    "CurrentWarns": "0"
+  },
+  "Polk County": {
+    "FebLaborForce": "18.6K",
+    "CumClaims": "9.13K",
+    "PctFebLabor": "49.0%",
     "CurrentWarns": "0"
   },
   "Vidalia, GA": {
     "FebLaborForce": "15.7K",
-    "CumClaims": "5.63K",
-    "PctFebLabor": "35.9%",
-    "CurrentWarns": "1"
-  },
-  "Catoosa County": {
-    "FebLaborForce": "34.2K",
-    "CumClaims": "6.51K",
-    "PctFebLabor": "19.0%",
-    "CurrentWarns": "0"
-  },
-  "Cornelia, GA": {
-    "FebLaborForce": "19.2K",
-    "CumClaims": "6.15K",
-    "PctFebLabor": "32.0%",
-    "CurrentWarns": "0"
-  },
-  "Habersham County": {
-    "FebLaborForce": "19.2K",
-    "CumClaims": "6.15K",
-    "PctFebLabor": "32.0%",
-    "CurrentWarns": "0"
-  },
-  "Dawson County": {
-    "FebLaborForce": "12.5K",
-    "CumClaims": "5.68K",
-    "PctFebLabor": "45.4%",
-    "CurrentWarns": "1"
-  },
-  "Peach County": {
-    "FebLaborForce": "12K",
-    "CumClaims": "4.6K",
-    "PctFebLabor": "38.2%",
-    "CurrentWarns": "2"
-  },
-  "Jesup, GA": {
-    "FebLaborForce": "11.4K",
-    "CumClaims": "3.9K",
-    "PctFebLabor": "34.2%",
-    "CurrentWarns": "0"
-  },
-  "Wayne County": {
-    "FebLaborForce": "11.4K",
-    "CumClaims": "3.9K",
-    "PctFebLabor": "34.2%",
-    "CurrentWarns": "0"
-  },
-  "Lumpkin County": {
-    "FebLaborForce": "16.9K",
-    "CumClaims": "5.74K",
-    "PctFebLabor": "33.9%",
-    "CurrentWarns": "1"
-  },
-  "Meriwether County": {
-    "FebLaborForce": "9.05K",
-    "CumClaims": "3.85K",
+    "CumClaims": "6.67K",
     "PctFebLabor": "42.5%",
-    "CurrentWarns": "0"
-  },
-  "Pickens County": {
-    "FebLaborForce": "15.5K",
-    "CumClaims": "5.31K",
-    "PctFebLabor": "34.2%",
-    "CurrentWarns": "0"
-  },
-  "Banks County": {
-    "FebLaborForce": "9.9K",
-    "CumClaims": "3.86K",
-    "PctFebLabor": "39.0%",
-    "CurrentWarns": "1"
-  },
-  "Americus, GA": {
-    "FebLaborForce": "15.3K",
-    "CumClaims": "3.72K",
-    "PctFebLabor": "24.3%",
-    "CurrentWarns": "2"
-  },
-  "Chattooga County": {
-    "FebLaborForce": "10.4K",
-    "CumClaims": "5.75K",
-    "PctFebLabor": "55.5%",
-    "CurrentWarns": "1"
-  },
-  "Summerville, GA": {
-    "FebLaborForce": "10.4K",
-    "CumClaims": "5.75K",
-    "PctFebLabor": "55.5%",
-    "CurrentWarns": "1"
-  },
-  "Gilmer County": {
-    "FebLaborForce": "11.9K",
-    "CumClaims": "4.75K",
-    "PctFebLabor": "40.0%",
-    "CurrentWarns": "1"
-  },
-  "Upson County": {
-    "FebLaborForce": "11.6K",
-    "CumClaims": "4.59K",
-    "PctFebLabor": "39.7%",
-    "CurrentWarns": "0"
-  },
-  "Thomaston, GA": {
-    "FebLaborForce": "11.6K",
-    "CumClaims": "4.59K",
-    "PctFebLabor": "39.7%",
-    "CurrentWarns": "0"
-  },
-  "Toombs County": {
-    "FebLaborForce": "11.8K",
-    "CumClaims": "4.14K",
-    "PctFebLabor": "35.0%",
     "CurrentWarns": "1"
   },
   "Ware County": {
     "FebLaborForce": "15.8K",
-    "CumClaims": "4.34K",
-    "PctFebLabor": "27.4%",
+    "CumClaims": "5.21K",
+    "PctFebLabor": "32.9%",
     "CurrentWarns": "1"
   },
-  "Screven County": {
-    "FebLaborForce": "5.11K",
-    "CumClaims": "2.61K",
-    "PctFebLabor": "51.0%",
+  "Colquitt County": {
+    "FebLaborForce": "22K",
+    "CumClaims": "6.93K",
+    "PctFebLabor": "31.5%",
     "CurrentWarns": "0"
   },
-  "Sumter County": {
-    "FebLaborForce": "13.1K",
-    "CumClaims": "3.36K",
-    "PctFebLabor": "25.7%",
+  "Moultrie, GA": {
+    "FebLaborForce": "22K",
+    "CumClaims": "6.93K",
+    "PctFebLabor": "31.5%",
+    "CurrentWarns": "0"
+  },
+  "Thomas County": {
+    "FebLaborForce": "16.6K",
+    "CumClaims": "6.93K",
+    "PctFebLabor": "41.8%",
+    "CurrentWarns": "0"
+  },
+  "Thomasville, GA": {
+    "FebLaborForce": "16.6K",
+    "CumClaims": "6.93K",
+    "PctFebLabor": "41.8%",
+    "CurrentWarns": "0"
+  },
+  "Thomaston, GA": {
+    "FebLaborForce": "11.6K",
+    "CumClaims": "5.68K",
+    "PctFebLabor": "49.1%",
+    "CurrentWarns": "0"
+  },
+  "Upson County": {
+    "FebLaborForce": "11.6K",
+    "CumClaims": "5.68K",
+    "PctFebLabor": "49.1%",
+    "CurrentWarns": "0"
+  },
+  "Pickens County": {
+    "FebLaborForce": "15.5K",
+    "CumClaims": "6.25K",
+    "PctFebLabor": "40.2%",
+    "CurrentWarns": "0"
+  },
+  "Catoosa County": {
+    "FebLaborForce": "34.2K",
+    "CumClaims": "7.62K",
+    "PctFebLabor": "22.3%",
+    "CurrentWarns": "0"
+  },
+  "Madison County": {
+    "FebLaborForce": "13.5K",
+    "CumClaims": "6.29K",
+    "PctFebLabor": "46.7%",
+    "CurrentWarns": "0"
+  },
+  "Chattooga County": {
+    "FebLaborForce": "10.4K",
+    "CumClaims": "7.26K",
+    "PctFebLabor": "70.0%",
+    "CurrentWarns": "1"
+  },
+  "Summerville, GA": {
+    "FebLaborForce": "10.4K",
+    "CumClaims": "7.26K",
+    "PctFebLabor": "70.0%",
+    "CurrentWarns": "1"
+  },
+  "St. Marys, GA": {
+    "FebLaborForce": "21K",
+    "CumClaims": "7.7K",
+    "PctFebLabor": "36.6%",
+    "CurrentWarns": "1"
+  },
+  "Camden County": {
+    "FebLaborForce": "21K",
+    "CumClaims": "7.7K",
+    "PctFebLabor": "36.6%",
+    "CurrentWarns": "1"
+  },
+  "Bainbridge, GA": {
+    "FebLaborForce": "11.9K",
+    "CumClaims": "4.2K",
+    "PctFebLabor": "35.3%",
+    "CurrentWarns": "0"
+  },
+  "Decatur County": {
+    "FebLaborForce": "11.9K",
+    "CumClaims": "4.2K",
+    "PctFebLabor": "35.3%",
+    "CurrentWarns": "0"
+  },
+  "Lumpkin County": {
+    "FebLaborForce": "16.9K",
+    "CumClaims": "6.81K",
+    "PctFebLabor": "40.3%",
+    "CurrentWarns": "1"
+  },
+  "Oconee County": {
+    "FebLaborForce": "19.8K",
+    "CumClaims": "7K",
+    "PctFebLabor": "35.4%",
+    "CurrentWarns": "1"
+  },
+  "Ben Hill County": {
+    "FebLaborForce": "5.36K",
+    "CumClaims": "6.97K",
+    "PctFebLabor": "130.1%",
+    "CurrentWarns": "0"
+  },
+  "Fitzgerald, GA": {
+    "FebLaborForce": "5.36K",
+    "CumClaims": "6.97K",
+    "PctFebLabor": "130.1%",
+    "CurrentWarns": "0"
+  },
+  "Habersham County": {
+    "FebLaborForce": "19.2K",
+    "CumClaims": "7.07K",
+    "PctFebLabor": "36.8%",
+    "CurrentWarns": "0"
+  },
+  "Cornelia, GA": {
+    "FebLaborForce": "19.2K",
+    "CumClaims": "7.07K",
+    "PctFebLabor": "36.8%",
+    "CurrentWarns": "0"
+  },
+  "Peach County": {
+    "FebLaborForce": "12K",
+    "CumClaims": "5.49K",
+    "PctFebLabor": "45.6%",
     "CurrentWarns": "2"
   },
-  "Toccoa, GA": {
-    "FebLaborForce": "10.7K",
-    "CumClaims": "4.34K",
-    "PctFebLabor": "40.5%",
+  "Wayne County": {
+    "FebLaborForce": "11.4K",
+    "CumClaims": "4.76K",
+    "PctFebLabor": "41.8%",
     "CurrentWarns": "0"
   },
-  "Stephens County": {
-    "FebLaborForce": "10.7K",
-    "CumClaims": "4.34K",
-    "PctFebLabor": "40.5%",
-    "CurrentWarns": "0"
-  },
-  "Dodge County": {
-    "FebLaborForce": "7.06K",
-    "CumClaims": "1.99K",
-    "PctFebLabor": "28.2%",
-    "CurrentWarns": "0"
-  },
-  "Butts County": {
-    "FebLaborForce": "10.9K",
-    "CumClaims": "4.95K",
-    "PctFebLabor": "45.3%",
-    "CurrentWarns": "0"
-  },
-  "White County": {
-    "FebLaborForce": "16.5K",
-    "CumClaims": "5.22K",
-    "PctFebLabor": "31.7%",
-    "CurrentWarns": "1"
-  },
-  "McDuffie County": {
-    "FebLaborForce": "8.97K",
-    "CumClaims": "3.33K",
-    "PctFebLabor": "37.1%",
-    "CurrentWarns": "1"
-  },
-  "Hart County": {
-    "FebLaborForce": "11.2K",
-    "CumClaims": "3.08K",
-    "PctFebLabor": "27.5%",
-    "CurrentWarns": "0"
-  },
-  "Elbert County": {
-    "FebLaborForce": "7.75K",
-    "CumClaims": "2.91K",
-    "PctFebLabor": "37.5%",
+  "Jesup, GA": {
+    "FebLaborForce": "11.4K",
+    "CumClaims": "4.76K",
+    "PctFebLabor": "41.8%",
     "CurrentWarns": "0"
   },
   "Haralson County": {
     "FebLaborForce": "12.8K",
-    "CumClaims": "5.64K",
-    "PctFebLabor": "44.1%",
+    "CumClaims": "6.46K",
+    "PctFebLabor": "50.6%",
+    "CurrentWarns": "0"
+  },
+  "Butts County": {
+    "FebLaborForce": "10.9K",
+    "CumClaims": "5.82K",
+    "PctFebLabor": "53.2%",
+    "CurrentWarns": "0"
+  },
+  "Franklin County": {
+    "FebLaborForce": "10.1K",
+    "CumClaims": "5.79K",
+    "PctFebLabor": "57.4%",
+    "CurrentWarns": "0"
+  },
+  "Meriwether County": {
+    "FebLaborForce": "9.05K",
+    "CumClaims": "4.78K",
+    "PctFebLabor": "52.8%",
+    "CurrentWarns": "0"
+  },
+  "Toombs County": {
+    "FebLaborForce": "11.8K",
+    "CumClaims": "4.84K",
+    "PctFebLabor": "40.9%",
+    "CurrentWarns": "1"
+  },
+  "Americus, GA": {
+    "FebLaborForce": "15.3K",
+    "CumClaims": "4.54K",
+    "PctFebLabor": "29.6%",
+    "CurrentWarns": "2"
+  },
+  "McDuffie County": {
+    "FebLaborForce": "8.97K",
+    "CumClaims": "4.12K",
+    "PctFebLabor": "46.0%",
+    "CurrentWarns": "1"
+  },
+  "Dawson County": {
+    "FebLaborForce": "12.5K",
+    "CumClaims": "6.59K",
+    "PctFebLabor": "52.7%",
+    "CurrentWarns": "1"
+  },
+  "Emanuel County": {
+    "FebLaborForce": "8.45K",
+    "CumClaims": "2.87K",
+    "PctFebLabor": "34.0%",
+    "CurrentWarns": "0"
+  },
+  "Sumter County": {
+    "FebLaborForce": "13.1K",
+    "CumClaims": "4.1K",
+    "PctFebLabor": "31.4%",
+    "CurrentWarns": "2"
+  },
+  "Gilmer County": {
+    "FebLaborForce": "11.9K",
+    "CumClaims": "5.5K",
+    "PctFebLabor": "46.3%",
+    "CurrentWarns": "1"
+  },
+  "Burke County": {
+    "FebLaborForce": "9.32K",
+    "CumClaims": "3.38K",
+    "PctFebLabor": "36.3%",
+    "CurrentWarns": "0"
+  },
+  "Banks County": {
+    "FebLaborForce": "9.9K",
+    "CumClaims": "4.56K",
+    "PctFebLabor": "46.1%",
+    "CurrentWarns": "1"
+  },
+  "Clinch County": {
+    "FebLaborForce": "2.64K",
+    "CumClaims": "3.96K",
+    "PctFebLabor": "149.8%",
     "CurrentWarns": "0"
   },
   "Fannin County": {
     "FebLaborForce": "11.5K",
-    "CumClaims": "4.36K",
-    "PctFebLabor": "37.8%",
-    "CurrentWarns": "0"
-  },
-  "Greene County": {
-    "FebLaborForce": "7K",
-    "CumClaims": "2.98K",
-    "PctFebLabor": "42.5%",
-    "CurrentWarns": "1"
-  },
-  "Decatur County": {
-    "FebLaborForce": "11.9K",
-    "CumClaims": "3.32K",
-    "PctFebLabor": "27.9%",
-    "CurrentWarns": "0"
-  },
-  "Bainbridge, GA": {
-    "FebLaborForce": "11.9K",
-    "CumClaims": "3.32K",
-    "PctFebLabor": "27.9%",
-    "CurrentWarns": "0"
-  },
-  "Putnam County": {
-    "FebLaborForce": "8.27K",
-    "CumClaims": "3.44K",
-    "PctFebLabor": "41.6%",
-    "CurrentWarns": "0"
-  },
-  "Monroe County": {
-    "FebLaborForce": "13.2K",
-    "CumClaims": "3.47K",
-    "PctFebLabor": "26.3%",
-    "CurrentWarns": "0"
-  },
-  "Pierce County": {
-    "FebLaborForce": "8.83K",
-    "CumClaims": "2.5K",
-    "PctFebLabor": "28.4%",
-    "CurrentWarns": "0"
-  },
-  "Clinch County": {
-    "FebLaborForce": "2.64K",
-    "CumClaims": "3.31K",
-    "PctFebLabor": "125.2%",
-    "CurrentWarns": "0"
-  },
-  "Jones County": {
-    "FebLaborForce": "13.9K",
-    "CumClaims": "3.08K",
-    "PctFebLabor": "22.2%",
-    "CurrentWarns": "0"
-  },
-  "Union County": {
-    "FebLaborForce": "10.4K",
-    "CumClaims": "3.42K",
-    "PctFebLabor": "32.9%",
-    "CurrentWarns": "0"
-  },
-  "Emanuel County": {
-    "FebLaborForce": "8.45K",
-    "CumClaims": "2.26K",
-    "PctFebLabor": "26.8%",
-    "CurrentWarns": "0"
-  },
-  "Morgan County": {
-    "FebLaborForce": "9.43K",
-    "CumClaims": "3.35K",
-    "PctFebLabor": "35.5%",
-    "CurrentWarns": "0"
-  },
-  "Berrien County": {
-    "FebLaborForce": "7.71K",
-    "CumClaims": "3.05K",
-    "PctFebLabor": "39.6%",
-    "CurrentWarns": "0"
-  },
-  "Brantley County": {
-    "FebLaborForce": "7.25K",
-    "CumClaims": "2.58K",
-    "PctFebLabor": "35.5%",
-    "CurrentWarns": "0"
-  },
-  "Long County": {
-    "FebLaborForce": "8.36K",
-    "CumClaims": "2.07K",
-    "PctFebLabor": "24.8%",
-    "CurrentWarns": "0"
-  },
-  "Pike County": {
-    "FebLaborForce": "9.05K",
-    "CumClaims": "2.85K",
-    "PctFebLabor": "31.5%",
-    "CurrentWarns": "1"
-  },
-  "Washington County": {
-    "FebLaborForce": "7.07K",
-    "CumClaims": "1.76K",
-    "PctFebLabor": "24.9%",
-    "CurrentWarns": "0"
-  },
-  "Lamar County": {
-    "FebLaborForce": "8.41K",
-    "CumClaims": "2.68K",
-    "PctFebLabor": "31.8%",
-    "CurrentWarns": "0"
-  },
-  "Brooks County": {
-    "FebLaborForce": "7.13K",
-    "CumClaims": "1.65K",
-    "PctFebLabor": "23.2%",
-    "CurrentWarns": "0"
-  },
-  "Burke County": {
-    "FebLaborForce": "9.32K",
-    "CumClaims": "2.74K",
-    "PctFebLabor": "29.4%",
+    "CumClaims": "5.08K",
+    "PctFebLabor": "44.1%",
     "CurrentWarns": "0"
   },
   "Cook County": {
     "FebLaborForce": "8.22K",
-    "CumClaims": "2.45K",
-    "PctFebLabor": "29.8%",
+    "CumClaims": "3.03K",
+    "PctFebLabor": "36.8%",
     "CurrentWarns": "0"
   },
-  "Macon County": {
-    "FebLaborForce": "4.84K",
-    "CumClaims": "1.66K",
-    "PctFebLabor": "34.4%",
+  "White County": {
+    "FebLaborForce": "16.5K",
+    "CumClaims": "5.98K",
+    "PctFebLabor": "36.3%",
+    "CurrentWarns": "1"
+  },
+  "Monroe County": {
+    "FebLaborForce": "13.2K",
+    "CumClaims": "4.06K",
+    "PctFebLabor": "30.8%",
     "CurrentWarns": "0"
   },
-  "Mitchell County": {
-    "FebLaborForce": "8.79K",
-    "CumClaims": "1.81K",
-    "PctFebLabor": "20.6%",
+  "Jones County": {
+    "FebLaborForce": "13.9K",
+    "CumClaims": "3.58K",
+    "PctFebLabor": "25.8%",
     "CurrentWarns": "0"
+  },
+  "Brooks County": {
+    "FebLaborForce": "7.13K",
+    "CumClaims": "2.16K",
+    "PctFebLabor": "30.3%",
+    "CurrentWarns": "0"
+  },
+  "Elbert County": {
+    "FebLaborForce": "7.75K",
+    "CumClaims": "3.6K",
+    "PctFebLabor": "46.4%",
+    "CurrentWarns": "0"
+  },
+  "Pike County": {
+    "FebLaborForce": "9.05K",
+    "CumClaims": "3.39K",
+    "PctFebLabor": "37.5%",
+    "CurrentWarns": "1"
+  },
+  "Putnam County": {
+    "FebLaborForce": "8.27K",
+    "CumClaims": "4.08K",
+    "PctFebLabor": "49.3%",
+    "CurrentWarns": "1"
+  },
+  "Lamar County": {
+    "FebLaborForce": "8.41K",
+    "CumClaims": "3.23K",
+    "PctFebLabor": "38.3%",
+    "CurrentWarns": "0"
+  },
+  "Toccoa, GA": {
+    "FebLaborForce": "10.7K",
+    "CumClaims": "5.16K",
+    "PctFebLabor": "48.2%",
+    "CurrentWarns": "0"
+  },
+  "Stephens County": {
+    "FebLaborForce": "10.7K",
+    "CumClaims": "5.16K",
+    "PctFebLabor": "48.2%",
+    "CurrentWarns": "0"
+  },
+  "Berrien County": {
+    "FebLaborForce": "7.71K",
+    "CumClaims": "3.58K",
+    "PctFebLabor": "46.5%",
+    "CurrentWarns": "0"
+  },
+  "Pierce County": {
+    "FebLaborForce": "8.83K",
+    "CumClaims": "3.02K",
+    "PctFebLabor": "34.2%",
+    "CurrentWarns": "0"
+  },
+  "Screven County": {
+    "FebLaborForce": "5.11K",
+    "CumClaims": "3.14K",
+    "PctFebLabor": "61.5%",
+    "CurrentWarns": "0"
+  },
+  "Hart County": {
+    "FebLaborForce": "11.2K",
+    "CumClaims": "3.6K",
+    "PctFebLabor": "32.2%",
+    "CurrentWarns": "0"
+  },
+  "Long County": {
+    "FebLaborForce": "8.36K",
+    "CumClaims": "2.56K",
+    "PctFebLabor": "30.6%",
+    "CurrentWarns": "0"
+  },
+  "Brantley County": {
+    "FebLaborForce": "7.25K",
+    "CumClaims": "3.06K",
+    "PctFebLabor": "42.2%",
+    "CurrentWarns": "0"
+  },
+  "Union County": {
+    "FebLaborForce": "10.4K",
+    "CumClaims": "3.89K",
+    "PctFebLabor": "37.4%",
+    "CurrentWarns": "0"
+  },
+  "Dodge County": {
+    "FebLaborForce": "7.06K",
+    "CumClaims": "2.42K",
+    "PctFebLabor": "34.3%",
+    "CurrentWarns": "1"
+  },
+  "Jefferson County": {
+    "FebLaborForce": "6.76K",
+    "CumClaims": "2.37K",
+    "PctFebLabor": "35.0%",
+    "CurrentWarns": "1"
+  },
+  "Greene County": {
+    "FebLaborForce": "7K",
+    "CumClaims": "3.49K",
+    "PctFebLabor": "49.8%",
+    "CurrentWarns": "2"
   },
   "Worth County": {
     "FebLaborForce": "9.09K",
-    "CumClaims": "2.08K",
-    "PctFebLabor": "22.9%",
-    "CurrentWarns": "0"
-  },
-  "Oglethorpe County": {
-    "FebLaborForce": "7.08K",
-    "CumClaims": "1.86K",
-    "PctFebLabor": "26.3%",
-    "CurrentWarns": "0"
-  },
-  "Dade County": {
-    "FebLaborForce": "8.34K",
-    "CumClaims": "1.64K",
-    "PctFebLabor": "19.7%",
-    "CurrentWarns": "0"
-  },
-  "Grady County": {
-    "FebLaborForce": "10.6K",
-    "CumClaims": "2.31K",
-    "PctFebLabor": "21.8%",
+    "CumClaims": "2.5K",
+    "PctFebLabor": "27.5%",
     "CurrentWarns": "0"
   },
   "Tattnall County": {
     "FebLaborForce": "9.81K",
-    "CumClaims": "1.71K",
-    "PctFebLabor": "17.5%",
+    "CumClaims": "2.04K",
+    "PctFebLabor": "20.8%",
     "CurrentWarns": "0"
   },
-  "Candler County": {
-    "FebLaborForce": "5.72K",
-    "CumClaims": "1.52K",
-    "PctFebLabor": "26.7%",
+  "Mitchell County": {
+    "FebLaborForce": "8.79K",
+    "CumClaims": "2.2K",
+    "PctFebLabor": "25.1%",
     "CurrentWarns": "0"
   },
-  "Jeff Davis County": {
-    "FebLaborForce": "6.14K",
-    "CumClaims": "1.75K",
-    "PctFebLabor": "28.5%",
+  "Morgan County": {
+    "FebLaborForce": "9.43K",
+    "CumClaims": "3.91K",
+    "PctFebLabor": "41.5%",
     "CurrentWarns": "0"
   },
-  "Jefferson County": {
-    "FebLaborForce": "6.76K",
-    "CumClaims": "1.92K",
-    "PctFebLabor": "28.3%",
-    "CurrentWarns": "1"
+  "Washington County": {
+    "FebLaborForce": "7.07K",
+    "CumClaims": "2.26K",
+    "PctFebLabor": "32.0%",
+    "CurrentWarns": "0"
   },
   "Jasper County": {
     "FebLaborForce": "7.06K",
-    "CumClaims": "2.05K",
-    "PctFebLabor": "29.0%",
+    "CumClaims": "2.38K",
+    "PctFebLabor": "33.7%",
     "CurrentWarns": "0"
   },
-  "Bacon County": {
-    "FebLaborForce": "5.06K",
-    "CumClaims": "1.55K",
-    "PctFebLabor": "30.6%",
-    "CurrentWarns": "0"
-  },
-  "Appling County": {
-    "FebLaborForce": "9.9K",
-    "CumClaims": "2.22K",
-    "PctFebLabor": "22.4%",
-    "CurrentWarns": "0"
-  },
-  "Rabun County": {
-    "FebLaborForce": "6.95K",
-    "CumClaims": "2.58K",
-    "PctFebLabor": "37.2%",
-    "CurrentWarns": "0"
-  },
-  "Heard County": {
-    "FebLaborForce": "5.36K",
-    "CumClaims": "1.87K",
-    "PctFebLabor": "34.8%",
-    "CurrentWarns": "0"
-  },
-  "Evans County": {
-    "FebLaborForce": "4.98K",
-    "CumClaims": "1.29K",
-    "PctFebLabor": "25.8%",
-    "CurrentWarns": "0"
-  },
-  "Montgomery County": {
-    "FebLaborForce": "3.86K",
-    "CumClaims": "1.49K",
-    "PctFebLabor": "38.6%",
-    "CurrentWarns": "0"
-  },
-  "Dooly County": {
-    "FebLaborForce": "5.19K",
-    "CumClaims": "1.14K",
-    "PctFebLabor": "21.9%",
+  "Grady County": {
+    "FebLaborForce": "10.6K",
+    "CumClaims": "2.71K",
+    "PctFebLabor": "25.5%",
     "CurrentWarns": "0"
   },
   "Calhoun County": {
     "FebLaborForce": "2.38K",
-    "CumClaims": "1.65K",
-    "PctFebLabor": "69.4%",
+    "CumClaims": "2.03K",
+    "PctFebLabor": "85.1%",
     "CurrentWarns": "0"
   },
-  "Crawford County": {
-    "FebLaborForce": "5.69K",
-    "CumClaims": "1.57K",
-    "PctFebLabor": "27.7%",
-    "CurrentWarns": "1"
-  },
-  "Charlton County": {
-    "FebLaborForce": "4.89K",
-    "CumClaims": "1.13K",
-    "PctFebLabor": "23.0%",
+  "Heard County": {
+    "FebLaborForce": "5.36K",
+    "CumClaims": "2.27K",
+    "PctFebLabor": "42.4%",
     "CurrentWarns": "0"
   },
-  "Hancock County": {
-    "FebLaborForce": "2.55K",
-    "CumClaims": "985",
-    "PctFebLabor": "38.6%",
-    "CurrentWarns": "0"
-  },
-  "Bleckley County": {
-    "FebLaborForce": "4.58K",
-    "CumClaims": "1.2K",
-    "PctFebLabor": "26.1%",
-    "CurrentWarns": "0"
-  },
-  "Johnson County": {
-    "FebLaborForce": "4.06K",
-    "CumClaims": "817",
-    "PctFebLabor": "20.1%",
+  "Bacon County": {
+    "FebLaborForce": "5.06K",
+    "CumClaims": "1.9K",
+    "PctFebLabor": "37.5%",
     "CurrentWarns": "0"
   },
   "McIntosh County": {
     "FebLaborForce": "6.21K",
-    "CumClaims": "1.97K",
-    "PctFebLabor": "31.7%",
+    "CumClaims": "2.34K",
+    "PctFebLabor": "37.7%",
     "CurrentWarns": "0"
   },
-  "Towns County": {
-    "FebLaborForce": "3.87K",
-    "CumClaims": "1.66K",
-    "PctFebLabor": "42.9%",
+  "Macon County": {
+    "FebLaborForce": "4.84K",
+    "CumClaims": "2.02K",
+    "PctFebLabor": "41.7%",
+    "CurrentWarns": "0"
+  },
+  "Montgomery County": {
+    "FebLaborForce": "3.86K",
+    "CumClaims": "1.83K",
+    "PctFebLabor": "47.5%",
+    "CurrentWarns": "0"
+  },
+  "Candler County": {
+    "FebLaborForce": "5.72K",
+    "CumClaims": "1.79K",
+    "PctFebLabor": "31.3%",
+    "CurrentWarns": "0"
+  },
+  "Appling County": {
+    "FebLaborForce": "9.9K",
+    "CumClaims": "2.6K",
+    "PctFebLabor": "26.3%",
     "CurrentWarns": "1"
   },
-  "Wilkes County": {
-    "FebLaborForce": "3.89K",
-    "CumClaims": "865",
-    "PctFebLabor": "22.2%",
+  "Rabun County": {
+    "FebLaborForce": "6.95K",
+    "CumClaims": "2.93K",
+    "PctFebLabor": "42.2%",
+    "CurrentWarns": "0"
+  },
+  "Dade County": {
+    "FebLaborForce": "8.34K",
+    "CumClaims": "2.04K",
+    "PctFebLabor": "24.4%",
     "CurrentWarns": "0"
   },
   "Early County": {
     "FebLaborForce": "4.55K",
-    "CumClaims": "910",
-    "PctFebLabor": "20.0%",
+    "CumClaims": "1.2K",
+    "PctFebLabor": "26.5%",
     "CurrentWarns": "0"
   },
-  "Jenkins County": {
-    "FebLaborForce": "3.13K",
-    "CumClaims": "895",
-    "PctFebLabor": "28.6%",
+  "Oglethorpe County": {
+    "FebLaborForce": "7.08K",
+    "CumClaims": "2.14K",
+    "PctFebLabor": "30.3%",
     "CurrentWarns": "0"
   },
-  "Lincoln County": {
-    "FebLaborForce": "3.64K",
-    "CumClaims": "932",
-    "PctFebLabor": "25.6%",
-    "CurrentWarns": "0"
-  },
-  "Twiggs County": {
-    "FebLaborForce": "2.93K",
-    "CumClaims": "786",
-    "PctFebLabor": "26.8%",
+  "Evans County": {
+    "FebLaborForce": "4.98K",
+    "CumClaims": "1.54K",
+    "PctFebLabor": "31.0%",
     "CurrentWarns": "0"
   },
   "Chattahoochee County": {
     "FebLaborForce": "2.02K",
-    "CumClaims": "974",
-    "PctFebLabor": "48.1%",
+    "CumClaims": "1.22K",
+    "PctFebLabor": "60.3%",
     "CurrentWarns": "1"
+  },
+  "Crawford County": {
+    "FebLaborForce": "5.69K",
+    "CumClaims": "1.88K",
+    "PctFebLabor": "33.0%",
+    "CurrentWarns": "1"
+  },
+  "Jeff Davis County": {
+    "FebLaborForce": "6.14K",
+    "CumClaims": "2.06K",
+    "PctFebLabor": "33.7%",
+    "CurrentWarns": "0"
   },
   "Terrell County": {
     "FebLaborForce": "3.55K",
-    "CumClaims": "981",
-    "PctFebLabor": "27.7%",
+    "CumClaims": "1.2K",
+    "PctFebLabor": "33.7%",
     "CurrentWarns": "0"
   },
-  "Wilkinson County": {
-    "FebLaborForce": "4.05K",
-    "CumClaims": "981",
-    "PctFebLabor": "24.2%",
+  "Dooly County": {
+    "FebLaborForce": "5.19K",
+    "CumClaims": "1.39K",
+    "PctFebLabor": "26.7%",
     "CurrentWarns": "0"
-  },
-  "Telfair County": {
-    "FebLaborForce": "4.2K",
-    "CumClaims": "836",
-    "PctFebLabor": "19.9%",
-    "CurrentWarns": "1"
   },
   "Turner County": {
     "FebLaborForce": "3.23K",
-    "CumClaims": "1.07K",
-    "PctFebLabor": "33.0%",
+    "CumClaims": "1.28K",
+    "PctFebLabor": "39.5%",
     "CurrentWarns": "0"
   },
-  "Warren County": {
-    "FebLaborForce": "2.9K",
-    "CumClaims": "808",
-    "PctFebLabor": "27.8%",
-    "CurrentWarns": "0"
-  },
-  "Lanier County": {
-    "FebLaborForce": "3.8K",
-    "CumClaims": "825",
-    "PctFebLabor": "21.7%",
-    "CurrentWarns": "0"
-  },
-  "Randolph County": {
-    "FebLaborForce": "2.62K",
-    "CumClaims": "1.24K",
-    "PctFebLabor": "47.6%",
-    "CurrentWarns": "0"
-  },
-  "Pulaski County": {
-    "FebLaborForce": "4.14K",
-    "CumClaims": "863",
-    "PctFebLabor": "20.8%",
+  "Jenkins County": {
+    "FebLaborForce": "3.13K",
+    "CumClaims": "1.08K",
+    "PctFebLabor": "34.5%",
     "CurrentWarns": "0"
   },
   "Talbot County": {
     "FebLaborForce": "2.83K",
-    "CumClaims": "709",
-    "PctFebLabor": "25.1%",
+    "CumClaims": "916",
+    "PctFebLabor": "32.4%",
     "CurrentWarns": "0"
   },
-  "Seminole County": {
-    "FebLaborForce": "3.12K",
-    "CumClaims": "744",
-    "PctFebLabor": "23.8%",
+  "Charlton County": {
+    "FebLaborForce": "4.89K",
+    "CumClaims": "1.4K",
+    "PctFebLabor": "28.6%",
+    "CurrentWarns": "0"
+  },
+  "Telfair County": {
+    "FebLaborForce": "4.2K",
+    "CumClaims": "1.02K",
+    "PctFebLabor": "24.3%",
+    "CurrentWarns": "1"
+  },
+  "Johnson County": {
+    "FebLaborForce": "4.06K",
+    "CumClaims": "1.01K",
+    "PctFebLabor": "24.8%",
+    "CurrentWarns": "0"
+  },
+  "Hancock County": {
+    "FebLaborForce": "2.55K",
+    "CumClaims": "1.2K",
+    "PctFebLabor": "47.0%",
+    "CurrentWarns": "0"
+  },
+  "Bleckley County": {
+    "FebLaborForce": "4.58K",
+    "CumClaims": "1.44K",
+    "PctFebLabor": "31.4%",
+    "CurrentWarns": "0"
+  },
+  "Lincoln County": {
+    "FebLaborForce": "3.64K",
+    "CumClaims": "1.14K",
+    "PctFebLabor": "31.3%",
+    "CurrentWarns": "0"
+  },
+  "Marion County": {
+    "FebLaborForce": "3.34K",
+    "CumClaims": "1.02K",
+    "PctFebLabor": "30.5%",
+    "CurrentWarns": "0"
+  },
+  "Wilkes County": {
+    "FebLaborForce": "3.89K",
+    "CumClaims": "1.09K",
+    "PctFebLabor": "27.9%",
+    "CurrentWarns": "0"
+  },
+  "Lanier County": {
+    "FebLaborForce": "3.8K",
+    "CumClaims": "1.01K",
+    "PctFebLabor": "26.7%",
+    "CurrentWarns": "0"
+  },
+  "Towns County": {
+    "FebLaborForce": "3.87K",
+    "CumClaims": "1.87K",
+    "PctFebLabor": "48.5%",
+    "CurrentWarns": "1"
+  },
+  "Taylor County": {
+    "FebLaborForce": "3.26K",
+    "CumClaims": "986",
+    "PctFebLabor": "30.3%",
+    "CurrentWarns": "0"
+  },
+  "Twiggs County": {
+    "FebLaborForce": "2.93K",
+    "CumClaims": "930",
+    "PctFebLabor": "31.7%",
+    "CurrentWarns": "0"
+  },
+  "Randolph County": {
+    "FebLaborForce": "2.62K",
+    "CumClaims": "1.42K",
+    "PctFebLabor": "54.1%",
+    "CurrentWarns": "0"
+  },
+  "Wilkinson County": {
+    "FebLaborForce": "4.05K",
+    "CumClaims": "1.19K",
+    "PctFebLabor": "29.5%",
+    "CurrentWarns": "0"
+  },
+  "Warren County": {
+    "FebLaborForce": "2.9K",
+    "CumClaims": "980",
+    "PctFebLabor": "33.8%",
     "CurrentWarns": "0"
   },
   "Treutlen County": {
     "FebLaborForce": "2.68K",
-    "CumClaims": "661",
-    "PctFebLabor": "24.7%",
+    "CumClaims": "802",
+    "PctFebLabor": "29.9%",
     "CurrentWarns": "0"
   },
   "Clay County": {
     "FebLaborForce": "910",
-    "CumClaims": "801",
-    "PctFebLabor": "88.0%",
+    "CumClaims": "954",
+    "PctFebLabor": "104.8%",
     "CurrentWarns": "1"
   },
-  "Marion County": {
-    "FebLaborForce": "3.34K",
-    "CumClaims": "836",
-    "PctFebLabor": "25.0%",
+  "Seminole County": {
+    "FebLaborForce": "3.12K",
+    "CumClaims": "899",
+    "PctFebLabor": "28.8%",
     "CurrentWarns": "0"
   },
-  "Taylor County": {
-    "FebLaborForce": "3.26K",
-    "CumClaims": "813",
-    "PctFebLabor": "25.0%",
-    "CurrentWarns": "0"
-  },
-  "Irwin County": {
-    "FebLaborForce": "3.45K",
-    "CumClaims": "781",
-    "PctFebLabor": "22.6%",
-    "CurrentWarns": "0"
-  },
-  "Wilcox County": {
-    "FebLaborForce": "2.75K",
-    "CumClaims": "494",
-    "PctFebLabor": "17.9%",
-    "CurrentWarns": "0"
-  },
-  "Echols County": {
-    "FebLaborForce": "2K",
-    "CumClaims": "475",
-    "PctFebLabor": "23.8%",
+  "Pulaski County": {
+    "FebLaborForce": "4.14K",
+    "CumClaims": "1.01K",
+    "PctFebLabor": "24.3%",
     "CurrentWarns": "0"
   },
   "Glascock County": {
     "FebLaborForce": "1.31K",
-    "CumClaims": "396",
-    "PctFebLabor": "30.3%",
+    "CumClaims": "515",
+    "PctFebLabor": "39.4%",
     "CurrentWarns": "0"
   },
-  "Schley County": {
-    "FebLaborForce": "2.25K",
-    "CumClaims": "359",
-    "PctFebLabor": "15.9%",
+  "Irwin County": {
+    "FebLaborForce": "3.45K",
+    "CumClaims": "929",
+    "PctFebLabor": "26.9%",
+    "CurrentWarns": "0"
+  },
+  "Echols County": {
+    "FebLaborForce": "2K",
+    "CumClaims": "592",
+    "PctFebLabor": "29.6%",
+    "CurrentWarns": "0"
+  },
+  "Wilcox County": {
+    "FebLaborForce": "2.75K",
+    "CumClaims": "581",
+    "PctFebLabor": "21.1%",
     "CurrentWarns": "0"
   },
   "Stewart County": {
     "FebLaborForce": "2.46K",
-    "CumClaims": "387",
-    "PctFebLabor": "15.8%",
+    "CumClaims": "490",
+    "PctFebLabor": "19.9%",
     "CurrentWarns": "0"
   },
   "Wheeler County": {
     "FebLaborForce": "1.66K",
-    "CumClaims": "412",
-    "PctFebLabor": "24.7%",
+    "CumClaims": "508",
+    "PctFebLabor": "30.5%",
     "CurrentWarns": "0"
   },
   "Miller County": {
     "FebLaborForce": "2.85K",
-    "CumClaims": "512",
-    "PctFebLabor": "18.0%",
+    "CumClaims": "632",
+    "PctFebLabor": "22.2%",
     "CurrentWarns": "0"
   },
   "Baker County": {
     "FebLaborForce": "1.23K",
-    "CumClaims": "460",
-    "PctFebLabor": "37.4%",
+    "CumClaims": "536",
+    "PctFebLabor": "43.6%",
     "CurrentWarns": "0"
   },
-  "Taliaferro County": {
-    "FebLaborForce": "581",
-    "CumClaims": "185",
-    "PctFebLabor": "31.8%",
+  "Schley County": {
+    "FebLaborForce": "2.25K",
+    "CumClaims": "437",
+    "PctFebLabor": "19.4%",
     "CurrentWarns": "0"
   },
   "Webster County": {
     "FebLaborForce": "1.04K",
-    "CumClaims": "150",
-    "PctFebLabor": "14.4%",
+    "CumClaims": "188",
+    "PctFebLabor": "18.0%",
+    "CurrentWarns": "0"
+  },
+  "Taliaferro County": {
+    "FebLaborForce": "581",
+    "CumClaims": "212",
+    "PctFebLabor": "36.5%",
     "CurrentWarns": "0"
   },
   "Eufaula, AL-GA": {
     "FebLaborForce": "797",
-    "CumClaims": "73",
-    "PctFebLabor": "9.2%",
+    "CumClaims": "92",
+    "PctFebLabor": "11.5%",
     "CurrentWarns": "0"
   },
   "Quitman County": {
     "FebLaborForce": "797",
-    "CumClaims": "73",
-    "PctFebLabor": "9.2%",
+    "CumClaims": "92",
+    "PctFebLabor": "11.5%",
     "CurrentWarns": "0"
   }
 }

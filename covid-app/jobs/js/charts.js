@@ -45,7 +45,7 @@ let barsIndustry;
 let warnData;
 
 // get data and build first bar chart
-d3.csv('https://raw.githubusercontent.com/mmainzer/covid-recovery/master/application/app-data/uiClaims.csv', d3.autoType)
+d3.csv('https://raw.githubusercontent.com/mmainzer/covid-recovery/data/app-data/uiClaims.csv', d3.autoType)
 	.then(function(data) {
 		
 		claimData = data;
@@ -133,7 +133,7 @@ d3.csv('https://raw.githubusercontent.com/mmainzer/covid-recovery/master/applica
 });
 
 // for industry bar chart
-d3.csv('https://raw.githubusercontent.com/mmainzer/covid-recovery/master/application/app-data/industryClaims.csv', d3.autoType)
+d3.csv('https://raw.githubusercontent.com/mmainzer/covid-recovery/data/app-data/industryClaims.csv', d3.autoType)
 	.then(function(data) {
 		industryData = data;
 		// list of areas to filter by
@@ -218,7 +218,7 @@ d3.csv('https://raw.githubusercontent.com/mmainzer/covid-recovery/master/applica
 
 });
 
-d3.csv('https://raw.githubusercontent.com/mmainzer/covid-recovery/master/application/app-data/warns.csv', d3.autoType)
+d3.csv('https://raw.githubusercontent.com/mmainzer/covid-recovery/data/app-data/warns.csv', d3.autoType)
 	.then(function(data){
 		
 		warnData = data;
